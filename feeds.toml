@@ -1,9 +1,9 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[NankaiMathUndergradNews]
+title = "南开大学数学学院消息-本科生"
+url = "https://math.nankai.edu.cn/"
+entrySelector = "#container-2 .news_list li.news div.news_box.clearfix"
+titleSelector = ".news_box_title a" 
+linkSelector = ".news_box_title a"
 
 [wikivoyage]
 title = "Wikivoyage recommendations"
