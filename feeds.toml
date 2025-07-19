@@ -1,7 +1,7 @@
 [NankaiMathUndergradNews]
 title = "南开大学数学学院消息-本科生"
 url = "https://math.nankai.edu.cn/"
-entrySelector = "#container-2 .news_list li.news div.news_box.clearfix"
+entrySelector = "body > div#container-2.wrapper.main2.showdiv:nth-child(5) > div.inner > div.mod.mod2.clearfix:nth-child(2) > div.ml:nth-child(1) > div.post.post2.post-23.mbox > div.con.news_tu"
 titleSelector = ".news_title a:nth-of-type(2)"
 linkSelector = ".news_title a:nth-of-type(1)"
 
