@@ -18,3 +18,10 @@ url = "http://www.nim.nankai.edu.cn/xsbg/list.htm"
 entrySelector = ".col_news_list .wp_article_list .list_item"
 titleSelector = ".fields.pr_fields span:nth-of-type(2)"
 linkSelector = ".fields.pr_fields span:nth-of-type(2)"
+
+[ChernInstituteAcademicConferences]
+title = "陈省身数学研究所 学术会议"
+url = "http://www.nim.nankai.edu.cn/xshy/list.htm"
+entrySelector = ".col_news_list .wp_article_list .list_item"
+titleSelector = ".Article_Title a"
+linkSelector = ".Article_Title a"
