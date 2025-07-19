@@ -2,7 +2,7 @@
 title = "南开大学数学学院本科生教育消息"
 url = "https://math.nankai.edu.cn/"
 entrySelector = "#container-2 .mod2 .ml .post-23 .news_list li.news"
-titleSelector = ".news_title a"
+titleSelector = ".news_title a:nth-of-type(2)"
 linkSelector = ".news_title a"
 
 [NankaiJWCNotices]
