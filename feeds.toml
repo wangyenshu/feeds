@@ -1,9 +1,9 @@
 [NankaiMathSchoolNews]
 title = "南开大学数学学院消息"
 url = "https://math.nankai.edu.cn/"
-entrySelector = "#container-2 .news_list li.news div.news_box.clearfix"
-titleSelector = ".news_title a:nth-of-type(2)"
-linkSelector = ".news_title a:nth-of-type(1)"
+entrySelector = "body > div#container-2.wrapper.main2.showdiv:nth-child(5) > div.inner > div.mod.mod2.clearfix:nth-child(2) > div.ml:nth-child(1) > div.post.post2.post-23.mbox"
+titleSelector = "body > div#container-2.wrapper.main2.showdiv:nth-child(5) > div.inner > div.mod.mod2.clearfix:nth-child(2) > div.ml:nth-child(1) > div.post.post2.post-23.mbox > div.con.news_tu:nth-child(2) > ul.news_list.clearfix > li.news > div.news_box.clearfix > div.news_wz:nth-child(2) > div.news_con > div.news_title > a"
+linkSelector = ""
 
 [NankaiJWCNotices]
 title = "南开大学教务处通知"
