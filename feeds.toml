@@ -54,6 +54,13 @@ entrySelector = "td.Agenda-date, td.Agenda-sujet"
 titleSelector = "a"
 linkSelector = "a"
 
+[IHESConferences]
+title = "IHES Seminars"
+url = "https://www.ihes.fr/en/events/#conferences"
+entrySelector = "td.Agenda-date, td.Agenda-sujet"
+titleSelector = "a"
+linkSelector = "a"
+
 [SWCAWS]
 title = "The Southwest Center for Arithmetic Geometry Arizona Winter Schools"
 url = "https://swc-math.github.io/aws/"
