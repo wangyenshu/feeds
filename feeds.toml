@@ -53,3 +53,10 @@ url = "https://www.ihes.fr/en/events/#seminars"
 entrySelector = "td.Agenda-date, td.Agenda-sujet"
 titleSelector = "a"
 linkSelector = "a"
+
+[SWCAWS]
+title = "The Southwest Center for Arithmetic Geometry Arizona Winter Schools"
+url = "https://swc-math.github.io/aws/"
+entrySelector = "li"
+titleSelector = "a"
+linkSelector = "a"
