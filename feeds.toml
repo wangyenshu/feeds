@@ -46,3 +46,10 @@ url = "https://mathinstitutes.org/events"
 entrySelector = "div[class*='card']"
 titleSelector = "a"
 linkSelector = "a"
+
+[IHESSeminars]
+title = "IHES Seminars"
+url = "https://www.ihes.fr/en/events/#seminars"
+entrySelector = "td.Agenda-date, td.Agenda-sujet"
+titleSelector = "a"
+linkSelector = "a"
