@@ -25,3 +25,12 @@ url = "http://www.nim.nankai.edu.cn/xshy/list.htm"
 entrySelector = ".col_news_list .wp_article_list .list_item"
 titleSelector = ".Article_Title a"
 linkSelector = ".Article_Title a"
+
+[ClayMathEvent]
+title = "Clay Mathematics Institute Events"
+url = "https://www.claymath.org/events/"
+entrySelector = "a.tile"
+titleSelector = "h3"
+linkSelector = "div[class*='tile-link']"
+dateSelector = "span"
+dateFormat = "d - j F Y"
