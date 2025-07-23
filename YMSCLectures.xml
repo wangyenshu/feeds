@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ymsc.tsinghua.edu.cn/en/</id>
+    <title>YMSC Lectures</title>
+    <updated>2025-07-23T03:03:36.712Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Toward a Mathematical Theory of Deep Learning: Lessons from Personal Research]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3390.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3390.htm"/>
+        <updated>2025-07-23T03:03:31.963Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jul 07</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3390.htm" class="right text">
+        <div class="t-1">Toward a Mathematical Theory of Deep Learning: Lessons from Personal Research</div>
+        <div class="t-2">Abstract: A century ago, breakthroughs like relativity and quantum mechanics emerged from or developed alongside rigorous mathematical theories. Today's AI revolution presents a stark contrast: progress remains predominantly empirical while mathematical theory lags significantly behind. In this talk, I will share perspectives on current efforts to establish theoretical foundations for deep lear...</div>
+        <div class="t-3">Speaker：Weijie Su 苏炜杰 University of Pennsylvania</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Stochastic Variational Inequalities and Their Applications in AI]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3335.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3335.htm"/>
+        <updated>2025-07-23T03:03:31.966Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 30</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3335.htm" class="right text">
+        <div class="t-1">Dynamic Stochastic Variational Inequalities and Their Applications in AI</div>
+        <div class="t-2">Abstract:The dynamic stochastic variational inequality (DSVI) is an ordinary differential equation whose right-hand side is defined by the two-stage stochastic variational inequality (SVI). The DSVI provides a unified modelling framework for various applications in which dynamics, uncertainties and equilibrium are present. We show the existence and uniqueness of a solution for two classes of th...</div>
+        <div class="t-3">Speaker：Xiaojun Chen (The Hong Kong Polytechnic University)</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectrum of Quasi-periodic Schrodinger operator]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3334.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3334.htm"/>
+        <updated>2025-07-23T03:03:31.969Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 16</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3334.htm" class="right text">
+        <div class="t-1">Spectrum of&nbsp;Quasi-periodic Schrodinger operator</div>
+        <div class="t-2">ABSTRACT: Quasi-periodic Schrödinger operators possess a rich background in quantum physics. From a mathematical perspective, they are deeply connected to diverse fields such as dynamical systems, fractal geometry, harmonic analysis, and number theory. In this talk, I will survey recent advancements in the study of the spectral properties of quasi-periodic Schrödinger operators, with a particul...</div>
+        <div class="t-3">Speaker：Qi Zhou (Nankai University)</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moment maps in complex geometry]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3302.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3302.htm"/>
+        <updated>2025-07-23T03:03:31.972Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 09</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3302.htm" class="right text">
+        <div class="t-1">Moment maps in complex geometry</div>
+        <div class="t-2">Abstract: A major theme of modern complex geometry is the relationship between solvability of geometric PDEs and algebraic stability conditions. The classic example is the Donaldson-Uhlenbeck-Yau theorem, relating the existence of Hermite-Einstein metrics (a special metric on a vector bundle) to the algebraic notion of slope stability. More recently, new PDEs in various geometric settings have ...</div>
+        <div class="t-3">Speaker：Ruadhaí Dervan (University of Glasgow)</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compact Lie algebras admitting integrable complex structures]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3301.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3301.htm"/>
+        <updated>2025-07-23T03:03:31.973Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 06</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3301.htm" class="right text">
+        <div class="t-1">Compact Lie algebras admitting integrable complex structures</div>
+        <div class="t-2">Abstract: With N. Wallach we develop a Lie algebraic approach to the celebrated results of H.-C. Wang, Tits, and Wolf-Wang-Ziller.The new approach provides additional information and can be applied to study homogenous complex (Hermitian) manifolds.Personal Website: https://mathweb.ucsd.edu/~lni/ Recording: https://archive.ymsc.tsinghua.edu.cn/pacm_lecture?html=Compact_Lie_algebras_admitting_int...</div>
+        <div class="t-3">Speaker：Lei Ni (UCSD)</div>
+        
+    </a>]]></content>
+    </entry>
+</feed>

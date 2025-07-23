@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ymsc.tsinghua.edu.cn/en/</id>
+    <title>YMSC Conferences</title>
+    <updated>2025-07-23T03:03:36.694Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI4Science Beijing Meetup 2025]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3369.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3369.htm"/>
+        <updated>2025-07-23T03:03:35.933Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 28</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1060/3369.htm" class="right text">
+        <div class="t-1">AI4Science Beijing Meetup 2025</div>
+        <div class="t-2">AI4Science Beijing Meetup 2025 Learned Partial Differential Equations (PDEs)28th June 2025, Tsinghua University Registration (Limited Places!): https://www.wjx.cn/vm/YQocgt0.aspx# Overview Partial Differential Equations (PDEs) are fundamental to modelling a wide range of physical, biological, and engineered systems. With recent advances in machine learning, researchers have begun to explore how...</div>
+        <div class="t-3">Organizer：THU &amp; PKU</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能理论与应用]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3337.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3337.htm"/>
+        <updated>2025-07-23T03:03:35.935Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 23</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1060/3337.htm" class="right text">
+        <div class="t-1">人工智能理论与应用</div>
+        <div class="t-2">组织者：包承龙、庞彤瑶、张立平主讲教师：孙德锋（香港理工大学），孙剑（西安交通大学），孙若愚（香港中文大学（深圳））时间：2025年06月23 - 27日地点：清华大学宁斋 求真厅课程介绍：此次暑期学校将邀请三位在最优化理论、大模型算法、深度生成模型及其实际应用等方向具有深厚研究背景的专家学者进行系列讲座。课程内容将涵盖人工智能的核心方法与最新进展，兼顾理论深度与应用广度，旨在为参与者提供系统性的学习机会和...</div>
+        <div class="t-3">Organizer：包承龙、庞彤瑶、张立平</div>
+        
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String-Math 2025]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3291.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3291.htm"/>
+        <updated>2025-07-23T03:03:35.936Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 23</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1060/3291.htm" class="right text">
+        <div class="t-1">String-Math 2025</div>
+        <div class="t-2">The String Math conference is an annual meeting that brings together researchers working at the interface of mathematics and physics, particularly in string theory, quantum field theory, and related areas. Recent advances in both fields have profoundly reshaped our perspectives and deepened the connections between them. This year, String Math 2025 will be held from June 23 to 28 at the Beijing ...</div>
+        <div class="t-3">Organizer：BIMSA &amp; YMSC</div>
+        
+    </a>]]></content>
+    </entry>
+</feed>
