@@ -39,3 +39,10 @@ url = "https://www.crmath.ca/en/activities/"
 entrySelector = "div.col1, div.col2"
 titleSelector = "h3.title"
 linkSelector = ""
+
+[MathInstituteEvents]
+title = "Mathematical Sciences Institutes Events"
+url = "https://mathinstitutes.org/events"
+entrySelector = "div[class*='card']"
+titleSelector = "a"
+linkSelector = "a"
