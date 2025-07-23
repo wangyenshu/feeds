@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bicmr.pku.edu.cn/</id>
+    <title>BICMR Conference and Mini-Course</title>
+    <updated>2025-07-23T02:58:24.235Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
+</feed>
