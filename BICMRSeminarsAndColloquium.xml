@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-07-24T05:51:02.622Z</updated>
+    <updated>2025-07-24T17:47:35.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Combinatorial Perspectives on the Boson–Fermion Correspondence]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/34-3696.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/34-3696.html"/>
-        <updated>2025-07-23T02:58:19.275Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 07</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> </p>
-                        <p class="black">
-                            <a href="/content/show/34-3696.html" title="Combinatorial Perspectives on the Boson–Fermion Correspondence" target="_blank">Combinatorial Perspectives on the Boson–Fermion Correspondence</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Wenze Zhang (University of Cal...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Andersen-Kashaev volume conjecture for FAMED geometric triangulations]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/52-3688.html</id>
@@ -83,11 +66,28 @@
                         <p>Jul 24</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3703.html" title="AI for data-driven simulations in Physics" target="_blank">AI for data-driven simulations in Physics</a>
                         </p>
                         <p class="speaker">Speaker(s): Siddhartha Mishra (ETH Zurich)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Optimization Benchmarking Library: The Intractable Decathlon]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3705.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3705.html"/>
+        <updated>2025-07-24T17:47:16.806Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Aug 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3705.html" title="Quantum Optimization Benchmarking Library: The Intractable Decathlon" target="_blank">Quantum Optimization Benchmarking Library: The Intractable Decathlon</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Prof. Thorsten Koch(Zuse Inst...</p>
                     </dd>]]></content>
     </entry>
     <entry>
