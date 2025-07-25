@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-07-25T05:52:53.684Z</updated>
+    <updated>2025-07-25T17:47:56.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -306,7 +306,7 @@
         <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
         <id>https://mathinstitutes.org/events/1126/view/</id>
         <link href="https://mathinstitutes.org/events/1126/view/"/>
-        <updated>2025-07-25T05:52:15.711Z</updated>
+        <updated>2025-07-25T05:52:15.710Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -319,7 +319,7 @@
         <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
         <id>https://mathinstitutes.org/events/1126/view/</id>
         <link href="https://mathinstitutes.org/events/1126/view/"/>
-        <updated>2025-07-25T05:52:15.711Z</updated>
+        <updated>2025-07-25T05:52:15.710Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
 			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>]]></content>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Homological mirror symmetry and multigraded commutative algebra]]></title>
         <id>https://mathinstitutes.org/events/1296/view/</id>
         <link href="https://mathinstitutes.org/events/1296/view/"/>
-        <updated>2025-07-25T05:52:15.715Z</updated>
+        <updated>2025-07-25T05:52:15.711Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Homological mirror symmetry and multigraded commutative algebra]]></title>
         <id>https://mathinstitutes.org/events/1296/view/</id>
         <link href="https://mathinstitutes.org/events/1296/view/"/>
-        <updated>2025-07-25T05:52:15.740Z</updated>
+        <updated>2025-07-25T05:52:15.711Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1296/view/" target="_blank" rel="noopener">Homological mirror symmetry and multigraded commutative algebra</a></h5>
 			<div class="event-info">AIM - August 18, 2025 to August 22, 2025</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
         <id>https://mathinstitutes.org/events/1142/view/</id>
         <link href="https://mathinstitutes.org/events/1142/view/"/>
-        <updated>2025-07-25T05:52:15.741Z</updated>
+        <updated>2025-07-25T05:52:15.740Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
         <id>https://mathinstitutes.org/events/1142/view/</id>
         <link href="https://mathinstitutes.org/events/1142/view/"/>
-        <updated>2025-07-25T05:52:15.741Z</updated>
+        <updated>2025-07-25T05:52:15.740Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
 			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>]]></content>
