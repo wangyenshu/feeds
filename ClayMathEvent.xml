@@ -2,39 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2025-07-24T17:47:35.349Z</updated>
+    <updated>2025-07-25T05:52:53.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Formalizing Class Field Theory]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.195Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="591" height="279" src="https://www.claymath.org/wp-content/uploads/2024/11/Screenshot-from-2024-11-29-08-28-56.png" class="attachment-3998 size-3998 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2024/11/Screenshot-from-2024-11-29-08-28-56.png 591w, https://www.claymath.org/wp-content/uploads/2024/11/Screenshot-from-2024-11-29-08-28-56-300x142.png 300w" sizes="(max-width: 591px) 100vw, 591px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      21 - 25  July 2025    </span>
-    <h3>Formalizing Class Field Theory</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Extremal and Probabilistic Combinatorics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.196Z</updated>
+        <updated>2025-07-25T05:52:06.934Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="350" height="222" src="https://www.claymath.org/wp-content/uploads/2022/05/image-11.jpeg" class="attachment-4033 size-4033 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-11.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-11-300x190.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
+  <img width="350" height="222" src="https://www.claymath.org/wp-content/uploads/2022/05/image-11.jpeg" class="attachment-4033 size-4033 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-11.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-11-300x190.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -49,7 +28,7 @@
         <title type="html"><![CDATA[Focus Program on Algebraic Topology in Memory of Fred Cohen]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.196Z</updated>
+        <updated>2025-07-25T05:52:06.935Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -68,7 +47,7 @@
         <title type="html"><![CDATA[Summer Research Institute in Algebraic Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.196Z</updated>
+        <updated>2025-07-25T05:52:06.935Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -87,7 +66,7 @@
         <title type="html"><![CDATA[Beyond the Horizon: Navigating Turbulence, Irregularity, and Stochasticity in Fluid Dynamics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.199Z</updated>
+        <updated>2025-07-25T05:52:06.937Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -106,7 +85,7 @@
         <title type="html"><![CDATA[Finite Dimensional Integrable Systems in Geometry and Mathematical Physics (FDIS)]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.200Z</updated>
+        <updated>2025-07-25T05:52:06.939Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -125,7 +104,7 @@
         <title type="html"><![CDATA[Trace Formula, Endoscopic Classification and Beyond: the Mathematical Legacy of James Arthur]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.203Z</updated>
+        <updated>2025-07-25T05:52:06.941Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -144,7 +123,7 @@
         <title type="html"><![CDATA[Second African Women in Algebra Workshop]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.204Z</updated>
+        <updated>2025-07-25T05:52:06.943Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -163,7 +142,7 @@
         <title type="html"><![CDATA[Women in Numbers Europe 5]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.205Z</updated>
+        <updated>2025-07-25T05:52:06.945Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -182,7 +161,7 @@
         <title type="html"><![CDATA[PROMYS Europe]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.207Z</updated>
+        <updated>2025-07-25T05:52:06.946Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -203,7 +182,7 @@
         <title type="html"><![CDATA[A Tour through Algebraic Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.209Z</updated>
+        <updated>2025-07-25T05:52:06.947Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -222,7 +201,7 @@
         <title type="html"><![CDATA[10th Nairobi Workshop in Algebraic Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.210Z</updated>
+        <updated>2025-07-25T05:52:06.949Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -243,7 +222,7 @@
         <title type="html"><![CDATA[2025 Clay Research Conference]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.211Z</updated>
+        <updated>2025-07-25T05:52:06.950Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -264,7 +243,7 @@
         <title type="html"><![CDATA[P vs NP and Complexity Lower Bounds]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.213Z</updated>
+        <updated>2025-07-25T05:52:06.952Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -285,7 +264,7 @@
         <title type="html"><![CDATA[PDE and Fluids]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.214Z</updated>
+        <updated>2025-07-25T05:52:06.953Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -306,7 +285,7 @@
         <title type="html"><![CDATA[Zeta and L-functions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-07-24T17:46:48.217Z</updated>
+        <updated>2025-07-25T05:52:06.955Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -318,6 +297,27 @@
     <span class="meta-tag">
       29 September - 3 October 2025    </span>
     <h3>Zeta and L-functions</h3>
+   <p> Mathematical Institute, University of Oxford</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hodge Theory and Algebraic Cycles]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-07-25T05:52:06.957Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+  <div class="cmi-event">A CMI event</div>
+
+  
+  <img width="360" height="353" src="https://www.claymath.org/wp-content/uploads/2025/05/k3-2.png" class="attachment-4075 size-4075 wp-post-image" alt="Hodge Theory and Algebraic Cycles image" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/05/k3-2.png 360w, https://www.claymath.org/wp-content/uploads/2025/05/k3-2-300x294.png 300w" sizes="(max-width: 360px) 100vw, 360px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      29 September - 3 October 2025    </span>
+    <h3>Hodge Theory and Algebraic Cycles</h3>
    <p> Mathematical Institute, University of Oxford</p>
 
     <div class="tile-link">Read more</div>
