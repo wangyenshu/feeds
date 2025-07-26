@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-07-25T17:47:56.092Z</updated>
+    <updated>2025-07-26T05:48:57.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[The Andersen-Kashaev volume conjecture for FAMED geometric triangulations]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/52-3688.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/52-3688.html"/>
-        <updated>2025-07-23T02:58:19.278Z</updated>
+        <title type="html"><![CDATA[The intrinsic metric and simple random walk on 2D critical percolation clusters]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/52-3706.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/52-3706.html"/>
+        <updated>2025-07-26T05:48:39.839Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2025</span>
-                        <p>Jul 08</p>
+                        <p>Jul 21</p>
                     </dt>
                                         <dd>
                         <p><a href="/content/lists/52.html" title="Others" target="_blank">Others</a> </p>
                         <p class="black">
-                            <a href="/content/show/52-3688.html" title="The Andersen-Kashaev volume conjecture for FAMED geometric triangulations " target="_blank">The Andersen-Kashaev volume conjecture for FAMED geometric triangulations </a>
+                            <a href="/content/show/52-3706.html" title="The intrinsic metric and simple random walk on 2D critical percolation clusters" target="_blank">The intrinsic metric and simple random walk on 2D critical percolation clusters</a>
                         </p>
-                        <p class="speaker">Speaker(s): Ka Ho Wong(Yale University)</p>
+                        <p class="speaker">Speaker(s): Jason Miller(Cambridge Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
