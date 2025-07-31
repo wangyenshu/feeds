@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-07-31T05:52:13.936Z</updated>
+    <updated>2025-07-31T17:48:04.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
                         <p>Jul 31</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3707.html" title="Geometric quantization of Lagrangian torus fibrations" target="_blank">Geometric quantization of Lagrangian torus fibrations</a>
                         </p>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shadows of Hodge theory: Bott--Samelson rings for Coxeter groups]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3700.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3700.html"/>
-        <updated>2025-07-23T02:58:19.284Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
-                        <p class="black">
-                            <a href="/content/show/70-3700.html" title="Shadows of Hodge theory: Bott--Samelson rings for Coxeter groups" target="_blank">Shadows of Hodge theory: Bott--Samelson rings for Coxeter groups</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Tao Gui(BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Schubert calculus on Hyperplanes]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3701.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3701.html"/>
@@ -139,6 +122,23 @@
                             <a href="/content/show/17-3575.html" title="2025 Summer School on Differential Geometry" target="_blank">2025 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur, Fargues—Scholze and Beilinson—Bloch—Kato]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3709.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3709.html"/>
+        <updated>2025-07-31T17:47:48.350Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Aug 05</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3709.html" title="Arthur, Fargues—Scholze and Beilinson—Bloch—Kato" target="_blank">Arthur, Fargues—Scholze and Beilinson—Bloch—Kato</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Hao Peng(MIT)</p>
                     </dd>]]></content>
     </entry>
     <entry>
