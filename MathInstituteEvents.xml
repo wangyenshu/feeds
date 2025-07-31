@@ -2,46 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-07-30T17:49:35.365Z</updated>
+    <updated>2025-07-31T05:52:13.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Summer Collaborators]]></title>
-        <id>https://mathinstitutes.org/events/1259/view/</id>
-        <link href="https://mathinstitutes.org/events/1259/view/"/>
-        <updated>2025-07-23T02:41:11.350Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1259/view/" target="_blank" rel="noopener">Summer Collaborators</a></h5>
-			<div class="event-info">IAS - June 9, 2025 to July 31, 2025</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Collaborators]]></title>
-        <id>https://mathinstitutes.org/events/1259/view/</id>
-        <link href="https://mathinstitutes.org/events/1259/view/"/>
-        <updated>2025-07-23T02:41:11.350Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1259/view/" target="_blank" rel="noopener">Summer Collaborators</a></h5>
-			<div class="event-info">IAS - June 9, 2025 to July 31, 2025</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Collaborators]]></title>
-        <id>https://mathinstitutes.org/events/1259/view/</id>
-        <link href="https://mathinstitutes.org/events/1259/view/"/>
-        <updated>2025-07-23T02:41:11.350Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1259/view/" target="_blank" rel="noopener">Summer Collaborators</a></h5>
-			<div class="event-info">IAS - June 9, 2025 to July 31, 2025</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions (SLMath)]]></title>
         <id>https://mathinstitutes.org/events/1293/view/</id>
@@ -251,6 +214,43 @@
 				</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
+        <id>https://mathinstitutes.org/events/1126/view/</id>
+        <link href="https://mathinstitutes.org/events/1126/view/"/>
+        <updated>2025-07-25T05:52:15.710Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
+			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
+        <id>https://mathinstitutes.org/events/1126/view/</id>
+        <link href="https://mathinstitutes.org/events/1126/view/"/>
+        <updated>2025-07-25T05:52:15.710Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
+			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
+        <id>https://mathinstitutes.org/events/1126/view/</id>
+        <link href="https://mathinstitutes.org/events/1126/view/"/>
+        <updated>2025-07-25T05:52:15.710Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
+			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Contemporary Challenges in Large-Scale Sequence Alignments and Phylogenies]]></title>
         <id>https://mathinstitutes.org/events/1123/view/</id>
         <link href="https://mathinstitutes.org/events/1123/view/"/>
@@ -288,41 +288,41 @@
 			<div class="event-info">IMSI - August 11, 2025 to August 14, 2025</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
-        <id>https://mathinstitutes.org/events/1126/view/</id>
-        <link href="https://mathinstitutes.org/events/1126/view/"/>
-        <updated>2025-07-25T05:52:15.710Z</updated>
+        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
+        <id>https://mathinstitutes.org/events/1142/view/</id>
+        <link href="https://mathinstitutes.org/events/1142/view/"/>
+        <updated>2025-07-25T05:52:15.740Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
-			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>
+							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
+			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
-        <id>https://mathinstitutes.org/events/1126/view/</id>
-        <link href="https://mathinstitutes.org/events/1126/view/"/>
-        <updated>2025-07-25T05:52:15.710Z</updated>
+        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
+        <id>https://mathinstitutes.org/events/1142/view/</id>
+        <link href="https://mathinstitutes.org/events/1142/view/"/>
+        <updated>2025-07-25T05:52:15.740Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
-			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>
+							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
+			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illustrating Mathematics: Reunion/Expansion]]></title>
-        <id>https://mathinstitutes.org/events/1126/view/</id>
-        <link href="https://mathinstitutes.org/events/1126/view/"/>
-        <updated>2025-07-25T05:52:15.710Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1126/view/" target="_blank" rel="noopener">Illustrating Mathematics: Reunion/Expansion</a></h5>
-			<div class="event-info">ICERM - August 11, 2025 to August 15, 2025</div>]]></content>
+        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
+        <id>https://mathinstitutes.org/events/1142/view/</id>
+        <link href="https://mathinstitutes.org/events/1142/view/"/>
+        <updated>2025-07-25T05:52:15.740Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
+			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Homological mirror symmetry and multigraded commutative algebra]]></title>
@@ -362,40 +362,40 @@
 			<div class="event-info">AIM - August 18, 2025 to August 22, 2025</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
-        <id>https://mathinstitutes.org/events/1142/view/</id>
-        <link href="https://mathinstitutes.org/events/1142/view/"/>
-        <updated>2025-07-25T05:52:15.740Z</updated>
+        <title type="html"><![CDATA[Graduate Workshop on Linear Algebra over Finite Fields & Applications]]></title>
+        <id>https://mathinstitutes.org/events/1185/view/</id>
+        <link href="https://mathinstitutes.org/events/1185/view/"/>
+        <updated>2025-07-31T05:51:38.502Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
-			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1185/view/" target="_blank" rel="noopener">Graduate Workshop on Linear Algebra over Finite Fields &amp; Applications</a></h5>
+			<div class="event-info">ICERM - August 18, 2025 to August 29, 2025</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
-        <id>https://mathinstitutes.org/events/1142/view/</id>
-        <link href="https://mathinstitutes.org/events/1142/view/"/>
-        <updated>2025-07-25T05:52:15.740Z</updated>
+        <title type="html"><![CDATA[Graduate Workshop on Linear Algebra over Finite Fields & Applications]]></title>
+        <id>https://mathinstitutes.org/events/1185/view/</id>
+        <link href="https://mathinstitutes.org/events/1185/view/"/>
+        <updated>2025-07-31T05:51:38.507Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
-			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1185/view/" target="_blank" rel="noopener">Graduate Workshop on Linear Algebra over Finite Fields &amp; Applications</a></h5>
+			<div class="event-info">ICERM - August 18, 2025 to August 29, 2025</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)]]></title>
-        <id>https://mathinstitutes.org/events/1142/view/</id>
-        <link href="https://mathinstitutes.org/events/1142/view/"/>
-        <updated>2025-07-25T05:52:15.740Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1142/view/" target="_blank" rel="noopener">The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)</a></h5>
-			<div class="event-info">IMSI - August 18, 2025 to August 22, 2025</div>]]></content>
+        <title type="html"><![CDATA[Graduate Workshop on Linear Algebra over Finite Fields & Applications]]></title>
+        <id>https://mathinstitutes.org/events/1185/view/</id>
+        <link href="https://mathinstitutes.org/events/1185/view/"/>
+        <updated>2025-07-31T05:51:38.508Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1185/view/" target="_blank" rel="noopener">Graduate Workshop on Linear Algebra over Finite Fields &amp; Applications</a></h5>
+			<div class="event-info">ICERM - August 18, 2025 to August 29, 2025</div>]]></content>
     </entry>
 </feed>

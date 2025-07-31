@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-07-30T17:49:35.352Z</updated>
+    <updated>2025-07-31T05:52:13.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[A Geometric Route to Poisson Desingularization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3704.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3704.html"/>
-        <updated>2025-07-23T02:58:19.279Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3704.html" title="A Geometric Route to Poisson Desingularization " target="_blank">A Geometric Route to Poisson Desingularization </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Eva Miranda (UPC)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Provable in-context learning of PDEs]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/40-3702.html</id>
@@ -71,6 +54,23 @@
                             <a href="/content/show/49-3707.html" title="Geometric quantization of Lagrangian torus fibrations" target="_blank">Geometric quantization of Lagrangian torus fibrations</a>
                         </p>
                         <p class="speaker">Speaker(s): Yael Karshon(Tel-Aviv Universi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the limit theory of numerical semigroups with two generators]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3708.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3708.html"/>
+        <updated>2025-07-31T05:51:57.519Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Aug 01</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3708.html" title="On the limit theory of numerical semigroups with two generators" target="_blank">On the limit theory of numerical semigroups with two generators</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Alf Onshuus (Universidad de lo...</p>
                     </dd>]]></content>
     </entry>
     <entry>
