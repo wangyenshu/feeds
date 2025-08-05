@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-08-04T17:51:14.913Z</updated>
+    <updated>2025-08-05T17:48:25.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -134,7 +134,7 @@
                         <p>Aug 05</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
                         <p class="black">
                             <a href="/content/show/70-3709.html" title="Arthur, Fargues—Scholze and Beilinson—Bloch—Kato" target="_blank">Arthur, Fargues—Scholze and Beilinson—Bloch—Kato</a>
                         </p>
