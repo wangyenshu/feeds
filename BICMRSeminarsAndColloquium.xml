@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-08-05T17:48:25.403Z</updated>
+    <updated>2025-08-06T16:53:51.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Provable in-context learning of PDEs]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3702.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3702.html"/>
-        <updated>2025-07-23T02:58:19.281Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
-                        <p class="black">
-                            <a href="/content/show/40-3702.html" title="Provable in-context learning of PDEs " target="_blank">Provable in-context learning of PDEs </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yulong Lu (University of Minne...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI for data-driven simulations in Physics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3703.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/45-3705.html" title="Quantum Optimization Benchmarking Library: The Intractable Decathlon" target="_blank">Quantum Optimization Benchmarking Library: The Intractable Decathlon</a>
                         </p>
                         <p class="speaker">Speaker(s):  Prof. Thorsten Koch(Zuse Inst...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Iitaka Theory on Fano Contractions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3710.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3710.html"/>
+        <updated>2025-08-06T16:53:33.055Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Aug 20</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3710.html" title="Dynamical Iitaka Theory on Fano Contractions" target="_blank">Dynamical Iitaka Theory on Fano Contractions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Tianle Yang (East China Normal...</p>
                     </dd>]]></content>
     </entry>
     <entry>
