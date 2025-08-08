@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-08-08T05:54:41.442Z</updated>
+    <updated>2025-08-08T17:44:08.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Connections Workshop: Kinetic theory & Stochastic Partial Differential Equations]]></title>
         <id>https://mathinstitutes.org/events/1172/view/</id>
         <link href="https://mathinstitutes.org/events/1172/view/"/>
-        <updated>2025-08-08T05:54:05.313Z</updated>
+        <updated>2025-08-08T05:54:05.312Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Connections Workshop: Kinetic theory & Stochastic Partial Differential Equations]]></title>
         <id>https://mathinstitutes.org/events/1172/view/</id>
         <link href="https://mathinstitutes.org/events/1172/view/"/>
-        <updated>2025-08-08T05:54:05.314Z</updated>
+        <updated>2025-08-08T05:54:05.312Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1172/view/" target="_blank" rel="noopener">Connections Workshop: Kinetic theory &amp; Stochastic Partial Differential Equations</a></h5>
 			<div class="event-info">SLMath - August 21, 2025 to August 22, 2025</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Introductory Workshop: Kinetic theory & Stochastic Partial Differential Equations]]></title>
         <id>https://mathinstitutes.org/events/1303/view/</id>
         <link href="https://mathinstitutes.org/events/1303/view/"/>
-        <updated>2025-08-08T05:54:05.317Z</updated>
+        <updated>2025-08-08T05:54:05.315Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Introductory Workshop: Kinetic theory & Stochastic Partial Differential Equations]]></title>
         <id>https://mathinstitutes.org/events/1303/view/</id>
         <link href="https://mathinstitutes.org/events/1303/view/"/>
-        <updated>2025-08-08T05:54:05.318Z</updated>
+        <updated>2025-08-08T05:54:05.315Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1303/view/" target="_blank" rel="noopener">Introductory Workshop: Kinetic theory &amp; Stochastic Partial Differential Equations</a></h5>
 			<div class="event-info">SLMath - August 25, 2025 to August 29, 2025</div>]]></content>
