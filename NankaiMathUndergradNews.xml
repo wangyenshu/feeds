@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://math.nankai.edu.cn/</id>
     <title>南开大学数学学院本科生教育消息</title>
-    <updated>2025-08-09T17:42:26.228Z</updated>
+    <updated>2025-08-10T05:49:02.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://math.nankai.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[数学伯苓班简介]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-07-19T04:15:14.926Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">10</div>
+											<div class="news_year">2025-08</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/0810/c34387a576061/page.htm" target="_blank" title="数学伯苓班简介">数学伯苓班简介</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学与人工智能实验班]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-07-19T04:15:14.926Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">10</div>
+											<div class="news_year">2025-08</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/0810/c34387a576062/page.htm" target="_blank" title="数学与人工智能实验班">数学与人工智能实验班</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学科学学院调课通知（6.29)]]></title>
         <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
@@ -52,40 +86,6 @@
 										<div class="news_wz">
 											<div class="news_con">
 												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生培养" alt="本科生培养">本科生培养</a>】<a href="/2025/0530/c34387a572190/page.htm" target="_blank" title="数学科学学院2025本科生优秀毕业论文(设计)评选通知">数学科学学院2025本科生优秀毕业论文(设计)评选通知</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学科学学院调课通知（5.28)]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-07-19T04:15:14.926Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">28</div>
-											<div class="news_year">2025-05</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/0528/c34387a571982/page.htm" target="_blank" title="数学科学学院调课通知（5.28)">数学科学学院调课通知（5.28)</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学科学学院2024-2025学年  接收辅修专业计划表]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-07-19T04:15:14.926Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">22</div>
-											<div class="news_year">2025-05</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/0522/c34387a571486/page.htm" target="_blank" title="数学科学学院2024-2025学年  接收辅修专业计划表">数学科学学院2024-2025学年  接收辅修专业计划表</a></div>
 											</div>
 										</div>
 									</div>]]></content>
