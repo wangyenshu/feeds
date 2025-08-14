@@ -2,16 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.nim.nankai.edu.cn/xshy/list.htm</id>
     <title>陈省身数学研究所 学术会议</title>
-    <updated>2025-08-13T05:46:33.354Z</updated>
+    <updated>2025-08-14T05:46:48.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.nim.nankai.edu.cn/xshy/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[动力系统中的若干前沿课题国际会议将于2025.10.20-10.24举办]]></title>
+        <id>http://www.nim.nankai.edu.cn/2025/0625/c7185a574459/page.htm</id>
+        <link href="http://www.nim.nankai.edu.cn/2025/0625/c7185a574459/page.htm"/>
+        <updated>2025-08-14T05:45:59.431Z</updated>
+        <content type="html"><![CDATA[<div class="fields pr_fields"> 
+             <span class="Article_Index">1</span> 
+             <span class="Article_Title"><a href="/2025/0625/c7185a574459/page.htm" target="_blank" title="动力系统中的若干前沿课题国际会议将于2025.10.20-10.24举办">动力系统中的若干前沿课题国际会议将于2025.10.20-10.24举办</a></span> 
+         </div> 
+         <div class="fields ex_fields"> 
+              
+             <span class="Article_PublishDate">2025-07-08</span> 
+              
+         </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第11届中韩编码理论及相关领域国际研讨会于7.18-22举办]]></title>
         <id>http://www.nim.nankai.edu.cn/2025/0707/c7185a574960/page.htm</id>
         <link href="http://www.nim.nankai.edu.cn/2025/0707/c7185a574960/page.htm"/>
         <updated>2025-07-19T04:58:50.134Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">1</span> 
+             <span class="Article_Index">2</span> 
              <span class="Article_Title"><a href="/2025/0707/c7185a574960/page.htm" target="_blank" title="第11届中韩编码理论及相关领域国际研讨会于7.18-22举办">第11届中韩编码理论及相关领域国际研讨会于7.18-22举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -26,7 +41,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0617/c7185a573562/page.htm"/>
         <updated>2025-07-19T04:58:50.134Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">2</span> 
+             <span class="Article_Index">3</span> 
              <span class="Article_Title"><a href="/2025/0617/c7185a573562/page.htm" target="_blank" title="约化群表示论最新进展研讨会于2025.7.13-7.17举办">约化群表示论最新进展研讨会于2025.7.13-7.17举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -41,7 +56,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0509/c7185a569624/page.htm"/>
         <updated>2025-07-19T04:58:50.136Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">3</span> 
+             <span class="Article_Index">4</span> 
              <span class="Article_Title"><a href="/2025/0509/c7185a569624/page.htm" target="_blank" title="Workshop on algebras and applications in mathematical physics">Workshop on algebras and applications in mathematical physic...</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -56,7 +71,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0109/c7185a561588/page.htm"/>
         <updated>2025-07-19T04:58:50.137Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">4</span> 
+             <span class="Article_Index">5</span> 
              <span class="Article_Title"><a href="/2025/0109/c7185a561588/page.htm" target="_blank" title="有向图与无向图研讨会将于2025.6.20-6.27线下举办">有向图与无向图研讨会将于2025.6.20-6.27线下举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -71,7 +86,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0521/c7185a571386/page.htm"/>
         <updated>2025-07-19T04:58:50.143Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">5</span> 
+             <span class="Article_Index">6</span> 
              <span class="Article_Title"><a href="/2025/0521/c7185a571386/page.htm" target="_blank" title="天体力学及相关领域新进展研讨会于6.2-6.6举办">天体力学及相关领域新进展研讨会于6.2-6.6举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -86,7 +101,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0218/c7185a562458/page.htm"/>
         <updated>2025-07-19T04:58:50.144Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">6</span> 
+             <span class="Article_Index">7</span> 
              <span class="Article_Title"><a href="/2025/0218/c7185a562458/page.htm" target="_blank" title="表示论、Schubert 计数与谱理论研讨会于2025.5.26-5.30举办">表示论、Schubert 计数与谱理论研讨会于2025.5.26-5.30举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -101,7 +116,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0319/c7185a564389/page.htm"/>
         <updated>2025-07-19T04:58:50.144Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">7</span> 
+             <span class="Article_Index">8</span> 
              <span class="Article_Title"><a href="/2025/0319/c7185a564389/page.htm" target="_blank" title="从复分析到量子化研讨会于2025.5.12-5.16举办">从复分析到量子化研讨会于2025.5.12-5.16举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -116,7 +131,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0319/c7185a564388/page.htm"/>
         <updated>2025-07-19T04:58:50.144Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">8</span> 
+             <span class="Article_Index">9</span> 
              <span class="Article_Title"><a href="/2025/0319/c7185a564388/page.htm" target="_blank" title="第七届区域代数学会议于2025.3.20-3.23举办">第七届区域代数学会议于2025.3.20-3.23举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -131,7 +146,7 @@
         <link href="http://www.nim.nankai.edu.cn/2025/0103/c7185a561273/page.htm"/>
         <updated>2025-07-19T04:58:50.145Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">9</span> 
+             <span class="Article_Index">10</span> 
              <span class="Article_Title"><a href="/2025/0103/c7185a561273/page.htm" target="_blank" title="Poisson几何与丛代数学术研讨会于2025.1.6-1.10举办">Poisson几何与丛代数学术研讨会于2025.1.6-1.10举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -146,7 +161,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1107/c7185a555741/page.htm"/>
         <updated>2025-07-19T04:58:50.147Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">10</span> 
+             <span class="Article_Index">11</span> 
              <span class="Article_Title"><a href="/2024/1107/c7185a555741/page.htm" target="_blank" title="2024天体力学数学理论研讨会于2024.11.29-12.1举办">2024天体力学数学理论研讨会于2024.11.29-12.1举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -161,7 +176,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1119/c7185a556788/page.htm"/>
         <updated>2025-07-19T04:58:50.148Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">11</span> 
+             <span class="Article_Index">12</span> 
              <span class="Article_Title"><a href="/2024/1119/c7185a556788/page.htm" target="_blank" title="反问题与计算成像研讨会于2024.11.21-11.24举办">反问题与计算成像研讨会于2024.11.21-11.24举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -176,7 +191,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1111/c7185a556083/page.htm"/>
         <updated>2025-07-19T04:58:50.150Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">12</span> 
+             <span class="Article_Index">13</span> 
              <span class="Article_Title"><a href="/2024/1111/c7185a556083/page.htm" target="_blank" title="积分几何与凸几何相关热点问题研讨会于2024.11.14-11.18举办">积分几何与凸几何相关热点问题研讨会于2024.11.14-11.18举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -191,7 +206,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1105/c7185a555436/page.htm"/>
         <updated>2025-07-19T04:58:50.151Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">13</span> 
+             <span class="Article_Index">14</span> 
              <span class="Article_Title"><a href="/2024/1105/c7185a555436/page.htm" target="_blank" title="Operad理论及相关课题国际研讨会于2024.11.3-11.7举办">Operad理论及相关课题国际研讨会于2024.11.3-11.7举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -206,7 +221,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1024/c7185a553839/page.htm"/>
         <updated>2025-07-19T04:58:50.153Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">14</span> 
+             <span class="Article_Index">15</span> 
              <span class="Article_Title"><a href="/2024/1024/c7185a553839/page.htm" target="_blank" title="2024京津几何工作营于2024.10.27-10.30举办">2024京津几何工作营于2024.10.27-10.30举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -221,7 +236,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/1017/c7185a553263/page.htm"/>
         <updated>2025-07-19T04:58:50.156Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">15</span> 
+             <span class="Article_Index">16</span> 
              <span class="Article_Title"><a href="/2024/1017/c7185a553263/page.htm" target="_blank" title="2024年人工智能与最优化前沿研讨会于2024.10.18-10.20 举办">2024年人工智能与最优化前沿研讨会于2024.10.18-10.20 举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -236,7 +251,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/0516/c7185a542844/page.htm"/>
         <updated>2025-07-19T04:58:50.157Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">16</span> 
+             <span class="Article_Index">17</span> 
              <span class="Article_Title"><a href="/2024/0516/c7185a542844/page.htm" target="_blank" title="p-进调和分析暑期学校">p-进调和分析暑期学校</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -251,7 +266,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/0506/c7185a541554/page.htm"/>
         <updated>2025-07-19T04:58:50.159Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">17</span> 
+             <span class="Article_Index">18</span> 
              <span class="Article_Title"><a href="/2024/0506/c7185a541554/page.htm" target="_blank" title="复现理论在数学物理中的应用研讨会于2024.6.17-6.19举办">复现理论在数学物理中的应用研讨会于2024.6.17-6.19举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -266,7 +281,7 @@
         <link href="http://www.nim.nankai.edu.cn/2024/0116/c7185a535448/page.htm"/>
         <updated>2025-07-19T04:58:50.160Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">18</span> 
+             <span class="Article_Index">19</span> 
              <span class="Article_Title"><a href="/2024/0116/c7185a535448/page.htm" target="_blank" title="交换代数及其相关主题国际研讨会于2024.9.16 - 9.20举办">交换代数及其相关主题国际研讨会于2024.9.16 - 9.20举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
@@ -281,27 +296,12 @@
         <link href="http://www.nim.nankai.edu.cn/2019/1029/c7185a243151/page.htm"/>
         <updated>2025-07-19T04:58:50.162Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">19</span> 
+             <span class="Article_Index">20</span> 
              <span class="Article_Title"><a href="/2019/1029/c7185a243151/page.htm" target="_blank" title="Higher Teichmüller理论研讨会于2024.5.15-5.24举办">Higher Teichmüller理论研讨会于2024.5.15-5.24举办</a></span> 
          </div> 
          <div class="fields ex_fields"> 
               
              <span class="Article_PublishDate">2023-12-30</span> 
-              
-         </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[薛定谔算子与局域化研讨会于2024.1.4 - 1.7举办]]></title>
-        <id>http://www.nim.nankai.edu.cn/2023/1229/c7185a534487/page.htm</id>
-        <link href="http://www.nim.nankai.edu.cn/2023/1229/c7185a534487/page.htm"/>
-        <updated>2025-08-12T05:44:00.870Z</updated>
-        <content type="html"><![CDATA[<div class="fields pr_fields"> 
-             <span class="Article_Index">20</span> 
-             <span class="Article_Title"><a href="/2023/1229/c7185a534487/page.htm" target="_blank" title="薛定谔算子与局域化研讨会于2024.1.4 - 1.7举办">薛定谔算子与局域化研讨会于2024.1.4 - 1.7举办</a></span> 
-         </div> 
-         <div class="fields ex_fields"> 
-              
-             <span class="Article_PublishDate">2023-12-29</span> 
               
          </div>]]></content>
     </entry>
