@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-08-18T05:48:50.922Z</updated>
+    <updated>2025-08-18T17:45:02.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AI for data-driven simulations in Physics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3703.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3703.html"/>
-        <updated>2025-07-23T02:58:19.282Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3703.html" title="AI for data-driven simulations in Physics" target="_blank">AI for data-driven simulations in Physics</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Siddhartha Mishra (ETH Zurich)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Geometric quantization of Lagrangian torus fibrations]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3707.html</id>
@@ -91,6 +74,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Long time derivation of Boltzmann’s equation]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3711.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3711.html"/>
+        <updated>2025-08-18T17:44:44.257Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Aug 22</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3711.html" title="Long time derivation of Boltzmann’s equation" target="_blank">Long time derivation of Boltzmann’s equation</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Yu Deng(University of Chicago...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schubert calculus on Hyperplanes]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3701.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3701.html"/>
@@ -151,7 +151,7 @@
                         <p>Aug 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="https://www.math.pku.edu.cn/kxyj/xzky/168546.htm" title="Summer School on Birational Geometry of Foliations" target="_blank">Summer School on Birational Geometry of Foliations</a>
                         </p>
