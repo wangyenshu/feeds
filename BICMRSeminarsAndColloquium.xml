@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-08-20T05:44:03.831Z</updated>
+    <updated>2025-08-20T17:41:51.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -66,7 +66,7 @@
                         <p>Aug 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3710.html" title="Dynamical Iitaka Theory on Fano Contractions" target="_blank">Dynamical Iitaka Theory on Fano Contractions</a>
                         </p>

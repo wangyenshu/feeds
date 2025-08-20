@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2025-08-20T05:44:03.816Z</updated>
+    <updated>2025-08-20T17:41:51.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Low regularity time integration of dispersive problems]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3442.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3442.htm"/>
+        <updated>2025-08-20T17:41:46.622Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 19</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3442.htm" class="right text">
+        <div class="t-1">Low regularity time integration of dispersive problems</div>
+        <div class="t-2">Abstract: Standard numerical integrators, such as Lie splitting, Strang splitting, and exponential integrators, experience order reduction when applied to semilinear dispersive problems with non-smooth initial data. To address this issue, a recent development introduces a new class of integrators known as low-regularity integrators. These integrators use the variation-of-constants formula and e...</div>
+        <div class="t-3">Speaker：Alexander Ostermann (University of Innsbruck, Austria)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toward a Mathematical Theory of Deep Learning: Lessons from Personal Research]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3390.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Moment maps in complex geometry</div>
         <div class="t-2">Abstract: A major theme of modern complex geometry is the relationship between solvability of geometric PDEs and algebraic stability conditions. The classic example is the Donaldson-Uhlenbeck-Yau theorem, relating the existence of Hermite-Einstein metrics (a special metric on a vector bundle) to the algebraic notion of slope stability. More recently, new PDEs in various geometric settings have ...</div>
         <div class="t-3">Speaker：Ruadhaí Dervan (University of Glasgow)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compact Lie algebras admitting integrable complex structures]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3301.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3301.htm"/>
-        <updated>2025-07-23T03:03:31.973Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 06</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1056/3301.htm" class="right text">
-        <div class="t-1">Compact Lie algebras admitting integrable complex structures</div>
-        <div class="t-2">Abstract: With N. Wallach we develop a Lie algebraic approach to the celebrated results of H.-C. Wang, Tits, and Wolf-Wang-Ziller.The new approach provides additional information and can be applied to study homogenous complex (Hermitian) manifolds.Personal Website: https://mathweb.ucsd.edu/~lni/ Recording: https://archive.ymsc.tsinghua.edu.cn/pacm_lecture?html=Compact_Lie_algebras_admitting_int...</div>
-        <div class="t-3">Speaker：Lei Ni (UCSD)</div>
         
     </a>]]></content>
     </entry>
