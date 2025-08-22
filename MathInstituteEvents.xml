@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-08-22T05:43:06.251Z</updated>
+    <updated>2025-08-22T17:41:34.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -306,7 +306,7 @@
         <title type="html"><![CDATA[Category Theory, Combinatorics, and Machine Learning]]></title>
         <id>https://mathinstitutes.org/events/1250/view/</id>
         <link href="https://mathinstitutes.org/events/1250/view/"/>
-        <updated>2025-08-22T05:42:29.134Z</updated>
+        <updated>2025-08-22T05:42:29.132Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -319,7 +319,7 @@
         <title type="html"><![CDATA[Category Theory, Combinatorics, and Machine Learning]]></title>
         <id>https://mathinstitutes.org/events/1250/view/</id>
         <link href="https://mathinstitutes.org/events/1250/view/"/>
-        <updated>2025-08-22T05:42:29.135Z</updated>
+        <updated>2025-08-22T05:42:29.132Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1250/view/" target="_blank" rel="noopener">Category Theory, Combinatorics, and Machine Learning</a></h5>
 			<div class="event-info">ICERM - September 15, 2025 to September 19, 2025</div>]]></content>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Workshop I: Embracing Stochasticity in Electrochemical Modeling]]></title>
         <id>https://mathinstitutes.org/events/1200/view/</id>
         <link href="https://mathinstitutes.org/events/1200/view/"/>
-        <updated>2025-08-22T05:42:29.138Z</updated>
+        <updated>2025-08-22T05:42:29.136Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Workshop I: Embracing Stochasticity in Electrochemical Modeling]]></title>
         <id>https://mathinstitutes.org/events/1200/view/</id>
         <link href="https://mathinstitutes.org/events/1200/view/"/>
-        <updated>2025-08-22T05:42:29.139Z</updated>
+        <updated>2025-08-22T05:42:29.136Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1200/view/" target="_blank" rel="noopener">Workshop I: Embracing Stochasticity in Electrochemical Modeling</a></h5>
 			<div class="event-info">IPAM - September 15, 2025 to September 19, 2025</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Digital Twins]]></title>
         <id>https://mathinstitutes.org/events/1282/view/</id>
         <link href="https://mathinstitutes.org/events/1282/view/"/>
-        <updated>2025-08-22T05:42:29.142Z</updated>
+        <updated>2025-08-22T05:42:29.141Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Digital Twins]]></title>
         <id>https://mathinstitutes.org/events/1282/view/</id>
         <link href="https://mathinstitutes.org/events/1282/view/"/>
-        <updated>2025-08-22T05:42:29.143Z</updated>
+        <updated>2025-08-22T05:42:29.141Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1282/view/" target="_blank" rel="noopener">Digital Twins</a></h5>
 			<div class="event-info">IMSI - September 15, 2025 to December 12, 2025</div>]]></content>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-08-22T05:43:06.268Z</updated>
+    <updated>2025-08-22T17:41:34.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
                         <p>Aug 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-3711.html" title="Long time derivation of Boltzmann’s equation" target="_blank">Long time derivation of Boltzmann’s equation</a>
                         </p>
