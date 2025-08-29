@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-08-29T05:42:51.214Z</updated>
+    <updated>2025-08-29T17:41:36.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Special Year on Arithmetic Geometry, Hodge Theory, and o-minimality]]></title>
         <id>https://mathinstitutes.org/events/1273/view/</id>
         <link href="https://mathinstitutes.org/events/1273/view/"/>
-        <updated>2025-08-29T05:42:13.043Z</updated>
+        <updated>2025-08-29T05:42:13.042Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Special Year on Arithmetic Geometry, Hodge Theory, and o-minimality]]></title>
         <id>https://mathinstitutes.org/events/1273/view/</id>
         <link href="https://mathinstitutes.org/events/1273/view/"/>
-        <updated>2025-08-29T05:42:13.044Z</updated>
+        <updated>2025-08-29T05:42:13.042Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1273/view/" target="_blank" rel="noopener">Special Year on Arithmetic Geometry, Hodge Theory, and o-minimality</a></h5>
 			<div class="event-info">IAS - September 22, 2025 to April 10, 2026</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Multiscale modeling of ocular and cardiovascular systems]]></title>
         <id>https://mathinstitutes.org/events/1312/view/</id>
         <link href="https://mathinstitutes.org/events/1312/view/"/>
-        <updated>2025-08-29T05:42:13.047Z</updated>
+        <updated>2025-08-29T05:42:13.046Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Multiscale modeling of ocular and cardiovascular systems]]></title>
         <id>https://mathinstitutes.org/events/1312/view/</id>
         <link href="https://mathinstitutes.org/events/1312/view/"/>
-        <updated>2025-08-29T05:42:13.049Z</updated>
+        <updated>2025-08-29T05:42:13.046Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1312/view/" target="_blank" rel="noopener">Multiscale modeling of ocular and cardiovascular systems</a></h5>
 			<div class="event-info">AIM - September 29, 2025 to October 3, 2025</div>]]></content>
