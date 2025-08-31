@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-08-31T05:40:36.969Z</updated>
+    <updated>2025-08-31T17:39:25.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -11,13 +11,13 @@
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
         <updated>2025-07-23T03:03:27.999Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Sep 19</span></p>
+         <p class="t-1"><span>Sep 12</span></p>
         <p class="t-2"><span>2025</span></p>
     </div>
     <a href="info/1053/2568.htm" class="right text">
         <div class="t-1">Algebraic Geometry Seminar</div>
         <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Roberto Svaldi (University of Milan)</div>
+        <div class="t-3">Speaker：Wenhao Ou (Chinese Academy of Science)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
