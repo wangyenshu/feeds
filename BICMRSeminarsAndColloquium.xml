@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-01T17:38:48.215Z</updated>
+    <updated>2025-09-02T05:42:37.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Geometric quantization of Lagrangian torus fibrations]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3707.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3707.html"/>
-        <updated>2025-07-28T17:46:30.581Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Jul 31</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3707.html" title="Geometric quantization of Lagrangian torus fibrations" target="_blank">Geometric quantization of Lagrangian torus fibrations</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yael Karshon(Tel-Aviv Universi...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the limit theory of numerical semigroups with two generators]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3708.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/46-3711.html" title="Long time derivation of Boltzmann’s equation" target="_blank">Long time derivation of Boltzmann’s equation</a>
                         </p>
                         <p class="speaker">Speaker(s):  Yu Deng(University of Chicago...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistic Properties of Open Dynamical Systems]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3713.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3713.html"/>
+        <updated>2025-09-02T05:42:19.439Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 04</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3713.html" title="Statistic Properties of Open Dynamical Systems" target="_blank">Statistic Properties of Open Dynamical Systems</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yaofeng Su(Southern University...</p>
                     </dd>]]></content>
     </entry>
     <entry>
