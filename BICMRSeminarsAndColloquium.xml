@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-02T17:40:49.863Z</updated>
+    <updated>2025-09-03T05:40:31.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[On the limit theory of numerical semigroups with two generators]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3708.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3708.html"/>
-        <updated>2025-07-31T05:51:57.519Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Aug 01</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3708.html" title="On the limit theory of numerical semigroups with two generators" target="_blank">On the limit theory of numerical semigroups with two generators</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Alf Onshuus (Universidad de lo...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Optimization Benchmarking Library: The Intractable Decathlon]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/45-3705.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/82-3713.html" title="Statistic Properties of Open Dynamical Systems" target="_blank">Statistic Properties of Open Dynamical Systems</a>
                         </p>
                         <p class="speaker">Speaker(s): Yaofeng Su(Southern University...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interbreeding in Conformal Dynamics, and Its Applications Near and Far]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3714.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3714.html"/>
+        <updated>2025-09-03T05:40:14.824Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 05</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3714.html" title="Interbreeding in Conformal Dynamics, and Its Applications Near and Far" target="_blank">Interbreeding in Conformal Dynamics, and Its Applications Near and Far</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Sabyasachi Mukherjee (Tata Ins...</p>
                     </dd>]]></content>
     </entry>
     <entry>
