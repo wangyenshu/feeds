@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-07T17:39:18.576Z</updated>
+    <updated>2025-09-08T05:44:48.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Long time derivation of Boltzmann’s equation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3711.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3711.html"/>
-        <updated>2025-08-18T17:44:44.257Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Aug 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/46-3711.html" title="Long time derivation of Boltzmann’s equation" target="_blank">Long time derivation of Boltzmann’s equation</a>
-                        </p>
-                        <p class="speaker">Speaker(s):  Yu Deng(University of Chicago...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Statistic Properties of Open Dynamical Systems]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/82-3713.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/43-3715.html" title="On the Topology of Stable Minimal Hypersurfaces in $S^4$" target="_blank">On the Topology of Stable Minimal Hypersurfaces in $S^4$</a>
                         </p>
                         <p class="speaker">Speaker(s): Chao Li (Courant Institute of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactions Between Loops: Bases of Cluster and Skein Algebras]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3717.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3717.html"/>
+        <updated>2025-09-08T05:44:29.419Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 15</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3717.html" title="Reactions Between Loops: Bases of Cluster and Skein Algebras" target="_blank">Reactions Between Loops: Bases of Cluster and Skein Algebras</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fan Qin(BNU)</p>
                     </dd>]]></content>
     </entry>
     <entry>
