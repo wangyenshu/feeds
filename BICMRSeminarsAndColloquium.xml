@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-09T05:42:41.049Z</updated>
+    <updated>2025-09-09T17:38:24.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Statistic Properties of Open Dynamical Systems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3713.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3713.html"/>
-        <updated>2025-09-02T05:42:19.439Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3713.html" title="Statistic Properties of Open Dynamical Systems" target="_blank">Statistic Properties of Open Dynamical Systems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yaofeng Su(Southern University...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interbreeding in Conformal Dynamics, and Its Applications Near and Far]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3714.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3714.html"/>
-        <updated>2025-09-03T05:40:14.824Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 05</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3714.html" title="Interbreeding in Conformal Dynamics, and Its Applications Near and Far" target="_blank">Interbreeding in Conformal Dynamics, and Its Applications Near and Far</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Sabyasachi Mukherjee (Tata Ins...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the Hamilton-Tian Conjecture]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/52-3716.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/49-3717.html" title="Reactions Between Loops: Bases of Cluster and Skein Algebras" target="_blank">Reactions Between Loops: Bases of Cluster and Skein Algebras</a>
                         </p>
                         <p class="speaker">Speaker(s): Fan Qin(BNU)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lines in the Space of Kähler Metrics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3718.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3718.html"/>
+        <updated>2025-09-09T17:38:06.052Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 17</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3718.html" title="Lines in the Space of Kähler Metrics" target="_blank">Lines in the Space of Kähler Metrics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Nicholas McCleerey (Purdue Uni...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale concentration and relaxation for mean-field Langevin particle systems]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3719.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3719.html"/>
+        <updated>2025-09-09T17:38:06.053Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 25</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3719.html" title="Large-scale concentration and relaxation for mean-field Langevin particle systems" target="_blank">Large-scale concentration and relaxation for mean-field Langevin particle systems</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Songbo Wang (Laboratoire J. A....</p>
                     </dd>]]></content>
     </entry>
     <entry>
