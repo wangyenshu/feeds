@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://swc-math.github.io/aws/</id>
     <title>The Southwest Center for Arithmetic Geometry Arizona Winter Schools</title>
-    <updated>2025-09-08T17:41:53.426Z</updated>
+    <updated>2025-09-09T05:42:41.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://swc-math.github.io/aws/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[General information, course descriptions, video
+		                and notes]]></title>
+        <id>https://swc-math.github.io/aws/2026/index.html</id>
+        <link href="https://swc-math.github.io/aws/2026/index.html"/>
+        <updated>2025-09-09T05:42:17.770Z</updated>
+        <content type="html"><![CDATA[<a href="2026/index.html">General information, course descriptions, video
+		                and notes</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[General information, course descriptions, video
 		                and notes]]></title>

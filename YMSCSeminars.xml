@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-09-08T17:41:53.420Z</updated>
+    <updated>2025-09-09T05:42:41.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,6 +18,22 @@
         <div class="t-1">Algebraic Geometry Seminar</div>
         <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
         <div class="t-3">Speaker：Wenhao Ou (Chinese Academy of Science)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm"/>
+        <updated>2025-07-23T03:03:27.992Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 12</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2725.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks 2025/09/12 10:00 am - 11:00 am, Shuangqing B627Shilin Yu 余世霖 (华东师范大学/厦门大学)Geometry of special pieces and orbit methodI will report two ongoing works:The first one is joint work with Juteau, Levy and Sommers. We confirm the special pieces conjecture of Lusztig in all cases, which claims that the special piece associated to any special nilpotent orbit of a complex semi...</div>
+        <div class="t-3">Speaker：Shilin Yu, Sergey Oblezin, Hyun Kyu Kim</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
@@ -38,6 +54,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2025-07-23T03:03:28.001Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 11</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">ADS seminar on Sep. 11th, 2025(This coming Thursday Afternoon)Time: 13:30 - 14:30 (Offline)Venue: Shuangqing Complex Building B627Title: A Story About the Dark WalkerSpeaker: Chen Yang (Pisa, Scuola Normale Superiore)Abstract: In this talk, I will discuss the "Dark Walker" model, an SU(3) theory with eight flavors of massless fundamental fermions in the dark sector, introduced in arXiv:2507.064...</div>
+        <div class="t-3">Speaker：Chen Yang (Pisa, Scuola Normale Superiore)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
@@ -51,38 +83,6 @@
         <div class="t-2">Simultaneous uniformization and algebraic correspondencesSabyasachi MUKHERJEE, Tata Institute of Fundamental Research (2025-09-08)Abstract:Algebraic correspondences on the Riemann sphere provide a rich and interesting class of conformal dynamical systems that contains rational dynamics and Kleinian group actions as important sub-classes. We will discuss two combination theorems in the world of ...</div>
         <div class="t-3">Speaker：Sabyasachi MUKHERJEE, TIFR</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm"/>
-        <updated>2025-07-23T03:03:27.992Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jul 15</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2725.htm" class="right text">
-        <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks 2025/7/15 14:00-15:00 pm, Shuangqing 双清C548Weiqiang Wang (University of Virginia)Drinfeld presentations of twisted Yangians and applicationsAs a generalization of Yangians introduced by Drinfeld in 1986, twisted Yangians are deformation of twisted current algebras. In recent joint work with Kang Lu and Weinan Zhang, we have obtained Drinfeld type current presentations of twiste...</div>
-        <div class="t-3">Speaker：Weiqiang Wang (University of Virginia)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2025-07-23T03:03:28.001Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jul 03</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">ADS seminar on ***3rd July***(This coming **Thursday*** Afternoon)***2:00pm ***(Offline)Venue: Shuangqing Complex C548.Speaker: W. Lerche (CERN)Title: Gromov-Witten Theory and AdS/CFT CorrespondenceAbstract: We discuss how results in the mathematical literature can be applied to the AdS3/CFT correspondence, in a topological sub-sector. They relate the blow-up deformation of the orbifold singula...</div>
-        <div class="t-3">Speaker：W. Lerche (CERN)</div>
-        
     </a>]]></content>
     </entry>
 </feed>
