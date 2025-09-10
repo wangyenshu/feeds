@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-09T17:38:24.346Z</updated>
+    <updated>2025-09-10T05:40:57.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[On the Hamilton-Tian Conjecture]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/52-3716.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/52-3716.html"/>
-        <updated>2025-09-07T17:39:00.640Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/52.html" title="Others" target="_blank">Others</a> </p>
-                        <p class="black">
-                            <a href="/content/show/52-3716.html" title="On the Hamilton-Tian Conjecture" target="_blank">On the Hamilton-Tian Conjecture</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Qi Zhang ( UC Riverside)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the Topology of Stable Minimal Hypersurfaces in $S^4$]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3715.html</id>
@@ -32,11 +15,28 @@
                         <p>Sep 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3715.html" title="On the Topology of Stable Minimal Hypersurfaces in $S^4$" target="_blank">On the Topology of Stable Minimal Hypersurfaces in $S^4$</a>
                         </p>
                         <p class="speaker">Speaker(s): Chao Li (Courant Institute of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3720.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3720.html"/>
+        <updated>2025-09-10T05:40:40.358Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3720.html" title="On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 " target="_blank">On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 </a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shaowei Li (Xiamen University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
