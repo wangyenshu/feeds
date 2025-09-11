@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-11T05:41:08.848Z</updated>
+    <updated>2025-09-11T17:38:33.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Sep 11</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
                         <p class="black">
                             <a href="/content/show/35-3720.html" title="On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 " target="_blank">On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 </a>
                         </p>
