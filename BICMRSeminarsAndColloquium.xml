@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-10T17:40:43.679Z</updated>
+    <updated>2025-09-11T05:41:08.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[On the Topology of Stable Minimal Hypersurfaces in $S^4$]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3715.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3715.html"/>
-        <updated>2025-09-04T17:39:34.527Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3715.html" title="On the Topology of Stable Minimal Hypersurfaces in $S^4$" target="_blank">On the Topology of Stable Minimal Hypersurfaces in $S^4$</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Chao Li (Courant Institute of ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3720.html</id>
@@ -54,6 +37,23 @@
                             <a href="/content/show/49-3717.html" title="Reactions Between Loops: Bases of Cluster and Skein Algebras" target="_blank">Reactions Between Loops: Bases of Cluster and Skein Algebras</a>
                         </p>
                         <p class="speaker">Speaker(s): Fan Qin(BNU)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying genes for type 2 diabetes and related traits]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/92-3721.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/92-3721.html"/>
+        <updated>2025-09-11T05:40:50.254Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/92-3721.html" title="Identifying genes for type 2 diabetes and related traits" target="_blank">Identifying genes for type 2 diabetes and related traits</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Michael Boehnke(University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
