@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://math.nankai.edu.cn/</id>
     <title>南开大学数学学院本科生教育消息</title>
-    <updated>2025-09-12T05:42:22.041Z</updated>
+    <updated>2025-09-12T17:39:20.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://math.nankai.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生拟推荐名单顺延公示]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-07-19T04:15:14.926Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">12</div>
+											<div class="news_year">2025-09</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生培养" alt="本科生培养">本科生培养</a>】<a href="/2025/0912/c34387a577487/page.htm" target="_blank" title="数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生拟推荐名单顺延公示">数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生拟推荐名单顺延公示</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学科学学院教室更改通知（9.12）]]></title>
         <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
@@ -69,23 +86,6 @@
 										<div class="news_wz">
 											<div class="news_con">
 												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/0910/c34387a577257/page.htm" target="_blank" title="2025级数学科学学院项目班二次选拔复试安排">2025级数学科学学院项目班二次选拔复试安排</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生  拟推荐名单公示]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-07-19T04:15:14.926Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">09</div>
-											<div class="news_year">2025-09</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生培养" alt="本科生培养">本科生培养</a>】<a href="/2025/0908/c34387a576957/page.htm" target="_blank" title="数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生  拟推荐名单公示">数学科学学院关于推荐优秀应届本科毕业生免试攻读研究生  拟推荐名单公示</a></div>
 											</div>
 										</div>
 									</div>]]></content>

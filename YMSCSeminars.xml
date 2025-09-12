@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-09-12T05:42:22.052Z</updated>
+    <updated>2025-09-12T17:39:20.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2025-07-23T03:03:27.999Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 19</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Roberto Svaldi (University of Milan)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">YMSC Topology Seminar</div>
         <div class="t-2">Lightbulb theorem, embedded surfaces and isotopy of symplectic structuresJianfeng LIN 林剑锋, YMSC (2025-09-15)Abstract:Gabai's lightbulb theorem classifies embedded spheres in 4-manifolds with a geometric dual sphere. It is a breakthrough in 4-dimensional topology. In this talk, I discuss a joint work with Weiwei Wu, Yi Xie and Boyu Zhang, which classifies the isotopy classes of embeddings of ...</div>
         <div class="t-3">Speaker：Jianfeng LIN 林剑锋, YMSC</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2025-07-23T03:03:27.999Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Sep 12</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Wenhao Ou (Chinese Academy of Science)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
