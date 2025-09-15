@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-15T05:43:17.848Z</updated>
+    <updated>2025-09-15T17:42:21.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3720.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3720.html"/>
-        <updated>2025-09-10T05:40:40.358Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
-                        <p class="black">
-                            <a href="/content/show/35-3720.html" title="On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 " target="_blank">On local accumulation complexity of the set of log canonical volumes in dimension ≥ 2 </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shaowei Li (Xiamen University)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Reactions Between Loops: Bases of Cluster and Skein Algebras]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3717.html</id>
@@ -32,7 +15,7 @@
                         <p>Sep 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3717.html" title="Reactions Between Loops: Bases of Cluster and Skein Algebras" target="_blank">Reactions Between Loops: Bases of Cluster and Skein Algebras</a>
                         </p>
@@ -71,6 +54,23 @@
                             <a href="/content/show/43-3718.html" title="Lines in the Space of Kähler Metrics" target="_blank">Lines in the Space of Kähler Metrics</a>
                         </p>
                         <p class="speaker">Speaker(s): Nicholas McCleerey (Purdue Uni...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halpern-Lauchli theorem and matheatical induction]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3722.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3722.html"/>
+        <updated>2025-09-15T17:42:03.434Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3722.html" title="Halpern-Lauchli theorem and matheatical induction" target="_blank">Halpern-Lauchli theorem and matheatical induction</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yang Yue (National University ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
