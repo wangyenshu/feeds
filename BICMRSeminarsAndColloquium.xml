@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-16T05:40:57.716Z</updated>
+    <updated>2025-09-16T17:40:20.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Reactions Between Loops: Bases of Cluster and Skein Algebras]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3717.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3717.html"/>
-        <updated>2025-09-08T05:44:29.419Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 15</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3717.html" title="Reactions Between Loops: Bases of Cluster and Skein Algebras" target="_blank">Reactions Between Loops: Bases of Cluster and Skein Algebras</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Fan Qin(Beijing Normal Univers...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Identifying genes for type 2 diabetes and related traits]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/92-3721.html</id>
@@ -32,7 +15,7 @@
                         <p>Sep 16</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> </p>
                         <p class="black">
                             <a href="/content/show/92-3721.html" title="Identifying genes for type 2 diabetes and related traits" target="_blank">Identifying genes for type 2 diabetes and related traits</a>
                         </p>
@@ -57,6 +40,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lower Bounds for Heights over Function Fields]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3723.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3723.html"/>
+        <updated>2025-09-16T17:40:00.959Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3723.html" title="Lower Bounds for Heights over Function Fields" target="_blank">Lower Bounds for Heights over Function Fields</a>
+                        </p>
+                        <p class="speaker">Speaker(s): David Masser (University of Ba...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Halpern-Lauchli theorem and matheatical induction]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3722.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/93-3722.html"/>
@@ -66,7 +66,7 @@
                         <p>Sep 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/93-3722.html" title="Halpern-Lauchli theorem and matheatical induction" target="_blank">Halpern-Lauchli theorem and matheatical induction</a>
                         </p>
