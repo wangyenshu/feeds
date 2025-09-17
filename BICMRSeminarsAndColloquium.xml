@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-17T05:42:46.295Z</updated>
+    <updated>2025-09-17T17:39:43.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Identifying genes for type 2 diabetes and related traits]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/92-3721.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/92-3721.html"/>
-        <updated>2025-09-11T05:40:50.254Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 16</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/92-3721.html" title="Identifying genes for type 2 diabetes and related traits" target="_blank">Identifying genes for type 2 diabetes and related traits</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Michael Boehnke(University of ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lines in the Space of Kähler Metrics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3718.html</id>
@@ -32,11 +15,28 @@
                         <p>Sep 17</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3718.html" title="Lines in the Space of Kähler Metrics" target="_blank">Lines in the Space of Kähler Metrics</a>
                         </p>
                         <p class="speaker">Speaker(s): Nicholas McCleerey (Purdue Uni...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3724.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3724.html"/>
+        <updated>2025-09-17T17:39:26.720Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3724.html" title="A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs" target="_blank">A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Qiming Fang(BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
