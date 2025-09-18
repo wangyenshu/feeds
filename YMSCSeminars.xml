@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-09-18T05:42:39.957Z</updated>
+    <updated>2025-09-18T17:42:07.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,6 +18,22 @@
         <div class="t-1">代数讨论班</div>
         <div class="t-2">Algebra seminar (in cooperation with Topology seminar)  Title: Cluster algebras of finite mutation type and extended affine Weyl groupsSpeaker: Pavel Tumarkin (Durham University)Abstract: With (almost) every finite mutation class of quivers we can associate two groups: an extended affine Weyl group of type A or D, and a certain quotient of a Coxeter group which behaves nicely with respect to mu...</div>
         <div class="t-3">Speaker：Pavel Tumarkin (Durham University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
+        <updated>2025-09-18T17:41:58.641Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 25</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2401.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
+        <div class="t-2">Analytification and tropicalization of some projective varieties II (12-1 pm, BIMSA A4-1)</div>
+        <div class="t-3">Speaker：Arnaud Plessis</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
@@ -66,22 +82,6 @@
         <div class="t-1">YMSC Topology Seminar</div>
         <div class="t-2">Quantized nonabelianization via higher-dimensional Heegaard Floer homology and folded Morse flow trees - Tianyu YUAN 袁天宇, Eastern Institute of Technology, Ningbo 宁波东方理工大学 (2025-09-22)Abstract:Gaiotto-Moore-Neitzke introduced the notion of spectral network in the study of supersymmetric gauge theory. It provides a way to define a nonabelianization map (UV-IR map) from gl(1) local syst...</div>
         <div class="t-3">Speaker：Tianyu YUAN 袁天宇, Eastern Institute of Technology, Ningbo 宁波东方理工大学</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2025-07-23T03:03:27.999Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Sep 19</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Roberto Svaldi (University of Milan)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
