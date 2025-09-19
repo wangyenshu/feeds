@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-09-19T05:42:26.659Z</updated>
+    <updated>2025-09-19T17:40:30.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -306,7 +306,7 @@
         <title type="html"><![CDATA[Workshop II: Bridging Scales from Atomistic to Continuum in Electrochemical Systems]]></title>
         <id>https://mathinstitutes.org/events/1201/view/</id>
         <link href="https://mathinstitutes.org/events/1201/view/"/>
-        <updated>2025-09-19T05:41:47.736Z</updated>
+        <updated>2025-09-19T05:41:47.734Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -319,7 +319,7 @@
         <title type="html"><![CDATA[Workshop II: Bridging Scales from Atomistic to Continuum in Electrochemical Systems]]></title>
         <id>https://mathinstitutes.org/events/1201/view/</id>
         <link href="https://mathinstitutes.org/events/1201/view/"/>
-        <updated>2025-09-19T05:41:47.737Z</updated>
+        <updated>2025-09-19T05:41:47.734Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1201/view/" target="_blank" rel="noopener">Workshop II: Bridging Scales from Atomistic to Continuum in Electrochemical Systems</a></h5>
 			<div class="event-info">IPAM - October 6, 2025 to October 10, 2025</div>]]></content>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Flag algebras and extremal combinatorics]]></title>
         <id>https://mathinstitutes.org/events/1277/view/</id>
         <link href="https://mathinstitutes.org/events/1277/view/"/>
-        <updated>2025-09-19T05:41:47.740Z</updated>
+        <updated>2025-09-19T05:41:47.739Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Flag algebras and extremal combinatorics]]></title>
         <id>https://mathinstitutes.org/events/1277/view/</id>
         <link href="https://mathinstitutes.org/events/1277/view/"/>
-        <updated>2025-09-19T05:41:47.741Z</updated>
+        <updated>2025-09-19T05:41:47.739Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1277/view/" target="_blank" rel="noopener">Flag algebras and extremal combinatorics</a></h5>
 			<div class="event-info">AIM - October 13, 2025 to October 17, 2025</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Diagrammatic Categorification]]></title>
         <id>https://mathinstitutes.org/events/1248/view/</id>
         <link href="https://mathinstitutes.org/events/1248/view/"/>
-        <updated>2025-09-19T05:41:47.745Z</updated>
+        <updated>2025-09-19T05:41:47.743Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Diagrammatic Categorification]]></title>
         <id>https://mathinstitutes.org/events/1248/view/</id>
         <link href="https://mathinstitutes.org/events/1248/view/"/>
-        <updated>2025-09-19T05:41:47.746Z</updated>
+        <updated>2025-09-19T05:41:47.743Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1248/view/" target="_blank" rel="noopener">Diagrammatic Categorification</a></h5>
 			<div class="event-info">ICERM - October 20, 2025 to October 24, 2025</div>]]></content>

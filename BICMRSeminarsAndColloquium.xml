@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-19T05:42:26.638Z</updated>
+    <updated>2025-09-19T17:40:30.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
                         <p>Sep 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-3724.html" title="A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs" target="_blank">A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>Sep 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
                         <p class="black">
                             <a href="/content/show/35-3723.html" title="Lower Bounds for Heights over Function Fields" target="_blank">Lower Bounds for Heights over Function Fields</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Sep 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3722.html" title="Halpern-Lauchli theorem and matheatical induction" target="_blank">Halpern-Lauchli theorem and matheatical induction</a>
                         </p>
@@ -88,23 +88,6 @@
                             <a href="/content/show/83-3719.html" title="Large-scale concentration and relaxation for mean-field Langevin particle systems" target="_blank">Large-scale concentration and relaxation for mean-field Langevin particle systems</a>
                         </p>
                         <p class="speaker">Speaker(s): Songbo Wang (Laboratoire J. A....</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Summer School on Differential Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3575.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3575.html"/>
-        <updated>2025-07-23T02:58:19.286Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Aug 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="/content/show/17-3575.html" title="2025 Summer School on Differential Geometry" target="_blank">2025 Summer School on Differential Geometry</a>
-                        </p>
-                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3712.html" title="Summer School on Complex Analysis " target="_blank">Summer School on Complex Analysis </a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[p-adic Day]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3725.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3725.html"/>
+        <updated>2025-09-19T17:40:11.751Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3725.html" title="p-adic Day" target="_blank">p-adic Day</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
