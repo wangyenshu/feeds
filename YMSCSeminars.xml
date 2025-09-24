@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-09-23T17:39:07.818Z</updated>
+    <updated>2025-09-24T05:42:43.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,6 +18,22 @@
         <div class="t-1">代数讨论班</div>
         <div class="t-2">Algebra seminar (in cooperation with Topology seminar)  Title: Cluster algebras of finite mutation type and extended affine Weyl groupsSpeaker: Pavel Tumarkin (Durham University)Abstract: With (almost) every finite mutation class of quivers we can associate two groups: an extended affine Weyl group of type A or D, and a certain quotient of a Coxeter group which behaves nicely with respect to mu...</div>
         <div class="t-3">Speaker：Pavel Tumarkin (Durham University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
+        <updated>2025-09-24T05:42:34.704Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 29</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/1973.htm" class="right text">
+        <div class="t-1">YMSC Topology Seminar</div>
+        <div class="t-2">Cluster algebras of finite mutation type and extended affine Weyl groups - Pavel Tumarkin, Durham University (2025-09-29)This is a collaborative event with the Algebra Seminar groupAbstract:With (almost) every finite mutation class of quivers we can associate two groups: an extended affine Weyl group of type A or D, and a certain quotient of a Coxeter group which behaves nicely with respect to ...</div>
+        <div class="t-3">Speaker：Pavel Tumarkin, Durham </div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
@@ -66,22 +82,6 @@
         <div class="t-1">Geometric Representation Theory Seminar</div>
         <div class="t-2">Upcoming talks  2025/09/26 10:30-11:30 am, Shuangqing B627Hyun Kyu Kim (KIAS)Frobenius homomorphisms for SL_n-skein algebras of surfacesThe $SL_n$-skein algebra $\mathscr{S}_q(S)$ of an oriented surface $S$ is a quantization of the $SL_n$-character variety of $S$. It is spanned by isotopy classes of framed links in the thickened surface $S \times (-1,1)$. When the quantum parameter $q$ is speci...</div>
         <div class="t-3">Speaker：Hyun Kyu Kim</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2025-09-18T17:41:58.641Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Sep 25</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">Analytification and tropicalization of some projective varieties II (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：Arnaud Plessis</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
