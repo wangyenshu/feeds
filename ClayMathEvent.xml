@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2025-09-24T17:42:09.330Z</updated>
+    <updated>2025-09-25T05:43:44.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[2025 Clay Research Conference]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.330Z</updated>
+        <updated>2025-09-25T05:42:57.798Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[P vs NP and Complexity Lower Bounds]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.331Z</updated>
+        <updated>2025-09-25T05:42:57.801Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -51,7 +51,7 @@
         <title type="html"><![CDATA[PDE and Fluids]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.333Z</updated>
+        <updated>2025-09-25T05:42:57.803Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[Zeta and L-functions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.335Z</updated>
+        <updated>2025-09-25T05:42:57.804Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -93,7 +93,7 @@
         <title type="html"><![CDATA[Hodge Theory and Algebraic Cycles]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.338Z</updated>
+        <updated>2025-09-25T05:42:57.806Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[Operator Algebras and Mathematical Physics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.340Z</updated>
+        <updated>2025-09-25T05:42:57.808Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -133,7 +133,7 @@
         <title type="html"><![CDATA[Trisections and their Generalizations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.343Z</updated>
+        <updated>2025-09-25T05:42:57.809Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -152,7 +152,7 @@
         <title type="html"><![CDATA[VIII Encuentro Regional de Teoría de Números]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.343Z</updated>
+        <updated>2025-09-25T05:42:57.812Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -171,7 +171,7 @@
         <title type="html"><![CDATA[Geometry, Higher Structures, and Physics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.345Z</updated>
+        <updated>2025-09-25T05:42:57.813Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -190,7 +190,7 @@
         <title type="html"><![CDATA[Operators, Graphs, Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.346Z</updated>
+        <updated>2025-09-25T05:42:57.818Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -209,7 +209,7 @@
         <title type="html"><![CDATA[Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.347Z</updated>
+        <updated>2025-09-25T05:42:57.819Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -228,7 +228,7 @@
         <title type="html"><![CDATA[Recent Trends in Stochastic Partial Differential Equations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.348Z</updated>
+        <updated>2025-09-25T05:42:57.822Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -247,7 +247,7 @@
         <title type="html"><![CDATA[Vector Bundles on Algebraic Curves: Curves, Surfaces and Moduli]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.350Z</updated>
+        <updated>2025-09-25T05:42:57.824Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -266,7 +266,7 @@
         <title type="html"><![CDATA[Geometric Structures and Stability]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.351Z</updated>
+        <updated>2025-09-25T05:42:57.825Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -287,7 +287,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.353Z</updated>
+        <updated>2025-09-25T05:42:57.827Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -306,7 +306,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-09-24T17:41:24.354Z</updated>
+        <updated>2025-09-25T05:42:57.828Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
