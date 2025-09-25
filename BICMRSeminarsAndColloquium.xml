@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-09-25T05:43:44.053Z</updated>
+    <updated>2025-09-25T17:41:45.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3724.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3724.html"/>
-        <updated>2025-09-17T17:39:26.720Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3724.html" title="A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs" target="_blank">A High-Dimensional Extension of Wagner's Theorem and the Geometrization of Hypergraphs</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Qiming Fang(BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lower Bounds for Heights over Function Fields]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3723.html</id>
@@ -66,7 +49,7 @@
                         <p>Sep 25</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
                         <p class="black">
                             <a href="/content/show/83-3719.html" title="Large-scale concentration and relaxation for mean-field Langevin particle systems" target="_blank">Large-scale concentration and relaxation for mean-field Langevin particle systems</a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/93-3726.html" title="Grothendieck groups and model theory" target="_blank">Grothendieck groups and model theory</a>
                         </p>
                         <p class="speaker">Speaker(s): Tomasz Rzepecki (University of...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causal Inference for Knowledge Graphs and Large Language Models]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3727.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3727.html"/>
+        <updated>2025-09-25T17:41:29.446Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Sep 26</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3727.html" title="Causal Inference for Knowledge Graphs and Large Language Models" target="_blank">Causal Inference for Knowledge Graphs and Large Language Models</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Danlei Gu (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
