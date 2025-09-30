@@ -2,14 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jwc.nankai.edu.cn/</id>
     <title>南开大学教务处通知</title>
-    <updated>2025-09-30T05:44:31.496Z</updated>
+    <updated>2025-09-30T17:42:20.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://jwc.nankai.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[南开大学2025-2026学年第一学期本科生选课通知]]></title>
+        <id>https://jwc.nankai.edu.cn/</id>
+        <link href="https://jwc.nankai.edu.cn/"/>
+        <updated>2025-09-30T17:41:19.724Z</updated>
+        <content type="html"><![CDATA[<div class="date">
+								<div class="d">18</div>
+								<div class="m">25/08</div>
+							</div>
+							<div class="con" title="南开大学2025-2026学年第一学期本科生选课通知">南开大学2025-2026学年第一学期本科生选课通知</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于开展2025年度教育部-华为“智能基座”优秀教师/教材奖励计划申报的通知]]></title>
+        <id>https://jwc.nankai.edu.cn/</id>
+        <link href="https://jwc.nankai.edu.cn/"/>
+        <updated>2025-09-30T17:41:19.725Z</updated>
+        <content type="html"><![CDATA[<div class="date">
+								<div class="d">30</div>
+								<div class="m">25/09</div>
+							</div>
+							<div class="con" title="关于开展2025年度教育部-华为“智能基座”优秀教师/教材奖励计划申报的通知">关于开展2025年度教育部-华为“智能基座”优秀教师/教材奖励计划申报的通知</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南开大学推荐参评2025年度天津市普通高等学校本科优秀毕业设计（论文）名单公示]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.555Z</updated>
+        <updated>2025-09-30T17:41:19.727Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">29</div>
 								<div class="m">25/09</div>
@@ -20,7 +42,7 @@
         <title type="html"><![CDATA[南开大学第十七届全国大学生数学竞赛延长报名通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.555Z</updated>
+        <updated>2025-09-30T17:41:19.728Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">29</div>
 								<div class="m">25/09</div>
@@ -31,7 +53,7 @@
         <title type="html"><![CDATA[关于开展 2025 年智慧书院招生工作的通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.556Z</updated>
+        <updated>2025-09-30T17:41:19.729Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">22</div>
 								<div class="m">25/09</div>
@@ -42,7 +64,7 @@
         <title type="html"><![CDATA[关于组织青年教师参加南开大学2025年本科教学观摩活动的通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.558Z</updated>
+        <updated>2025-09-30T17:41:19.730Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">19</div>
 								<div class="m">25/09</div>
@@ -53,7 +75,7 @@
         <title type="html"><![CDATA[关于开展2025-2026学年第一学期本科课堂教学质量评价的通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.559Z</updated>
+        <updated>2025-09-30T17:41:19.731Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">18</div>
 								<div class="m">25/09</div>
@@ -64,7 +86,7 @@
         <title type="html"><![CDATA[关于2025年下半年全国大学英语四、六级考试报名工作的通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.560Z</updated>
+        <updated>2025-09-30T17:41:19.733Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">18</div>
 								<div class="m">25/09</div>
@@ -75,33 +97,11 @@
         <title type="html"><![CDATA[关于启动南开大学2025-2026学年第一学期本科教学督导工作的通知]]></title>
         <id>https://jwc.nankai.edu.cn/</id>
         <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.561Z</updated>
+        <updated>2025-09-30T17:41:19.734Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">18</div>
 								<div class="m">25/09</div>
 							</div>
 							<div class="con" title="关于启动南开大学2025-2026学年第一学期本科教学督导工作的通知">关于启动南开大学2025-2026学年第一学期本科教学督导工作的通知</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南开大学关于2026年推荐优秀应届本科毕业生免试攻读研究生递补名单的公示]]></title>
-        <id>https://jwc.nankai.edu.cn/</id>
-        <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.562Z</updated>
-        <content type="html"><![CDATA[<div class="date">
-								<div class="d">17</div>
-								<div class="m">25/09</div>
-							</div>
-							<div class="con" title="南开大学关于2026年推荐优秀应届本科毕业生免试攻读研究生递补名单的公示">南开大学关于2026年推荐优秀应届本科毕业生免试攻读研究生递补名单的公示</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于组织开展 2025 年新生研讨课小班教学工作的通知]]></title>
-        <id>https://jwc.nankai.edu.cn/</id>
-        <link href="https://jwc.nankai.edu.cn/"/>
-        <updated>2025-09-30T05:43:28.563Z</updated>
-        <content type="html"><![CDATA[<div class="date">
-								<div class="d">15</div>
-								<div class="m">25/09</div>
-							</div>
-							<div class="con" title="关于组织开展 2025 年新生研讨课小班教学工作的通知">关于组织开展 2025 年新生研讨课小班教学工作的通知</div>]]></content>
     </entry>
 </feed>
