@@ -2,142 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2025-10-02T17:38:58.946Z</updated>
+    <updated>2025-10-03T05:42:01.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[2025 Clay Research Conference]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.840Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="350" height="206" src="https://www.claymath.org/wp-content/uploads/2022/11/image-16.jpeg" class="attachment-4044 size-4044 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/11/image-16.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/11/image-16-300x177.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>2025 Clay Research Conference</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P vs NP and Complexity Lower Bounds]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.842Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="350" height="263" src="https://www.claymath.org/wp-content/uploads/2022/10/image-14.jpeg" class="attachment-4062 size-4062 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/10/image-14.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/10/image-14-300x225.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>P vs NP and Complexity Lower Bounds</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDE and Fluids]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.843Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="1244" height="2560" src="https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-scaled.jpg" class="attachment-4064 size-4064 wp-post-image" alt="NSE workshop 2025" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-scaled.jpg 1244w, https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-146x300.jpg 146w, https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-497x1024.jpg 497w, https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-768x1581.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-746x1536.jpg 746w, https://www.claymath.org/wp-content/uploads/2025/04/Img1115T-995x2048.jpg 995w" sizes="(max-width: 1244px) 100vw, 1244px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>PDE and Fluids</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeta and L-functions]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.846Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="1920" height="1080" src="https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner.jpeg" class="attachment-4066 size-4066 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner.jpeg 1920w, https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner-300x169.jpeg 300w, https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner-1024x576.jpeg 1024w, https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner-768x432.jpeg 768w, https://www.claymath.org/wp-content/uploads/2022/01/Andrew-Wiles-Building-Banner-1536x864.jpeg 1536w" sizes="(max-width: 1920px) 100vw, 1920px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>Zeta and L-functions</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hodge Theory and Algebraic Cycles]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.847Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="360" height="353" src="https://www.claymath.org/wp-content/uploads/2025/05/k3-2.png" class="attachment-4075 size-4075 wp-post-image" alt="Hodge Theory and Algebraic Cycles image" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/05/k3-2.png 360w, https://www.claymath.org/wp-content/uploads/2025/05/k3-2-300x294.png 300w" sizes="(max-width: 360px) 100vw, 360px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>Hodge Theory and Algebraic Cycles</h3>
-   <p> Mathematical Institute, University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Operator Algebras and Mathematical Physics]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.851Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="350" height="263" src="https://www.claymath.org/wp-content/uploads/2022/05/image-24.jpeg" class="attachment-4129 size-4129 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-24.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-24-300x225.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      29 September - 3 October 2025    </span>
-    <h3>Operator Algebras and Mathematical Physics</h3>
-   <p> ICMS Edinburgh</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Trisections and their Generalizations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.853Z</updated>
+        <updated>2025-10-03T05:41:16.070Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="350" height="237" src="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg" class="attachment-4101 size-4101 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/04/image-78-300x203.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
+  <img width="350" height="237" src="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg" class="attachment-4101 size-4101 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/04/image-78-300x203.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -152,7 +28,7 @@
         <title type="html"><![CDATA[VIII Encuentro Regional de Teoría de Números]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.855Z</updated>
+        <updated>2025-10-03T05:41:16.070Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -171,7 +47,7 @@
         <title type="html"><![CDATA[Geometry, Higher Structures, and Physics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.856Z</updated>
+        <updated>2025-10-03T05:41:16.072Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -190,7 +66,7 @@
         <title type="html"><![CDATA[Operators, Graphs, Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.857Z</updated>
+        <updated>2025-10-03T05:41:16.073Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -209,7 +85,7 @@
         <title type="html"><![CDATA[Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.859Z</updated>
+        <updated>2025-10-03T05:41:16.076Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -228,7 +104,7 @@
         <title type="html"><![CDATA[Recent Trends in Stochastic Partial Differential Equations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.861Z</updated>
+        <updated>2025-10-03T05:41:16.077Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -247,7 +123,7 @@
         <title type="html"><![CDATA[Vector Bundles on Algebraic Curves: Curves, Surfaces and Moduli]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.862Z</updated>
+        <updated>2025-10-03T05:41:16.078Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -266,7 +142,7 @@
         <title type="html"><![CDATA[Geometric Structures and Stability]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.864Z</updated>
+        <updated>2025-10-03T05:41:16.080Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -287,7 +163,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.865Z</updated>
+        <updated>2025-10-03T05:41:16.081Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -306,7 +182,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-02T17:38:09.867Z</updated>
+        <updated>2025-10-03T05:41:16.082Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -317,6 +193,120 @@
       5 January - 3 April 2026    </span>
     <h3>Illustration as a Mathematical Research Technique</h3>
    <p> Institut Henri Poincaré</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millennium Prize Problems Lecture Series]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.084Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1656" height="2560" src="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg" class="attachment-4067 size-4067 wp-post-image" alt="MPP Harvard poster" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg 1656w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-194x300.jpg 194w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-663x1024.jpg 663w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-768x1187.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-994x1536.jpg 994w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-1325x2048.jpg 1325w" sizes="(max-width: 1656px) 100vw, 1656px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      17 September 2025 - 15 April 2026    </span>
+    <h3>Millennium Prize Problems Lecture Series</h3>
+   <p> Harvard Science Center, Harvard University</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.085Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="350" height="263" src="https://www.claymath.org/wp-content/uploads/2022/05/image-24.jpeg" class="attachment-4121 size-4121 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-24.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-24-300x225.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      20 - 24  April 2026    </span>
+    <h3>Farey’s Legacy in Frieze Patterns and Discrete Geometry</h3>
+   <p> ICMS Edinburgh</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.087Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="800" height="618" src="https://www.claymath.org/wp-content/uploads/2024/11/content_Fall-2025_TGS_368_Membership_Preview.jpg" class="attachment-3985 size-3985 wp-post-image" alt="Topological and Geometric Structure msri" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/11/content_Fall-2025_TGS_368_Membership_Preview.jpg 800w, https://www.claymath.org/wp-content/uploads/2024/11/content_Fall-2025_TGS_368_Membership_Preview-300x232.jpg 300w, https://www.claymath.org/wp-content/uploads/2024/11/content_Fall-2025_TGS_368_Membership_Preview-768x593.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      20 January - 22 May 2026    </span>
+    <h3>Topological and Geometric Structures in Low Dimensions</h3>
+   <p> Simons Laufer Mathematical Research Institute</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.088Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="800" height="618" src="https://www.claymath.org/wp-content/uploads/2024/11/content_Spring-2026_GDLG_365_Membership_Preview.jpg" class="attachment-3987 size-3987 wp-post-image" alt="Geometry and Dynamics for Discrete Subgroups msri" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/11/content_Spring-2026_GDLG_365_Membership_Preview.jpg 800w, https://www.claymath.org/wp-content/uploads/2024/11/content_Spring-2026_GDLG_365_Membership_Preview-300x232.jpg 300w, https://www.claymath.org/wp-content/uploads/2024/11/content_Spring-2026_GDLG_365_Membership_Preview-768x593.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      20 January - 22 May 2026    </span>
+    <h3>Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</h3>
+   <p> Simons Laufer Mathematical Sciences Institute</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Spectral Theory and Applications]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.090Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="308" height="154" src="https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1.png" class="attachment-4107 size-4107 wp-post-image" alt="Geometric Spectral Theory" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1.png 308w, https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1-300x150.png 300w" sizes="(max-width: 308px) 100vw, 308px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      7 January - 26 June 2026    </span>
+    <h3>Geometric Spectral Theory and Applications</h3>
+   <p> Isaac Newton Institute</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-03T05:41:16.091Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1599" height="1066" src="https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015.jpg" class="attachment-4112 size-4112 wp-post-image" alt="Hungarian Academy of Sciences" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015.jpg 1599w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-300x200.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-1024x683.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-768x512.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-1536x1024.jpg 1536w" sizes="(max-width: 1599px) 100vw, 1599px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      22 - 26  June 2026    </span>
+    <h3>Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions</h3>
+   <p> Hungarian Academy of Sciences</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>
