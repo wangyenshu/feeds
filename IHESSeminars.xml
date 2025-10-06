@@ -2,35 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2025-10-06T05:41:42.011Z</updated>
+    <updated>2025-10-06T17:41:47.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.962Z</updated>
-        <content type="html"><![CDATA[Monday 06 October 2025<br>
-								from 14:00 to 15:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditioned Random Walks on Linear Groups]]></title>
-        <id>https://indico.math.cnrs.fr/event/14849/</id>
-        <link href="https://indico.math.cnrs.fr/event/14849/"/>
-        <updated>2025-09-02T17:40:18.075Z</updated>
-        <content type="html"><![CDATA[<p><small>
-																		Séminaire Géométrie et groupes discrets									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/14849/" target="_blank">Conditioned Random Walks on Linear Groups</a>
-								</h3>
-								<p><strong> Jean-François Quint</strong></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://www.ihes.fr/en/events/#seminars</id>
-        <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.963Z</updated>
+        <updated>2025-10-06T17:41:17.436Z</updated>
         <content type="html"><![CDATA[Monday 06 October 2025<br>
 								from 16:00 to 17:15]]></content>
     </entry>
@@ -48,10 +27,31 @@
 								<p><strong> Max Riestenberg</strong></p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2025-10-06T17:41:17.439Z</updated>
+        <content type="html"><![CDATA[Wednesday 08 October 2025<br>
+								from 14:45 to 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News from the Robinson-Trautman Spacetime]]></title>
+        <id>https://indico.math.cnrs.fr/event/15172/</id>
+        <link href="https://indico.math.cnrs.fr/event/15172/"/>
+        <updated>2025-10-06T17:41:17.722Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15172/" target="_blank">News from the Robinson-Trautman Spacetime</a>
+								</h3>
+								<p><strong> Ali Seraj</strong></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.963Z</updated>
+        <updated>2025-10-06T17:41:17.439Z</updated>
         <content type="html"><![CDATA[Wednesday 12 November 2025<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.964Z</updated>
+        <updated>2025-10-06T17:41:17.440Z</updated>
         <content type="html"><![CDATA[Wednesday 12 November 2025<br>
 								from 15:30 to 16:30]]></content>
     </entry>
@@ -93,7 +93,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.965Z</updated>
+        <updated>2025-10-06T17:41:17.444Z</updated>
         <content type="html"><![CDATA[Wednesday 26 November 2025<br>
 								from 10:30 to 11:30]]></content>
     </entry>
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[10]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.966Z</updated>
+        <updated>2025-10-06T17:41:17.444Z</updated>
         <content type="html"><![CDATA[Wednesday 26 November 2025<br>
 								from 12:00 to 13:00]]></content>
     </entry>
@@ -135,7 +135,7 @@
         <title type="html"><![CDATA[12]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.970Z</updated>
+        <updated>2025-10-06T17:41:17.447Z</updated>
         <content type="html"><![CDATA[Wednesday 10 December 2025<br>
 								from 10:30 to 11:30]]></content>
     </entry>
@@ -156,7 +156,7 @@
         <title type="html"><![CDATA[14]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.971Z</updated>
+        <updated>2025-10-06T17:41:17.447Z</updated>
         <content type="html"><![CDATA[Wednesday 10 December 2025<br>
 								from 12:00 to 13:00]]></content>
     </entry>
@@ -177,7 +177,28 @@
         <title type="html"><![CDATA[16]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.972Z</updated>
+        <updated>2025-10-06T17:41:17.447Z</updated>
+        <content type="html"><![CDATA[Monday 06 October 2025<br>
+								from 14:00 to 15:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditioned Random Walks on Linear Groups]]></title>
+        <id>https://indico.math.cnrs.fr/event/14849/</id>
+        <link href="https://indico.math.cnrs.fr/event/14849/"/>
+        <updated>2025-09-02T17:40:18.075Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire Géométrie et groupes discrets									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/14849/" target="_blank">Conditioned Random Walks on Linear Groups</a>
+								</h3>
+								<p><strong> Jean-François Quint</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2025-10-06T17:41:17.448Z</updated>
         <content type="html"><![CDATA[Thursday 02 October 2025<br>
 								from 14:30 to 16:00]]></content>
     </entry>
@@ -195,10 +216,10 @@
 								<p><strong> Ethan Martin Torres</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.973Z</updated>
+        <updated>2025-10-06T17:41:17.450Z</updated>
         <content type="html"><![CDATA[Wednesday 24 September 2025<br>
 								from 14:30 to 16:00]]></content>
     </entry>
@@ -216,10 +237,10 @@
 								<p><strong> Mikhail Ivanov</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.975Z</updated>
+        <updated>2025-10-06T17:41:17.452Z</updated>
         <content type="html"><![CDATA[Thursday 18 September 2025<br>
 								from 14:30 to 15:30]]></content>
     </entry>
@@ -237,10 +258,10 @@
 								<p><strong> Shinichi Kobayashi</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
+        <title type="html"><![CDATA[24]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.976Z</updated>
+        <updated>2025-10-06T17:41:17.452Z</updated>
         <content type="html"><![CDATA[Monday 15 September 2025<br>
 								from 14:30 to 16:00]]></content>
     </entry>
@@ -258,10 +279,10 @@
 								<p><strong> Timothy Cohen</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[24]]></title>
+        <title type="html"><![CDATA[26]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.979Z</updated>
+        <updated>2025-10-06T17:41:17.453Z</updated>
         <content type="html"><![CDATA[Thursday 04 September 2025<br>
 								from 14:30 to 16:00]]></content>
     </entry>
@@ -279,10 +300,10 @@
 								<p><strong> Amey Gaikwad</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[26]]></title>
+        <title type="html"><![CDATA[28]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.980Z</updated>
+        <updated>2025-10-06T17:41:17.454Z</updated>
         <content type="html"><![CDATA[Wednesday 09 July 2025<br>
 								from 12:00 to 13:00]]></content>
     </entry>
@@ -300,10 +321,10 @@
 								<p><strong> Fanny Eustachon</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28]]></title>
+        <title type="html"><![CDATA[30]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.981Z</updated>
+        <updated>2025-10-06T17:41:17.456Z</updated>
         <content type="html"><![CDATA[Wednesday 09 July 2025<br>
 								from 10:30 to 11:30]]></content>
     </entry>
@@ -321,10 +342,10 @@
 								<p><strong> Katharina Eichinger</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30]]></title>
+        <title type="html"><![CDATA[32]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.982Z</updated>
+        <updated>2025-10-06T17:41:17.457Z</updated>
         <content type="html"><![CDATA[Wednesday 09 July 2025<br>
 								from 09:30 to 10:30]]></content>
     </entry>
@@ -342,10 +363,10 @@
 								<p><strong> Philine van Vliet</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[32]]></title>
+        <title type="html"><![CDATA[34]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.984Z</updated>
+        <updated>2025-10-06T17:41:17.458Z</updated>
         <content type="html"><![CDATA[Tuesday 08 July 2025<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -363,31 +384,10 @@
 								<p><strong> Dam Thanh Son</strong></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
-        <id>https://www.ihes.fr/en/events/#seminars</id>
-        <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.985Z</updated>
-        <content type="html"><![CDATA[Thursday 19 June 2025<br>
-								from 11:00 to 12:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moduli Stacks of Genus One Gorenstein Curves with Projective Good Moduli Spaces]]></title>
-        <id>https://indico.math.cnrs.fr/event/14408/</id>
-        <link href="https://indico.math.cnrs.fr/event/14408/"/>
-        <updated>2025-07-23T02:46:25.577Z</updated>
-        <content type="html"><![CDATA[<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/14408/" target="_blank">Moduli Stacks of Genus One Gorenstein Curves with Projective Good Moduli Spaces</a>
-								</h3>
-								<p><strong> Michele Pernice</strong></p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[36]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.986Z</updated>
+        <updated>2025-10-06T17:41:17.459Z</updated>
         <content type="html"><![CDATA[Monday 24 November 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -403,7 +403,7 @@
         <title type="html"><![CDATA[38]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.988Z</updated>
+        <updated>2025-10-06T17:41:17.463Z</updated>
         <content type="html"><![CDATA[Tuesday 25 November 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -419,7 +419,7 @@
         <title type="html"><![CDATA[40]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.989Z</updated>
+        <updated>2025-10-06T17:41:17.463Z</updated>
         <content type="html"><![CDATA[Wednesday 26 November 2025 from 14:00]]></content>
     </entry>
     <entry>
@@ -435,7 +435,7 @@
         <title type="html"><![CDATA[42]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.989Z</updated>
+        <updated>2025-10-06T17:41:17.464Z</updated>
         <content type="html"><![CDATA[Wednesday 01 October 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -451,7 +451,7 @@
         <title type="html"><![CDATA[44]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.992Z</updated>
+        <updated>2025-10-06T17:41:17.465Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -467,7 +467,7 @@
         <title type="html"><![CDATA[46]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.993Z</updated>
+        <updated>2025-10-06T17:41:17.466Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -483,7 +483,7 @@
         <title type="html"><![CDATA[48]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.994Z</updated>
+        <updated>2025-10-06T17:41:17.467Z</updated>
         <content type="html"><![CDATA[Thursday 25 September 2025 from 15:00]]></content>
     </entry>
     <entry>
@@ -499,7 +499,7 @@
         <title type="html"><![CDATA[50]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.995Z</updated>
+        <updated>2025-10-06T17:41:17.468Z</updated>
         <content type="html"><![CDATA[Thursday 25 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -515,7 +515,7 @@
         <title type="html"><![CDATA[52]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.998Z</updated>
+        <updated>2025-10-06T17:41:17.469Z</updated>
         <content type="html"><![CDATA[Monday 22 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -531,7 +531,7 @@
         <title type="html"><![CDATA[54]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.998Z</updated>
+        <updated>2025-10-06T17:41:17.473Z</updated>
         <content type="html"><![CDATA[Thursday 18 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -547,7 +547,7 @@
         <title type="html"><![CDATA[56]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:09.999Z</updated>
+        <updated>2025-10-06T17:41:17.473Z</updated>
         <content type="html"><![CDATA[Thursday 17 April 2025 from 14:00]]></content>
     </entry>
     <entry>
@@ -563,7 +563,7 @@
         <title type="html"><![CDATA[58]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.000Z</updated>
+        <updated>2025-10-06T17:41:17.474Z</updated>
         <content type="html"><![CDATA[Friday 11 April 2025 from 14:00]]></content>
     </entry>
     <entry>
@@ -579,7 +579,7 @@
         <title type="html"><![CDATA[60]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.001Z</updated>
+        <updated>2025-10-06T17:41:17.475Z</updated>
         <content type="html"><![CDATA[Thursday 10 April 2025 from 14:00]]></content>
     </entry>
     <entry>
@@ -595,7 +595,7 @@
         <title type="html"><![CDATA[62]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.004Z</updated>
+        <updated>2025-10-06T17:41:17.476Z</updated>
         <content type="html"><![CDATA[on Wednesday 15 October 2025<br>from 10:00 to 16:00]]></content>
     </entry>
     <entry>
@@ -614,7 +614,7 @@
         <title type="html"><![CDATA[64]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.005Z</updated>
+        <updated>2025-10-06T17:41:17.477Z</updated>
         <content type="html"><![CDATA[from Monday 27 to Friday 31 October 2025]]></content>
     </entry>
     <entry>
@@ -633,7 +633,7 @@
         <title type="html"><![CDATA[66]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.005Z</updated>
+        <updated>2025-10-06T17:41:17.490Z</updated>
         <content type="html"><![CDATA[from Monday 08 to Friday 12 September 2025]]></content>
     </entry>
     <entry>
@@ -651,7 +651,7 @@
         <title type="html"><![CDATA[68]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.006Z</updated>
+        <updated>2025-10-06T17:41:17.491Z</updated>
         <content type="html"><![CDATA[from Monday 07 to Friday 18 July 2025]]></content>
     </entry>
     <entry>
@@ -669,7 +669,7 @@
         <title type="html"><![CDATA[70]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.008Z</updated>
+        <updated>2025-10-06T17:41:17.492Z</updated>
         <content type="html"><![CDATA[from Monday 23 to Friday 04 July 2025]]></content>
     </entry>
     <entry>
@@ -687,7 +687,7 @@
         <title type="html"><![CDATA[72]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.009Z</updated>
+        <updated>2025-10-06T17:41:17.493Z</updated>
         <content type="html"><![CDATA[from Monday 02 to Friday 06 June 2025]]></content>
     </entry>
     <entry>
@@ -705,7 +705,7 @@
         <title type="html"><![CDATA[74]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.011Z</updated>
+        <updated>2025-10-06T17:41:17.494Z</updated>
         <content type="html"><![CDATA[on Monday 26 May 2025<br>from 09:00 to 21:00]]></content>
     </entry>
     <entry>
@@ -723,7 +723,7 @@
         <title type="html"><![CDATA[76]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.013Z</updated>
+        <updated>2025-10-06T17:41:17.497Z</updated>
         <content type="html"><![CDATA[on Thursday 22 May 2025<br>from 09:00 to 18:00]]></content>
     </entry>
     <entry>
@@ -741,7 +741,7 @@
         <title type="html"><![CDATA[78]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.023Z</updated>
+        <updated>2025-10-06T17:41:17.498Z</updated>
         <content type="html"><![CDATA[on Tuesday 01 April 2025<br>from 09:30 to 17:30]]></content>
     </entry>
     <entry>
@@ -759,7 +759,7 @@
         <title type="html"><![CDATA[80]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.024Z</updated>
+        <updated>2025-10-06T17:41:17.499Z</updated>
         <content type="html"><![CDATA[on Wednesday 27 November 2024<br>from 10:00 to 16:00]]></content>
     </entry>
     <entry>
@@ -777,7 +777,7 @@
         <title type="html"><![CDATA[82]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.025Z</updated>
+        <updated>2025-10-06T17:41:17.500Z</updated>
         <content type="html"><![CDATA[from Wednesday 20 to Friday 22 November 2024]]></content>
     </entry>
     <entry>
@@ -795,7 +795,7 @@
         <title type="html"><![CDATA[84]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2025-10-06T05:41:10.032Z</updated>
+        <updated>2025-10-06T17:41:17.501Z</updated>
         <content type="html"><![CDATA[from Monday 18 to Tuesday 19 November 2024]]></content>
     </entry>
     <entry>
