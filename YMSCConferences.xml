@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2025-10-06T17:41:47.454Z</updated>
+    <updated>2025-10-07T05:41:15.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,7 +18,7 @@
         <div class="t-1">Zhongguancun Number Theory Colloquium</div>
         <div class="t-2">Upcoming： Venue: Lecture Hall C548, Tsinghua University Shuangqing Complex Building A 15:00-16:00Speaker: Andreas Mihatsch (Zhejiang University)Title: Transferring intersection number identities to characteristic pAbstract: The last few years saw proofs of several new intersection number identities such as the arithmetic fundamental lemma of Wei Zhang, or the Kudla-Rapoport Conjecture proved b...</div>
         <div class="t-3">Organizer：Koji Shimizu (YMSC), Yihang Zhu (YMSC)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
