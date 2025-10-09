@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-08T17:41:09.470Z</updated>
+    <updated>2025-10-09T05:43:08.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Grothendieck groups and model theory]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3726.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3726.html"/>
-        <updated>2025-09-24T05:42:26.658Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 26</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3726.html" title="Grothendieck groups and model theory" target="_blank">Grothendieck groups and model theory</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Tomasz Rzepecki (University of...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference for Knowledge Graphs and Large Language Models]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3727.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3727.html"/>
-        <updated>2025-09-25T17:41:29.446Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 26</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3727.html" title="Causal Inference for Knowledge Graphs and Large Language Models" target="_blank">Causal Inference for Knowledge Graphs and Large Language Models</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Danlei Gu (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Locally Differentially Private Online Federated Learning with Correlated Noise]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/45-3729.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/45-3729.html"/>
-        <updated>2025-09-30T05:44:12.402Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 30</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> </p>
-                        <p class="black">
-                            <a href="/content/show/45-3729.html" title="Locally Differentially Private Online Federated Learning with Correlated Noise" target="_blank">Locally Differentially Private Online Federated Learning with Correlated Noise</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jiaojiao Zhang(Great Bay Unive...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Rationality of Brauer-Severi Surface Bundles over Rational 3-folds.]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3728.html</id>
@@ -70,24 +19,75 @@
                         <p class="black">
                             <a href="/content/show/35-3728.html" title="Rationality of Brauer-Severi Surface Bundles over Rational 3-folds." target="_blank">Rationality of Brauer-Severi Surface Bundles over Rational 3-folds.</a>
                         </p>
-                        <p class="speaker">Speaker(s): Xu Shitan (Peking University)</p>
+                        <p class="speaker">Speaker(s): Shitan Xu (Peking University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chirality of Hyperbolic 3-manifolds]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3730.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3730.html"/>
-        <updated>2025-09-30T17:42:02.643Z</updated>
+        <title type="html"><![CDATA[Results on colored tree properties]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3733.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3733.html"/>
+        <updated>2025-10-09T05:42:50.207Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2025</span>
-                        <p>Oct 17</p>
+                        <p>Oct 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/47-3730.html" title="Chirality of Hyperbolic 3-manifolds" target="_blank">Chirality of Hyperbolic 3-manifolds</a>
+                            <a href="/content/show/93-3733.html" title="Results on colored tree properties" target="_blank">Results on colored tree properties</a>
                         </p>
-                        <p class="speaker">Speaker(s): Hang Yin (BICMR)</p>
+                        <p class="speaker">Speaker(s): Gabriel Day (University of Not...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Loewner Energy and Curve Composition]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3734.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3734.html"/>
+        <updated>2025-10-09T05:42:50.208Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3734.html" title="On the Loewner Energy and Curve Composition" target="_blank">On the Loewner Energy and Curve Composition</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yaosong Yang (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structure of Parabolic Singular Sets]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3735.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3735.html"/>
+        <updated>2025-10-09T05:42:50.210Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 15</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3735.html" title="Structure of Parabolic Singular Sets" target="_blank">Structure of Parabolic Singular Sets</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zilu Ma (University of Tenness...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Direct Summands of Products of Jacobians over Arbitrary Fields]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3732.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3732.html"/>
+        <updated>2025-10-09T05:42:50.211Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3732.html" title="On Direct Summands of Products of Jacobians over Arbitrary Fields" target="_blank">On Direct Summands of Products of Jacobians over Arbitrary Fields</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fumiaki Suzuki (PKU)</p>
                     </dd>]]></content>
     </entry>
     <entry>
