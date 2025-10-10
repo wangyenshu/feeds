@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-10-10T05:42:00.293Z</updated>
+    <updated>2025-10-10T17:41:31.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Computations in stable homotopy theory]]></title>
         <id>https://mathinstitutes.org/events/1310/view/</id>
         <link href="https://mathinstitutes.org/events/1310/view/"/>
-        <updated>2025-10-10T05:41:23.357Z</updated>
+        <updated>2025-10-10T05:41:23.356Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Computations in stable homotopy theory]]></title>
         <id>https://mathinstitutes.org/events/1310/view/</id>
         <link href="https://mathinstitutes.org/events/1310/view/"/>
-        <updated>2025-10-10T05:41:23.360Z</updated>
+        <updated>2025-10-10T05:41:23.356Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1310/view/" target="_blank" rel="noopener">Computations in stable homotopy theory</a></h5>
 			<div class="event-info">AIM - October 27, 2025 to October 31, 2025</div>]]></content>
