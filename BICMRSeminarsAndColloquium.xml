@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-09T17:43:51.569Z</updated>
+    <updated>2025-10-10T05:42:00.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Oct 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3733.html" title="Results on colored tree properties" target="_blank">Results on colored tree properties</a>
                         </p>
