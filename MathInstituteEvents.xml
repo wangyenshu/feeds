@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-10-16T17:42:41.073Z</updated>
+    <updated>2025-10-17T05:41:32.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -251,43 +251,6 @@
 			<div class="event-info">IAS - September 22, 2025 to April 10, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flag algebras and extremal combinatorics]]></title>
-        <id>https://mathinstitutes.org/events/1277/view/</id>
-        <link href="https://mathinstitutes.org/events/1277/view/"/>
-        <updated>2025-09-19T05:41:47.739Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1277/view/" target="_blank" rel="noopener">Flag algebras and extremal combinatorics</a></h5>
-			<div class="event-info">AIM - October 13, 2025 to October 17, 2025</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flag algebras and extremal combinatorics]]></title>
-        <id>https://mathinstitutes.org/events/1277/view/</id>
-        <link href="https://mathinstitutes.org/events/1277/view/"/>
-        <updated>2025-09-19T05:41:47.739Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1277/view/" target="_blank" rel="noopener">Flag algebras and extremal combinatorics</a></h5>
-			<div class="event-info">AIM - October 13, 2025 to October 17, 2025</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flag algebras and extremal combinatorics]]></title>
-        <id>https://mathinstitutes.org/events/1277/view/</id>
-        <link href="https://mathinstitutes.org/events/1277/view/"/>
-        <updated>2025-09-19T05:41:47.739Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1277/view/" target="_blank" rel="noopener">Flag algebras and extremal combinatorics</a></h5>
-			<div class="event-info">AIM - October 13, 2025 to October 17, 2025</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kinetic theory: Novel statistical, stochastic and analytical method]]></title>
         <id>https://mathinstitutes.org/events/1308/view/</id>
         <link href="https://mathinstitutes.org/events/1308/view/"/>
@@ -360,6 +323,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1248/view/" target="_blank" rel="noopener">Diagrammatic Categorification</a></h5>
 			<div class="event-info">ICERM - October 20, 2025 to October 24, 2025</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells]]></title>
+        <id>https://mathinstitutes.org/events/1202/view/</id>
+        <link href="https://mathinstitutes.org/events/1202/view/"/>
+        <updated>2025-10-17T05:40:52.634Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1202/view/" target="_blank" rel="noopener">Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells</a></h5>
+			<div class="event-info">IPAM - October 27, 2025 to October 31, 2025</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells]]></title>
+        <id>https://mathinstitutes.org/events/1202/view/</id>
+        <link href="https://mathinstitutes.org/events/1202/view/"/>
+        <updated>2025-10-17T05:40:52.635Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1202/view/" target="_blank" rel="noopener">Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells</a></h5>
+			<div class="event-info">IPAM - October 27, 2025 to October 31, 2025</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells]]></title>
+        <id>https://mathinstitutes.org/events/1202/view/</id>
+        <link href="https://mathinstitutes.org/events/1202/view/"/>
+        <updated>2025-10-17T05:40:52.637Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1202/view/" target="_blank" rel="noopener">Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells</a></h5>
+			<div class="event-info">IPAM - October 27, 2025 to October 31, 2025</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computations in stable homotopy theory]]></title>
