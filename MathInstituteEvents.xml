@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-10-17T05:41:32.068Z</updated>
+    <updated>2025-10-18T17:38:18.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells]]></title>
         <id>https://mathinstitutes.org/events/1202/view/</id>
         <link href="https://mathinstitutes.org/events/1202/view/"/>
-        <updated>2025-10-17T05:40:52.635Z</updated>
+        <updated>2025-10-17T05:40:52.634Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells]]></title>
         <id>https://mathinstitutes.org/events/1202/view/</id>
         <link href="https://mathinstitutes.org/events/1202/view/"/>
-        <updated>2025-10-17T05:40:52.637Z</updated>
+        <updated>2025-10-17T05:40:52.634Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1202/view/" target="_blank" rel="noopener">Workshop III: Boundary Conditions for Atomistic Simulations in Macroscopic Electrochemical Cells</a></h5>
 			<div class="event-info">IPAM - October 27, 2025 to October 31, 2025</div>]]></content>
