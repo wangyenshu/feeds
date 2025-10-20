@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-10-20T05:42:53.969Z</updated>
+    <updated>2025-10-20T17:42:55.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2025-10-15T17:43:30.461Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 24</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Vladimir Lazić (Saarland University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2025-10-20T17:42:44.209Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 23</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">YMSC-THU: AdS seminar on Oct. 23, 2025Time: 13:30 - 14:30 (Offline)Venue: Shuangqing Complex Building B627Title: Landau-Ginzburg paradigm of topological phases of matterSpeaker: Yidun Wan (Fudan University)Abstract:Topologically ordered phases of matter have long been regarded as lying beyond the Landau–Ginzburg paradigm of symmetry breaking. Our recent studies of anyon condensation, however, ...</div>
+        <div class="t-3">Speaker：Yidun Wan (Fudan University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moduli spaces and related topics in algebraic geometry]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3492.htm</id>
@@ -50,38 +82,6 @@
         <div class="t-1">YMSC-BJTU Geometry seminar</div>
         <div class="t-2">Upcoming talk: Date&amp;Time: Oct 21st, 2025 9-10 AM Beijing, ChinaOct 20th, 2025 9-10 PM Toronto/US EasternVenue: Online Zoom meetingMeeting ID: 882 1154 4564 Passcode: YMSC111Speaker: Isabel Beach (University of Toronto)Title: The Quantitative Geometry of GeodesicsAbstract: The goal of quantitative geometry is to provide effective versions of known existence theorems for geometric objects. For ex...</div>
         <div class="t-3">Speaker：Isabel Beach (University of Toronto)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
-        <updated>2025-10-18T17:38:08.161Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Oct 20</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/1973.htm" class="right text">
-        <div class="t-1">YMSC Topology Seminar</div>
-        <div class="t-2">The K(\pi,1)-conjecture for 3-dimensional Artin groups - Jingyin HUANG 黄靖尹, Ohio State University (2025-10-20)Abstract: The K(pi,1)-conjecture, due to Arnold, Brieskorn, Pham, and Thom, predicts that for each Artin group, the space of regular orbits of a canonical action of the associated Coxeter group is a classifying space for this Artin group. We sketch a proof of the K(pi,1)-conjecture f...</div>
-        <div class="t-3">Speaker：Jingyin HUANG 黄靖尹, OSU</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2025-10-15T17:43:30.461Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Oct 20</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Mihai Paun (Universität Bayreuth)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
