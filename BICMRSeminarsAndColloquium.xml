@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-19T17:40:20.849Z</updated>
+    <updated>2025-10-20T05:42:53.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[On Katz Type p-adic L-functions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/44-3749.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/44-3749.html"/>
+        <updated>2025-10-20T05:42:33.755Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 20</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/44-3749.html" title=" On Katz Type p-adic L-functions" target="_blank"> On Katz Type p-adic L-functions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fabrizio Andreatta (Universita...</p>
+                    </dd>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Higher Chern-Simons theory based on strict higher groups]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3746.html</id>
@@ -66,28 +83,11 @@
                         <p>Oct 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/82-3747.html" title="From Polynomial to Transcendental Dynamics via the Near-Degenerate Regime" target="_blank">From Polynomial to Transcendental Dynamics via the Near-Degenerate Regime</a>
                         </p>
                         <p class="speaker">Speaker(s): Kostya Drach (University of Ba...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the MLC Conjecture and the Renormalization Theory in Complex Dynamics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3748.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3748.html"/>
-        <updated>2025-10-18T17:37:58.647Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3748.html" title="On the MLC Conjecture and the Renormalization Theory in Complex Dynamics" target="_blank">On the MLC Conjecture and the Renormalization Theory in Complex Dynamics</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Dzmitry Dudko (Stony Brook Uni...</p>
                     </dd>]]></content>
     </entry>
     <entry>
