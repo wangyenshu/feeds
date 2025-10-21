@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-21T05:43:58.140Z</updated>
+    <updated>2025-10-21T17:41:57.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Higher Chern-Simons theory based on strict higher groups]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3746.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3746.html"/>
-        <updated>2025-10-16T17:42:20.655Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 21</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3746.html" title="Higher Chern-Simons theory based on strict higher groups" target="_blank">Higher Chern-Simons theory based on strict higher groups</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Danhua Song (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brunn–Minkowski Inequality and Its Recent Extensions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3741.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3741.html"/>
-        <updated>2025-10-15T17:43:20.290Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 21</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3741.html" title="The Brunn–Minkowski Inequality and Its Recent Extensions" target="_blank">The Brunn–Minkowski Inequality and Its Recent Extensions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shibing Chen (University of Sc...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Fill-in Estimate with Scalar Curvature bounded from Below]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3744.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/82-3748.html" title="On the MLC Conjecture and the Renormalization Theory in Complex Dynamics" target="_blank">On the MLC Conjecture and the Renormalization Theory in Complex Dynamics</a>
                         </p>
                         <p class="speaker">Speaker(s): Dzmitry Dudko (Stony Brook Uni...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3750.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3750.html"/>
+        <updated>2025-10-21T17:41:36.336Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3750.html" title="Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs" target="_blank">Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Giovanni Inchiostro (Universit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Existence and regularity of the quasi-potential function in LDP]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3743.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3743.html"/>
+        <updated>2025-10-21T17:41:36.338Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3743.html" title="Existence and regularity of the quasi-potential function in LDP" target="_blank">Existence and regularity of the quasi-potential function in LDP</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Weiwei Qi (AMSS, CAS)</p>
                     </dd>]]></content>
     </entry>
     <entry>
