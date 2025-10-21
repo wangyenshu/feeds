@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-10-20T17:42:55.838Z</updated>
+    <updated>2025-10-21T05:43:58.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,6 +18,38 @@
         <div class="t-1">Algebraic Geometry Seminar</div>
         <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
         <div class="t-3">Speaker：Vladimir Lazić (Saarland University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm"/>
+        <updated>2025-10-21T05:43:48.640Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 24</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2725.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks  2025年10月24日 双清综合楼B627教室10:00am-11:00am Yun Gao 郜云 (York University)从向量叉乘谈起简单介绍一些重要的李代数如有限单的李代数，Witt代数，Heisenburg代数，伽利略共形代数，仿射Kac-Moody代数，高维仿射李代数和相交矩阵李代数以及一些应用。11:10am-12:10am Kari Vilonen (University of Melbourne)Unitary representations of Lie groups and Hodge theoryThe determination of the unitary ...</div>
+        <div class="t-3">Speaker：Yun Gao, Kari Vilonen</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math+ML+X Seminar Series]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm"/>
+        <updated>2025-10-21T05:43:48.643Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 23</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3101.htm" class="right text">
+        <div class="t-1">Math+ML+X Seminar Series</div>
+        <div class="t-2">Are you interested in the intersection of Mathematics, Machine Learning, and real-world applications? Join us for a seminar this Fall 2025 that will explore recent advancements in these fields, including practical applications and emerging techniques. Speaker: Prof. Hongxia Yang (The Hong Kong Polytechnic University)Title:  Co-GenAI: A Novel Fusion-Driven FrameworkDate &amp; Time: October 23rd, 20...</div>
+        <div class="t-3">Speaker：Prof. Hongxia Yang (The Hong Kong Polytechnic University)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
@@ -50,38 +82,6 @@
         <div class="t-1">Moduli spaces and related topics in algebraic geometry</div>
         <div class="t-2">Description:Topics in algebraic stacks and how it relates to K-stability and other moduli notions. We plan to focus on topics including, but not limited to, foliations, algebraic stacks, K-stability and K-moduli, moduli theories and birational geometry. We plan for this seminar to be a supplement to the usual weekly algebraic geometry seminar, covering a broad range of topics in moduli theories...</div>
         <div class="t-3">Speaker：Iacopo Brivio (Harvard University)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm"/>
-        <updated>2025-10-15T05:44:45.978Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Oct 21</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/3487.htm" class="right text">
-        <div class="t-1">Geometry and Physics Seminar (GPS)</div>
-        <div class="t-2">Speaker: Miquel Cueca (KU Leuven)Time: Oct 21, 2025 10:00-11:30 amPlace: Room 204, No.1 Teaching Building. 清华大学 一教 204Title: Dimensional reduction for Manin triplesAbstract: A Manin triple for a Courant algebroid consists of a pair of transverse Dirac structures. We will prove that the Courant sigma model on a closed surface times the interval and boundary conditions in one of Dirac struc...</div>
-        <div class="t-3">Speaker：Miquel Cueca (KU Leuven)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMSC-BJTU Geometry seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3177.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3177.htm"/>
-        <updated>2025-10-13T05:45:00.986Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Oct 21</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/3177.htm" class="right text">
-        <div class="t-1">YMSC-BJTU Geometry seminar</div>
-        <div class="t-2">Upcoming talk: Date&amp;Time: Oct 21st, 2025 9-10 AM Beijing, ChinaOct 20th, 2025 9-10 PM Toronto/US EasternVenue: Online Zoom meetingMeeting ID: 882 1154 4564 Passcode: YMSC111Speaker: Isabel Beach (University of Toronto)Title: The Quantitative Geometry of GeodesicsAbstract: The goal of quantitative geometry is to provide effective versions of known existence theorems for geometric objects. For ex...</div>
-        <div class="t-3">Speaker：Isabel Beach (University of Toronto)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
