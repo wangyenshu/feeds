@@ -2,77 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-23T05:44:44.912Z</updated>
+    <updated>2025-10-23T17:41:24.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[From Polynomial to Transcendental Dynamics via the Near-Degenerate Regime]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3747.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3747.html"/>
-        <updated>2025-10-18T17:37:58.645Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3747.html" title="From Polynomial to Transcendental Dynamics via the Near-Degenerate Regime" target="_blank">From Polynomial to Transcendental Dynamics via the Near-Degenerate Regime</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Kostya Drach (University of Ba...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the MLC Conjecture and the Renormalization Theory in Complex Dynamics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3748.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3748.html"/>
-        <updated>2025-10-20T17:42:34.100Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3748.html" title="On the MLC Conjecture and the Renormalization Theory in Complex Dynamics" target="_blank">On the MLC Conjecture and the Renormalization Theory in Complex Dynamics</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Dzmitry Dudko (Stony Brook Uni...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3750.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3750.html"/>
-        <updated>2025-10-21T17:41:36.336Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3750.html" title="Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs" target="_blank">Stable Maps to Quotient Stacks and KSBA-Compactifications of Surfaces Fibered in Log Calabi-Yau Pairs</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Giovanni Inchiostro (Universit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Existence and regularity of the quasi-potential function in LDP]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/83-3743.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/83-3743.html"/>
-        <updated>2025-10-21T17:41:36.338Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/83-3743.html" title="Existence and regularity of the quasi-potential function in LDP" target="_blank">Existence and regularity of the quasi-potential function in LDP</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Weiwei Qi (AMSS, CAS)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Exact Lagrangians in Cotangent Bundles with Locally Conformally Symplectic Structure]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3742.html</id>
@@ -91,20 +23,71 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arthur, Fargues—Scholze and Beilinson—Bloch—Kato]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3709.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3709.html"/>
-        <updated>2025-07-31T17:47:48.350Z</updated>
+        <title type="html"><![CDATA[Asymptotic dimension and descriptive set theory]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3753.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3753.html"/>
+        <updated>2025-10-23T17:41:03.167Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2025</span>
-                        <p>Aug 05</p>
+                        <p>Oct 24</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/70-3709.html" title="Arthur, Fargues—Scholze and Beilinson—Bloch—Kato" target="_blank">Arthur, Fargues—Scholze and Beilinson—Bloch—Kato</a>
+                            <a href="/content/show/93-3753.html" title="Asymptotic dimension and descriptive set theory" target="_blank">Asymptotic dimension and descriptive set theory</a>
                         </p>
-                        <p class="speaker">Speaker(s): Hao Peng(MIT)</p>
+                        <p class="speaker">Speaker(s): Forte Shinko(University of Cal...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boundary regularity in hypoelliptic kinetic equations]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3745.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3745.html"/>
+        <updated>2025-10-23T17:41:03.169Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3745.html" title="Boundary regularity in hypoelliptic kinetic equations" target="_blank">Boundary regularity in hypoelliptic kinetic equations</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yuzhe Zhu (University of Chica...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hodge-Riemann Polynomials and Log-Concave Sequences]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3751.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3751.html"/>
+        <updated>2025-10-23T17:41:03.170Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3751.html" title="Hodge-Riemann Polynomials and Log-Concave Sequences" target="_blank">Hodge-Riemann Polynomials and Log-Concave Sequences</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Weizhe Zheng (Institute of Mat...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ray Structures on Teichmuller Space]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3754.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3754.html"/>
+        <updated>2025-10-23T17:41:03.172Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 29</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3754.html" title="Ray Structures on Teichmuller Space&nbsp;" target="_blank">Ray Structures on Teichmuller Space&nbsp;</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Huiping Pan (South China Unive...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3725.html" title="p-adic Day" target="_blank">p-adic Day</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zhongguancun Number Theory Colloquium]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3755.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3755.html"/>
+        <updated>2025-10-23T17:41:03.177Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 24</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3755.html" title="Zhongguancun Number Theory Colloquium" target="_blank">Zhongguancun Number Theory Colloquium</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
