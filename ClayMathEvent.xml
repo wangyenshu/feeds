@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2025-10-24T05:43:53.158Z</updated>
+    <updated>2025-10-24T17:41:07.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[VIII Encuentro Regional de Teoría de Números]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.594Z</updated>
+        <updated>2025-10-24T17:40:22.161Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -28,7 +28,7 @@
         <title type="html"><![CDATA[Geometry, Higher Structures, and Physics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.595Z</updated>
+        <updated>2025-10-24T17:40:22.163Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -47,7 +47,7 @@
         <title type="html"><![CDATA[Operators, Graphs, Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.595Z</updated>
+        <updated>2025-10-24T17:40:22.163Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -66,7 +66,7 @@
         <title type="html"><![CDATA[Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.596Z</updated>
+        <updated>2025-10-24T17:40:22.163Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -85,7 +85,7 @@
         <title type="html"><![CDATA[Recent Trends in Stochastic Partial Differential Equations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.598Z</updated>
+        <updated>2025-10-24T17:40:22.165Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -101,10 +101,29 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Partial Differential Equations, Analysis and Geometry: a Conference in Honor of Sergiu Klainerman’s 75th Birthday]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-24T17:40:22.166Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="841" height="1190" src="https://www.claymath.org/wp-content/uploads/2025/10/PDE-AG_Poster_vF4.jpg" class="attachment-4231 size-4231 wp-post-image" alt="PDE IHES" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/10/PDE-AG_Poster_vF4.jpg 841w, https://www.claymath.org/wp-content/uploads/2025/10/PDE-AG_Poster_vF4-212x300.jpg 212w, https://www.claymath.org/wp-content/uploads/2025/10/PDE-AG_Poster_vF4-724x1024.jpg 724w, https://www.claymath.org/wp-content/uploads/2025/10/PDE-AG_Poster_vF4-768x1087.jpg 768w" sizes="(max-width: 841px) 100vw, 841px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      12 - 16  January 2026    </span>
+    <h3>Partial Differential Equations, Analysis and Geometry: a Conference in Honor of Sergiu Klainerman’s 75th Birthday</h3>
+   <p> IHES</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vector Bundles on Algebraic Curves: Curves, Surfaces and Moduli]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.599Z</updated>
+        <updated>2025-10-24T17:40:22.167Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -123,7 +142,7 @@
         <title type="html"><![CDATA[Geometric Structures and Stability]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.601Z</updated>
+        <updated>2025-10-24T17:40:22.169Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -142,7 +161,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.602Z</updated>
+        <updated>2025-10-24T17:40:22.171Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -158,10 +177,29 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[British Mathematical Colloquium]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-10-24T17:40:22.172Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1904" height="741" src="https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni.jpg" class="attachment-4217 size-4217 wp-post-image" alt="Cardiff University" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni.jpg 1904w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-300x117.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-1024x399.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-768x299.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-1536x598.jpg 1536w" sizes="(max-width: 1904px) 100vw, 1904px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      30 March - 2 April 2026    </span>
+    <h3>British Mathematical Colloquium</h3>
+   <p> Cardiff University</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.604Z</updated>
+        <updated>2025-10-24T17:40:22.174Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -180,7 +218,7 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.605Z</updated>
+        <updated>2025-10-24T17:40:22.176Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -199,7 +237,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.607Z</updated>
+        <updated>2025-10-24T17:40:22.177Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -218,7 +256,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.608Z</updated>
+        <updated>2025-10-24T17:40:22.179Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -237,7 +275,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.611Z</updated>
+        <updated>2025-10-24T17:40:22.180Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -253,58 +291,20 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometric Spectral Theory and Applications]]></title>
+        <title type="html"><![CDATA[New Directions in Nonlinear PDEs]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.613Z</updated>
+        <updated>2025-10-24T17:40:22.181Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="308" height="154" src="https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1.png" class="attachment-4107 size-4107 wp-post-image" alt="Geometric Spectral Theory" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1.png 308w, https://www.claymath.org/wp-content/uploads/2025/06/gst-308x154-1-300x150.png 300w" sizes="(max-width: 308px) 100vw, 308px">  </div>
+  <img width="600" height="399" src="https://www.claymath.org/wp-content/uploads/2025/10/erice-centro-ettore-majorana.jpeg" class="attachment-4233 size-4233 wp-post-image" alt="Ettore Centre, Erice" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/10/erice-centro-ettore-majorana.jpeg 600w, https://www.claymath.org/wp-content/uploads/2025/10/erice-centro-ettore-majorana-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
-      7 January - 26 June 2026    </span>
-    <h3>Geometric Spectral Theory and Applications</h3>
-   <p> Isaac Newton Institute</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.614Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="1599" height="1066" src="https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015.jpg" class="attachment-4112 size-4112 wp-post-image" alt="Hungarian Academy of Sciences" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015.jpg 1599w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-300x200.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-1024x683.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-768x512.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/06/Hungarian_Academy_of_Sciences_IMG_1015-1536x1024.jpg 1536w" sizes="(max-width: 1599px) 100vw, 1599px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      22 - 26  June 2026    </span>
-    <h3>Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions</h3>
-   <p> Hungarian Academy of Sciences</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Number Theory Symposium (ANTS XVII)]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-10-24T05:43:02.615Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="200" height="163" src="https://www.claymath.org/wp-content/uploads/2025/06/antsant.png" class="attachment-4113 size-4113 wp-post-image" alt="Algorithmic Number Theory Symposium" large="" decoding="async">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      6 - 10  July 2026    </span>
-    <h3>Algorithmic Number Theory Symposium (ANTS XVII)</h3>
-   <p> University of Groningen</p>
+      20 - 27  May 2026    </span>
+    <h3>New Directions in Nonlinear PDEs</h3>
+   <p> Ettore Majorana Foundation and Centre for Scientific Culture</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>

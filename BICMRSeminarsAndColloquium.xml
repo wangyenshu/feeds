@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-24T05:43:53.177Z</updated>
+    <updated>2025-10-24T17:41:07.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Exact Lagrangians in Cotangent Bundles with Locally Conformally Symplectic Structure]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3742.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3742.html"/>
-        <updated>2025-10-22T17:40:28.863Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3742.html" title=" Exact Lagrangians in Cotangent Bundles with Locally Conformally Symplectic Structure" target="_blank"> Exact Lagrangians in Cotangent Bundles with Locally Conformally Symplectic Structure</a>
-                        </p>
-                        <p class="speaker">Speaker(s):  Adrien Currier(BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymptotic dimension and descriptive set theory]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3753.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3753.html"/>
-        <updated>2025-10-23T17:41:03.167Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/93-3753.html" title="Asymptotic dimension and descriptive set theory" target="_blank">Asymptotic dimension and descriptive set theory</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Forte Shinko(University of Cal...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Boundary regularity in hypoelliptic kinetic equations]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3745.html</id>
@@ -49,7 +15,7 @@
                         <p>Oct 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3745.html" title="Boundary regularity in hypoelliptic kinetic equations" target="_blank">Boundary regularity in hypoelliptic kinetic equations</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/43-3754.html" title="Ray Structures on Teichmuller Space&nbsp;" target="_blank">Ray Structures on Teichmuller Space&nbsp;</a>
                         </p>
                         <p class="speaker">Speaker(s): Huiping Pan (South China Unive...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generalized Nearby Cycles via Logarithmic and Relative D-modules]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3756.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3756.html"/>
+        <updated>2025-10-24T17:40:50.223Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3756.html" title="Generalized Nearby Cycles via Logarithmic and Relative D-modules" target="_blank">Generalized Nearby Cycles via Logarithmic and Relative D-modules</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Lei Wu (Zhejiang University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Practical Quantum Simulation of Non-unitary Dynamics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/40-3738.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/40-3738.html"/>
+        <updated>2025-10-24T17:40:50.225Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 31</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/40-3738.html" title="Towards Practical Quantum Simulation of Non-unitary Dynamics" target="_blank">Towards Practical Quantum Simulation of Non-unitary Dynamics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinpeng Liu(Tsinghua Universit...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -151,7 +151,7 @@
                         <p>Oct 24</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3755.html" title="Zhongguancun Number Theory Colloquium" target="_blank">Zhongguancun Number Theory Colloquium</a>
                         </p>
