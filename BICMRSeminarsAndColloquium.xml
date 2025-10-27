@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-26T17:40:48.201Z</updated>
+    <updated>2025-10-27T05:44:40.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -20,6 +20,23 @@
                             <a href="/content/show/46-3745.html" title="Boundary regularity in hypoelliptic kinetic equations" target="_blank">Boundary regularity in hypoelliptic kinetic equations</a>
                         </p>
                         <p class="speaker">Speaker(s): Yuzhe Zhu (University of Chica...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Multiplicative Functions: Past, Present, And Future]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3757.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3757.html"/>
+        <updated>2025-10-27T05:44:22.195Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3757.html" title="Random Multiplicative Functions: Past, Present, And Future" target="_blank">Random Multiplicative Functions: Past, Present, And Future</a>
+                        </p>
+                        <p class="speaker">Speaker(s): William Verreault (University ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -71,23 +88,6 @@
                             <a href="/content/show/35-3756.html" title="Generalized Nearby Cycles via Logarithmic and Relative D-modules" target="_blank">Generalized Nearby Cycles via Logarithmic and Relative D-modules</a>
                         </p>
                         <p class="speaker">Speaker(s): Lei Wu (Zhejiang University)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards Practical Quantum Simulation of Non-unitary Dynamics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3738.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3738.html"/>
-        <updated>2025-10-24T17:40:50.225Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 31</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/40-3738.html" title="Towards Practical Quantum Simulation of Non-unitary Dynamics" target="_blank">Towards Practical Quantum Simulation of Non-unitary Dynamics</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jinpeng Liu(Tsinghua Universit...</p>
                     </dd>]]></content>
     </entry>
     <entry>
