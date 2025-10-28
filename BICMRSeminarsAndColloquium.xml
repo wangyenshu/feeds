@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-28T05:43:58.211Z</updated>
+    <updated>2025-10-28T17:44:38.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Random Multiplicative Functions: Past, Present, And Future]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3757.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3757.html"/>
-        <updated>2025-10-27T05:44:22.195Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3757.html" title="Random Multiplicative Functions: Past, Present, And Future" target="_blank">Random Multiplicative Functions: Past, Present, And Future</a>
-                        </p>
-                        <p class="speaker">Speaker(s): William Verreault (University ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hodge-Riemann Polynomials and Log-Concave Sequences]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3751.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3751.html"/>
-        <updated>2025-10-23T17:41:03.170Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3751.html" title="Hodge-Riemann Polynomials and Log-Concave Sequences" target="_blank">Hodge-Riemann Polynomials and Log-Concave Sequences</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Weizhe Zheng (Academy of Mathe...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ray Structures on Teichmuller Space]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3754.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/35-3756.html" title="Generalized Nearby Cycles via Logarithmic and Relative D-modules" target="_blank">Generalized Nearby Cycles via Logarithmic and Relative D-modules</a>
                         </p>
                         <p class="speaker">Speaker(s): Lei Wu (Zhejiang University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The logarithmic Sobolev inequality and its nonlinear analogues]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3761.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3761.html"/>
+        <updated>2025-10-28T17:44:17.132Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3761.html" title="The logarithmic Sobolev inequality and its nonlinear analogues" target="_blank">The logarithmic Sobolev inequality and its nonlinear analogues</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Chaoen Zhang (Harbin Institute...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mean-field theory on structured netowrks: around propagation of chaos, coupling and marginal laws]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3762.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3762.html"/>
+        <updated>2025-10-28T17:44:17.133Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3762.html" title="Mean-field theory on structured netowrks: around propagation of chaos, coupling and marginal laws" target="_blank">Mean-field theory on structured netowrks: around propagation of chaos, coupling and marginal laws</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Datong Zhou (Sorbonne Universi...</p>
                     </dd>]]></content>
     </entry>
     <entry>
