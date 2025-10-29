@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-29T05:44:34.017Z</updated>
+    <updated>2025-10-29T17:44:56.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Ray Structures on Teichmuller Space]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3754.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3754.html"/>
-        <updated>2025-10-23T17:41:03.172Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 29</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3754.html" title="Ray Structures on Teichmuller Space&nbsp;" target="_blank">Ray Structures on Teichmuller Space&nbsp;</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Huiping Pan (South China Unive...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entropy Degeneracy for Flows with Singularity.    --Black Hole Mechanism of Entropy]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3759.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3759.html"/>
-        <updated>2025-10-27T17:41:21.165Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 29</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3759.html" title="Entropy Degeneracy for Flows with Singularity.    --Black Hole Mechanism of Entropy" target="_blank">Entropy Degeneracy for Flows with Singularity.    --Black Hole Mechanism of Entropy</a>
-                        </p>
-                        <p class="speaker">Speaker(s): wenxiang Sun(Peking University...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Generalized Nearby Cycles via Logarithmic and Relative D-modules]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3756.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/83-3762.html" title="Mean-field theory on structured netowrks: around propagation of chaos, coupling and marginal laws" target="_blank">Mean-field theory on structured netowrks: around propagation of chaos, coupling and marginal laws</a>
                         </p>
                         <p class="speaker">Speaker(s): Datong Zhou (Sorbonne Universi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Practical Quantum Simulation of Non-unitary Dynamics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/40-3738.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/40-3738.html"/>
+        <updated>2025-10-29T17:44:35.491Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 31</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/40-3738.html" title="Towards Practical Quantum Simulation of Non-unitary Dynamics" target="_blank">Towards Practical Quantum Simulation of Non-unitary Dynamics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinpeng Liu(Tsinghua Universit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Counting Formula of the Symplectic Semi-characteristic]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3765.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3765.html"/>
+        <updated>2025-10-29T17:44:35.493Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Oct 31</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3765.html" title="A Counting Formula of the Symplectic Semi-characteristic" target="_blank">A Counting Formula of the Symplectic Semi-characteristic</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Hao Zhuang (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
