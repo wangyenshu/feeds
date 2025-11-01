@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-10-31T05:44:55.604Z</updated>
+    <updated>2025-11-01T05:42:31.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Towards Practical Quantum Simulation of Non-unitary Dynamics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3738.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3738.html"/>
-        <updated>2025-10-29T17:44:35.491Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 31</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
-                        <p class="black">
-                            <a href="/content/show/40-3738.html" title="Towards Practical Quantum Simulation of Non-unitary Dynamics" target="_blank">Towards Practical Quantum Simulation of Non-unitary Dynamics</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jinpeng Liu(Tsinghua Universit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Counting Formula of the Symplectic Semi-characteristic]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3765.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3765.html"/>
-        <updated>2025-10-29T17:44:35.493Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Oct 31</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3765.html" title="A Counting Formula of the Symplectic Semi-characteristic" target="_blank">A Counting Formula of the Symplectic Semi-characteristic</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Hao Zhuang (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3764.html</id>
@@ -49,7 +15,7 @@
                         <p>Nov 03</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3764.html" title="Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations" target="_blank">Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/43-3766.html" title="The Anisotropic Bernstein Problem" target="_blank">The Anisotropic Bernstein Problem</a>
                         </p>
                         <p class="speaker">Speaker(s): Yang Yang (University of Wisco...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dolbeault Geometric Langlands Conjecture via Limit Categories]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3767.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3767.html"/>
+        <updated>2025-11-01T05:42:13.084Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3767.html" title="The Dolbeault Geometric Langlands Conjecture via Limit Categories" target="_blank">The Dolbeault Geometric Langlands Conjecture via Limit Categories</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yukinobu Toda (IPMU)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3752.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3752.html"/>
+        <updated>2025-11-01T05:42:13.085Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3752.html" title="[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference" target="_blank">[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Carlos Gustavo Moreira (Instit...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -151,7 +151,7 @@
                         <p>Nov 04</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/17-3763.html" title="p-adic Day II" target="_blank">p-adic Day II</a>
                         </p>
