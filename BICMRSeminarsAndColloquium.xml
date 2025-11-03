@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-11-03T05:46:02.070Z</updated>
+    <updated>2025-11-03T17:43:57.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3764.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3764.html"/>
-        <updated>2025-10-30T17:43:01.030Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3764.html" title="Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations" target="_blank">Recent Progress on the Homogeneous Landau Equation: Uniqueness, Regularity, and Numerical Approximations</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Lingbing He (Tsinghua Universi...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Categorical Donaldson-Thomas Theory and Dolbeault Geometric Langlands Conjecture]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3760.html</id>
@@ -66,11 +49,28 @@
                         <p>Nov 06</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3767.html" title="The Dolbeault Geometric Langlands Conjecture via Limit Categories" target="_blank">The Dolbeault Geometric Langlands Conjecture via Limit Categories</a>
                         </p>
                         <p class="speaker">Speaker(s): Yukinobu Toda (IPMU)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3768.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3768.html"/>
+        <updated>2025-11-03T17:43:35.237Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3768.html" title="Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs" target="_blank">Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Benjamin Zhou (YMSC, Tsinghua)...</p>
                     </dd>]]></content>
     </entry>
     <entry>
