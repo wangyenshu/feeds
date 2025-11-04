@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-11-03T17:43:57.847Z</updated>
+    <updated>2025-11-04T05:44:51.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Summer School on Complex Analysis]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3712.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3712.html"/>
-        <updated>2025-08-27T17:41:20.576Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Sep 06</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="/content/show/17-3712.html" title="Summer School on Complex Analysis " target="_blank">Summer School on Complex Analysis </a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[p-adic Day]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/17-3725.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/17-3725.html"/>
@@ -151,11 +134,28 @@
                         <p>Nov 04</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3763.html" title="p-adic Day II" target="_blank">p-adic Day II</a>
                         </p>
                         <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polynomial Skew-Products with Small Relative Degree]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3769.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3769.html"/>
+        <updated>2025-11-04T05:44:30.778Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3769.html" title="Polynomial Skew-Products with Small Relative Degree" target="_blank">Polynomial Skew-Products with Small Relative Degree</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Matteo Ruggiero (Université Pa...</p>
                     </dd>]]></content>
     </entry>
 </feed>
