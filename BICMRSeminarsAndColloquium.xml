@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-11-04T17:44:20.675Z</updated>
+    <updated>2025-11-05T17:43:50.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[The Anisotropic Bernstein Problem]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3766.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3766.html"/>
-        <updated>2025-10-30T17:43:01.034Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 05</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/43-3766.html" title="The Anisotropic Bernstein Problem" target="_blank">The Anisotropic Bernstein Problem</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yang Yang (University of Wisco...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Dolbeault Geometric Langlands Conjecture via Limit Categories]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3767.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/18-3752.html" title="[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference" target="_blank">[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference</a>
                         </p>
                         <p class="speaker">Speaker(s): Carlos Gustavo Moreira (Instit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher order Cohn-Vossen inequality and Q-Curvature]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3771.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3771.html"/>
+        <updated>2025-11-05T17:43:28.440Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3771.html" title="Higher order Cohn-Vossen inequality and Q-Curvature" target="_blank">Higher order Cohn-Vossen inequality and Q-Curvature</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Mingxiang Li (Chinese Universi...</p>
                     </dd>]]></content>
     </entry>
     <entry>
