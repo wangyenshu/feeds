@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-11-05T17:43:50.092Z</updated>
+    <updated>2025-11-06T05:44:45.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Statistical Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
+        <updated>2025-11-06T05:44:36.230Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Nov 10</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3262.htm" class="right text">
+        <div class="t-1">Statistical Seminar</div>
+        <div class="t-2">Upcoming talks: 组织者：吴宇楠时间：2025年 11 月 10 日 14:00~15:00地点：双清综合楼C548报告人：李子林 教授，东北师范大学数学与统计学院报告题目：All-in-One Toolkit for Biobank-Scale Whole-Genome Sequencing Data Management and Analysis摘要：Biobank-scale Whole-Genome Sequencing (WGS) studies are increasingly pivotal in unraveling the genetic bases of diverse health outcomes. However, managing and ...</div>
+        <div class="t-3">Speaker：李子林，曾涛</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2075.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">ADS seminar</div>
         <div class="t-2">Title: Towards gravity from a matrix integral — the polarised IKKT modelSpeaker: Jun Liu，University of Cambridge (Department of Applied Mathematics and Theoretical Physics)Location: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:40, Nov. 6, 2025 (Thursday)Abstract: The IKKT matrix model is an example of holography where all spacetime dimensions are emergent. It is a simply a mult...</div>
         <div class="t-3">Speaker：Jun Liu，University of Cambridge</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2025-10-24T05:43:41.832Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Nov 06</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">The variation of the radii of convergence of linear p-adic differential equations (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：Tinhinane Azzouz</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
