@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-11-10T05:43:58.836Z</updated>
+    <updated>2025-11-10T17:40:44.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -398,7 +398,7 @@
         <title type="html"><![CDATA[Moments of the derivative of characteristic polynomials and L-functions]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1311/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1311/view/"/>
-        <updated>2025-11-10T05:43:20.185Z</updated>
+        <updated>2025-11-10T05:43:20.184Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1311/view/" target="_blank" rel="noopener">Moments of the derivative of characteristic polynomials and L-functions</a></h5>
 			<div class="event-info">AIM - December 1, 2025 to December 5, 2025</div>]]></content>
@@ -472,7 +472,7 @@
         <title type="html"><![CDATA[Nonparametric Bayesian Inference - Computational Issues]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1251/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1251/view/"/>
-        <updated>2025-11-10T05:43:20.188Z</updated>
+        <updated>2025-11-10T05:43:20.187Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1251/view/" target="_blank" rel="noopener">Nonparametric Bayesian Inference - Computational Issues</a></h5>
 			<div class="event-info">ICERM - January 12, 2026 to January 16, 2026</div>]]></content>
