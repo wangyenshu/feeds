@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-11-10T17:40:44.612Z</updated>
+    <updated>2025-11-11T05:43:43.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -57,6 +57,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An Optimal Upper Bound for Anti-Canonical Volumes of Canonical Fano Threefolds]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3776.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3776.html"/>
+        <updated>2025-11-11T05:43:22.263Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3776.html" title="An Optimal Upper Bound for Anti-Canonical Volumes of Canonical Fano Threefolds  " target="_blank">An Optimal Upper Bound for Anti-Canonical Volumes of Canonical Fano Threefolds  </a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yu Zou (Chongqing University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable envelope for critical loci]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3758.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/49-3758.html"/>
@@ -66,28 +83,11 @@
                         <p>Nov 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/49-3758.html" title="Stable envelope for critical loci" target="_blank">Stable envelope for critical loci</a>
                         </p>
                         <p class="speaker">Speaker(s): Yehao Zhou (SIMIS)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rational self-maps of the complex projective plane whose topological entropy is log of a transcendental number]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3774.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3774.html"/>
-        <updated>2025-11-07T17:41:38.504Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 18</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3774.html" title="Rational self-maps of the complex projective plane whose topological entropy is log of a transcendental number" target="_blank">Rational self-maps of the complex projective plane whose topological entropy is log of a transcendental number</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Roland Roeder (Indiana Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
