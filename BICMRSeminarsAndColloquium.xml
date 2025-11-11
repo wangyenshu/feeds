@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-11-11T05:43:43.685Z</updated>
+    <updated>2025-11-11T17:44:04.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3768.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3768.html"/>
-        <updated>2025-11-03T17:43:35.237Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3768.html" title="Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs" target="_blank">Higher genus Gromov-Witten correspondences for smooth log Calabi-Yau pairs</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Benjamin Zhou (YMSC, Tsinghua)...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3752.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3752.html"/>
-        <updated>2025-11-01T05:42:13.085Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3752.html" title="[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference" target="_blank">[Distinguished Lecture] Fractal Geometry of the Markov and Lagrange Spectra and Their Set Difference</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Carlos Gustavo Moreira (Instit...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Higher order Cohn-Vossen inequality and Q-Curvature]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3771.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/49-3758.html" title="Stable envelope for critical loci" target="_blank">Stable envelope for critical loci</a>
                         </p>
                         <p class="speaker">Speaker(s): Yehao Zhou (SIMIS)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— From Data to Health: How Statistics Reveals the Impact of ...]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3777.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3777.html"/>
+        <updated>2025-11-11T17:43:46.185Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3777.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— From Data to Health: How Statistics Reveals the Impact of the Human Microbiome" target="_blank">"One-hour Mathematical Lecture Series" —— From Data to Health: How Statistics Reveals the Impact of ...</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yijuan Hu (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exponential volumes of moduli spaces of hyperbolic surfaces]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3778.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3778.html"/>
+        <updated>2025-11-11T17:43:46.186Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Nov 18</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3778.html" title="Exponential volumes of moduli spaces of hyperbolic surfaces" target="_blank">Exponential volumes of moduli spaces of hyperbolic surfaces</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Zhe Sun (USTC)</p>
                     </dd>]]></content>
     </entry>
     <entry>
