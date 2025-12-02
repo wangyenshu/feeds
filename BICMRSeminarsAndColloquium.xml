@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-02T05:44:58.018Z</updated>
+    <updated>2025-12-02T17:47:25.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[JT gravity on finite geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3796.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3796.html"/>
-        <updated>2025-12-02T05:44:38.918Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 02</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3796.html" title="JT gravity on finite geometry" target="_blank">JT gravity on finite geometry</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Frank Ferrari (Université Libr...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Extension Problem of Quasimorphisms]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/50-3800.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/50-3800.html"/>
-        <updated>2025-12-02T05:44:38.920Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 02</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/50-3800.html" title="The Extension Problem of Quasimorphisms" target="_blank">The Extension Problem of Quasimorphisms</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Bingxue Tao (Kyoto University)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Recent Development in Hamiltonian Geometry of Lagrangian Submanifolds]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3775.html</id>
@@ -49,7 +15,7 @@
                         <p>Dec 02</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3775.html" title="Recent Development in Hamiltonian Geometry of Lagrangian Submanifolds" target="_blank">Recent Development in Hamiltonian Geometry of Lagrangian Submanifolds</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/83-3798.html" title="Tightness/uniqueness methods for propagation of chaos in the Landau equation" target="_blank">Tightness/uniqueness methods for propagation of chaos in the Landau equation</a>
                         </p>
                         <p class="speaker">Speaker(s): Côme Tabary (Université Paris ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helical Kelvin Waves for the 3D Incompressible Euler Equations]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3793.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3793.html"/>
+        <updated>2025-12-02T17:47:06.968Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 04</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3793.html" title="Helical Kelvin Waves for the 3D Incompressible Euler Equations" target="_blank">Helical Kelvin Waves for the 3D Incompressible Euler Equations</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Rui Li (Academy of Mathematics...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent topics in mixed-integer optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3799.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3799.html"/>
+        <updated>2025-12-02T17:47:06.970Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3799.html" title="Recent topics in mixed-integer optimization" target="_blank">Recent topics in mixed-integer optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Liding Xu(Zuse Institut Berlin...</p>
                     </dd>]]></content>
     </entry>
     <entry>
