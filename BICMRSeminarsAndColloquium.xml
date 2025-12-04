@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-04T05:44:56.969Z</updated>
+    <updated>2025-12-04T17:46:56.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Stochastic Heat Equation and Colored Noise-Perturbation Analysis]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3805.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3805.html"/>
-        <updated>2025-12-04T05:44:35.514Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3805.html" title="Stochastic Heat Equation and Colored Noise-Perturbation Analysis" target="_blank">Stochastic Heat Equation and Colored Noise-Perturbation Analysis</a>
-                        </p>
-                        <p class="speaker">Speaker(s): William Vickery(BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tightness/uniqueness methods for propagation of chaos in the Landau equation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/83-3798.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/83-3798.html"/>
-        <updated>2025-12-02T05:44:38.925Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/83-3798.html" title="Tightness/uniqueness methods for propagation of chaos in the Landau equation" target="_blank">Tightness/uniqueness methods for propagation of chaos in the Landau equation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Côme Tabary (Université Paris ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasi-F-splitting and the Achinger–Zdanowicz Construction]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3804.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3804.html"/>
-        <updated>2025-12-04T05:44:35.518Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3804.html" title="Quasi-F-splitting and the Achinger–Zdanowicz Construction" target="_blank">Quasi-F-splitting and the Achinger–Zdanowicz Construction</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Fuetaro Yobuko (Tokyo Universi...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Helical Kelvin Waves for the 3D Incompressible Euler Equations]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/83-3793.html</id>
@@ -66,7 +15,7 @@
                         <p>Dec 04</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
                         <p class="black">
                             <a href="/content/show/83-3793.html" title="Helical Kelvin Waves for the 3D Incompressible Euler Equations" target="_blank">Helical Kelvin Waves for the 3D Incompressible Euler Equations</a>
                         </p>
@@ -88,6 +37,57 @@
                             <a href="/content/show/46-3802.html" title="Characterisation of optimal solutions to second-order Beckmann problem through bimartingale couplings and leaf decompositions" target="_blank">Characterisation of optimal solutions to second-order Beckmann problem through bimartingale couplings and leaf...</a>
                         </p>
                         <p class="speaker">Speaker(s): Krzysztof Ciosmak (BIMSA)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent topics in mixed-integer optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3799.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3799.html"/>
+        <updated>2025-12-04T17:46:38.278Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3799.html" title="Recent topics in mixed-integer optimization" target="_blank">Recent topics in mixed-integer optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Liding Xu(Zuse Institut Berlin...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hessian Estimates for σk Equations and a Rigidity Theorem]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3806.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3806.html"/>
+        <updated>2025-12-04T17:46:38.279Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3806.html" title="Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem" target="_blank">Hessian Estimates for <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" style="font-size: 113.1%; position: relative;" tabindex="0" ctxtmenu_counter="0"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msub><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D70E TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D458 TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msub></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>σ</mi><mi>k</mi></msub></math></mjx-assistive-mml></mjx-container> Equations and a Rigidity Theorem</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Ruijia Zhang (Sun Yat-sen Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3803.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3803.html"/>
+        <updated>2025-12-04T17:46:38.280Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3803.html" title="Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling" target="_blank">Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Matteo Tanzi(King's College Lo...</p>
                     </dd>]]></content>
     </entry>
     <entry>
