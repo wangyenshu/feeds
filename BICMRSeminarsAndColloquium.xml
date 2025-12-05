@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-04T17:46:56.219Z</updated>
+    <updated>2025-12-05T05:45:31.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -57,7 +57,7 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hessian Estimates for σk Equations and a Rigidity Theorem]]></title>
+        <title type="html"><![CDATA[Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3806.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/43-3806.html"/>
         <updated>2025-12-04T17:46:38.279Z</updated>
@@ -68,7 +68,7 @@
                                         <dd>
                         <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/43-3806.html" title="Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem" target="_blank">Hessian Estimates for <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" style="font-size: 113.1%; position: relative;" tabindex="0" ctxtmenu_counter="0"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msub><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D70E TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.15em;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D458 TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msub></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>σ</mi><mi>k</mi></msub></math></mjx-assistive-mml></mjx-container> Equations and a Rigidity Theorem</a>
+                            <a href="/content/show/43-3806.html" title="Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem" target="_blank">Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem</a>
                         </p>
                         <p class="speaker">Speaker(s): Ruijia Zhang (Sun Yat-sen Univ...</p>
                     </dd>]]></content>
