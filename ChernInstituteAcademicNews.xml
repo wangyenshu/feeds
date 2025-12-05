@@ -2,14 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
     <title>陈省身数学研究所 学术动态</title>
-    <updated>2025-12-05T05:45:31.697Z</updated>
+    <updated>2025-12-05T17:43:20.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.nim.nankai.edu.cn/xsbg/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[孙鑫 教授：Three perspectives on the b-6j Symbol: Quan...]]></title>
+        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
+        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
+        <updated>2025-12-05T17:42:21.016Z</updated>
+        <content type="html"><![CDATA[<div class="fields pr_fields">
+      <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
+      <span><a href="/2025/1205/c6604a586060/page.htm" target="_blank" title="孙鑫 教授：Three perspectives on the b-6j Symbol: Quantum Group, 2D CFT, and 3D Quantum Topology"><font style="color:#001AFF;">孙鑫 教授：Three perspectives on the b-6j Symbol: Quan...</font></a></span>
+    </div>
+    <div class="fields ex_fields">
+      <span>2025-12-05</span>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN...]]></title>
+        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
+        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
+        <updated>2025-12-05T17:42:21.018Z</updated>
+        <content type="html"><![CDATA[<div class="fields pr_fields">
+      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
+      <span><a href="/2025/1205/c6604a586059/page.htm" target="_blank" title="Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AND SLICES">Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN...</a></span>
+    </div>
+    <div class="fields ex_fields">
+      <span>2025-12-05</span>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[董昭 研究员：Ergodicity of the Markov Feller semigroup...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.227Z</updated>
+        <updated>2025-12-05T17:42:21.019Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585673/page.htm" target="_blank" title="董昭 研究员：Ergodicity of the Markov Feller semigroup and application to 2D Navier-Stokes equations with a multiplicative noise">董昭 研究员：Ergodicity of the Markov Feller semigroup...</a></span>
@@ -22,7 +48,7 @@
         <title type="html"><![CDATA[王益 研究员：The Stability of Riemann Profiles]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.227Z</updated>
+        <updated>2025-12-05T17:42:21.019Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585672/page.htm" target="_blank" title="王益 研究员：The Stability of Riemann Profiles">王益 研究员：The Stability of Riemann Profiles</a></span>
@@ -35,7 +61,7 @@
         <title type="html"><![CDATA[蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.227Z</updated>
+        <updated>2025-12-05T17:42:21.021Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585671/page.htm" target="_blank" title="蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR SCHÖRDINGER EQUATION">蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR...</a></span>
@@ -48,7 +74,7 @@
         <title type="html"><![CDATA[高延 教授：Boundary dimension of attracting domains an...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.227Z</updated>
+        <updated>2025-12-05T17:42:21.021Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585666/page.htm" target="_blank" title="高延 教授：Boundary dimension of attracting domains and hyperbolic components">高延 教授：Boundary dimension of attracting domains an...</a></span>
@@ -61,7 +87,7 @@
         <title type="html"><![CDATA[徐敬可 博士：Private Information Retrieval from Joint ...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.229Z</updated>
+        <updated>2025-12-05T17:42:21.029Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1128/c6604a585389/page.htm" target="_blank" title="徐敬可 博士：Private Information Retrieval from Joint MDS Coded and Non-colluding Servers">徐敬可 博士：Private Information Retrieval from Joint ...</a></span>
@@ -74,7 +100,7 @@
         <title type="html"><![CDATA[方伟军 教授：New constructions of MDS symbol-pair code...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.230Z</updated>
+        <updated>2025-12-05T17:42:21.029Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1128/c6604a585388/page.htm" target="_blank" title="方伟军 教授：New constructions of MDS symbol-pair codes via simple-root cyclic codes">方伟军 教授：New constructions of MDS symbol-pair code...</a></span>
@@ -87,7 +113,7 @@
         <title type="html"><![CDATA[丁剑 教授：A glimpse at statistical physics from perco...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.231Z</updated>
+        <updated>2025-12-05T17:42:21.033Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2025/1127/c6604a585217/page.htm" target="_blank" title="丁剑 教授：A glimpse at statistical physics from percolation"><font style="color:#0011FF;">丁剑 教授：A glimpse at statistical physics from perco...</font></a></span>
@@ -100,7 +126,7 @@
         <title type="html"><![CDATA[对话Joshua Zahl]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.233Z</updated>
+        <updated>2025-12-05T17:42:21.034Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/dh/list.htm" title="对话" style="text-decoration:none;" target="_blank">对话</a>】</span>
       <span><a href="/2025/1127/c6604a585206/page.htm" target="_blank" title="对话Joshua Zahl"><font style="color:#FF1B0A;">对话Joshua Zahl</font></a></span>
@@ -113,7 +139,7 @@
         <title type="html"><![CDATA[赵晓强 教授：Existence, Uniqueness and Stability of Bi...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.235Z</updated>
+        <updated>2025-12-05T17:42:21.035Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1121/c6604a584670/page.htm" target="_blank" title="赵晓强 教授：Existence, Uniqueness and Stability of Bistable Waves for Monotone Semiflows">赵晓强 教授：Existence, Uniqueness and Stability of Bi...</a></span>
@@ -126,7 +152,7 @@
         <title type="html"><![CDATA[冯荣权 教授：On the existence of splitter sets]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.236Z</updated>
+        <updated>2025-12-05T17:42:21.035Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1121/c6604a584669/page.htm" target="_blank" title="冯荣权 教授：On the existence of splitter sets">冯荣权 教授：On the existence of splitter sets</a></span>
@@ -139,7 +165,7 @@
         <title type="html"><![CDATA[王安宇 研究员：密码群作用与承诺方案构造]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.237Z</updated>
+        <updated>2025-12-05T17:42:21.036Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1121/c6604a584668/page.htm" target="_blank" title="王安宇 研究员：密码群作用与承诺方案构造">王安宇 研究员：密码群作用与承诺方案构造</a></span>
@@ -152,36 +178,10 @@
         <title type="html"><![CDATA[潘彦斌 研究员：Solving γ-SVP in Ideal Lattices]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.243Z</updated>
+        <updated>2025-12-05T17:42:21.037Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1121/c6604a584667/page.htm" target="_blank" title="潘彦斌 研究员：Solving γ-SVP in Ideal Lattices">潘彦斌 研究员：Solving γ-SVP in Ideal Lattices</a></span>
-    </div>
-    <div class="fields ex_fields">
-      <span>2025-11-21</span>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王祥 博士：The sequence reconstruction problem for per...]]></title>
-        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
-        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.244Z</updated>
-        <content type="html"><![CDATA[<div class="fields pr_fields">
-      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
-      <span><a href="/2025/1121/c6604a584666/page.htm" target="_blank" title="王祥 博士：The sequence reconstruction problem for permutations and DNA storage">王祥 博士：The sequence reconstruction problem for per...</a></span>
-    </div>
-    <div class="fields ex_fields">
-      <span>2025-11-21</span>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高健 博士：极大距离可分纠缠辅助量子纠错码的构造]]></title>
-        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
-        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2025-12-05T05:44:37.244Z</updated>
-        <content type="html"><![CDATA[<div class="fields pr_fields">
-      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
-      <span><a href="/2025/1121/c6604a584665/page.htm" target="_blank" title="高健 博士：极大距离可分纠缠辅助量子纠错码的构造">高健 博士：极大距离可分纠缠辅助量子纠错码的构造</a></span>
     </div>
     <div class="fields ex_fields">
       <span>2025-11-21</span>
