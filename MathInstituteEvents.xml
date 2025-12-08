@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-12-08T05:46:57.335Z</updated>
+    <updated>2025-12-08T17:45:09.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -385,7 +385,7 @@
         <title type="html"><![CDATA[Formal scientific modeling: a case study in global health]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1314/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1314/view/"/>
-        <updated>2025-12-08T05:46:16.673Z</updated>
+        <updated>2025-12-08T05:46:16.672Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -398,7 +398,7 @@
         <title type="html"><![CDATA[Formal scientific modeling: a case study in global health]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1314/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1314/view/"/>
-        <updated>2025-12-08T05:46:16.675Z</updated>
+        <updated>2025-12-08T05:46:16.672Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1314/view/" target="_blank" rel="noopener">Formal scientific modeling: a case study in global health</a></h5>
 			<div class="event-info">AIM - January 12, 2026 to January 16, 2026</div>]]></content>

@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-08T05:46:57.318Z</updated>
+    <updated>2025-12-08T17:45:09.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Characterisation of optimal solutions to second-order Beckmann problem through bimartingale couplings and leaf...]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3802.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3802.html"/>
-        <updated>2025-12-03T05:43:59.316Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3802.html" title="Characterisation of optimal solutions to second-order Beckmann problem through bimartingale couplings and leaf decompositions" target="_blank">Characterisation of optimal solutions to second-order Beckmann problem through bimartingale couplings and leaf...</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Krzysztof Ciosmak (BIMSA)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Singular Value Transformation: Recent Developments]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/40-3807.html</id>
@@ -83,11 +66,28 @@
                         <p>Dec 11</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3808.html" title="Jordan Constants of Cremona Group of Rank 2 in Odd Characteristic" target="_blank">Jordan Constants of Cremona Group of Rank 2 in Odd Characteristic</a>
                         </p>
                         <p class="speaker">Speaker(s): Yifei Chen (Chinese Academy of...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3803.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3803.html"/>
+        <updated>2025-12-08T17:44:47.224Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3803.html" title="Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling" target="_blank">Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Matteo Tanzi(King's College Lo...</p>
                     </dd>]]></content>
     </entry>
     <entry>
