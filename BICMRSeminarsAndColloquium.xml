@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-09T05:45:28.715Z</updated>
+    <updated>2025-12-09T17:45:41.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Quantum Singular Value Transformation: Recent Developments]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3807.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3807.html"/>
-        <updated>2025-12-05T17:43:01.695Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/40-3807.html" title="Quantum Singular Value Transformation: Recent Developments" target="_blank">Quantum Singular Value Transformation: Recent Developments</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Changpeng Shao(Chinese Academy...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent topics in mixed-integer optimization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/45-3799.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/45-3799.html"/>
-        <updated>2025-12-04T17:46:38.278Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/45-3799.html" title="Recent topics in mixed-integer optimization" target="_blank">Recent topics in mixed-integer optimization</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Liding Xu(Zuse Institut Berlin...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hessian Estimates for $σ_k$ Equations and a Rigidity Theorem]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3806.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/83-3803.html" title="Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling" target="_blank">Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling</a>
                         </p>
                         <p class="speaker">Speaker(s): Matteo Tanzi(King's College Lo...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3809.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3809.html"/>
+        <updated>2025-12-09T17:45:22.653Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3809.html" title="Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow" target="_blank">Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhihan Wang (Cornell Universit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characterization of Infinite Hyperbolic Polyhedra]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3810.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3810.html"/>
+        <updated>2025-12-09T17:45:22.655Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3810.html" title="Characterization of Infinite Hyperbolic Polyhedra" target="_blank">Characterization of Infinite Hyperbolic Polyhedra</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Huabin Ge (Renmin University o...</p>
                     </dd>]]></content>
     </entry>
     <entry>

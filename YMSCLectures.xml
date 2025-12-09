@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2025-12-09T05:45:28.734Z</updated>
+    <updated>2025-12-09T17:45:41.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Classical limit of the relativistic Vlasov-Maxwell-Landau system]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3559.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3559.htm"/>
+        <updated>2025-12-09T17:45:36.379Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Dec 19</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1056/3559.htm" class="right text">
+        <div class="t-1">Classical limit of the relativistic Vlasov-Maxwell-Landau system</div>
+        <div class="t-2">Abstract：The physical essence of the non-relativistic limit, from the relativistic Vlasov-Maxwell-Landau system to the Vlasov-Poisson-Landau system, lies in the transition from finite-speed electromagnetic waves to instantaneous Coulomb interactions, and from relativistic to Newtonian particle dynamics. We rigorously justify this limit (mathematically corresponding to the light speed $c \to \i...</div>
+        <div class="t-3">Speaker：雷远杰（华中科技大学）</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On  vacuum boundary with physical singularity for compressible Euler equations--old and new]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3532.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">What does a random surface look like?</div>
         <div class="t-2">Abstract:Building on her seminal work on moduli space volumes for Riemann surfaces, Mirzakhani also computed expected values of various geometric quantities on moduli space. In particular, she studied the expected Cheeger constant, the injectivity radius at a random point, and the statistical distribution of different types of curves on surfaces of large genus. I will review several of Mirzakha...</div>
         <div class="t-3">Speaker：Kasra Rafi (University of Toronto)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inverted Sample Covariance Matrix and Its Applications]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3530.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3530.htm"/>
-        <updated>2025-12-02T05:44:52.391Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Nov 18</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1056/3530.htm" class="right text">
-        <div class="t-1">Inverted Sample Covariance Matrix and Its Applications</div>
-        <div class="t-2">Abstract:  In this talk, asymptotic properties of  inverted sample covariance matrices are introducted. Moreover, we find that the occurrence of the double descent phenomenon is linked to the inverted sample covariance matrix. From random matrix theory, we give an theoretical explanation of the double descent/ascent phenomenon from the inverted sample covariance matrix.  Based on this, a regula...</div>
-        <div class="t-3">Speaker：Shurong Zheng (Northeast Normal University)</div>
         
     </a>]]></content>
     </entry>
