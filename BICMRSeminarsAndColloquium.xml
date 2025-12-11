@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-11T05:47:15.305Z</updated>
+    <updated>2025-12-11T17:55:14.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Jordan Constants of Cremona Group of Rank 2 in Odd Characteristic]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3808.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3808.html"/>
-        <updated>2025-12-05T17:43:01.698Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3808.html" title="Jordan Constants of Cremona Group of Rank 2 in Odd Characteristic" target="_blank">Jordan Constants of Cremona Group of Rank 2 in Odd Characteristic</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yifei Chen (Chinese Academy of...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/83-3803.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/83-3803.html"/>
-        <updated>2025-12-08T17:44:47.224Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/83-3803.html" title="Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling" target="_blank">Selfconsistent Transfer Operators: Existence and stability of fixed points in presence of strong coupling</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Matteo Tanzi(King's College Lo...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Higher Chern-Simons Theory Based on Strict Higher Groups]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3811.html</id>
@@ -91,6 +57,40 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Characterization of Infinite Hyperbolic Polyhedra]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3810.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3810.html"/>
+        <updated>2025-12-11T17:54:53.184Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3810.html" title="Characterization of Infinite Hyperbolic Polyhedra" target="_blank">Characterization of Infinite Hyperbolic Polyhedra</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Huabin Ge (Renmin University o...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/34-3813.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/34-3813.html"/>
+        <updated>2025-12-11T17:54:53.186Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/34-3813.html" title="A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients" target="_blank">A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Tianyi Yu (Université du Québe...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Polynomial Skew-Products with Small Relative Degree]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3769.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3769.html"/>
@@ -134,7 +134,7 @@
                         <p>Dec 11</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3801.html" title="Advances in Dynamics Seminar" target="_blank">Advances in Dynamics Seminar</a>
                         </p>
