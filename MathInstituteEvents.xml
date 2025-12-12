@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2025-12-11T17:55:14.504Z</updated>
+    <updated>2025-12-12T17:44:43.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -496,7 +496,7 @@
         <title type="html"><![CDATA[Recent Advances in Random Networks]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1344/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1344/view/"/>
-        <updated>2025-12-11T17:54:32.544Z</updated>
+        <updated>2025-12-11T17:54:32.541Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -509,7 +509,7 @@
         <title type="html"><![CDATA[Recent Advances in Random Networks]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1344/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1344/view/"/>
-        <updated>2025-12-11T17:54:32.544Z</updated>
+        <updated>2025-12-11T17:54:32.541Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1344/view/" target="_blank" rel="noopener">Recent Advances in Random Networks</a></h5>
 			<div class="event-info">IMSI - January 12, 2026 to January 16, 2026</div>]]></content>
