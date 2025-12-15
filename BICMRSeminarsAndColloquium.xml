@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-14T17:41:06.365Z</updated>
+    <updated>2025-12-15T05:50:02.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3809.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3809.html"/>
-        <updated>2025-12-09T17:45:22.653Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 16</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3809.html" title="Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow" target="_blank">Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhihan Wang (Cornell Universit...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Is the Kazhdan-Lusztig Basis the Solution of an Optimisation Problem?]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/34-3812.html</id>
@@ -71,6 +54,23 @@
                             <a href="/content/show/34-3813.html" title="A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients" target="_blank">A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients</a>
                         </p>
                         <p class="speaker">Speaker(s): Tianyi Yu (Université du Québe...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3809.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3809.html"/>
+        <updated>2025-12-09T17:45:22.653Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 17</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3809.html" title="Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow" target="_blank">Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhihan Wang (Cornell Universit...</p>
                     </dd>]]></content>
     </entry>
     <entry>
