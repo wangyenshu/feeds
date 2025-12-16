@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-15T17:49:41.190Z</updated>
+    <updated>2025-12-16T05:47:18.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -46,7 +46,7 @@
         <updated>2025-12-11T17:54:53.186Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2025</span>
-                        <p>Dec 16</p>
+                        <p>Dec 17</p>
                     </dt>
                                         <dd>
                         <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
