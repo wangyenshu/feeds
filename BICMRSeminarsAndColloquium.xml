@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-17T05:48:37.295Z</updated>
+    <updated>2025-12-17T17:47:48.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/34-3813.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/34-3813.html"/>
-        <updated>2025-12-11T17:54:53.186Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/34-3813.html" title="A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients" target="_blank">A Positive Combinatorial Formula for the Double Edelman--Greene Coefficients</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Tianyi Yu (Université du Québe...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3809.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3809.html"/>
-        <updated>2025-12-09T17:45:22.653Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3809.html" title="Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow" target="_blank">Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhihan Wang (Cornell Universit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reduced Stability Thresholds of Fano Manifolds and a Sharpening of the Logarithmic Hardy–Littlewood–Sobolev In...]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3814.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3814.html"/>
-        <updated>2025-12-12T17:44:25.940Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/43-3814.html" title="Reduced Stability Thresholds of Fano Manifolds and a Sharpening of the Logarithmic Hardy–Littlewood–Sobolev Inequality on the Two-Sphere" target="_blank">Reduced Stability Thresholds of Fano Manifolds and a Sharpening of the Logarithmic Hardy–Littlewood–Sobolev In...</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Robert Berman (Chalmers Univer...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The p-adic Langlands Program and Breuil's Lattice Conjecture]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/44-3816.html</id>
@@ -88,6 +37,57 @@
                             <a href="/content/show/35-3817.html" title="Mukai Type Conjecture" target="_blank">Mukai Type Conjecture</a>
                         </p>
                         <p class="speaker">Speaker(s): Yoshinori Gongyo (Tokyo Univer...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Inside the Black Box: How to Use AI for Efficient Research]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3815.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3815.html"/>
+        <updated>2025-12-17T17:47:29.751Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3815.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Inside the Black Box: How to Use AI for Efficient Research" target="_blank">"One-hour Mathematical Lecture Series" —— Inside the Black Box: How to Use AI for Efficient Research</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Leheng Chen (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3818.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3818.html"/>
+        <updated>2025-12-17T17:47:29.752Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3818.html" title="Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups" target="_blank">Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fazyl Zhebey(L.N. Gumilyov Eur...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some properties of classes of models and sets of elementary types.]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3819.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3819.html"/>
+        <updated>2025-12-17T17:47:29.754Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3819.html" title="Some properties of classes of models and sets of elementary types." target="_blank">Some properties of classes of models and sets of elementary types.</a>
+                        </p>
+                        <p class="speaker">Speaker(s): M.I. Bekenov and A. Mamyraly(L...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -151,7 +151,7 @@
                         <p>Dec 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/17-3785.html" title="Delta 2025" target="_blank">Delta 2025</a>
                         </p>
