@@ -2,33 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2025-12-16T17:51:57.671Z</updated>
+    <updated>2025-12-17T05:48:37.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Operators, Graphs, Groups]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.759Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="308" height="154" src="https://www.claymath.org/wp-content/uploads/2025/02/ogg-308x154-1.png" class="attachment-4034 size-4034 wp-post-image" alt="Operators Graphs Groups INI" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/02/ogg-308x154-1.png 308w, https://www.claymath.org/wp-content/uploads/2025/02/ogg-308x154-1-300x150.png 300w" sizes="(max-width: 308px) 100vw, 308px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      7 July - 17 December 2025    </span>
-    <h3>Operators, Graphs, Groups</h3>
-   <p> Isaac Newton Institute</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.761Z</updated>
+        <updated>2025-12-17T05:47:48.986Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -47,7 +28,7 @@
         <title type="html"><![CDATA[Recent Trends in Stochastic Partial Differential Equations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.761Z</updated>
+        <updated>2025-12-17T05:47:48.988Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -66,7 +47,7 @@
         <title type="html"><![CDATA[Partial Differential Equations, Analysis and Geometry: a Conference in Honor of Sergiu Klainerman’s 75th Birthday]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.762Z</updated>
+        <updated>2025-12-17T05:47:48.988Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -85,7 +66,7 @@
         <title type="html"><![CDATA[Vector Bundles on Algebraic Curves: Curves, Surfaces and Moduli]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.763Z</updated>
+        <updated>2025-12-17T05:47:48.988Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -104,7 +85,7 @@
         <title type="html"><![CDATA[Geometric Structures and Stability]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.771Z</updated>
+        <updated>2025-12-17T05:47:48.991Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -123,7 +104,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.771Z</updated>
+        <updated>2025-12-17T05:47:48.991Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -142,7 +123,7 @@
         <title type="html"><![CDATA[British Mathematical Colloquium]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.771Z</updated>
+        <updated>2025-12-17T05:47:48.992Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -161,7 +142,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.772Z</updated>
+        <updated>2025-12-17T05:47:48.994Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -180,7 +161,7 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.773Z</updated>
+        <updated>2025-12-17T05:47:48.996Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -199,7 +180,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.775Z</updated>
+        <updated>2025-12-17T05:47:48.997Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -218,7 +199,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.778Z</updated>
+        <updated>2025-12-17T05:47:48.999Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -237,7 +218,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.778Z</updated>
+        <updated>2025-12-17T05:47:49.000Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -256,7 +237,7 @@
         <title type="html"><![CDATA[New Directions in Nonlinear PDEs]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.779Z</updated>
+        <updated>2025-12-17T05:47:49.001Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -275,7 +256,7 @@
         <title type="html"><![CDATA[International Conference on Complex and Differential Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.780Z</updated>
+        <updated>2025-12-17T05:47:49.002Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -294,7 +275,7 @@
         <title type="html"><![CDATA[CMI-HIMR Summer School on Random Geometries and Random Matrices]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2025-12-16T17:51:09.782Z</updated>
+        <updated>2025-12-17T05:47:49.004Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -307,6 +288,25 @@
       1 - 5  June 2026    </span>
     <h3>CMI-HIMR Summer School on Random Geometries and Random Matrices</h3>
    <p> University of Bristol</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young Geometric Group Theory XIV]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2025-12-17T05:47:49.006Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1599" height="1062" src="https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1.jpg" class="attachment-4222 size-4222 wp-post-image" alt="Korea Institute for Advanced Study" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1.jpg 1599w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-300x199.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-1024x680.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-768x510.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-1536x1020.jpg 1536w" sizes="(max-width: 1599px) 100vw, 1599px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      8 - 12  June 2026    </span>
+    <h3>Young Geometric Group Theory XIV</h3>
+   <p> Korea Institute for Advanced Study</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>
