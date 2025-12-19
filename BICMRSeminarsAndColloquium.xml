@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-19T05:46:41.754Z</updated>
+    <updated>2025-12-19T17:40:07.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Inside the Black Box: How to Use AI for Efficient Research]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3815.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3815.html"/>
-        <updated>2025-12-17T17:47:29.751Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3815.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Inside the Black Box: How to Use AI for Efficient Research" target="_blank">"One-hour Mathematical Lecture Series" —— Inside the Black Box: How to Use AI for Efficient Research</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Leheng Chen (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3818.html</id>
@@ -32,7 +15,7 @@
                         <p>Dec 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3818.html" title="Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups" target="_blank">Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups</a>
                         </p>
@@ -49,7 +32,7 @@
                         <p>Dec 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3819.html" title="Some properties of classes of models and sets of elementary types." target="_blank">Some properties of classes of models and sets of elementary types.</a>
                         </p>
@@ -66,7 +49,7 @@
                         <p>Dec 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/82-3823.html" title="Derivatives of The Volume Dimension for Polynomial Skew Products" target="_blank">Derivatives of The Volume Dimension for Polynomial Skew Products</a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/43-3821.html" title="Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties" target="_blank">Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties</a>
                         </p>
                         <p class="speaker">Speaker(s): Chung-Ming Pan (Université du ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State-Dependent Delays Equations and Applications]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3820.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3820.html"/>
+        <updated>2025-12-19T17:39:49.418Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jan 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3820.html" title="State-Dependent Delays Equations and Applications" target="_blank">State-Dependent Delays Equations and Applications</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jaqueline Godoy Mesquita (Stat...</p>
                     </dd>]]></content>
     </entry>
     <entry>
