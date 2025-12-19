@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-12-18T17:48:14.868Z</updated>
+    <updated>2025-12-19T05:46:41.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2025-12-19T05:46:30.225Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Dec 24</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">Title: Semi-Universal entropy of CFTs at high spinSpeaker: Shiraz Minwalla (Tata Institute of Fundamental Research, India)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Dec 25 (Thursday)Abstract: We argue that the entropy of all d-dimensional conformal field theories (studied on $S^{d-1}$ ) takes a semi-universal scaling form in a suitable high angular momentum limit. We...</div>
+        <div class="t-3">Speaker：Miguel Tierz, Shiraz Minwalla </div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Statistical Seminar</div>
         <div class="t-2">Upcoming talks: 组织者：吴宇楠时间：12 月 26 日 14:00~15:00地点：双清综合楼C548报告人：叶成龙 助理教授，肯塔基大学报告题目：Deep Clustering Evaluation: How to Validate Internal Clustering Validation MeasuresDeep clustering partitions complex high-dimensional data using deep neural networks for clustering. It involves projecting data into lower-dimensional embeddings before partitioning, which e...</div>
         <div class="t-3">Speaker：孔令臣，叶成龙</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm"/>
-        <updated>2025-11-10T05:43:48.363Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Dec 19</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2725.htm" class="right text">
-        <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks 2025/12/19 10:30-11:30 am, Shuangqing B627Sian Nie 聂思安 (AMSS, CAS)Deep level Deligne-Lusztig varieties in the tamely ramified caseDeep level Deligne-Lusztig varieties are natural analogues of classical Deligne-Lusztig varieties, and have interesting applications in the study of supersuspical representations of p-adic groups. I will discuss work in progress on the construction ...</div>
-        <div class="t-3">Speaker：Sian Nie 聂思安 (AMSS, CAS)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
