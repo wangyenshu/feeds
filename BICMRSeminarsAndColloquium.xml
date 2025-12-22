@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-20T05:45:53.093Z</updated>
+    <updated>2025-12-22T17:43:57.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3818.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3818.html"/>
-        <updated>2025-12-17T17:47:29.752Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3818.html" title="Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups" target="_blank">Direct Products, Ultraproducts, and Model-Theoretic Properties of Abelian Groups</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Fazyl Zhebey(L.N. Gumilyov Eur...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Some properties of classes of models and sets of elementary types.]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3819.html</id>
@@ -49,7 +32,7 @@
                         <p>Dec 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3823.html" title="Derivatives of The Volume Dimension for Polynomial Skew Products" target="_blank">Derivatives of The Volume Dimension for Polynomial Skew Products</a>
                         </p>
@@ -66,11 +49,28 @@
                         <p>Dec 24</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/43-3821.html" title="Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties" target="_blank">Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties</a>
                         </p>
                         <p class="speaker">Speaker(s): Chung-Ming Pan (Université du ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McKay Correspondence for gl(m|n) and Mirror Symmetry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3824.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3824.html"/>
+        <updated>2025-12-22T17:43:35.626Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jan 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3824.html" title=" McKay Correspondence for gl(m|n) and Mirror Symmetry" target="_blank"> McKay Correspondence for gl(m|n) and Mirror Symmetry</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Yixuan Li (Australian Nationa...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -91,40 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Equidistribution of Saddle Periodic Points for Hénon-Like Maps (with a view on intersection of currents)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3795.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3795.html"/>
-        <updated>2025-12-02T05:44:38.928Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Nov 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
-                        <p class="black">
-                            <a href="/content/show/70-3795.html" title="Equidistribution of Saddle Periodic Points for Hénon-Like Maps (with a view on intersection of currents)" target="_blank">Equidistribution of Saddle Periodic Points for Hénon-Like Maps (with a view on intersection of currents)</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Qi Zhou (National University o...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in Dynamics Seminar]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3801.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3801.html"/>
-        <updated>2025-12-02T05:44:38.929Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="/content/show/17-3801.html" title="Advances in Dynamics Seminar" target="_blank">Advances in Dynamics Seminar</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Delta 2025]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/17-3785.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/17-3785.html"/>
@@ -134,7 +100,7 @@
                         <p>Dec 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3785.html" title="Delta 2025" target="_blank">Delta 2025</a>
                         </p>
@@ -151,9 +117,43 @@
                         <p>Dec 25</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/17-3822.html" title="2025 Beijing Algebraic Geometry Day" target="_blank">2025 Beijing Algebraic Geometry Day</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inducing t-structures and Stability Conditions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3826.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3826.html"/>
+        <updated>2025-12-22T17:43:35.632Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3826.html" title="Inducing t-structures and Stability Conditions" target="_blank">Inducing t-structures and Stability Conditions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Xiaolei Zhao (UC Santa Barbara...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formal Math Frontiers: From Implementation to AI Assistance]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=129</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=129"/>
+        <updated>2025-12-22T17:43:35.633Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jan 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=129" title="Formal Math Frontiers: From Implementation to AI Assistance" target="_blank">Formal Math Frontiers: From Implementation to AI Assistance</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
