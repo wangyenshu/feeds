@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-12-22T17:43:57.057Z</updated>
+    <updated>2025-12-23T05:48:44.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm"/>
+        <updated>2025-12-23T05:48:33.406Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Dec 26</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/2725.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks 2025/12/26 10:30-11:30 am, Shuangqing B627Yau Wing Li (University of Melbourne)Title: Endoscopy for metaplectic affine Hecke categoriesAbstract: The Hecke category is central in representation theory. A natural generalization considers sheaves on the enhanced affine flag variety with fixed monodromy along orbits of a centrally extended torus. In joint work with Gurbir Dhillon, Zh...</div>
+        <div class="t-3">Speaker：Yau Wing Li (University of Melbourne)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ADS seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
         <div class="t-2">Representations of locally profinite groups (2:30-4 pm, MCM 110)</div>
         <div class="t-3">Speaker：Bin Xu (YMSC)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2075.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2075.htm"/>
-        <updated>2025-12-17T17:47:38.709Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Dec 22</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/2075.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
-        <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
-        <div class="t-3">Speaker：Luming Zhao (Dalian University of Technology)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
