@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2025-12-24T05:48:47.896Z</updated>
+    <updated>2025-12-25T05:48:24.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Some properties of classes of models and sets of elementary types.]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3819.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3819.html"/>
-        <updated>2025-12-17T17:47:29.754Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3819.html" title="Some properties of classes of models and sets of elementary types." target="_blank">Some properties of classes of models and sets of elementary types.</a>
-                        </p>
-                        <p class="speaker">Speaker(s): M.I. Bekenov and A. Mamyraly(L...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Derivatives of The Volume Dimension for Polynomial Skew Products]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/82-3823.html</id>
@@ -49,11 +32,28 @@
                         <p>Dec 24</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3821.html" title="Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties" target="_blank">Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties</a>
                         </p>
                         <p class="speaker">Speaker(s): Chung-Ming Pan (Université du ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mu-Involution Schubert Polynomials]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/34-3827.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/34-3827.html"/>
+        <updated>2025-12-25T05:48:07.264Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2025</span>
+                        <p>Dec 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/34-3827.html" title="Mu-Involution Schubert Polynomials" target="_blank">Mu-Involution Schubert Polynomials</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jack Chen-An Chou (University ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
