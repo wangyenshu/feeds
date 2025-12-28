@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2025-12-27T17:41:33.016Z</updated>
+    <updated>2025-12-28T05:48:56.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm"/>
+        <updated>2025-12-28T05:48:45.988Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Dec 30</span></p>
+        <p class="t-2"><span>2025</span></p>
+    </div>
+    <a href="info/1053/3487.htm" class="right text">
+        <div class="t-1">Geometry and Physics Seminar (GPS)</div>
+        <div class="t-2">Time: Dec 30,  10:00-12:00Place: Teaching Building No.1, Room 102. TsinghuaTitle: Higher chiral algebras and free field realizationsSpeaker: Zhengping Gui (SIMIS and Fudan U.)Abstract: We use the Jouanolou model as a model for configuration spaces to construct higher-dimensional chiral algebras. In this model, chiral algebras can be studied as homotopy Lie algebras within a pseudotensor structu...</div>
+        <div class="t-3">Speaker：Zhengping Gui (SIMIS and Fudan U.)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2725.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Quantum Scientific Computation and Quantum Artificial Intelligence量子科学计算与量子人工智能</div>
         <div class="t-2">Upcoming talk: Speakers：Leyu Chen (Beihang University)Host: Jin-Peng Liu 刘锦鹏Time: Wednesday, 10:30-11:30, Dec 24, 2025Venue: Ningzhai 204/Voov: 963-193-309Title: Quantum Simulation of Rapidly Distorted Turbulence via LCHSAbstract: We propose an end-to-end quantum algorithm to simulate rapidly distorted turbulence via linear combination of Hamiltonian Simulation (LCHS). The algorithm compris...</div>
         <div class="t-3">Speaker：Leyu Chen (Beihang University)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
-        <updated>2025-12-22T17:43:45.371Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Dec 23</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/1973.htm" class="right text">
-        <div class="t-1">YMSC Topology Seminar</div>
-        <div class="t-2">Immersed incompressible surfaces in hyperbolic manifolds - Zhenghao RAO 饶正昊, Rutgers (2025-12-23)(Please note the non-standard time for this talk)Abstract: The study of surface subgroups in 3-manifolds has drawn sustained attention for decades, motivated both by their intrinsic geometric richness and by their broad consequences in geometric topology, geometric group theory, and dynamics. A l...</div>
-        <div class="t-3">Speaker：Zhenghao RAO 饶正昊 (Rutgers)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
