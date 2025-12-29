@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://math.nankai.edu.cn/</id>
     <title>南开大学数学学院本科生教育消息</title>
-    <updated>2025-12-28T17:42:49.331Z</updated>
+    <updated>2025-12-29T05:52:19.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://math.nankai.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[数学科学学院调课通知（12.29)]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-09-16T05:39:50.451Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">29</div>
+											<div class="news_year">2025-12</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/1229/c34387a587816/page.htm" target="_blank" title="数学科学学院调课通知（12.29)">数学科学学院调课通知（12.29)</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学科学学院调课通知（12.24)]]></title>
         <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
@@ -69,23 +86,6 @@
 										<div class="news_wz">
 											<div class="news_con">
 												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/1219/c34387a587324/page.htm" target="_blank" title="2025-2026学年第一学期 短期课程 结课期末考试通知（12.19）">2025-2026学年第一学期 短期课程 结课期末考试通知（12.19）</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学科学学院调课通知（12.19)]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-09-16T05:39:50.451Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">19</div>
-											<div class="news_year">2025-12</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/1219/c34387a587323/page.htm" target="_blank" title="数学科学学院调课通知（12.19)">数学科学学院调课通知（12.19)</a></div>
 											</div>
 										</div>
 									</div>]]></content>
