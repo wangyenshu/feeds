@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-01-01T17:44:22.138Z</updated>
+    <updated>2026-01-02T05:49:49.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3821.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3821.html"/>
-        <updated>2025-12-18T17:47:53.852Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3821.html" title="Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties" target="_blank">Gauduchon Metrics and Hermite-Einstein Metrics on Non-Kähler Varieties</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Chung-Ming Pan (Université du ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Mu-Involution Schubert Polynomials]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/34-3827.html</id>
@@ -37,6 +20,23 @@
                             <a href="/content/show/34-3827.html" title="Mu-Involution Schubert Polynomials" target="_blank">Mu-Involution Schubert Polynomials</a>
                         </p>
                         <p class="speaker">Speaker(s): Jack Chen-An Chou (University ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Causal inference for all: Marginal causal effects for outcomes truncated by death]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/92-3829.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/92-3829.html"/>
+        <updated>2026-01-02T05:49:28.920Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jan 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/92-3829.html" title="Causal inference for all: Marginal causal effects for outcomes truncated by death" target="_blank">Causal inference for all: Marginal causal effects for outcomes truncated by death</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Linbo Wang (University of Toro...</p>
                     </dd>]]></content>
     </entry>
     <entry>
