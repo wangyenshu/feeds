@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-01-06T05:50:22.284Z</updated>
+    <updated>2026-01-06T17:48:50.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <div class="t-1">Geometry and Physics Seminar (GPS)</div>
         <div class="t-2">Time: Dec 30,  10:00-12:00Place: Teaching Building No.1, Room 102. TsinghuaTitle: Higher chiral algebras and free field realizationsSpeaker: Zhengping Gui (SIMIS and Fudan U.)Abstract: We use the Jouanolou model as a model for configuration spaces to construct higher-dimensional chiral algebras. In this model, chiral algebras can be studied as homotopy Lie algebras within a pseudotensor structu...</div>
         <div class="t-3">Speaker：Zhengping Gui (SIMIS and Fudan U.)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
