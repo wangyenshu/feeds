@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-01-08T17:52:27.459Z</updated>
+    <updated>2026-01-09T05:50:28.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Causal inference for all: Marginal causal effects for outcomes truncated by death]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/92-3829.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/92-3829.html"/>
+        <updated>2026-01-09T05:50:09.706Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jan 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> </p>
+                        <p class="black">
+                            <a href="/content/show/92-3829.html" title="Causal inference for all: Marginal causal effects for outcomes truncated by death" target="_blank">Causal inference for all: Marginal causal effects for outcomes truncated by death</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Linbo Wang (University of Toro...</p>
+                    </dd>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Single World Intervention Graphs: A simple framework for unifying graphs and potential outcomes with applicati...]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/92-3828.html</id>
@@ -54,23 +71,6 @@
                             <a href="/content/show/18-3820.html" title="State-Dependent Delays Equations and Applications" target="_blank">State-Dependent Delays Equations and Applications</a>
                         </p>
                         <p class="speaker">Speaker(s): Jaqueline Godoy Mesquita (Stat...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual Lyapunov Exponents and Global Theory of Analytic Quasiperiodic Operators: the Robustness of Sharp Spectra...]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3831.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3831.html"/>
-        <updated>2026-01-08T17:52:06.348Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jan 13</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3831.html" title="Dual Lyapunov Exponents and Global Theory of Analytic Quasiperiodic Operators: the Robustness of Sharp Spectral Results" target="_blank">Dual Lyapunov Exponents and Global Theory of Analytic Quasiperiodic Operators: the Robustness of Sharp Spectra...</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Svetlana Jitomirskaya (UC Berk...</p>
                     </dd>]]></content>
     </entry>
     <entry>
