@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-10T05:45:23.646Z</updated>
+    <updated>2026-01-10T17:42:13.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[数学学院2025-2026（1）期末缓考安排（1.10更新） (南开大学数学学院本科生教育消息)]]></title>
@@ -93,7 +93,7 @@
         <title type="html"><![CDATA[南开大学2025-2026学年第二学期本科生选课通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.861Z</updated>
+        <updated>2026-01-10T17:41:12.111Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">25</div>
 								<div class="m">25/12</div>
@@ -101,10 +101,21 @@
 							<div class="con" title="南开大学2025-2026学年第二学期本科生选课通知">南开大学2025-2026学年第二学期本科生选课通知</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[关于开展普通高等教育本科国家级规划教材推荐遴选工作的通知 (南开大学教务处通知)]]></title>
+        <id>https://wangyenshu.github.io/feeds/all.xml</id>
+        <link href="https://wangyenshu.github.io/feeds/all.xml"/>
+        <updated>2026-01-10T17:41:12.112Z</updated>
+        <content type="html"><![CDATA[<div class="date">
+								<div class="d">10</div>
+								<div class="m">26/01</div>
+							</div>
+							<div class="con" title="关于开展普通高等教育本科国家级规划教材推荐遴选工作的通知">关于开展普通高等教育本科国家级规划教材推荐遴选工作的通知</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[关于开展2025-2026学年第二学期本科课程助教工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.861Z</updated>
+        <updated>2026-01-10T17:41:12.113Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">08</div>
 								<div class="m">26/01</div>
@@ -115,7 +126,7 @@
         <title type="html"><![CDATA[关于开展第三批天津市级课程思政优秀教学案例（本科）推荐工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.865Z</updated>
+        <updated>2026-01-10T17:41:12.114Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">08</div>
 								<div class="m">26/01</div>
@@ -126,7 +137,7 @@
         <title type="html"><![CDATA[关于开展2020届、2025届本科毕业生培养质量评价的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.865Z</updated>
+        <updated>2026-01-10T17:41:12.115Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">29</div>
 								<div class="m">25/12</div>
@@ -137,7 +148,7 @@
         <title type="html"><![CDATA[关于2025年度教师系列教学为主型高级专业技术职务报名人选的公示 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.865Z</updated>
+        <updated>2026-01-10T17:41:12.115Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">25</div>
 								<div class="m">25/12</div>
@@ -148,7 +159,7 @@
         <title type="html"><![CDATA[关于数字经济专业申报天津市新增学士学位授予专业的公示 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.866Z</updated>
+        <updated>2026-01-10T17:41:12.116Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">18</div>
 								<div class="m">25/12</div>
@@ -159,7 +170,7 @@
         <title type="html"><![CDATA[关于做好2025-2026学年第一学期期末考试工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.867Z</updated>
+        <updated>2026-01-10T17:41:12.117Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">16</div>
 								<div class="m">25/12</div>
@@ -170,7 +181,7 @@
         <title type="html"><![CDATA[关于开展2025-2026-2学期本科课程选用教材审核工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.868Z</updated>
+        <updated>2026-01-10T17:41:12.119Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">15</div>
 								<div class="m">25/12</div>
@@ -178,21 +189,10 @@
 							<div class="con" title="关于开展2025-2026-2学期本科课程选用教材审核工作的通知">关于开展2025-2026-2学期本科课程选用教材审核工作的通知</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于开展2026年南开大学哲学社会科学原创性教材建设培育项目立项工作的通知 (南开大学教务处通知)]]></title>
-        <id>https://wangyenshu.github.io/feeds/all.xml</id>
-        <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:30.869Z</updated>
-        <content type="html"><![CDATA[<div class="date">
-								<div class="d">10</div>
-								<div class="m">25/12</div>
-							</div>
-							<div class="con" title="关于开展2026年南开大学哲学社会科学原创性教材建设培育项目立项工作的通知">关于开展2026年南开大学哲学社会科学原创性教材建设培育项目立项工作的通知</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[张宝羽 博士：Fusion systems with 2-generated essential... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.817Z</updated>
+        <updated>2026-01-10T17:41:18.846Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1229/c6604a587837/page.htm" target="_blank" title="张宝羽 博士：Fusion systems with 2-generated essential subgroups">张宝羽 博士：Fusion systems with 2-generated essential...</a></span>
@@ -205,7 +205,7 @@
         <title type="html"><![CDATA[储继峰 教授：Weak separability and partial Fermi isosp... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.818Z</updated>
+        <updated>2026-01-10T17:41:18.849Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1223/c6604a587517/page.htm" target="_blank" title="储继峰 教授：Weak separability and partial Fermi isospectrality of discrete periodic Schrodinger operators">储继峰 教授：Weak separability and partial Fermi isosp...</a></span>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[雷锦志 教授：生物数学之路与未来发展 (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.818Z</updated>
+        <updated>2026-01-10T17:41:18.851Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1223/c6604a587516/page.htm" target="_blank" title="雷锦志 教授：生物数学之路与未来发展">雷锦志 教授：生物数学之路与未来发展</a></span>
@@ -231,7 +231,7 @@
         <title type="html"><![CDATA[张景宣 博士：Slow propagation velocities in quantum ma... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.818Z</updated>
+        <updated>2026-01-10T17:41:18.853Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1222/c6604a587495/page.htm" target="_blank" title="张景宣 博士：Slow propagation velocities in quantum many-body dynamics">张景宣 博士：Slow propagation velocities in quantum ma...</a></span>
@@ -244,7 +244,7 @@
         <title type="html"><![CDATA[马继明 博士：Limit sets of higher dimensional Kleinian... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.818Z</updated>
+        <updated>2026-01-10T17:41:18.855Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1219/c6604a587304/page.htm" target="_blank" title="马继明 博士：Limit sets of higher dimensional Kleinian groups">马继明 博士：Limit sets of higher dimensional Kleinian...</a></span>
@@ -257,7 +257,7 @@
         <title type="html"><![CDATA[王志涵：Singular Structures and Generic Regularity of ... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.820Z</updated>
+        <updated>2026-01-10T17:41:18.857Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1219/c6604a587301/page.htm" target="_blank" title="王志涵：Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow">王志涵：Singular Structures and Generic Regularity of ...</a></span>
@@ -270,7 +270,7 @@
         <title type="html"><![CDATA[孙鑫 教授：Three perspectives on the b-6j Symbol: Quan... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.821Z</updated>
+        <updated>2026-01-10T17:41:18.859Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2025/1205/c6604a586060/page.htm" target="_blank" title="孙鑫 教授：Three perspectives on the b-6j Symbol: Quantum Group, 2D CFT, and 3D Quantum Topology"><font style="color:#001AFF;">孙鑫 教授：Three perspectives on the b-6j Symbol: Quan...</font></a></span>
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.823Z</updated>
+        <updated>2026-01-10T17:41:18.861Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1205/c6604a586059/page.htm" target="_blank" title="Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AND SLICES">Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN...</a></span>
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[董昭 研究员：Ergodicity of the Markov Feller semigroup... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.824Z</updated>
+        <updated>2026-01-10T17:41:18.862Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585673/page.htm" target="_blank" title="董昭 研究员：Ergodicity of the Markov Feller semigroup and application to 2D Navier-Stokes equations with a multiplicative noise">董昭 研究员：Ergodicity of the Markov Feller semigroup...</a></span>
@@ -309,7 +309,7 @@
         <title type="html"><![CDATA[王益 研究员：The Stability of Riemann Profiles (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.825Z</updated>
+        <updated>2026-01-10T17:41:18.864Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585672/page.htm" target="_blank" title="王益 研究员：The Stability of Riemann Profiles">王益 研究员：The Stability of Riemann Profiles</a></span>
@@ -322,7 +322,7 @@
         <title type="html"><![CDATA[蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.827Z</updated>
+        <updated>2026-01-10T17:41:18.865Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585671/page.htm" target="_blank" title="蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR SCHÖRDINGER EQUATION">蒋美跃 教授：NORMALIZED SOLUTIONS OF THE 1-D NONLINEAR...</a></span>
@@ -335,7 +335,7 @@
         <title type="html"><![CDATA[高延 教授：Boundary dimension of attracting domains an... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.828Z</updated>
+        <updated>2026-01-10T17:41:18.867Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585666/page.htm" target="_blank" title="高延 教授：Boundary dimension of attracting domains and hyperbolic components">高延 教授：Boundary dimension of attracting domains an...</a></span>
@@ -348,7 +348,7 @@
         <title type="html"><![CDATA[徐敬可 博士：Private Information Retrieval from Joint ... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.829Z</updated>
+        <updated>2026-01-10T17:41:18.869Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1128/c6604a585389/page.htm" target="_blank" title="徐敬可 博士：Private Information Retrieval from Joint MDS Coded and Non-colluding Servers">徐敬可 博士：Private Information Retrieval from Joint ...</a></span>
@@ -361,7 +361,7 @@
         <title type="html"><![CDATA[方伟军 教授：New constructions of MDS symbol-pair code... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:36.830Z</updated>
+        <updated>2026-01-10T17:41:18.870Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1128/c6604a585388/page.htm" target="_blank" title="方伟军 教授：New constructions of MDS symbol-pair codes via simple-root cyclic codes">方伟军 教授：New constructions of MDS symbol-pair code...</a></span>
@@ -674,7 +674,7 @@
         <title type="html"><![CDATA[Partial Differential Equations, Analysis and Geometry: a Conference in Honor of Sergiu Klainerman’s 75th Birthday (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.246Z</updated>
+        <updated>2026-01-10T17:41:28.132Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -693,7 +693,7 @@
         <title type="html"><![CDATA[NZMRI 2026 (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.246Z</updated>
+        <updated>2026-01-10T17:41:28.135Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -712,7 +712,7 @@
         <title type="html"><![CDATA[Vector Bundles on Algebraic Curves: Curves, Surfaces and Moduli (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.246Z</updated>
+        <updated>2026-01-10T17:41:28.139Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -731,7 +731,7 @@
         <title type="html"><![CDATA[Geometric Structures and Stability (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.247Z</updated>
+        <updated>2026-01-10T17:41:28.141Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -750,7 +750,7 @@
         <title type="html"><![CDATA[Arizona Winter School (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.248Z</updated>
+        <updated>2026-01-10T17:41:28.142Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -769,7 +769,7 @@
         <title type="html"><![CDATA[British Mathematical Colloquium (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.249Z</updated>
+        <updated>2026-01-10T17:41:28.144Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -788,7 +788,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.251Z</updated>
+        <updated>2026-01-10T17:41:28.145Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -807,7 +807,7 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.252Z</updated>
+        <updated>2026-01-10T17:41:28.147Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -826,7 +826,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.253Z</updated>
+        <updated>2026-01-10T17:41:28.148Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -845,7 +845,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.254Z</updated>
+        <updated>2026-01-10T17:41:28.149Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -864,7 +864,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.255Z</updated>
+        <updated>2026-01-10T17:41:28.151Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -883,7 +883,7 @@
         <title type="html"><![CDATA[New Directions in Nonlinear PDEs (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.256Z</updated>
+        <updated>2026-01-10T17:41:28.152Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -902,7 +902,7 @@
         <title type="html"><![CDATA[International Conference on Complex and Differential Geometry (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.257Z</updated>
+        <updated>2026-01-10T17:41:28.154Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -921,7 +921,7 @@
         <title type="html"><![CDATA[CMI-HIMR Summer School on Random Geometries and Random Matrices (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.258Z</updated>
+        <updated>2026-01-10T17:41:28.155Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -942,7 +942,7 @@
         <title type="html"><![CDATA[Young Geometric Group Theory XIV (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.260Z</updated>
+        <updated>2026-01-10T17:41:28.157Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -961,7 +961,7 @@
         <title type="html"><![CDATA[p-adic Kudla Program and p-adic Automorphic Forms (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-01-10T05:44:45.261Z</updated>
+        <updated>2026-01-10T17:41:28.159Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -2273,7 +2273,7 @@
                         <p>Jan 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/18-3830.html" title="Dual Lyapunov Exponents and Global Theory of Analytic Quasiperiodic Operators: the Robustness of Sharp Spectral Results" target="_blank">Dual Lyapunov Exponents and Global Theory of Analytic Quasiperiodic Operators: the Robustness of Sharp Spectra...</a>
                         </p>
