@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-01-12T05:53:41.969Z</updated>
+    <updated>2026-01-12T17:46:37.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -385,7 +385,7 @@
         <title type="html"><![CDATA[Time-dependent Bernoulli-type free boundary problems]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1315/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1315/view/"/>
-        <updated>2026-01-12T05:52:59.560Z</updated>
+        <updated>2026-01-12T05:52:59.559Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -398,7 +398,7 @@
         <title type="html"><![CDATA[Time-dependent Bernoulli-type free boundary problems]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1315/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1315/view/"/>
-        <updated>2026-01-12T05:52:59.562Z</updated>
+        <updated>2026-01-12T05:52:59.559Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1315/view/" target="_blank" rel="noopener">Time-dependent Bernoulli-type free boundary problems</a></h5>
 			<div class="event-info">AIM - February 2, 2026 to February 6, 2026</div>]]></content>
@@ -459,7 +459,7 @@
         <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1128/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1128/view/"/>
-        <updated>2026-01-12T05:52:59.569Z</updated>
+        <updated>2026-01-12T05:52:59.568Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -472,7 +472,7 @@
         <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1128/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1128/view/"/>
-        <updated>2026-01-12T05:52:59.570Z</updated>
+        <updated>2026-01-12T05:52:59.568Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
 			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
@@ -496,7 +496,7 @@
         <title type="html"><![CDATA[Advances in Quantitative Medical Care]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1345/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1345/view/"/>
-        <updated>2026-01-12T05:52:59.573Z</updated>
+        <updated>2026-01-12T05:52:59.572Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -509,7 +509,7 @@
         <title type="html"><![CDATA[Advances in Quantitative Medical Care]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1345/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1345/view/"/>
-        <updated>2026-01-12T05:52:59.574Z</updated>
+        <updated>2026-01-12T05:52:59.572Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1345/view/" target="_blank" rel="noopener">Advances in Quantitative Medical Care</a></h5>
 			<div class="event-info">IMSI - February 2, 2026 to February 6, 2026</div>]]></content>
