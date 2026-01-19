@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-01-19T05:55:41.419Z</updated>
+    <updated>2026-01-19T17:49:23.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -22,6 +22,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026几何分析50周年学术研讨会 Fifty Years of Geomrtric Analysis]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3676.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3676.htm"/>
+        <updated>2026-01-19T17:49:22.573Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 13</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1060/3676.htm" class="right text">
+        <div class="t-1">2026几何分析50周年学术研讨会 Fifty Years of Geomrtric Analysis</div>
+        <div class="t-2">Host:Yau Mathematical Sciences Center, Tsinghua University Venue：C548, Tsinghua University Shuangqing Complex Building A Organizers: Jixiang Fu                           Fudan UniversityYi Li                                   Shanghai Institute for Mathematics and Interdisciplinary SciencesYong Lin                            Tsinghua UniversityKefeng Liu                         Chongqing Unive...</div>
+        <div class="t-3">Organizer：Jixiang Fu, Yi Li, Yong Lin, Kefeng Liu, Xin Zhou, Xiping Zhu</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zhongguancun Number Theory Colloquium]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm"/>
@@ -34,22 +50,6 @@
         <div class="t-1">Zhongguancun Number Theory Colloquium</div>
         <div class="t-2">Upcoming：  Venue: Room 110, Morningside Building, Chinese Academy of Sciences Title: Unitary dual problem for p-adic classical groups: the good parity caseSpeaker: Rui Chen (Zhejiang Univ.)Time: 15:00--16:00Abstract: Classifying irreducible unitary representations is one of the most important problems in representation theory of reductive groups. In this talk, we will discuss the recent breakt...</div>
         <div class="t-3">Organizer：Koji Shimizu (YMSC), Yihang Zhu (YMSC)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter School 2025：Medical Imaging in the Deep Learning Era-Breakthroughs, Challenges & Opportunities]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3554.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3554.htm"/>
-        <updated>2025-12-02T17:47:24.543Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Dec 05</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1060/3554.htm" class="right text">
-        <div class="t-1">Winter School 2025：Medical Imaging in the Deep Learning Era-Breakthroughs, Challenges &amp; Opportunities</div>
-        <div class="t-2">Abstract: Focusing on the interdisciplinary research area of medical imaging and deep learning, this course systematically explores how deep learning methods can be used to process medical image data, empowering smart healthcare and providing innovative tools and methodological support for medical discoveries. It will cover trending techniques in image processing and medical imaging, showcase r...</div>
-        <div class="t-3">Organizer：Angelica Aviles-Rivero,Tsinghua &amp; Shujun Wang,HKPU</div>
         
     </a>]]></content>
     </entry>
