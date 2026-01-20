@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-01-20T05:53:48.423Z</updated>
+    <updated>2026-01-20T17:54:56.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -496,7 +496,7 @@
         <title type="html"><![CDATA[Connections Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1305/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1305/view/"/>
-        <updated>2026-01-20T05:53:09.942Z</updated>
+        <updated>2026-01-20T05:53:09.941Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -509,7 +509,7 @@
         <title type="html"><![CDATA[Connections Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1305/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1305/view/"/>
-        <updated>2026-01-20T05:53:09.944Z</updated>
+        <updated>2026-01-20T05:53:09.941Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1305/view/" target="_blank" rel="noopener">Connections Workshop: Topological and Geometric Structures in Low Dimensions &amp; Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
 			<div class="event-info">SLMath - January 21, 2026 to January 23, 2026</div>]]></content>
