@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-01-19T17:49:23.336Z</updated>
+    <updated>2026-01-20T05:53:48.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -441,43 +441,6 @@
 			<div class="event-info">IAS - September 21, 2026 to April 9, 2027</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1128/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1128/view/"/>
-        <updated>2026-01-12T05:52:59.568Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1128/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1128/view/"/>
-        <updated>2026-01-12T05:52:59.568Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1128/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1128/view/"/>
-        <updated>2026-01-12T05:52:59.568Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Advances in Quantitative Medical Care]]></title>
         <id>http://www.mathinstitutes.org/index.php/events/1345/view/</id>
         <link href="http://www.mathinstitutes.org/index.php/events/1345/view/"/>
@@ -515,40 +478,40 @@
 			<div class="event-info">IMSI - February 2, 2026 to February 6, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1319/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1319/view/"/>
-        <updated>2025-12-02T05:44:18.611Z</updated>
+        <title type="html"><![CDATA[Connections Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>http://www.mathinstitutes.org/index.php/events/1305/view/</id>
+        <link href="http://www.mathinstitutes.org/index.php/events/1305/view/"/>
+        <updated>2026-01-20T05:53:09.941Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1305/view/" target="_blank" rel="noopener">Connections Workshop: Topological and Geometric Structures in Low Dimensions &amp; Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 21, 2026 to January 23, 2026</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1319/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1319/view/"/>
-        <updated>2025-12-02T05:44:18.611Z</updated>
+        <title type="html"><![CDATA[Connections Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>http://www.mathinstitutes.org/index.php/events/1305/view/</id>
+        <link href="http://www.mathinstitutes.org/index.php/events/1305/view/"/>
+        <updated>2026-01-20T05:53:09.942Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1305/view/" target="_blank" rel="noopener">Connections Workshop: Topological and Geometric Structures in Low Dimensions &amp; Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 21, 2026 to January 23, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>http://www.mathinstitutes.org/index.php/events/1319/view/</id>
-        <link href="http://www.mathinstitutes.org/index.php/events/1319/view/"/>
-        <updated>2025-12-02T05:44:18.611Z</updated>
+        <title type="html"><![CDATA[Connections Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>http://www.mathinstitutes.org/index.php/events/1305/view/</id>
+        <link href="http://www.mathinstitutes.org/index.php/events/1305/view/"/>
+        <updated>2026-01-20T05:53:09.944Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
+						<h5 class="event-title mb-1"><a href="http://www.mathinstitutes.org/index.php/events/1305/view/" target="_blank" rel="noopener">Connections Workshop: Topological and Geometric Structures in Low Dimensions &amp; Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 21, 2026 to January 23, 2026</div>]]></content>
     </entry>
 </feed>
