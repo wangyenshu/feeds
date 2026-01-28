@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-01-28T05:53:01.094Z</updated>
+    <updated>2026-01-28T17:57:19.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -22,18 +22,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026几何分析50周年学术研讨会 Fifty Years of Geomrtric Analysis]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3676.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3676.htm"/>
-        <updated>2026-01-19T17:49:22.573Z</updated>
+        <title type="html"><![CDATA[几何分析50周年学术研讨会 Fifty Years of Geometric Analysis]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3687.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3687.htm"/>
+        <updated>2026-01-28T17:57:18.518Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 13</span></p>
+         <p class="t-1"><span>May 11</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1060/3676.htm" class="right text">
-        <div class="t-1">2026几何分析50周年学术研讨会 Fifty Years of Geomrtric Analysis</div>
-        <div class="t-2">Host:Yau Mathematical Sciences Center, Tsinghua University Venue：C548, Tsinghua University Shuangqing Complex Building A Organizers: Jixiang Fu                           Fudan UniversityYi Li                                   Shanghai Institute for Mathematics and Interdisciplinary SciencesYong Lin                            Tsinghua UniversityKefeng Liu                         Chongqing Unive...</div>
-        <div class="t-3">Organizer：Jixiang Fu, Yi Li, Yong Lin, Kefeng Liu, Xin Zhou, Xiping Zhu</div>
+    <a href="info/1060/3687.htm" class="right text">
+        <div class="t-1">几何分析50周年学术研讨会 Fifty Years of Geometric Analysis</div>
+        <div class="t-2">Host:Yau Mathematical Sciences Center, Tsinghua University Venue：Yau Mathematical Sciences Center, Tsinghua University Organizers: Huai-Dong Cao                  Lehigh UniversityJixiang Fu                           Fudan UniversityConan Nai Chung Leung   The Chinese University of Hong KongJun Li                                 Fudan UniversityYi Li                                   Shanghai I...</div>
+        <div class="t-3">Organizer：Huai-Dong Cao, Jixiang Fu, Conan Nai Chung Leung, Jun Li, Yi Li, Kefeng Liu, Duong H. Phong, Richard Schoen, Xin Zhou, Xi-Ping Zhu</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
