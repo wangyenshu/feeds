@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2026-02-01T06:12:34.934Z</updated>
+    <updated>2026-02-01T17:51:57.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[Geometric Structures and Stability]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.350Z</updated>
+        <updated>2026-02-01T17:51:10.654Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -28,7 +28,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.359Z</updated>
+        <updated>2026-02-01T17:51:10.654Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -47,7 +47,7 @@
         <title type="html"><![CDATA[British Mathematical Colloquium]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.360Z</updated>
+        <updated>2026-02-01T17:51:10.656Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -66,7 +66,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.360Z</updated>
+        <updated>2026-02-01T17:51:10.657Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -85,7 +85,7 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.361Z</updated>
+        <updated>2026-02-01T17:51:10.659Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -104,7 +104,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.361Z</updated>
+        <updated>2026-02-01T17:51:10.660Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -123,7 +123,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.364Z</updated>
+        <updated>2026-02-01T17:51:10.661Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -142,7 +142,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.373Z</updated>
+        <updated>2026-02-01T17:51:10.663Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -161,7 +161,7 @@
         <title type="html"><![CDATA[New Directions in Nonlinear PDEs]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.373Z</updated>
+        <updated>2026-02-01T17:51:10.664Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -180,7 +180,7 @@
         <title type="html"><![CDATA[International Conference on Complex and Differential Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.373Z</updated>
+        <updated>2026-02-01T17:51:10.665Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -199,7 +199,7 @@
         <title type="html"><![CDATA[CMI-HIMR Summer School on Random Geometries and Random Matrices]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.373Z</updated>
+        <updated>2026-02-01T17:51:10.667Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -220,7 +220,7 @@
         <title type="html"><![CDATA[Young Geometric Group Theory XIV]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.380Z</updated>
+        <updated>2026-02-01T17:51:10.668Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -239,7 +239,7 @@
         <title type="html"><![CDATA[p-adic Kudla Program and p-adic Automorphic Forms]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.380Z</updated>
+        <updated>2026-02-01T17:51:10.669Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -258,7 +258,7 @@
         <title type="html"><![CDATA[Geometric Spectral Theory and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.380Z</updated>
+        <updated>2026-02-01T17:51:10.671Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -277,7 +277,7 @@
         <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.381Z</updated>
+        <updated>2026-02-01T17:51:10.673Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[Fundamental Geometries]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-02-01T06:11:44.393Z</updated>
+        <updated>2026-02-01T17:51:10.677Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
