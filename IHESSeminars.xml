@@ -2,7 +2,1027 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-02-07T06:04:49.551Z</updated>
+    <updated>2026-02-07T17:52:27.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.ihes.fr/en/events/favicon.ico</icon>
+    <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.562Z</updated>
+        <content type="html"><![CDATA[Monday 09 February 2026<br>
+								from 15:00 to 16:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Argument–Shift Subalgebras via Quantized Shift Operators]]></title>
+        <id>https://indico.math.cnrs.fr/event/16060/</id>
+        <link href="https://indico.math.cnrs.fr/event/16060/"/>
+        <updated>2026-02-07T17:51:54.983Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/16060/" target="_blank">Quantum Argument–Shift Subalgebras via Quantized Shift Operators</a>
+								</h3>
+								<p><strong> Georgy Sharygin</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.563Z</updated>
+        <content type="html"><![CDATA[Wednesday 18 February 2026<br>
+								from 10:30 to 11:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://indico.math.cnrs.fr/event/15797/</id>
+        <link href="https://indico.math.cnrs.fr/event/15797/"/>
+        <updated>2026-02-07T17:51:54.989Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15797/" target="_blank">TBA</a>
+								</h3>
+								<p><strong> Carlo Heissenberg</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.564Z</updated>
+        <content type="html"><![CDATA[Wednesday 18 February 2026<br>
+								from 11:45 to 12:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://indico.math.cnrs.fr/event/15798/</id>
+        <link href="https://indico.math.cnrs.fr/event/15798/"/>
+        <updated>2026-02-07T17:51:54.997Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15798/" target="_blank">TBA</a>
+								</h3>
+								<p><strong> Erik Panzer</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.565Z</updated>
+        <content type="html"><![CDATA[Thursday 19 February 2026<br>
+								from 11:00 to 12:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logarithmic Cartier Transform]]></title>
+        <id>https://indico.math.cnrs.fr/event/15921/</id>
+        <link href="https://indico.math.cnrs.fr/event/15921/"/>
+        <updated>2026-02-07T17:51:54.998Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15921/" target="_blank">Logarithmic Cartier Transform</a>
+								</h3>
+								<p><strong> Sami Fersi</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.565Z</updated>
+        <content type="html"><![CDATA[Wednesday 04 March 2026<br>
+								from 09:30 to 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://indico.math.cnrs.fr/event/15795/</id>
+        <link href="https://indico.math.cnrs.fr/event/15795/"/>
+        <updated>2026-02-07T17:51:55.000Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15795/" target="_blank">TBA</a>
+								</h3>
+								<p><strong> Stefano De Angelis</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.567Z</updated>
+        <content type="html"><![CDATA[Wednesday 04 March 2026<br>
+								from 10:45 to 11:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://indico.math.cnrs.fr/event/15799/</id>
+        <link href="https://indico.math.cnrs.fr/event/15799/"/>
+        <updated>2026-02-07T17:51:55.001Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15799/" target="_blank">TBA</a>
+								</h3>
+								<p><strong> Mehregan Doroudiani</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.568Z</updated>
+        <content type="html"><![CDATA[Wednesday 04 March 2026<br>
+								from 11:45 to 12:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://indico.math.cnrs.fr/event/15800/</id>
+        <link href="https://indico.math.cnrs.fr/event/15800/"/>
+        <updated>2026-02-07T17:51:55.006Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15800/" target="_blank">TBA</a>
+								</h3>
+								<p><strong> Thomas Pochart</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.570Z</updated>
+        <content type="html"><![CDATA[Monday 09 March 2026<br>
+								from 09:00 to 17:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symmetry and Topology in Particle Physics]]></title>
+        <id>https://indico.math.cnrs.fr/event/16013/</id>
+        <link href="https://indico.math.cnrs.fr/event/16013/"/>
+        <updated>2026-02-07T17:51:55.007Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Physique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/16013/" target="_blank">Symmetry and Topology in Particle Physics</a>
+								</h3>
+								<p><strong> </strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.571Z</updated>
+        <content type="html"><![CDATA[Monday 31 May 2027<br>
+								from 09:30 to 17:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese-French Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
+        <id>https://indico.math.cnrs.fr/event/15993/</id>
+        <link href="https://indico.math.cnrs.fr/event/15993/"/>
+        <updated>2026-02-07T17:51:55.008Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Mathématiques									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15993/" target="_blank">Japanese-French Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji</a>
+								</h3>
+								<p><strong> </strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.572Z</updated>
+        <content type="html"><![CDATA[Thursday 05 February 2026<br>
+								from 11:00 to 12:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Hurwitz Moduli Spaces and Level Structures]]></title>
+        <id>https://indico.math.cnrs.fr/event/15959/</id>
+        <link href="https://indico.math.cnrs.fr/event/15959/"/>
+        <updated>2026-02-07T17:51:55.017Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15959/" target="_blank">Wild Hurwitz Moduli Spaces and Level Structures</a>
+								</h3>
+								<p><strong> Michael Temkin</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.573Z</updated>
+        <content type="html"><![CDATA[Wednesday 04 February 2026<br>
+								from 11:30 to 12:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Polylogs to Calabi–Yau: Canonical Differential Equations and Intersection Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/15796/</id>
+        <link href="https://indico.math.cnrs.fr/event/15796/"/>
+        <updated>2026-02-07T17:51:55.019Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		SEED Seminar									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15796/" target="_blank">From Polylogs to Calabi–Yau: Canonical Differential Equations and Intersection Theory</a>
+								</h3>
+								<p><strong> Sara Maggio</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.575Z</updated>
+        <content type="html"><![CDATA[Thursday 29 January 2026<br>
+								from 14:45 to 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2d Conformal Field Theories on Magic Triangle]]></title>
+        <id>https://indico.math.cnrs.fr/event/15935/</id>
+        <link href="https://indico.math.cnrs.fr/event/15935/"/>
+        <updated>2026-02-07T17:51:55.020Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15935/" target="_blank">2d Conformal Field Theories on Magic Triangle</a>
+								</h3>
+								<p><strong> Kaiwen Sun</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.577Z</updated>
+        <content type="html"><![CDATA[Monday 26 January 2026<br>
+								from 15:00 to 16:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of the KKLS Conjecture on the Mean Value  of the gl-Weight System]]></title>
+        <id>https://indico.math.cnrs.fr/event/15973/</id>
+        <link href="https://indico.math.cnrs.fr/event/15973/"/>
+        <updated>2026-02-07T17:51:55.021Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15973/" target="_blank">Proof of the KKLS Conjecture on the Mean Value  of the gl-Weight System</a>
+								</h3>
+								<p><strong> Mikhail Zaitsev</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.579Z</updated>
+        <content type="html"><![CDATA[Monday 12 January 2026<br>
+								from 16:00 to 17:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slices of Representations of Surface Groups in $G_2$ and Associated Geometric Structures]]></title>
+        <id>https://indico.math.cnrs.fr/event/15739/</id>
+        <link href="https://indico.math.cnrs.fr/event/15739/"/>
+        <updated>2026-02-07T17:51:55.022Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire Géométrie et groupes discrets									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15739/" target="_blank">Slices of Representations of Surface Groups in $G_2$ and Associated Geometric Structures</a>
+								</h3>
+								<p><strong> Colin Davalo</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.579Z</updated>
+        <content type="html"><![CDATA[Monday 12 January 2026<br>
+								from 14:00 to 15:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry of Large Genus Flat Surfaces]]></title>
+        <id>https://indico.math.cnrs.fr/event/15738/</id>
+        <link href="https://indico.math.cnrs.fr/event/15738/"/>
+        <updated>2026-02-07T17:51:55.022Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire Géométrie et groupes discrets									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15738/" target="_blank">Geometry of Large Genus Flat Surfaces</a>
+								</h3>
+								<p><strong> Elise Goujard</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.584Z</updated>
+        <content type="html"><![CDATA[Thursday 08 January 2026<br>
+								from 11:00 to 12:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the mod-p Cohomology of Certain p-saturable Groups]]></title>
+        <id>https://indico.math.cnrs.fr/event/15736/</id>
+        <link href="https://indico.math.cnrs.fr/event/15736/"/>
+        <updated>2026-02-07T17:51:55.022Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15736/" target="_blank">On the mod-p Cohomology of Certain p-saturable Groups</a>
+								</h3>
+								<p><strong> Konstantin Ardakov</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.584Z</updated>
+        <content type="html"><![CDATA[Wednesday 17 December 2025<br>
+								from 14:45 to 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Covariant Formulation of Logarithmic Supertranslations  at Spatial Infinity]]></title>
+        <id>https://indico.math.cnrs.fr/event/15761/</id>
+        <link href="https://indico.math.cnrs.fr/event/15761/"/>
+        <updated>2026-02-07T17:51:55.023Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15761/" target="_blank">A Covariant Formulation of Logarithmic Supertranslations  at Spatial Infinity</a>
+								</h3>
+								<p><strong> Céline Zwikel</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.584Z</updated>
+        <content type="html"><![CDATA[Tuesday 16 December 2025<br>
+								from 15:00 to 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to the Wave Kinetic Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/15635/</id>
+        <link href="https://indico.math.cnrs.fr/event/15635/"/>
+        <updated>2026-02-07T17:51:55.026Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire Laurent Schwartz									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15635/" target="_blank">An Introduction to the Wave Kinetic Theory</a>
+								</h3>
+								<p><strong> Xiao Ma</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.585Z</updated>
+        <content type="html"><![CDATA[Tuesday 16 December 2025<br>
+								from 13:30 to 14:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gibbs Measure for the Renormalized Stochastic Gross-Pitaevskii Equation in Dimension Two]]></title>
+        <id>https://indico.math.cnrs.fr/event/15634/</id>
+        <link href="https://indico.math.cnrs.fr/event/15634/"/>
+        <updated>2026-02-07T17:51:55.028Z</updated>
+        <content type="html"><![CDATA[<p><small>
+																		Séminaire Laurent Schwartz									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/15634/" target="_blank">Gibbs Measure for the Renormalized Stochastic Gross-Pitaevskii Equation in Dimension Two</a>
+								</h3>
+								<p><strong> Anne de Bouard</strong></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.586Z</updated>
+        <content type="html"><![CDATA[Tuesday 10 February 2026 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weil Anima]]></title>
+        <id>https://indico.math.cnrs.fr/event/15893/</id>
+        <link href="https://indico.math.cnrs.fr/event/15893/"/>
+        <updated>2026-02-07T17:51:55.029Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15893/" target="_blank">Weil Anima</a></h3><a href="https://indico.math.cnrs.fr/event/15893/" target="_blank">
+										<p><strong>  Dustin Clausen</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.587Z</updated>
+        <content type="html"><![CDATA[Friday 13 February 2026 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weil Anima]]></title>
+        <id>https://indico.math.cnrs.fr/event/15894/</id>
+        <link href="https://indico.math.cnrs.fr/event/15894/"/>
+        <updated>2026-02-07T17:51:55.030Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15894/" target="_blank">Weil Anima</a></h3><a href="https://indico.math.cnrs.fr/event/15894/" target="_blank">
+										<p><strong>  Dustin Clausen</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[42]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.589Z</updated>
+        <content type="html"><![CDATA[Tuesday 17 February 2026 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weil Anima]]></title>
+        <id>https://indico.math.cnrs.fr/event/15895/</id>
+        <link href="https://indico.math.cnrs.fr/event/15895/"/>
+        <updated>2026-02-07T17:51:55.032Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15895/" target="_blank">Weil Anima</a></h3><a href="https://indico.math.cnrs.fr/event/15895/" target="_blank">
+										<p><strong>  Dustin Clausen</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[44]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.593Z</updated>
+        <content type="html"><![CDATA[Friday 20 February 2026 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weil Anima]]></title>
+        <id>https://indico.math.cnrs.fr/event/15896/</id>
+        <link href="https://indico.math.cnrs.fr/event/15896/"/>
+        <updated>2026-02-07T17:51:55.033Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15896/" target="_blank">Weil Anima</a></h3><a href="https://indico.math.cnrs.fr/event/15896/" target="_blank">
+										<p><strong>  Dustin Clausen</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[46]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.594Z</updated>
+        <content type="html"><![CDATA[Tuesday 24 March 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15927/</id>
+        <link href="https://indico.math.cnrs.fr/event/15927/"/>
+        <updated>2026-02-07T17:51:55.034Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15927/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15927/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[48]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.595Z</updated>
+        <content type="html"><![CDATA[Tuesday 31 March 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15928/</id>
+        <link href="https://indico.math.cnrs.fr/event/15928/"/>
+        <updated>2026-02-07T17:51:55.036Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15928/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15928/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.596Z</updated>
+        <content type="html"><![CDATA[Tuesday 07 April 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15929/</id>
+        <link href="https://indico.math.cnrs.fr/event/15929/"/>
+        <updated>2026-02-07T17:51:55.037Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15929/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15929/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[52]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.599Z</updated>
+        <content type="html"><![CDATA[Tuesday 14 April 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15930/</id>
+        <link href="https://indico.math.cnrs.fr/event/15930/"/>
+        <updated>2026-02-07T17:51:55.067Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15930/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15930/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[54]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.600Z</updated>
+        <content type="html"><![CDATA[Tuesday 21 April 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15931/</id>
+        <link href="https://indico.math.cnrs.fr/event/15931/"/>
+        <updated>2026-02-07T17:51:55.068Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15931/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15931/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[56]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.602Z</updated>
+        <content type="html"><![CDATA[Tuesday 28 April 2026 from 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning]]></title>
+        <id>https://indico.math.cnrs.fr/event/15932/</id>
+        <link href="https://indico.math.cnrs.fr/event/15932/"/>
+        <updated>2026-02-07T17:51:55.070Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15932/" target="_blank">Generation, Transformation,Transmission, Memorization, Storage and Expression of Information From Cell to LLM: Signals, Structures, Knowledge and Learning</a></h3><a href="https://indico.math.cnrs.fr/event/15932/" target="_blank">
+										<p><strong>  Mikhail Gromov</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[58]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.603Z</updated>
+        <content type="html"><![CDATA[Tuesday 26 May 2026 from 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations]]></title>
+        <id>https://indico.math.cnrs.fr/event/15176/</id>
+        <link href="https://indico.math.cnrs.fr/event/15176/"/>
+        <updated>2026-02-07T17:51:55.071Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15176/" target="_blank">Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations</a></h3><a href="https://indico.math.cnrs.fr/event/15176/" target="_blank">
+										<p><strong>  Kenji Nakanishi</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.604Z</updated>
+        <content type="html"><![CDATA[Wednesday 27 May 2026 from 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations]]></title>
+        <id>https://indico.math.cnrs.fr/event/15177/</id>
+        <link href="https://indico.math.cnrs.fr/event/15177/"/>
+        <updated>2026-02-07T17:51:55.073Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15177/" target="_blank">Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations</a></h3><a href="https://indico.math.cnrs.fr/event/15177/" target="_blank">
+										<p><strong>  Kenji Nakanishi</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[62]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.606Z</updated>
+        <content type="html"><![CDATA[Thursday 28 May 2026 from 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations]]></title>
+        <id>https://indico.math.cnrs.fr/event/15178/</id>
+        <link href="https://indico.math.cnrs.fr/event/15178/"/>
+        <updated>2026-02-07T17:51:55.076Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15178/" target="_blank">Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations</a></h3><a href="https://indico.math.cnrs.fr/event/15178/" target="_blank">
+										<p><strong>  Kenji Nakanishi</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[64]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.607Z</updated>
+        <content type="html"><![CDATA[Friday 29 May 2026 from 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations]]></title>
+        <id>https://indico.math.cnrs.fr/event/15179/</id>
+        <link href="https://indico.math.cnrs.fr/event/15179/"/>
+        <updated>2026-02-07T17:51:55.076Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15179/" target="_blank">Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations</a></h3><a href="https://indico.math.cnrs.fr/event/15179/" target="_blank">
+										<p><strong>  Kenji Nakanishi</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[66]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.611Z</updated>
+        <content type="html"><![CDATA[Wednesday 26 November 2025 from 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union of Tubes and Kakeya Sets]]></title>
+        <id>https://indico.math.cnrs.fr/event/14945/</id>
+        <link href="https://indico.math.cnrs.fr/event/14945/"/>
+        <updated>2026-02-07T17:51:55.077Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14945/" target="_blank">Union of Tubes and Kakeya Sets</a></h3><a href="https://indico.math.cnrs.fr/event/14945/" target="_blank">
+								<p><strong> Hong Wang</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[68]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.612Z</updated>
+        <content type="html"><![CDATA[Tuesday 25 November 2025 from 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union of Tubes and Kakeya Sets]]></title>
+        <id>https://indico.math.cnrs.fr/event/14944/</id>
+        <link href="https://indico.math.cnrs.fr/event/14944/"/>
+        <updated>2026-02-07T17:51:55.078Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14944/" target="_blank">Union of Tubes and Kakeya Sets</a></h3><a href="https://indico.math.cnrs.fr/event/14944/" target="_blank">
+								<p><strong> Hong Wang</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.613Z</updated>
+        <content type="html"><![CDATA[Monday 24 November 2025 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union of Tubes and Kakeya Sets]]></title>
+        <id>https://indico.math.cnrs.fr/event/14943/</id>
+        <link href="https://indico.math.cnrs.fr/event/14943/"/>
+        <updated>2026-02-07T17:51:55.081Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14943/" target="_blank">Union of Tubes and Kakeya Sets</a></h3><a href="https://indico.math.cnrs.fr/event/14943/" target="_blank">
+								<p><strong> Hong Wang</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[72]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.615Z</updated>
+        <content type="html"><![CDATA[Wednesday 01 October 2025 from 14:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosonization of Fermi Surface: The Method of Coadjoint Orbits]]></title>
+        <id>https://indico.math.cnrs.fr/event/14643/</id>
+        <link href="https://indico.math.cnrs.fr/event/14643/"/>
+        <updated>2026-02-07T17:51:55.082Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14643/" target="_blank">Bosonization of Fermi Surface: The Method of Coadjoint Orbits</a></h3><a href="https://indico.math.cnrs.fr/event/14643/" target="_blank">
+								<p><strong> Dam Thanh Son</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[74]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.616Z</updated>
+        <content type="html"><![CDATA[Monday 29 September 2025 from 14:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosonization of Fermi Surface: The Method of Coadjoint Orbits]]></title>
+        <id>https://indico.math.cnrs.fr/event/14642/</id>
+        <link href="https://indico.math.cnrs.fr/event/14642/"/>
+        <updated>2026-02-07T17:51:55.084Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14642/" target="_blank">Bosonization of Fermi Surface: The Method of Coadjoint Orbits</a></h3><a href="https://indico.math.cnrs.fr/event/14642/" target="_blank">
+								<p><strong> Dam Thanh Son</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[76]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.617Z</updated>
+        <content type="html"><![CDATA[Monday 29 September 2025 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Supports in Equal and Mixed Characteristics]]></title>
+        <id>https://indico.math.cnrs.fr/event/14412/</id>
+        <link href="https://indico.math.cnrs.fr/event/14412/"/>
+        <updated>2026-02-07T17:51:55.086Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14412/" target="_blank">Singular Supports in Equal and Mixed Characteristics</a></h3><a href="https://indico.math.cnrs.fr/event/14412/" target="_blank">
+								<p><strong> Takeshi Saito</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[78]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.618Z</updated>
+        <content type="html"><![CDATA[Thursday 25 September 2025 from 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bosonization of Fermi Surface: The Method of Coadjoint Orbits]]></title>
+        <id>https://indico.math.cnrs.fr/event/14641/</id>
+        <link href="https://indico.math.cnrs.fr/event/14641/"/>
+        <updated>2026-02-07T17:51:55.087Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14641/" target="_blank">Bosonization of Fermi Surface: The Method of Coadjoint Orbits</a></h3><a href="https://indico.math.cnrs.fr/event/14641/" target="_blank">
+								<p><strong> Dam Thanh Son</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.620Z</updated>
+        <content type="html"><![CDATA[Thursday 25 September 2025 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Supports in Equal and Mixed Characteristics]]></title>
+        <id>https://indico.math.cnrs.fr/event/14411/</id>
+        <link href="https://indico.math.cnrs.fr/event/14411/"/>
+        <updated>2026-02-07T17:51:55.088Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14411/" target="_blank">Singular Supports in Equal and Mixed Characteristics</a></h3><a href="https://indico.math.cnrs.fr/event/14411/" target="_blank">
+								<p><strong> Takeshi Saito</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.621Z</updated>
+        <content type="html"><![CDATA[Monday 22 September 2025 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Supports in Equal and Mixed Characteristics]]></title>
+        <id>https://indico.math.cnrs.fr/event/14410/</id>
+        <link href="https://indico.math.cnrs.fr/event/14410/"/>
+        <updated>2026-02-07T17:51:55.090Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14410/" target="_blank">Singular Supports in Equal and Mixed Characteristics</a></h3><a href="https://indico.math.cnrs.fr/event/14410/" target="_blank">
+								<p><strong> Takeshi Saito</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[84]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.622Z</updated>
+        <content type="html"><![CDATA[Thursday 18 September 2025 from 10:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Supports in Equal and Mixed Characteristics]]></title>
+        <id>https://indico.math.cnrs.fr/event/14409/</id>
+        <link href="https://indico.math.cnrs.fr/event/14409/"/>
+        <updated>2026-02-07T17:51:55.092Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14409/" target="_blank">Singular Supports in Equal and Mixed Characteristics</a></h3><a href="https://indico.math.cnrs.fr/event/14409/" target="_blank">
+								<p><strong> Takeshi Saito</strong></p>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[86]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.624Z</updated>
+        <content type="html"><![CDATA[from Monday 09 to Thursday 12 March 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symmetry and Topology in Particle Physics]]></title>
+        <id>https://indico.math.cnrs.fr/event/16013/</id>
+        <link href="https://indico.math.cnrs.fr/event/16013/"/>
+        <updated>2026-02-07T17:51:55.093Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/16013/" target="_blank">Symmetry and Topology in Particle Physics</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+								
+								<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[88]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.625Z</updated>
+        <content type="html"><![CDATA[from Monday 06 to Friday 17 July 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 IHES Summer School – Cosmological Correlators]]></title>
+        <id>https://indico.math.cnrs.fr/event/15597/</id>
+        <link href="https://indico.math.cnrs.fr/event/15597/"/>
+        <updated>2026-02-07T17:51:55.095Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15597/" target="_blank">2026 IHES Summer School – Cosmological Correlators</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+								
+								<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.626Z</updated>
+        <content type="html"><![CDATA[from Monday 31 to Friday 04 June 2027]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese-French Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
+        <id>https://indico.math.cnrs.fr/event/15993/</id>
+        <link href="https://indico.math.cnrs.fr/event/15993/"/>
+        <updated>2026-02-07T17:51:55.096Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15993/" target="_blank">Japanese-French Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+								
+								<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[92]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.629Z</updated>
+        <content type="html"><![CDATA[from Monday 12 to Friday 16 January 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial Differential Equations, Analysis and Geometry]]></title>
+        <id>https://indico.math.cnrs.fr/event/15217/</id>
+        <link href="https://indico.math.cnrs.fr/event/15217/"/>
+        <updated>2026-02-07T17:51:55.098Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15217/" target="_blank">Partial Differential Equations, Analysis and Geometry</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[94]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.630Z</updated>
+        <content type="html"><![CDATA[from Wednesday 19 to Friday 21 November 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combinatorics and Arithmetic for Physics]]></title>
+        <id>https://indico.math.cnrs.fr/event/15307/</id>
+        <link href="https://indico.math.cnrs.fr/event/15307/"/>
+        <updated>2026-02-07T17:51:55.099Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15307/" target="_blank">Combinatorics and Arithmetic for Physics</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[96]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.631Z</updated>
+        <content type="html"><![CDATA[from Monday 27 to Friday 31 October 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Structures and Techniques in p-adic Geometry]]></title>
+        <id>https://indico.math.cnrs.fr/event/14073/</id>
+        <link href="https://indico.math.cnrs.fr/event/14073/"/>
+        <updated>2026-02-07T17:51:55.100Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14073/" target="_blank">New Structures and Techniques in p-adic Geometry</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[98]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.632Z</updated>
+        <content type="html"><![CDATA[on Wednesday 15 October 2025<br>from 09:30 to 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13e séminaire ITZYKSON]]></title>
+        <id>https://indico.math.cnrs.fr/event/14934/</id>
+        <link href="https://indico.math.cnrs.fr/event/14934/"/>
+        <updated>2026-02-07T17:51:55.102Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14934/" target="_blank">13e séminaire ITZYKSON</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.633Z</updated>
+        <content type="html"><![CDATA[from Monday 08 to Friday 12 September 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arithmetic and Diophantine Geometry, via Ergodic Theory and o-minimality]]></title>
+        <id>https://indico.math.cnrs.fr/event/13164/</id>
+        <link href="https://indico.math.cnrs.fr/event/13164/"/>
+        <updated>2026-02-07T17:51:55.103Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/13164/" target="_blank">Arithmetic and Diophantine Geometry, via Ergodic Theory and o-minimality</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[102]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.634Z</updated>
+        <content type="html"><![CDATA[from Monday 07 to Friday 18 July 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 IHES Summer School – Discrete Subgroups of Lie Groups: Dynamics, Actions, Rigidity]]></title>
+        <id>https://indico.math.cnrs.fr/event/12324/</id>
+        <link href="https://indico.math.cnrs.fr/event/12324/"/>
+        <updated>2026-02-07T17:51:55.105Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/12324/" target="_blank">2025 IHES Summer School – Discrete Subgroups of Lie Groups: Dynamics, Actions, Rigidity</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[104]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.635Z</updated>
+        <content type="html"><![CDATA[from Monday 23 to Friday 04 July 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 IHES Summer School – Statistical Aspects of Nonlinear Physics]]></title>
+        <id>https://indico.math.cnrs.fr/event/12319/</id>
+        <link href="https://indico.math.cnrs.fr/event/12319/"/>
+        <updated>2026-02-07T17:51:55.106Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/12319/" target="_blank">2025 IHES Summer School – Statistical Aspects of Nonlinear Physics</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[106]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.636Z</updated>
+        <content type="html"><![CDATA[from Monday 02 to Friday 06 June 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzy Sphere Meets Conformal Bootstrap 2025]]></title>
+        <id>https://indico.math.cnrs.fr/event/13856/</id>
+        <link href="https://indico.math.cnrs.fr/event/13856/"/>
+        <updated>2026-02-07T17:51:55.108Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/13856/" target="_blank">Fuzzy Sphere Meets Conformal Bootstrap 2025</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[108]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.638Z</updated>
+        <content type="html"><![CDATA[on Monday 26 May 2025<br>from 09:00 to 21:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Huawei-IHES Workshop  on Causality in the Era of AI: From Theory to Practice]]></title>
+        <id>https://indico.math.cnrs.fr/event/14357/</id>
+        <link href="https://indico.math.cnrs.fr/event/14357/"/>
+        <updated>2026-02-07T17:51:55.109Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14357/" target="_blank">2025 Huawei-IHES Workshop  on Causality in the Era of AI: From Theory to Practice</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[110]]></title>
+        <id>https://www.ihes.fr/en/events/#seminars</id>
+        <link href="https://www.ihes.fr/en/events/#seminars"/>
+        <updated>2026-02-07T17:51:54.639Z</updated>
+        <content type="html"><![CDATA[on Thursday 22 May 2025<br>from 09:00 to 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematics for and by Large Language Models — 2025 Edition]]></title>
+        <id>https://indico.math.cnrs.fr/event/14253/</id>
+        <link href="https://indico.math.cnrs.fr/event/14253/"/>
+        <updated>2026-02-07T17:51:55.110Z</updated>
+        <content type="html"><![CDATA[<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14253/" target="_blank">Mathematics for and by Large Language Models — 2025 Edition</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->]]></content>
+    </entry>
 </feed>
