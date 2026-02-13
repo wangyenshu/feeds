@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-02-13T06:36:43.629Z</updated>
+    <updated>2026-02-13T18:04:38.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -111,7 +111,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://mathinstitutes.org/events/1320/view/</id>
         <link href="https://mathinstitutes.org/events/1320/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
+        <updated>2026-02-13T06:35:59.524Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
@@ -148,7 +148,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://mathinstitutes.org/events/1319/view/</id>
         <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.533Z</updated>
+        <updated>2026-02-13T06:35:59.525Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
@@ -185,7 +185,7 @@
         <title type="html"><![CDATA[New p-adic perspectives on canonical integral models for Shimura varieties]]></title>
         <id>https://mathinstitutes.org/events/1316/view/</id>
         <link href="https://mathinstitutes.org/events/1316/view/"/>
-        <updated>2026-02-13T06:35:59.536Z</updated>
+        <updated>2026-02-13T06:35:59.534Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1316/view/" target="_blank" rel="noopener">New p-adic perspectives on canonical integral models for Shimura varieties</a></h5>
 			<div class="event-info">AIM - March 2, 2026 to March 6, 2026</div>]]></content>
@@ -209,7 +209,7 @@
         <title type="html"><![CDATA[Reinforcement Learning Bootcamp]]></title>
         <id>https://mathinstitutes.org/events/1283/view/</id>
         <link href="https://mathinstitutes.org/events/1283/view/"/>
-        <updated>2026-02-13T06:35:59.539Z</updated>
+        <updated>2026-02-13T06:35:59.537Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -222,7 +222,7 @@
         <title type="html"><![CDATA[Reinforcement Learning Bootcamp]]></title>
         <id>https://mathinstitutes.org/events/1283/view/</id>
         <link href="https://mathinstitutes.org/events/1283/view/"/>
-        <updated>2026-02-13T06:35:59.540Z</updated>
+        <updated>2026-02-13T06:35:59.537Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1283/view/" target="_blank" rel="noopener">Reinforcement Learning Bootcamp</a></h5>
 			<div class="event-info">IMSI - March 9, 2026 to March 13, 2026</div>]]></content>
@@ -246,7 +246,7 @@
         <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://mathinstitutes.org/events/1346/view/</id>
         <link href="https://mathinstitutes.org/events/1346/view/"/>
-        <updated>2026-02-13T06:35:59.543Z</updated>
+        <updated>2026-02-13T06:35:59.541Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -259,7 +259,7 @@
         <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://mathinstitutes.org/events/1346/view/</id>
         <link href="https://mathinstitutes.org/events/1346/view/"/>
-        <updated>2026-02-13T06:35:59.545Z</updated>
+        <updated>2026-02-13T06:35:59.541Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[Introductory Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://mathinstitutes.org/events/1306/view/</id>
         <link href="https://mathinstitutes.org/events/1306/view/"/>
-        <updated>2026-02-13T06:35:59.548Z</updated>
+        <updated>2026-02-13T06:35:59.546Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[Introductory Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://mathinstitutes.org/events/1306/view/</id>
         <link href="https://mathinstitutes.org/events/1306/view/"/>
-        <updated>2026-02-13T06:35:59.550Z</updated>
+        <updated>2026-02-13T06:35:59.546Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1306/view/" target="_blank" rel="noopener">Introductory Workshop: Topological and Geometric Structures in Low Dimensions &amp; Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Recent progress in topological and geometric structures in low dimensions]]></title>
         <id>https://mathinstitutes.org/events/1174/view/</id>
         <link href="https://mathinstitutes.org/events/1174/view/"/>
-        <updated>2026-02-13T06:35:59.552Z</updated>
+        <updated>2026-02-13T06:35:59.551Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Recent progress in topological and geometric structures in low dimensions]]></title>
         <id>https://mathinstitutes.org/events/1174/view/</id>
         <link href="https://mathinstitutes.org/events/1174/view/"/>
-        <updated>2026-02-13T06:35:59.554Z</updated>
+        <updated>2026-02-13T06:35:59.551Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1174/view/" target="_blank" rel="noopener">Recent progress in topological and geometric structures in low dimensions</a></h5>
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics]]></title>
         <id>https://mathinstitutes.org/events/1336/view/</id>
         <link href="https://mathinstitutes.org/events/1336/view/"/>
-        <updated>2026-02-13T06:35:59.557Z</updated>
+        <updated>2026-02-13T06:35:59.555Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics]]></title>
         <id>https://mathinstitutes.org/events/1336/view/</id>
         <link href="https://mathinstitutes.org/events/1336/view/"/>
-        <updated>2026-02-13T06:35:59.558Z</updated>
+        <updated>2026-02-13T06:35:59.555Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
 			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>]]></content>
