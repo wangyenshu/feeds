@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-02-19T18:12:31.763Z</updated>
+    <updated>2026-02-20T06:15:07.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2025-12-19T05:46:30.225Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Feb 13</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">Title: On E7+1/2 gauge theorySpeaker: Yinan Wang (Peking University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Feb 26 (Thursday)Abstract: We propose that an exotic gauge theory based on the intermediate Lie algebra E7+1/2 naturally appears in the landscape of 6d F-theory. We give strong evidence of this proposal with 6d anomaly cancellation, dual M-theory geometry an...</div>
+        <div class="t-3">Speaker：Yinan Wang (Peking University)</div>
+        
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moduli spaces and related topics in algebraic geometry]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3492.htm</id>
@@ -18,22 +34,6 @@
         <div class="t-1">Moduli spaces and related topics in algebraic geometry</div>
         <div class="t-2">Description:Topics in algebraic stacks and how it relates to K-stability and other moduli notions. We plan to focus on topics including, but not limited to, foliations, algebraic stacks, K-stability and K-moduli, moduli theories and birational geometry. We plan for this seminar to be a supplement to the usual weekly algebraic geometry seminar, covering a broad range of topics in moduli theories...</div>
         <div class="t-3">Speaker：Ruadhai Dervan (University of Warwick)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2025-12-19T05:46:30.225Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jan 13</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Unitarity constraints of four-dimensional conformal theories with 8 superchargesSpeaker:  Madelena Lemos (Durham University)Venue: Zoom Meeting ID: 271 534 5558 Passcode: YMSCTime: 17:00-18:00, Jan 13, 2026 (Tuesday)Abstract: We review a construction of two-dimensional chiral algebras inside four-dimensional conformal theories with 8 or more supercharges. While the chiral algebra is not ...</div>
-        <div class="t-3">Speaker：Madelena Lemos (Durham University)</div>
         
     </a>]]></content>
     </entry>
