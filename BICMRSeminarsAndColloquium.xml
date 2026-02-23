@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-02-23T06:42:17.634Z</updated>
+    <updated>2026-02-23T18:41:40.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Two-Sided Heat Kernel Bounds for 8/3-Liouville Brownian Motion]]></title>
+        <title type="html"><![CDATA[Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/82-3832.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/82-3832.html"/>
         <updated>2026-01-15T17:58:41.966Z</updated>
@@ -17,7 +17,7 @@
                                         <dd>
                         <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
-                            <a href="/content/show/82-3832.html" title=" Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion" target="_blank"> Two-Sided Heat Kernel Bounds for <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" style="font-size: 113.1%; position: relative;" tabindex="0" ctxtmenu_counter="0"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msqrt><mjx-sqrt><mjx-surd><mjx-mo class="mjx-sop"><mjx-c class="mjx-c221A TEX-S1"></mjx-c></mjx-mo></mjx-surd><mjx-box style="padding-top: 0.107em;"><mjx-mn class="mjx-n"><mjx-c class="mjx-c38"></mjx-c></mjx-mn><mjx-texatom texclass="ORD"><mjx-mo class="mjx-n"><mjx-c class="mjx-c2F"></mjx-c></mjx-mo></mjx-texatom><mjx-mn class="mjx-n"><mjx-c class="mjx-c33"></mjx-c></mjx-mn></mjx-box></mjx-sqrt></mjx-msqrt></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msqrt><mn>8</mn><mrow data-mjx-texclass="ORD"><mo>/</mo></mrow><mn>3</mn></msqrt></math></mjx-assistive-mml></mjx-container>-Liouville Brownian Motion</a>
+                            <a href="/content/show/82-3832.html" title=" Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion" target="_blank"> Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion</a>
                         </p>
                         <p class="speaker">Speaker(s): Naotaka Kajino (Kyoto Universi...</p>
                     </dd>]]></content>
