@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-02-25T06:40:32.010Z</updated>
+    <updated>2026-02-25T18:37:07.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3832.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3832.html"/>
-        <updated>2026-01-15T17:58:41.966Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jan 20</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3832.html" title=" Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion" target="_blank"> Two-Sided Heat Kernel Bounds for $\sqrt {8/3} $-Liouville Brownian Motion</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Naotaka Kajino (Kyoto Universi...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Riesz Transforms, Harmonic Functions and Heat Kernels On Manifolds and Metric Spaces]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3833.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3833.html"/>
-        <updated>2026-01-15T17:58:41.968Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jan 20</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3833.html" title=" On Riesz Transforms, Harmonic Functions and Heat Kernels On Manifolds and Metric Spaces" target="_blank"> On Riesz Transforms, Harmonic Functions and Heat Kernels On Manifolds and Metric Spaces</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Renjin Jiang (Capital Normal U...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[An Explicit Exotic Hyperbolic Representations via 2-dimensional Convex Bodies]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/50-3834.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/82-3836.html" title="First Passage Percolation On Hyperbolic Groups" target="_blank">First Passage Percolation On Hyperbolic Groups</a>
                         </p>
                         <p class="speaker">Speaker(s): Riddhipratim Basu (Tata Instit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3838.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3838.html"/>
+        <updated>2026-02-25T18:36:46.398Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 04</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3838.html" title="On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow" target="_blank">On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Xinrui Zhao (Yale University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volumes of Foliations Birationally Bounded by Algebraically Integrable Families]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3839.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3839.html"/>
+        <updated>2026-02-25T18:36:46.400Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3839.html" title="Volumes of Foliations Birationally Bounded by Algebraically Integrable Families" target="_blank">Volumes of Foliations Birationally Bounded by Algebraically Integrable Families</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhixiu Fan (Fudan University)</p>
                     </dd>]]></content>
     </entry>
     <entry>

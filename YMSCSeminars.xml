@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-02-25T06:40:32.012Z</updated>
+    <updated>2026-02-25T18:37:07.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
+        <updated>2026-02-25T18:36:56.573Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Feb 27</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/1973.htm" class="right text">
+        <div class="t-1">YMSC Topology Seminar</div>
+        <div class="t-2">Open Hurwitz numbers and the mKP hierarchy - Alexandr Buryak, HSE (2026-02-27)Abstract: We give a natural definition of open Hurwitz numbers, where the weight of each ramified covering includes an integer parameter N taken to the power that is equal to the number of boundary components of a Riemann surface with boundary mapping to the complex projective line. We prove that the resulting sequenc...</div>
+        <div class="t-3">Speaker：Alexandr Buryak (HSE)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ADS seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Geometric Representation Theory Seminar</div>
         <div class="t-2">Upcoming talks 2025/12/26 10:30-11:30 am, Shuangqing B627Yau Wing Li (University of Melbourne)Title: Endoscopy for metaplectic affine Hecke categoriesAbstract: The Hecke category is central in representation theory. A natural generalization considers sheaves on the enhanced affine flag variety with fixed monodromy along orbits of a centrally extended torus. In joint work with Gurbir Dhillon, Zh...</div>
         <div class="t-3">Speaker：Yau Wing Li (University of Melbourne)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
-        <updated>2025-12-24T05:48:36.683Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Dec 26</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1053/3262.htm" class="right text">
-        <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks: 组织者：吴宇楠时间：12 月 26 日 9:00~10:00地点：双清综合楼B725报告人：彭洋，北京大学数学科学学院报告题目：Convergence and Inference of Distributional Reinforcement Learning摘要：Distributional reinforcement learning (RL) has achieved remarkable success in various domains by modeling the full distribution of returns rather than just the expectation. Despite the rapid development ...</div>
-        <div class="t-3">Speaker：彭洋，叶成龙</div>
         
     </a>]]></content>
     </entry>
