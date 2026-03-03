@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-03-02T18:04:51.289Z</updated>
+    <updated>2026-03-03T06:09:33.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A neural network approach to learning solutions of a class of elliptic variational inequalities]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3700.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3700.htm"/>
+        <updated>2026-03-03T06:09:27.127Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Mar 06</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1056/3700.htm" class="right text">
+        <div class="t-1">A neural network approach to learning solutions of a class of elliptic variational inequalities</div>
+        <div class="t-2">Abstract: We develop a weak adversarial approach to solving obstacle problems using neural networks. By using (generalized) regularized gap functions and their properties we rewrite the obstacle problem (which is an elliptic variational inequality) as a minmax problem, providing a natural formulation amenable to a learning approach. Our approach, in contrast to much of the literature, does not ...</div>
+        <div class="t-3">Speaker：Michael Hintermüller (Humboldt University of Berlin)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finite element form-valued forms with applications to linearized Einstein equations]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3570.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Billiards, symbolic coding, and geometry</div>
         <div class="t-2">Abstract:A billiard trajectory in a polygon P in the Euclidean plane is the path of a particle inside P, following straight lines until it encounters a side, and then bouncing off so that the angle of reflection equals the angle of incidence.  A generic trajectory never encounters the corners in forward or backward time, and so produces a biinfinite symbolic coding: the itinerary of sides encou...</div>
         <div class="t-3">Speaker：Chris Leininger (Rice University)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensor Decompositions: Beyond Regular and Discrete]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3538.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3538.htm"/>
-        <updated>2025-12-02T05:44:52.388Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Nov 28</span></p>
-        <p class="t-2"><span>2025</span></p>
-    </div>
-    <a href="info/1056/3538.htm" class="right text">
-        <div class="t-1">Tensor Decompositions: Beyond Regular and Discrete</div>
-        <div class="t-2">Abstract:Higher-order tensors are suitable for representing multi-dimensional data in real-world, e.g., color images and videos, low-rank tensor representation has become one of the emerging areas in machine learning and computer vision. However, classical low-rank tensor representations can solely represent multi-dimensional discrete data on meshgrid, which hinders their potential applicabilit...</div>
-        <div class="t-3">Speaker：Michael NG (Hong Kong Baptist University)</div>
         
     </a>]]></content>
     </entry>
