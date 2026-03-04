@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-03T18:06:47.161Z</updated>
+    <updated>2026-03-04T06:05:48.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Correspondences On Riemann Surfaces: (Non-Uniform) Hyperbolicity and Graph Attractors]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3835.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3835.html"/>
-        <updated>2026-02-13T06:36:22.525Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Feb 20</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3835.html" title=" Correspondences On Riemann Surfaces: (Non-Uniform) Hyperbolicity and Graph Attractors" target="_blank"> Correspondences On Riemann Surfaces: (Non-Uniform) Hyperbolicity and Graph Attractors</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Kevin Pilgrim (Indiana Univers...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[First Passage Percolation On Hyperbolic Groups]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/82-3836.html</id>
@@ -49,11 +32,28 @@
                         <p>Mar 04</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3838.html" title="On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow" target="_blank">On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow</a>
                         </p>
                         <p class="speaker">Speaker(s): Xinrui Zhao (Yale University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The stable forking conjecture from the pregeometer's point of view]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3841.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3841.html"/>
+        <updated>2026-03-04T06:05:28.486Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 05</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3841.html" title="The stable forking conjecture from the pregeometer's point of view" target="_blank">The stable forking conjecture from the pregeometer's point of view</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Scott Mutchnik (University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
