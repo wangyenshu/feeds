@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-04T06:05:48.337Z</updated>
+    <updated>2026-03-04T18:04:34.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -152,6 +152,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ]]></title>
+        <id>https://mathinstitutes.org/events/1371/view/</id>
+        <link href="https://mathinstitutes.org/events/1371/view/"/>
+        <updated>2026-03-04T18:03:52.886Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
+			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ]]></title>
+        <id>https://mathinstitutes.org/events/1371/view/</id>
+        <link href="https://mathinstitutes.org/events/1371/view/"/>
+        <updated>2026-03-04T18:03:52.888Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
+			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ]]></title>
+        <id>https://mathinstitutes.org/events/1371/view/</id>
+        <link href="https://mathinstitutes.org/events/1371/view/"/>
+        <updated>2026-03-04T18:03:52.889Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
+			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New p-adic perspectives on canonical integral models for Shimura varieties]]></title>
@@ -337,42 +374,5 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1174/view/" target="_blank" rel="noopener">Recent progress in topological and geometric structures in low dimensions</a></h5>
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics]]></title>
-        <id>https://mathinstitutes.org/events/1336/view/</id>
-        <link href="https://mathinstitutes.org/events/1336/view/"/>
-        <updated>2026-02-13T06:35:59.555Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
-			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics]]></title>
-        <id>https://mathinstitutes.org/events/1336/view/</id>
-        <link href="https://mathinstitutes.org/events/1336/view/"/>
-        <updated>2026-02-13T06:35:59.555Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
-			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics]]></title>
-        <id>https://mathinstitutes.org/events/1336/view/</id>
-        <link href="https://mathinstitutes.org/events/1336/view/"/>
-        <updated>2026-02-13T06:35:59.555Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
-			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>]]></content>
     </entry>
 </feed>
