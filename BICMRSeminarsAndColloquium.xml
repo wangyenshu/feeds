@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-04T18:04:34.496Z</updated>
+    <updated>2026-03-05T06:08:10.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[First Passage Percolation On Hyperbolic Groups]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3836.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3836.html"/>
-        <updated>2026-02-13T06:36:22.526Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Feb 20</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3836.html" title="First Passage Percolation On Hyperbolic Groups" target="_blank">First Passage Percolation On Hyperbolic Groups</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Riddhipratim Basu (Tata Instit...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3838.html</id>
@@ -49,7 +32,7 @@
                         <p>Mar 05</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3841.html" title="The stable forking conjecture from the pregeometer's point of view" target="_blank">The stable forking conjecture from the pregeometer's point of view</a>
                         </p>
@@ -71,6 +54,23 @@
                             <a href="/content/show/34-3840.html" title="On factorization of matrix of Kazhdan-Lusztig polynomials " target="_blank">On factorization of matrix of Kazhdan-Lusztig polynomials </a>
                         </p>
                         <p class="speaker">Speaker(s): Aritra Bhattacharya (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3842.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3842.html"/>
+        <updated>2026-03-05T06:07:51.856Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3842.html" title="A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications" target="_blank">A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Ling Wang (Bocconi University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
