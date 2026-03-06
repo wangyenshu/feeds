@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-06T06:06:19.833Z</updated>
+    <updated>2026-03-06T18:00:52.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Mar 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/34-3840.html" title="On factorization of matrix of Kazhdan-Lusztig polynomials " target="_blank">On factorization of matrix of Kazhdan-Lusztig polynomials </a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Mar 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3843.html" title="Global Dynamics of Granular Media Equations via Stochastic Order" target="_blank">Global Dynamics of Granular Media Equations via Stochastic Order</a>
                         </p>
