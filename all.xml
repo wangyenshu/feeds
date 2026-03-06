@@ -2,8 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-05T18:58:42.504Z</updated>
+    <updated>2026-03-06T06:06:19.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024级第二次动态进出考试拔尖计划和强基计划拟录取名单公示 (南开大学数学学院本科生教育消息)]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-09-16T05:39:50.451Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">06</div>
+											<div class="news_year">2026-03</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生招生" alt="本科生招生">本科生招生</a>】<a href="/2026/0306/c34387a590436/page.htm" target="_blank" title="2024级第二次动态进出考试拔尖计划和强基计划拟录取名单公示">2024级第二次动态进出考试拔尖计划和强基计划拟录取名单公示</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024级数学与人工智能实验班二次选拔拟录取名单公示 (南开大学数学学院本科生教育消息)]]></title>
         <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
@@ -73,27 +90,10 @@
 									</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数学科学学院调课通知（12.29) (南开大学数学学院本科生教育消息)]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-09-16T05:39:50.451Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">29</div>
-											<div class="news_year">2025-12</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2025/1229/c34387a587816/page.htm" target="_blank" title="数学科学学院调课通知（12.29)">数学科学学院调课通知（12.29)</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[南开大学2025-2026学年第二学期本科生选课通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.279Z</updated>
+        <updated>2026-03-06T06:05:13.346Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">25</div>
 								<div class="m">25/12</div>
@@ -104,7 +104,7 @@
         <title type="html"><![CDATA[关于开展2025-2026学年第二学期本科课堂教学质量评价的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.280Z</updated>
+        <updated>2026-03-06T06:05:13.347Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">04</div>
 								<div class="m">26/03</div>
@@ -115,7 +115,7 @@
         <title type="html"><![CDATA[关于启动南开大学2025-2026学年第二学期本科教学督导工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.285Z</updated>
+        <updated>2026-03-06T06:05:13.351Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">04</div>
 								<div class="m">26/03</div>
@@ -126,7 +126,7 @@
         <title type="html"><![CDATA[关于启用“智慧资源中心”平台的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.285Z</updated>
+        <updated>2026-03-06T06:05:13.351Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">02</div>
 								<div class="m">26/03</div>
@@ -137,7 +137,7 @@
         <title type="html"><![CDATA[关于开展2026年预计毕业本科生信息核对工作的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.286Z</updated>
+        <updated>2026-03-06T06:05:13.352Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">01</div>
 								<div class="m">26/03</div>
@@ -148,7 +148,7 @@
         <title type="html"><![CDATA[关于申报2026年南开大学本科生创新科研计划创业项目的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.287Z</updated>
+        <updated>2026-03-06T06:05:13.353Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">22</div>
 								<div class="m">26/01</div>
@@ -159,7 +159,7 @@
         <title type="html"><![CDATA[关于申报2026年南开大学本科生创新科研计划创新训练项目的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.288Z</updated>
+        <updated>2026-03-06T06:05:13.354Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">22</div>
 								<div class="m">26/01</div>
@@ -170,7 +170,7 @@
         <title type="html"><![CDATA[关于2026年本科生创新项目结题验收暨优秀项目评选的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.289Z</updated>
+        <updated>2026-03-06T06:05:13.355Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">22</div>
 								<div class="m">26/01</div>
@@ -181,7 +181,7 @@
         <title type="html"><![CDATA[关于开展南开大学2026年本科教育教学综合改革建设项目申报的通知 (南开大学教务处通知)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:39.290Z</updated>
+        <updated>2026-03-06T06:05:13.357Z</updated>
         <content type="html"><![CDATA[<div class="date">
 								<div class="d">21</div>
 								<div class="m">26/01</div>
@@ -192,7 +192,7 @@
         <title type="html"><![CDATA[何伟鲲 博士：Equidistribution of random walks on simpl... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.952Z</updated>
+        <updated>2026-03-06T06:05:19.909Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0302/c6604a590142/page.htm" target="_blank" title="何伟鲲 博士：Equidistribution of random walks on simple homogeneous spaces">何伟鲲 博士：Equidistribution of random walks on simpl...</a></span>
@@ -205,7 +205,7 @@
         <title type="html"><![CDATA[Samuel Bronstein：Finite orbits of the Mapping Class G... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.953Z</updated>
+        <updated>2026-03-06T06:05:19.910Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0130/c6604a589685/page.htm" target="_blank" title="Samuel Bronstein：Finite orbits of the Mapping Class Group in SL(2,C) character varieties">Samuel Bronstein：Finite orbits of the Mapping Class G...</a></span>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[郎红蕾 博士：Relative Rota-Baxter operators on Lie 2-g... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.953Z</updated>
+        <updated>2026-03-06T06:05:19.910Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0128/c6604a589647/page.htm" target="_blank" title="郎红蕾 博士：Relative Rota-Baxter operators on Lie 2-groups">郎红蕾 博士：Relative Rota-Baxter operators on Lie 2-g...</a></span>
@@ -231,7 +231,7 @@
         <title type="html"><![CDATA[史家骏：Thurston's metric on quadratic differentials (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.953Z</updated>
+        <updated>2026-03-06T06:05:19.910Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0119/c6604a589265/page.htm" target="_blank" title="史家骏：Thurston's metric on quadratic differentials">史家骏：Thurston's metric on quadratic differentials</a></span>
@@ -244,7 +244,7 @@
         <title type="html"><![CDATA[张旭 教授：A convenient setting for infinite-dimension... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.954Z</updated>
+        <updated>2026-03-06T06:05:19.911Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2026/0109/c6604a588900/page.htm" target="_blank" title="张旭 教授：A convenient setting for infinite-dimensional analysis"><font style="color:#120AFF;">张旭 教授：A convenient setting for infinite-dimension...</font></a></span>
@@ -257,7 +257,7 @@
         <title type="html"><![CDATA[张宝羽 博士：Fusion systems with 2-generated essential... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.956Z</updated>
+        <updated>2026-03-06T06:05:19.912Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1229/c6604a587837/page.htm" target="_blank" title="张宝羽 博士：Fusion systems with 2-generated essential subgroups">张宝羽 博士：Fusion systems with 2-generated essential...</a></span>
@@ -270,7 +270,7 @@
         <title type="html"><![CDATA[储继峰 教授：Weak separability and partial Fermi isosp... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.957Z</updated>
+        <updated>2026-03-06T06:05:19.913Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1223/c6604a587517/page.htm" target="_blank" title="储继峰 教授：Weak separability and partial Fermi isospectrality of discrete periodic Schrodinger operators">储继峰 教授：Weak separability and partial Fermi isosp...</a></span>
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[雷锦志 教授：生物数学之路与未来发展 (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.958Z</updated>
+        <updated>2026-03-06T06:05:19.915Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1223/c6604a587516/page.htm" target="_blank" title="雷锦志 教授：生物数学之路与未来发展">雷锦志 教授：生物数学之路与未来发展</a></span>
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[张景宣 博士：Slow propagation velocities in quantum ma... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.960Z</updated>
+        <updated>2026-03-06T06:05:19.917Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1222/c6604a587495/page.htm" target="_blank" title="张景宣 博士：Slow propagation velocities in quantum many-body dynamics">张景宣 博士：Slow propagation velocities in quantum ma...</a></span>
@@ -309,7 +309,7 @@
         <title type="html"><![CDATA[马继明 博士：Limit sets of higher dimensional Kleinian... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.972Z</updated>
+        <updated>2026-03-06T06:05:19.918Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1219/c6604a587304/page.htm" target="_blank" title="马继明 博士：Limit sets of higher dimensional Kleinian groups">马继明 博士：Limit sets of higher dimensional Kleinian...</a></span>
@@ -322,7 +322,7 @@
         <title type="html"><![CDATA[王志涵：Singular Structures and Generic Regularity of ... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.972Z</updated>
+        <updated>2026-03-06T06:05:19.919Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1219/c6604a587301/page.htm" target="_blank" title="王志涵：Singular Structures and Generic Regularity of Minimal Surfaces and Mean Curvature Flow">王志涵：Singular Structures and Generic Regularity of ...</a></span>
@@ -335,7 +335,7 @@
         <title type="html"><![CDATA[孙鑫 教授：Three perspectives on the b-6j Symbol: Quan... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.973Z</updated>
+        <updated>2026-03-06T06:05:19.921Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2025/1205/c6604a586060/page.htm" target="_blank" title="孙鑫 教授：Three perspectives on the b-6j Symbol: Quantum Group, 2D CFT, and 3D Quantum Topology"><font style="color:#001AFF;">孙鑫 教授：Three perspectives on the b-6j Symbol: Quan...</font></a></span>
@@ -348,7 +348,7 @@
         <title type="html"><![CDATA[Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.973Z</updated>
+        <updated>2026-03-06T06:05:19.925Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1205/c6604a586059/page.htm" target="_blank" title="Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AND SLICES">Dr. Marc Besson：HIKITA’S CONJECTURE, LCI CRITERIA AN...</a></span>
@@ -361,7 +361,7 @@
         <title type="html"><![CDATA[董昭 研究员：Ergodicity of the Markov Feller semigroup... (陈省身数学研究所 学术动态)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:44.976Z</updated>
+        <updated>2026-03-06T06:05:19.932Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2025/1201/c6604a585673/page.htm" target="_blank" title="董昭 研究员：Ergodicity of the Markov Feller semigroup and application to 2D Navier-Stokes equations with a multiplicative noise">董昭 研究员：Ergodicity of the Markov Feller semigroup...</a></span>
@@ -674,7 +674,7 @@
         <title type="html"><![CDATA[Southern Regional Number Theory Conference 2026 (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.755Z</updated>
+        <updated>2026-03-06T06:05:29.377Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -693,7 +693,7 @@
         <title type="html"><![CDATA[Arizona Winter School (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.756Z</updated>
+        <updated>2026-03-06T06:05:29.377Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -712,7 +712,7 @@
         <title type="html"><![CDATA[British Mathematical Colloquium (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.756Z</updated>
+        <updated>2026-03-06T06:05:29.377Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -731,7 +731,7 @@
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.757Z</updated>
+        <updated>2026-03-06T06:05:29.378Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -750,7 +750,7 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.759Z</updated>
+        <updated>2026-03-06T06:05:29.380Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -769,7 +769,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.761Z</updated>
+        <updated>2026-03-06T06:05:29.381Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -788,7 +788,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.762Z</updated>
+        <updated>2026-03-06T06:05:29.383Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -807,7 +807,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.765Z</updated>
+        <updated>2026-03-06T06:05:29.388Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -826,7 +826,7 @@
         <title type="html"><![CDATA[New Directions in Nonlinear PDEs (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.766Z</updated>
+        <updated>2026-03-06T06:05:29.390Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -845,7 +845,7 @@
         <title type="html"><![CDATA[International Conference on Complex and Differential Geometry (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.768Z</updated>
+        <updated>2026-03-06T06:05:29.391Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -864,7 +864,7 @@
         <title type="html"><![CDATA[CMI-HIMR Summer School on Random Geometries and Random Matrices (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.769Z</updated>
+        <updated>2026-03-06T06:05:29.393Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -885,7 +885,7 @@
         <title type="html"><![CDATA[Young Geometric Group Theory XIV (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.771Z</updated>
+        <updated>2026-03-06T06:05:29.395Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -904,7 +904,7 @@
         <title type="html"><![CDATA[Geometry, Dynamics, and Computer-Assisted Proofs (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.773Z</updated>
+        <updated>2026-03-06T06:05:29.396Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -923,7 +923,7 @@
         <title type="html"><![CDATA[p-adic Kudla Program and p-adic Automorphic Forms (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.776Z</updated>
+        <updated>2026-03-06T06:05:29.399Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -942,7 +942,7 @@
         <title type="html"><![CDATA[Geometric Spectral Theory and Applications (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.778Z</updated>
+        <updated>2026-03-06T06:05:29.400Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -961,7 +961,7 @@
         <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:57:53.780Z</updated>
+        <updated>2026-03-06T06:05:29.402Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -1125,80 +1125,6 @@
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1371/view/</id>
-        <link href="https://mathinstitutes.org/events/1371/view/"/>
-        <updated>2026-03-04T18:03:52.886Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
-			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1371/view/</id>
-        <link href="https://mathinstitutes.org/events/1371/view/"/>
-        <updated>2026-03-04T18:03:52.886Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
-			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Inverse Problems and UQ (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1371/view/</id>
-        <link href="https://mathinstitutes.org/events/1371/view/"/>
-        <updated>2026-03-04T18:03:52.886Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1371/view/" target="_blank" rel="noopener">Bayesian Inverse Problems and UQ</a></h5>
-			<div class="event-info">ICERM - March 2, 2026 to March 6, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New p-adic perspectives on canonical integral models for Shimura varieties (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1316/view/</id>
-        <link href="https://mathinstitutes.org/events/1316/view/"/>
-        <updated>2026-02-13T06:35:59.534Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1316/view/" target="_blank" rel="noopener">New p-adic perspectives on canonical integral models for Shimura varieties</a></h5>
-			<div class="event-info">AIM - March 2, 2026 to March 6, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New p-adic perspectives on canonical integral models for Shimura varieties (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1316/view/</id>
-        <link href="https://mathinstitutes.org/events/1316/view/"/>
-        <updated>2026-02-13T06:35:59.534Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1316/view/" target="_blank" rel="noopener">New p-adic perspectives on canonical integral models for Shimura varieties</a></h5>
-			<div class="event-info">AIM - March 2, 2026 to March 6, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New p-adic perspectives on canonical integral models for Shimura varieties (Mathematical Sciences Institutes Events)]]></title>
-        <id>https://mathinstitutes.org/events/1316/view/</id>
-        <link href="https://mathinstitutes.org/events/1316/view/"/>
-        <updated>2026-02-13T06:35:59.534Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1316/view/" target="_blank" rel="noopener">New p-adic perspectives on canonical integral models for Shimura varieties</a></h5>
-			<div class="event-info">AIM - March 2, 2026 to March 6, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reinforcement Learning Bootcamp (Mathematical Sciences Institutes Events)]]></title>
         <id>https://mathinstitutes.org/events/1283/view/</id>
         <link href="https://mathinstitutes.org/events/1283/view/"/>
@@ -1347,10 +1273,84 @@
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1336/view/</id>
+        <link href="https://mathinstitutes.org/events/1336/view/"/>
+        <updated>2026-03-06T06:05:39.551Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
+			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1336/view/</id>
+        <link href="https://mathinstitutes.org/events/1336/view/"/>
+        <updated>2026-03-06T06:05:39.552Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
+			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing declining pollinator populations through new mathematics (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1336/view/</id>
+        <link href="https://mathinstitutes.org/events/1336/view/"/>
+        <updated>2026-03-06T06:05:39.555Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
+			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1347/view/</id>
+        <link href="https://mathinstitutes.org/events/1347/view/"/>
+        <updated>2026-03-06T06:05:39.556Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
+			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1347/view/</id>
+        <link href="https://mathinstitutes.org/events/1347/view/"/>
+        <updated>2026-03-06T06:05:39.557Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
+			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture (Mathematical Sciences Institutes Events)]]></title>
+        <id>https://mathinstitutes.org/events/1347/view/</id>
+        <link href="https://mathinstitutes.org/events/1347/view/"/>
+        <updated>2026-03-06T06:05:39.559Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
+			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.710Z</updated>
+        <updated>2026-03-06T06:05:44.430Z</updated>
         <content type="html"><![CDATA[Monday 09 March 2026<br>
 								from 11:30 to 12:30]]></content>
     </entry>
@@ -1371,7 +1371,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.711Z</updated>
+        <updated>2026-03-06T06:05:44.431Z</updated>
         <content type="html"><![CDATA[Thursday 12 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -1392,7 +1392,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.712Z</updated>
+        <updated>2026-03-06T06:05:44.432Z</updated>
         <content type="html"><![CDATA[Friday 13 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -1413,7 +1413,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.713Z</updated>
+        <updated>2026-03-06T06:05:44.433Z</updated>
         <content type="html"><![CDATA[Monday 16 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -1434,7 +1434,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.722Z</updated>
+        <updated>2026-03-06T06:05:44.434Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -1455,7 +1455,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.723Z</updated>
+        <updated>2026-03-06T06:05:44.435Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 11:30 to 12:30]]></content>
     </entry>
@@ -1476,7 +1476,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.724Z</updated>
+        <updated>2026-03-06T06:05:44.436Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -1497,7 +1497,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.726Z</updated>
+        <updated>2026-03-06T06:05:44.437Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 15:15 to 16:15]]></content>
     </entry>
@@ -1518,7 +1518,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.727Z</updated>
+        <updated>2026-03-06T06:05:44.438Z</updated>
         <content type="html"><![CDATA[Wednesday 18 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -1539,7 +1539,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.728Z</updated>
+        <updated>2026-03-06T06:05:44.439Z</updated>
         <content type="html"><![CDATA[Friday 20 March 2026<br>
 								from 15:00 to 16:00]]></content>
     </entry>
@@ -1560,7 +1560,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.729Z</updated>
+        <updated>2026-03-06T06:05:44.441Z</updated>
         <content type="html"><![CDATA[Thursday 05 March 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -1581,7 +1581,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.730Z</updated>
+        <updated>2026-03-06T06:05:44.442Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 11:45 to 12:45]]></content>
     </entry>
@@ -1602,7 +1602,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.731Z</updated>
+        <updated>2026-03-06T06:05:44.442Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 10:45 to 11:45]]></content>
     </entry>
@@ -1623,7 +1623,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.732Z</updated>
+        <updated>2026-03-06T06:05:44.445Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 09:30 to 10:30]]></content>
     </entry>
@@ -1644,7 +1644,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.734Z</updated>
+        <updated>2026-03-06T06:05:44.445Z</updated>
         <content type="html"><![CDATA[Thursday 26 February 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -1665,7 +1665,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.735Z</updated>
+        <updated>2026-03-06T06:05:44.446Z</updated>
         <content type="html"><![CDATA[Thursday 19 February 2026<br>
 								from 11:00 to 12:30]]></content>
     </entry>
@@ -1686,7 +1686,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.736Z</updated>
+        <updated>2026-03-06T06:05:44.452Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -1707,7 +1707,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.737Z</updated>
+        <updated>2026-03-06T06:05:44.453Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 11:45 to 12:45]]></content>
     </entry>
@@ -1728,7 +1728,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.738Z</updated>
+        <updated>2026-03-06T06:05:44.453Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 10:30 to 11:30]]></content>
     </entry>
@@ -1749,7 +1749,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.739Z</updated>
+        <updated>2026-03-06T06:05:44.453Z</updated>
         <content type="html"><![CDATA[Monday 16 February 2026<br>
 								from 17:00 to 18:00]]></content>
     </entry>
@@ -1770,7 +1770,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.740Z</updated>
+        <updated>2026-03-06T06:05:44.453Z</updated>
         <content type="html"><![CDATA[Monday 20 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1786,7 +1786,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.741Z</updated>
+        <updated>2026-03-06T06:05:44.454Z</updated>
         <content type="html"><![CDATA[Thursday 23 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1802,7 +1802,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.746Z</updated>
+        <updated>2026-03-06T06:05:44.455Z</updated>
         <content type="html"><![CDATA[Monday 27 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1818,7 +1818,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.747Z</updated>
+        <updated>2026-03-06T06:05:44.456Z</updated>
         <content type="html"><![CDATA[Thursday 30 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1834,7 +1834,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.748Z</updated>
+        <updated>2026-03-06T06:05:44.458Z</updated>
         <content type="html"><![CDATA[Tuesday 26 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -1850,7 +1850,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.749Z</updated>
+        <updated>2026-03-06T06:05:44.459Z</updated>
         <content type="html"><![CDATA[Wednesday 27 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -1866,7 +1866,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.750Z</updated>
+        <updated>2026-03-06T06:05:44.460Z</updated>
         <content type="html"><![CDATA[Thursday 28 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -1882,7 +1882,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.751Z</updated>
+        <updated>2026-03-06T06:05:44.461Z</updated>
         <content type="html"><![CDATA[Friday 29 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -1898,7 +1898,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.754Z</updated>
+        <updated>2026-03-06T06:05:44.462Z</updated>
         <content type="html"><![CDATA[Friday 20 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1914,7 +1914,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.760Z</updated>
+        <updated>2026-03-06T06:05:44.463Z</updated>
         <content type="html"><![CDATA[Tuesday 17 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1930,7 +1930,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.761Z</updated>
+        <updated>2026-03-06T06:05:44.466Z</updated>
         <content type="html"><![CDATA[Friday 13 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1946,7 +1946,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.762Z</updated>
+        <updated>2026-03-06T06:05:44.466Z</updated>
         <content type="html"><![CDATA[Tuesday 10 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -1962,7 +1962,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.763Z</updated>
+        <updated>2026-03-06T06:05:44.467Z</updated>
         <content type="html"><![CDATA[Wednesday 26 November 2025 from 10:00]]></content>
     </entry>
     <entry>
@@ -1978,7 +1978,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.769Z</updated>
+        <updated>2026-03-06T06:05:44.469Z</updated>
         <content type="html"><![CDATA[Tuesday 25 November 2025 from 10:00]]></content>
     </entry>
     <entry>
@@ -1994,7 +1994,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.770Z</updated>
+        <updated>2026-03-06T06:05:44.470Z</updated>
         <content type="html"><![CDATA[Monday 24 November 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -2010,7 +2010,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.777Z</updated>
+        <updated>2026-03-06T06:05:44.471Z</updated>
         <content type="html"><![CDATA[Wednesday 01 October 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -2026,7 +2026,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.778Z</updated>
+        <updated>2026-03-06T06:05:44.472Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -2042,7 +2042,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.781Z</updated>
+        <updated>2026-03-06T06:05:44.473Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -2058,7 +2058,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.782Z</updated>
+        <updated>2026-03-06T06:05:44.475Z</updated>
         <content type="html"><![CDATA[from Monday 09 to Thursday 12 March 2026]]></content>
     </entry>
     <entry>
@@ -2077,7 +2077,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.784Z</updated>
+        <updated>2026-03-06T06:05:44.479Z</updated>
         <content type="html"><![CDATA[from Tuesday 24 to Thursday 26 March 2026]]></content>
     </entry>
     <entry>
@@ -2096,7 +2096,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.785Z</updated>
+        <updated>2026-03-06T06:05:44.480Z</updated>
         <content type="html"><![CDATA[on Friday 03 April 2026<br>from 09:30 to 17:30]]></content>
     </entry>
     <entry>
@@ -2115,7 +2115,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.786Z</updated>
+        <updated>2026-03-06T06:05:44.481Z</updated>
         <content type="html"><![CDATA[from Monday 06 to Friday 17 July 2026]]></content>
     </entry>
     <entry>
@@ -2134,7 +2134,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.787Z</updated>
+        <updated>2026-03-06T06:05:44.482Z</updated>
         <content type="html"><![CDATA[from Monday 31 to Friday 04 June 2027]]></content>
     </entry>
     <entry>
@@ -2153,7 +2153,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.788Z</updated>
+        <updated>2026-03-06T06:05:44.483Z</updated>
         <content type="html"><![CDATA[from Monday 12 to Friday 16 January 2026]]></content>
     </entry>
     <entry>
@@ -2171,7 +2171,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.789Z</updated>
+        <updated>2026-03-06T06:05:44.484Z</updated>
         <content type="html"><![CDATA[from Wednesday 19 to Friday 21 November 2025]]></content>
     </entry>
     <entry>
@@ -2189,7 +2189,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.791Z</updated>
+        <updated>2026-03-06T06:05:44.485Z</updated>
         <content type="html"><![CDATA[from Monday 27 to Friday 31 October 2025]]></content>
     </entry>
     <entry>
@@ -2207,7 +2207,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.792Z</updated>
+        <updated>2026-03-06T06:05:44.486Z</updated>
         <content type="html"><![CDATA[on Wednesday 15 October 2025<br>from 09:30 to 16:00]]></content>
     </entry>
     <entry>
@@ -2225,7 +2225,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.793Z</updated>
+        <updated>2026-03-06T06:05:44.487Z</updated>
         <content type="html"><![CDATA[from Monday 08 to Friday 12 September 2025]]></content>
     </entry>
     <entry>
@@ -2243,7 +2243,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.794Z</updated>
+        <updated>2026-03-06T06:05:44.489Z</updated>
         <content type="html"><![CDATA[from Monday 07 to Friday 18 July 2025]]></content>
     </entry>
     <entry>
@@ -2261,7 +2261,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.795Z</updated>
+        <updated>2026-03-06T06:05:44.490Z</updated>
         <content type="html"><![CDATA[from Monday 23 to Friday 04 July 2025]]></content>
     </entry>
     <entry>
@@ -2279,7 +2279,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.799Z</updated>
+        <updated>2026-03-06T06:05:44.491Z</updated>
         <content type="html"><![CDATA[from Monday 02 to Friday 06 June 2025]]></content>
     </entry>
     <entry>
@@ -2297,7 +2297,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.800Z</updated>
+        <updated>2026-03-06T06:05:44.492Z</updated>
         <content type="html"><![CDATA[on Monday 26 May 2025<br>from 09:00 to 21:00]]></content>
     </entry>
     <entry>
@@ -2315,7 +2315,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:09.800Z</updated>
+        <updated>2026-03-06T06:05:44.494Z</updated>
         <content type="html"><![CDATA[on Thursday 22 May 2025<br>from 09:00 to 18:00]]></content>
     </entry>
     <entry>
@@ -2333,7 +2333,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.857Z</updated>
+        <updated>2026-03-06T06:05:49.423Z</updated>
         <content type="html"><![CDATA[Monday 09 March 2026<br>
 								from 11:30 to 12:30]]></content>
     </entry>
@@ -2354,7 +2354,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.859Z</updated>
+        <updated>2026-03-06T06:05:49.424Z</updated>
         <content type="html"><![CDATA[Thursday 12 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -2375,7 +2375,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.860Z</updated>
+        <updated>2026-03-06T06:05:49.452Z</updated>
         <content type="html"><![CDATA[Friday 13 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -2396,7 +2396,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.861Z</updated>
+        <updated>2026-03-06T06:05:49.453Z</updated>
         <content type="html"><![CDATA[Monday 16 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -2417,7 +2417,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.862Z</updated>
+        <updated>2026-03-06T06:05:49.454Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -2438,7 +2438,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.863Z</updated>
+        <updated>2026-03-06T06:05:49.455Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 11:30 to 12:30]]></content>
     </entry>
@@ -2459,7 +2459,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.864Z</updated>
+        <updated>2026-03-06T06:05:49.458Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -2480,7 +2480,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.866Z</updated>
+        <updated>2026-03-06T06:05:49.458Z</updated>
         <content type="html"><![CDATA[Tuesday 17 March 2026<br>
 								from 15:15 to 16:15]]></content>
     </entry>
@@ -2501,7 +2501,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.868Z</updated>
+        <updated>2026-03-06T06:05:49.459Z</updated>
         <content type="html"><![CDATA[Wednesday 18 March 2026<br>
 								from 10:00 to 12:00]]></content>
     </entry>
@@ -2522,7 +2522,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.869Z</updated>
+        <updated>2026-03-06T06:05:49.460Z</updated>
         <content type="html"><![CDATA[Friday 20 March 2026<br>
 								from 15:00 to 16:00]]></content>
     </entry>
@@ -2543,7 +2543,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.870Z</updated>
+        <updated>2026-03-06T06:05:49.461Z</updated>
         <content type="html"><![CDATA[Thursday 05 March 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -2564,7 +2564,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.871Z</updated>
+        <updated>2026-03-06T06:05:49.462Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 11:45 to 12:45]]></content>
     </entry>
@@ -2585,7 +2585,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.873Z</updated>
+        <updated>2026-03-06T06:05:49.463Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 10:45 to 11:45]]></content>
     </entry>
@@ -2606,7 +2606,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.874Z</updated>
+        <updated>2026-03-06T06:05:49.464Z</updated>
         <content type="html"><![CDATA[Wednesday 04 March 2026<br>
 								from 09:30 to 10:30]]></content>
     </entry>
@@ -2627,7 +2627,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.876Z</updated>
+        <updated>2026-03-06T06:05:49.472Z</updated>
         <content type="html"><![CDATA[Thursday 26 February 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -2648,7 +2648,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.878Z</updated>
+        <updated>2026-03-06T06:05:49.475Z</updated>
         <content type="html"><![CDATA[Thursday 19 February 2026<br>
 								from 11:00 to 12:30]]></content>
     </entry>
@@ -2669,7 +2669,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.879Z</updated>
+        <updated>2026-03-06T06:05:49.475Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -2690,7 +2690,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.880Z</updated>
+        <updated>2026-03-06T06:05:49.475Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 11:45 to 12:45]]></content>
     </entry>
@@ -2711,7 +2711,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.902Z</updated>
+        <updated>2026-03-06T06:05:49.476Z</updated>
         <content type="html"><![CDATA[Wednesday 18 February 2026<br>
 								from 10:30 to 11:30]]></content>
     </entry>
@@ -2732,7 +2732,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.903Z</updated>
+        <updated>2026-03-06T06:05:49.476Z</updated>
         <content type="html"><![CDATA[Monday 16 February 2026<br>
 								from 17:00 to 18:00]]></content>
     </entry>
@@ -2753,7 +2753,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.904Z</updated>
+        <updated>2026-03-06T06:05:49.476Z</updated>
         <content type="html"><![CDATA[Monday 20 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2769,7 +2769,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.905Z</updated>
+        <updated>2026-03-06T06:05:49.476Z</updated>
         <content type="html"><![CDATA[Thursday 23 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2785,7 +2785,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.906Z</updated>
+        <updated>2026-03-06T06:05:49.477Z</updated>
         <content type="html"><![CDATA[Monday 27 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2801,7 +2801,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.907Z</updated>
+        <updated>2026-03-06T06:05:49.478Z</updated>
         <content type="html"><![CDATA[Thursday 30 April 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2817,7 +2817,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.908Z</updated>
+        <updated>2026-03-06T06:05:49.478Z</updated>
         <content type="html"><![CDATA[Tuesday 26 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -2833,7 +2833,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.909Z</updated>
+        <updated>2026-03-06T06:05:49.479Z</updated>
         <content type="html"><![CDATA[Wednesday 27 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -2849,7 +2849,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.912Z</updated>
+        <updated>2026-03-06T06:05:49.484Z</updated>
         <content type="html"><![CDATA[Thursday 28 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -2865,7 +2865,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.913Z</updated>
+        <updated>2026-03-06T06:05:49.484Z</updated>
         <content type="html"><![CDATA[Friday 29 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -2881,7 +2881,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.914Z</updated>
+        <updated>2026-03-06T06:05:49.484Z</updated>
         <content type="html"><![CDATA[Friday 20 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2897,7 +2897,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.915Z</updated>
+        <updated>2026-03-06T06:05:49.485Z</updated>
         <content type="html"><![CDATA[Tuesday 17 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2913,7 +2913,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.916Z</updated>
+        <updated>2026-03-06T06:05:49.486Z</updated>
         <content type="html"><![CDATA[Friday 13 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2929,7 +2929,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.917Z</updated>
+        <updated>2026-03-06T06:05:49.487Z</updated>
         <content type="html"><![CDATA[Tuesday 10 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -2945,7 +2945,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.918Z</updated>
+        <updated>2026-03-06T06:05:49.491Z</updated>
         <content type="html"><![CDATA[Wednesday 26 November 2025 from 10:00]]></content>
     </entry>
     <entry>
@@ -2961,7 +2961,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.922Z</updated>
+        <updated>2026-03-06T06:05:49.491Z</updated>
         <content type="html"><![CDATA[Tuesday 25 November 2025 from 10:00]]></content>
     </entry>
     <entry>
@@ -2977,7 +2977,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.923Z</updated>
+        <updated>2026-03-06T06:05:49.492Z</updated>
         <content type="html"><![CDATA[Monday 24 November 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -2993,7 +2993,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.924Z</updated>
+        <updated>2026-03-06T06:05:49.497Z</updated>
         <content type="html"><![CDATA[Wednesday 01 October 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -3009,7 +3009,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.925Z</updated>
+        <updated>2026-03-06T06:05:49.497Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 14:30]]></content>
     </entry>
     <entry>
@@ -3025,7 +3025,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.926Z</updated>
+        <updated>2026-03-06T06:05:49.498Z</updated>
         <content type="html"><![CDATA[Monday 29 September 2025 from 10:30]]></content>
     </entry>
     <entry>
@@ -3041,7 +3041,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.927Z</updated>
+        <updated>2026-03-06T06:05:49.499Z</updated>
         <content type="html"><![CDATA[from Monday 09 to Thursday 12 March 2026]]></content>
     </entry>
     <entry>
@@ -3060,7 +3060,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.928Z</updated>
+        <updated>2026-03-06T06:05:49.500Z</updated>
         <content type="html"><![CDATA[from Tuesday 24 to Thursday 26 March 2026]]></content>
     </entry>
     <entry>
@@ -3079,7 +3079,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.929Z</updated>
+        <updated>2026-03-06T06:05:49.501Z</updated>
         <content type="html"><![CDATA[on Friday 03 April 2026<br>from 09:30 to 17:30]]></content>
     </entry>
     <entry>
@@ -3098,7 +3098,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.930Z</updated>
+        <updated>2026-03-06T06:05:49.505Z</updated>
         <content type="html"><![CDATA[from Monday 06 to Friday 17 July 2026]]></content>
     </entry>
     <entry>
@@ -3117,7 +3117,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.931Z</updated>
+        <updated>2026-03-06T06:05:49.506Z</updated>
         <content type="html"><![CDATA[from Monday 31 to Friday 04 June 2027]]></content>
     </entry>
     <entry>
@@ -3136,7 +3136,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.932Z</updated>
+        <updated>2026-03-06T06:05:49.507Z</updated>
         <content type="html"><![CDATA[from Monday 12 to Friday 16 January 2026]]></content>
     </entry>
     <entry>
@@ -3154,7 +3154,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.935Z</updated>
+        <updated>2026-03-06T06:05:49.508Z</updated>
         <content type="html"><![CDATA[from Wednesday 19 to Friday 21 November 2025]]></content>
     </entry>
     <entry>
@@ -3172,7 +3172,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.936Z</updated>
+        <updated>2026-03-06T06:05:49.509Z</updated>
         <content type="html"><![CDATA[from Monday 27 to Friday 31 October 2025]]></content>
     </entry>
     <entry>
@@ -3190,7 +3190,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.937Z</updated>
+        <updated>2026-03-06T06:05:49.510Z</updated>
         <content type="html"><![CDATA[on Wednesday 15 October 2025<br>from 09:30 to 16:00]]></content>
     </entry>
     <entry>
@@ -3208,7 +3208,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.943Z</updated>
+        <updated>2026-03-06T06:05:49.511Z</updated>
         <content type="html"><![CDATA[from Monday 08 to Friday 12 September 2025]]></content>
     </entry>
     <entry>
@@ -3226,7 +3226,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.944Z</updated>
+        <updated>2026-03-06T06:05:49.512Z</updated>
         <content type="html"><![CDATA[from Monday 07 to Friday 18 July 2025]]></content>
     </entry>
     <entry>
@@ -3244,7 +3244,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.946Z</updated>
+        <updated>2026-03-06T06:05:49.513Z</updated>
         <content type="html"><![CDATA[from Monday 23 to Friday 04 July 2025]]></content>
     </entry>
     <entry>
@@ -3262,7 +3262,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.946Z</updated>
+        <updated>2026-03-06T06:05:49.515Z</updated>
         <content type="html"><![CDATA[from Monday 02 to Friday 06 June 2025]]></content>
     </entry>
     <entry>
@@ -3280,7 +3280,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.948Z</updated>
+        <updated>2026-03-06T06:05:49.520Z</updated>
         <content type="html"><![CDATA[on Monday 26 May 2025<br>from 09:00 to 21:00]]></content>
     </entry>
     <entry>
@@ -3298,7 +3298,7 @@
         <title type="html"><![CDATA[undefined (IHES Seminars)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-03-05T18:58:14.949Z</updated>
+        <updated>2026-03-06T06:05:49.524Z</updated>
         <content type="html"><![CDATA[on Thursday 22 May 2025<br>from 09:00 to 18:00]]></content>
     </entry>
     <entry>
@@ -3986,40 +3986,6 @@
         <content type="html"><![CDATA[<a href="1998/participants.html">Participants</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow (BICMR Seminars and Colloquium)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3838.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3838.html"/>
-        <updated>2026-02-25T18:36:46.398Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3838.html" title="On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow" target="_blank">On the Rate of Convergence of Cylindrical Singularity in Mean Curvature Flow</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Xinrui Zhao (Yale University)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The stable forking conjecture from the pregeometer's point of view (BICMR Seminars and Colloquium)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3841.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3841.html"/>
-        <updated>2026-03-04T06:05:28.486Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 05</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3841.html" title="The stable forking conjecture from the pregeometer's point of view" target="_blank">The stable forking conjecture from the pregeometer's point of view</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Scott Mutchnik (University of ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On factorization of matrix of Kazhdan-Lusztig polynomials (BICMR Seminars and Colloquium)]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/34-3840.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/34-3840.html"/>
@@ -4034,6 +4000,23 @@
                             <a href="/content/show/34-3840.html" title="On factorization of matrix of Kazhdan-Lusztig polynomials " target="_blank">On factorization of matrix of Kazhdan-Lusztig polynomials </a>
                         </p>
                         <p class="speaker">Speaker(s): Aritra Bhattacharya (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Dynamics of Granular Media Equations via Stochastic Order (BICMR Seminars and Colloquium)]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3843.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3843.html"/>
+        <updated>2026-03-06T06:05:58.469Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3843.html" title="Global Dynamics of Granular Media Equations via Stochastic Order" target="_blank">Global Dynamics of Granular Media Equations via Stochastic Order</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Baoyou Qu (Shandong University...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -4068,6 +4051,23 @@
                             <a href="/content/show/35-3839.html" title="Volumes of Foliations Birationally Bounded by Algebraically Integrable Families" target="_blank">Volumes of Foliations Birationally Bounded by Algebraically Integrable Families</a>
                         </p>
                         <p class="speaker">Speaker(s): Zhixiu Fan (Fudan University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Symmetry (BICMR Seminars and Colloquium)]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3844.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3844.html"/>
+        <updated>2026-03-06T06:05:58.474Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3844.html" title="Dynamical Symmetry" target="_blank">Dynamical Symmetry</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Amie Wilkinson (University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -4139,6 +4139,54 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar (YMSC Seminars)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-02-27T18:01:35.241Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Mar 13</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Dougal Davis (University of Melbourne)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar (YMSC Seminars)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
+        <updated>2026-02-27T18:01:35.246Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Mar 12</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2401.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
+        <div class="t-2">What is a prism? (12-1 pm, BIMSA A4-1)</div>
+        <div class="t-3">Speaker：Yong Suk Moon</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar (YMSC Seminars)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2025-12-19T05:46:30.225Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Mar 10</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">Title: On the phase of the de Sitter density of statesSpeaker: Zhenbin Yang (IAS, Tsinghua University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Mar 12 (Thursday)Abstract:The one-loop gravitational path integral around Euclidean de Sitter space SD has a complex phase that casts doubt on a state counting interpretation. Recently, itwas proposed to cancel this phase by...</div>
+        <div class="t-3">Speaker：Stephen Hsu (Michigan State University), Zhenbin Yang (IAS, Tsinghua University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geometry and Physics Seminar (GPS) (YMSC Seminars)]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm"/>
@@ -4155,66 +4203,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar (YMSC Seminars)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm"/>
-        <updated>2026-03-04T06:05:37.887Z</updated>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar (YMSC Seminars)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
+        <updated>2026-03-06T06:06:08.146Z</updated>
         <content type="html"><![CDATA[<div class="left time">
          <p class="t-1"><span>Mar 09</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3702.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
-        <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
-        <div class="t-3">Speaker：Peiyi Cui (YMSC)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar (YMSC Seminars)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2026-02-27T18:01:35.241Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 06</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Shitan Xu (BICMR)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar (YMSC Seminars)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2025-12-19T05:46:30.225Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 05</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: On the phase of the de Sitter density of statesSpeaker: Zhenbin Yang (IAS, Tsinghua University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Mar 12 (Thursday)Abstract:The one-loop gravitational path integral around Euclidean de Sitter space SD has a complex phase that casts doubt on a state counting interpretation. Recently, itwas proposed to cancel this phase by...</div>
-        <div class="t-3">Speaker：Kristiansen Lara (CECS, Chile), Stephen Hsu (Michigan State University), Zhenbin Yang (IAS, Tsinghua University)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar (YMSC Seminars)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2026-02-27T18:01:35.246Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 05</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">Organizational Meeting (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：No Speaker</div>
+    <a href="info/1053/3694.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks  Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/09 Rahul Singh (YMSC)q-Opers and Bethe Ansatz for Open Spin ChainsOpers and their q-deformations provide a geometric way to encode solutions of the Bethe Ansatz equations arising in quantum integrable systems such as Gaudin mode...</div>
+        <div class="t-3">Speaker：Rahul Singh (YMSC)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
