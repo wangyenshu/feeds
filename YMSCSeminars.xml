@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-03-09T06:37:27.096Z</updated>
+    <updated>2026-03-09T18:07:30.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -70,18 +70,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
-        <updated>2026-03-06T06:06:08.146Z</updated>
+        <title type="html"><![CDATA[On the construction of cuspidal representations of p-adic groups]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3707.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3707.htm"/>
+        <updated>2026-03-09T18:07:18.772Z</updated>
         <content type="html"><![CDATA[<div class="left time">
          <p class="t-1"><span>Mar 09</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3694.htm" class="right text">
-        <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks  Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/09 Rahul Singh (YMSC)q-Opers and Bethe Ansatz for Open Spin ChainsOpers and their q-deformations provide a geometric way to encode solutions of the Bethe Ansatz equations arising in quantum integrable systems such as Gaudin mode...</div>
-        <div class="t-3">Speaker：Rahul Singh (YMSC)</div>
+    <a href="info/1053/3707.htm" class="right text">
+        <div class="t-1">On the construction of cuspidal representations of p-adic groups</div>
+        <div class="t-2">In this seminar, we introduce Bruhat-Tits theory of p-adic reductive groups, then we study the type theory established by J.-K. Yu, J.-L. Kim, J. Fintzen. Finally, we will see recent applications on l-modular representations of p-adic groups.References: 1. Kaletha T, Prasad G. Bruhat–Tits Theory: A New Approach. Cambridge University Press; 2023.2. Ju-Lee Kim, Supercuspidal representations: an ...</div>
+        <div class="t-3">Speaker：Peiyi Cui</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
