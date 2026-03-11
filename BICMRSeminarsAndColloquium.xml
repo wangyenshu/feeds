@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-11T06:09:25.948Z</updated>
+    <updated>2026-03-11T18:10:40.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
                         <p>Mar 11</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3842.html" title="A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications" target="_blank">A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications</a>
                         </p>
