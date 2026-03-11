@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-03-10T18:08:28.561Z</updated>
+    <updated>2026-03-11T06:09:25.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -16,8 +16,8 @@
     </div>
     <a href="info/1053/3694.htm" class="right text">
         <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks  Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/16 Hiraku Nakajima (Kavli IPMU) Past talks Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University2026/03/09 Rahul Singh (YMSC)q-Opers and ...</div>
-        <div class="t-3">Speaker：Hiraku Nakajima (Kavli IPMU)</div>
+        <div class="t-2">Upcoming talks  Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/16 Hiraku Nakajima (Kavli IPMU)Involutions on quiver varieties and twisted Yangian Take smooth quiver varieties of finite ADE type, and consider involutions on them defined as composite of transpose of linear maps, reflection fu...</div>
+        <div class="t-3">Speaker：Hiraku Nakajima (Kavli IPMU), Cédric Bonnafé (IMAG, Université de Montpellier)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
