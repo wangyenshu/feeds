@@ -2,58 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-12T06:11:47.950Z</updated>
+    <updated>2026-03-12T18:09:43.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Trace definability, constraint satisfaction problems, and the trivial theory]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3846.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3846.html"/>
-        <updated>2026-03-09T06:37:10.086Z</updated>
+        <title type="html"><![CDATA[The Control and Stabilization of Two-dimensional Hydroelastic Waves]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3849.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3849.html"/>
+        <updated>2026-03-12T18:09:25.068Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Mar 11</p>
+                        <p>Mar 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/93-3846.html" title="Trace definability, constraint satisfaction problems, and the trivial theory" target="_blank">Trace definability, constraint satisfaction problems, and the trivial theory</a>
+                            <a href="/content/show/47-3849.html" title="The Control and Stabilization of Two-dimensional Hydroelastic Waves" target="_blank">The Control and Stabilization of Two-dimensional Hydroelastic Waves</a>
                         </p>
-                        <p class="speaker">Speaker(s): Erik Walsberg (Universität Wie...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3842.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3842.html"/>
-        <updated>2026-03-05T06:07:51.856Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 11</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3842.html" title="A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications" target="_blank">A Revisit to the De Giorgi Conjecture: Savin's Proof and Applications</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Ling Wang (Bocconi University)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volumes of Foliations Birationally Bounded by Algebraically Integrable Families]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3839.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3839.html"/>
-        <updated>2026-02-25T18:36:46.400Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3839.html" title="Volumes of Foliations Birationally Bounded by Algebraically Integrable Families" target="_blank">Volumes of Foliations Birationally Bounded by Algebraically Integrable Families</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhixiu Fan (Fudan University)</p>
+                        <p class="speaker">Speaker(s): Lizhe Wan (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -88,6 +54,40 @@
                             <a href="/content/show/49-3845.html" title="Toric exoflops and their use in comparing derived categories" target="_blank">Toric exoflops and their use in comparing derived categories</a>
                         </p>
                         <p class="speaker">Speaker(s): Aimeric Malter (BIMSA)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3848.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3848.html"/>
+        <updated>2026-03-12T18:09:25.076Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 24</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3848.html" title="Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation" target="_blank">Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Sam Mellick (Jagiellonian Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3850.html"/>
+        <updated>2026-03-12T18:09:25.078Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3850.html" title="Progress on Kerr Stability Conjecture for Large Angular Momentum" target="_blank">Progress on Kerr Stability Conjecture for Large Angular Momentum</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Siyuan Ma (Chinese Academy of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
