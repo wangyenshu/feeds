@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-03-12T18:09:43.334Z</updated>
+    <updated>2026-03-13T06:10:08.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <div class="t-1">A neural network approach to learning solutions of a class of elliptic variational inequalities</div>
         <div class="t-2">Abstract:We develop a weak adversarial approach to solving obstacle problems using neural networks. By using (generalized) regularized gap functions and their properties we rewrite the obstacle problem (which is an elliptic variational inequality) as a minmax problem, providing a natural formulation amenable to a learning approach. Our approach, in contrast to much of the literature, does not r...</div>
         <div class="t-3">Speaker：Michael Hintermüller (Humboldt University of Berlin)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>

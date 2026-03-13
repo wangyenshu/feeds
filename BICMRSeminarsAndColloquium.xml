@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-12T18:09:43.297Z</updated>
+    <updated>2026-03-13T06:10:08.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -57,6 +57,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3851.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3851.html"/>
+        <updated>2026-03-13T06:09:46.794Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 18</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3851.html" title="UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES" target="_blank">UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Sheng Yin (Harbin Institute of...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3848.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/18-3848.html"/>
@@ -71,23 +88,6 @@
                             <a href="/content/show/18-3848.html" title="Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation" target="_blank">Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation</a>
                         </p>
                         <p class="speaker">Speaker(s): Sam Mellick (Jagiellonian Univ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3850.html"/>
-        <updated>2026-03-12T18:09:25.078Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 30</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3850.html" title="Progress on Kerr Stability Conjecture for Large Angular Momentum" target="_blank">Progress on Kerr Stability Conjecture for Large Angular Momentum</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Siyuan Ma (Chinese Academy of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -148,7 +148,7 @@
         <updated>2026-03-11T06:09:05.260Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Sep 06</p>
+                        <p>Sep 07</p>
                     </dt>
                                         <dd>
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
