@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-14T06:06:53.324Z</updated>
+    <updated>2026-03-14T17:53:08.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
         <id>https://mathinstitutes.org/events/1409/view/</id>
         <link href="https://mathinstitutes.org/events/1409/view/"/>
-        <updated>2026-03-14T06:06:15.480Z</updated>
+        <updated>2026-03-14T06:06:15.478Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -296,7 +296,7 @@
         <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
         <id>https://mathinstitutes.org/events/1409/view/</id>
         <link href="https://mathinstitutes.org/events/1409/view/"/>
-        <updated>2026-03-14T06:06:15.481Z</updated>
+        <updated>2026-03-14T06:06:15.478Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
 			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>]]></content>
