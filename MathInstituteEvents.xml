@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-13T06:10:08.161Z</updated>
+    <updated>2026-03-14T06:06:53.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -41,6 +41,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12433_ias.jpg" alt="IAS" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1273/view/" target="_blank" rel="noopener">Special Year on Arithmetic Geometry, Hodge Theory, and o-minimality</a></h5>
 			<div class="event-info">IAS - September 22, 2025 to April 10, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
@@ -114,43 +151,6 @@
         <updated>2026-02-13T06:35:59.524Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
     </entry>
     <entry>
@@ -265,6 +265,43 @@
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <id>https://mathinstitutes.org/events/1409/view/</id>
+        <link href="https://mathinstitutes.org/events/1409/view/"/>
+        <updated>2026-03-14T06:06:15.478Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <id>https://mathinstitutes.org/events/1409/view/</id>
+        <link href="https://mathinstitutes.org/events/1409/view/"/>
+        <updated>2026-03-14T06:06:15.480Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <id>https://mathinstitutes.org/events/1409/view/</id>
+        <link href="https://mathinstitutes.org/events/1409/view/"/>
+        <updated>2026-03-14T06:06:15.481Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recent progress in topological and geometric structures in low dimensions]]></title>
         <id>https://mathinstitutes.org/events/1174/view/</id>
         <link href="https://mathinstitutes.org/events/1174/view/"/>
@@ -337,42 +374,5 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1336/view/" target="_blank" rel="noopener">Addressing declining pollinator populations through new mathematics</a></h5>
 			<div class="event-info">AIM - March 30, 2026 to April 3, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture]]></title>
-        <id>https://mathinstitutes.org/events/1347/view/</id>
-        <link href="https://mathinstitutes.org/events/1347/view/"/>
-        <updated>2026-03-13T06:09:25.384Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
-			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture]]></title>
-        <id>https://mathinstitutes.org/events/1347/view/</id>
-        <link href="https://mathinstitutes.org/events/1347/view/"/>
-        <updated>2026-03-13T06:09:25.385Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
-			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture]]></title>
-        <id>https://mathinstitutes.org/events/1347/view/</id>
-        <link href="https://mathinstitutes.org/events/1347/view/"/>
-        <updated>2026-03-13T06:09:25.387Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
-			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>]]></content>
     </entry>
 </feed>
