@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-15T06:33:56.686Z</updated>
+    <updated>2026-03-15T17:54:51.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
                         <p>Mar 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/83-3851.html" title="UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES" target="_blank">UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES</a>
                         </p>
