@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-14T17:53:08.117Z</updated>
+    <updated>2026-03-15T06:33:56.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -80,43 +80,6 @@
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://mathinstitutes.org/events/1320/view/</id>
         <link href="https://mathinstitutes.org/events/1320/view/"/>
@@ -152,6 +115,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
 			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1128/view/</id>
+        <link href="https://mathinstitutes.org/events/1128/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
+			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1128/view/</id>
+        <link href="https://mathinstitutes.org/events/1128/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
+			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1128/view/</id>
+        <link href="https://mathinstitutes.org/events/1128/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
+			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Fidelity Methods for Fusion Energy]]></title>
@@ -191,43 +191,6 @@
 			<div class="event-info">IPAM - March 9, 2026 to June 12, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1346/view/</id>
-        <link href="https://mathinstitutes.org/events/1346/view/"/>
-        <updated>2026-02-13T06:35:59.541Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1346/view/</id>
-        <link href="https://mathinstitutes.org/events/1346/view/"/>
-        <updated>2026-02-13T06:35:59.541Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1346/view/</id>
-        <link href="https://mathinstitutes.org/events/1346/view/"/>
-        <updated>2026-02-13T06:35:59.541Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introductory Workshop: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://mathinstitutes.org/events/1306/view/</id>
         <link href="https://mathinstitutes.org/events/1306/view/"/>
@@ -265,7 +228,7 @@
 			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1409/view/</id>
         <link href="https://mathinstitutes.org/events/1409/view/"/>
         <updated>2026-03-14T06:06:15.478Z</updated>
@@ -273,33 +236,70 @@
 		<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)</a></h5>
 			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1409/view/</id>
         <link href="https://mathinstitutes.org/events/1409/view/"/>
         <updated>2026-03-14T06:06:15.478Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)</a></h5>
 			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics]]></title>
+        <title type="html"><![CDATA[Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1409/view/</id>
         <link href="https://mathinstitutes.org/events/1409/view/"/>
         <updated>2026-03-14T06:06:15.478Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1409/view/" target="_blank" rel="noopener">Workshop I: Multi-Fidelity Methods for Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)</a></h5>
 			<div class="event-info">IPAM - March 23, 2026 to March 26, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1346/view/</id>
+        <link href="https://mathinstitutes.org/events/1346/view/"/>
+        <updated>2026-02-13T06:35:59.541Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1346/view/</id>
+        <link href="https://mathinstitutes.org/events/1346/view/"/>
+        <updated>2026-02-13T06:35:59.541Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Progress in Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1346/view/</id>
+        <link href="https://mathinstitutes.org/events/1346/view/"/>
+        <updated>2026-02-13T06:35:59.541Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1346/view/" target="_blank" rel="noopener">Recent Progress in Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - March 23, 2026 to March 27, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recent progress in topological and geometric structures in low dimensions]]></title>
