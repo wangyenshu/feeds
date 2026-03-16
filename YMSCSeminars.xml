@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-03-15T17:54:52.046Z</updated>
+    <updated>2026-03-16T06:53:22.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Statistical Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
+        <updated>2026-03-16T06:53:11.927Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Mar 20</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3262.htm" class="right text">
+        <div class="t-1">Statistical Seminar</div>
+        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：3 月 20 日 16:00~17:00地点：双清综合楼C654报告人：邱宇谋 研究员，北京大学数学科学学院、统计科学中心 报告题目：Generalized entropy calibration for selection bias摘要：We propose a unified framework for constructing calibration weights for data with selection bias by maximizing a generalized entropy function subject to carefully chosen calibration constraints....</div>
+        <div class="t-3">Speaker：邱宇谋，李高荣</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Math+ML+X Seminar Series]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
         <div class="t-2">Groechenig-Wyss-Ziegler's proof of the Hausel-Thaddeus conjecture I (12-1 pm, BIMSA A4-1)</div>
         <div class="t-3">Speaker：Yuuji Tanaka</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
-        <updated>2026-03-10T06:06:33.919Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 16</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3694.htm" class="right text">
-        <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks  Time:  3:30-4:30 pm, MondayPlace: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/16 Hiraku Nakajima (Kavli IPMU)Involutions on quiver varieties and twisted Yangian Take smooth quiver varieties of finite ADE type, and consider involutions on them defined as composite of transpose of linear maps, reflection fu...</div>
-        <div class="t-3">Speaker：Hiraku Nakajima (Kavli IPMU), Cédric Bonnafé (IMAG, Université de Montpellier)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

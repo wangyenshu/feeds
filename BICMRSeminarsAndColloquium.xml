@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-15T17:54:51.997Z</updated>
+    <updated>2026-03-16T06:53:22.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Symmetry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3844.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3844.html"/>
-        <updated>2026-03-09T18:07:08.960Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 13</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3844.html" title="Dynamical Symmetry" target="_blank">Dynamical Symmetry</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Amie Wilkinson (The University...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Toric exoflops and their use in comparing derived categories]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3845.html</id>
@@ -54,6 +37,23 @@
                             <a href="/content/show/83-3851.html" title="UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES" target="_blank">UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES</a>
                         </p>
                         <p class="speaker">Speaker(s): Sheng Yin (Harbin Institute of...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sum product phenomenon via dimension]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3853.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3853.html"/>
+        <updated>2026-03-16T06:53:02.938Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 18</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3853.html" title="Sum product phenomenon via dimension" target="_blank">Sum product phenomenon via dimension</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yuyan He (University of Notre ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inducing t-structures and Stability Conditions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3826.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3826.html"/>
-        <updated>2025-12-22T17:43:35.632Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2025</span>
-                        <p>Dec 30</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
-                        <p class="black">
-                            <a href="/content/show/70-3826.html" title="Inducing t-structures and Stability Conditions" target="_blank">Inducing t-structures and Stability Conditions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Xiaolei Zhao (UC Santa Barbara...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Formal Math Frontiers: From Implementation to AI Assistance]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=129</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=129"/>
@@ -137,6 +120,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130" title="The 3rd NYU Shanghai - Peking - Westlake Probability Conference" target="_blank">The 3rd NYU Shanghai - Peking - Westlake Probability Conference</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop on Geometric Analysis 2026]]></title>
+        <id>http://lib.bicmr.pku.edu.cn/meeting-524530</id>
+        <link href="http://lib.bicmr.pku.edu.cn/meeting-524530"/>
+        <updated>2026-03-16T06:53:02.946Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 24</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://lib.bicmr.pku.edu.cn/meeting-524530" title="Workshop on Geometric Analysis 2026" target="_blank">Workshop on Geometric Analysis 2026</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
