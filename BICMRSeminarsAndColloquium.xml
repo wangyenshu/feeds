@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-17T06:40:08.558Z</updated>
+    <updated>2026-03-17T18:12:41.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Toric exoflops and their use in comparing derived categories]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3845.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3845.html"/>
-        <updated>2026-03-09T18:07:08.962Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3845.html" title="Toric exoflops and their use in comparing derived categories" target="_blank">Toric exoflops and their use in comparing derived categories</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Aimeric Malter (BIMSA)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/83-3851.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/82-3856.html" title="Zeta Function and Entropy for Non-Archimedean Subhyperbolic Dynamics" target="_blank">Zeta Function and Entropy for Non-Archimedean Subhyperbolic Dynamics</a>
                         </p>
                         <p class="speaker">Speaker(s): Hongming Nie (Stony Brook Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regularity and Collapsing Geometry of Metric Spaces with Curvature Bounds]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3858.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3858.html"/>
+        <updated>2026-03-17T18:12:22.890Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3858.html" title="Regularity and Collapsing Geometry of Metric Spaces with Curvature Bounds" target="_blank">Regularity and Collapsing Geometry of Metric Spaces with Curvature Bounds</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Ruobing Zhang (University of C...</p>
                     </dd>]]></content>
     </entry>
     <entry>
