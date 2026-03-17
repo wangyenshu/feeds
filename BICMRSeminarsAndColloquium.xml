@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-16T18:14:51.797Z</updated>
+    <updated>2026-03-17T06:40:08.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Formal Math Frontiers: From Implementation to AI Assistance]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=129</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=129"/>
-        <updated>2025-12-22T17:43:35.633Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jan 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=129" title="Formal Math Frontiers: From Implementation to AI Assistance" target="_blank">Formal Math Frontiers: From Implementation to AI Assistance</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 3rd NYU Shanghai - Peking - Westlake Probability Conference]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=130</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130"/>
@@ -137,6 +120,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://lib.bicmr.pku.edu.cn/meeting-524530" title="Workshop on Geometric Analysis 2026" target="_blank">Workshop on Geometric Analysis 2026</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
+        <updated>2026-03-17T06:39:50.091Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Aug 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
