@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-17T18:12:41.668Z</updated>
+    <updated>2026-03-18T06:40:58.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Mar 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
                         <p class="black">
                             <a href="/content/show/83-3851.html" title="UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES" target="_blank">UNIVERSALITY OF FREELY INDEPENDENT RANDOM VARIABLES</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Mar 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3853.html" title="Sum product phenomenon via dimension" target="_blank">Sum product phenomenon via dimension</a>
                         </p>
