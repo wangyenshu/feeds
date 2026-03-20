@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-19T18:09:15.628Z</updated>
+    <updated>2026-03-20T06:13:36.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Moduli of Twisted Vector Bundles and the Period index Problem]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3860.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3860.html"/>
-        <updated>2026-03-19T06:35:30.793Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
-                        <p class="black">
-                            <a href="/content/show/35-3860.html" title=" Moduli of Twisted Vector Bundles and the Period index Problem" target="_blank"> Moduli of Twisted Vector Bundles and the Period index Problem</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Ting Gong (University of Washi...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3848.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/46-3854.html" title="Long-Time Dynamics for Some Energy-Critical Heat Flows" target="_blank">Long-Time Dynamics for Some Energy-Critical Heat Flows</a>
                         </p>
                         <p class="speaker">Speaker(s): Yifu Zhou (Wuhan University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3861.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3861.html"/>
+        <updated>2026-03-20T06:13:13.441Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 21</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3861.html" title="Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization" target="_blank">Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jong-Shi Pang (University of S...</p>
                     </dd>]]></content>
     </entry>
     <entry>
