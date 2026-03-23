@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-23T06:47:55.155Z</updated>
+    <updated>2026-03-23T18:10:11.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -66,7 +66,7 @@
                         <p>Mar 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3862.html" title="Weil Fourfolds with Discriminant 1 and Singular OG6-varieties" target="_blank">Weil Fourfolds with Discriminant 1 and Singular OG6-varieties</a>
                         </p>
@@ -74,20 +74,20 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3850.html"/>
-        <updated>2026-03-19T18:08:57.013Z</updated>
+        <title type="html"><![CDATA[New developments on algebraically bounded theories with generic derivations]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3865.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3865.html"/>
+        <updated>2026-03-23T18:09:50.584Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Mar 30</p>
+                        <p>Mar 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/46-3850.html" title="Progress on Kerr Stability Conjecture for Large Angular Momentum" target="_blank">Progress on Kerr Stability Conjecture for Large Angular Momentum</a>
+                            <a href="/content/show/93-3865.html" title="New developments on algebraically bounded theories with generic derivations" target="_blank">New developments on algebraically bounded theories with generic derivations</a>
                         </p>
-                        <p class="speaker">Speaker(s): Siyuan Ma (Chinese Academy of ...</p>
+                        <p class="speaker">Speaker(s): Elliot Kaplan (University of M...</p>
                     </dd>]]></content>
     </entry>
     <entry>
