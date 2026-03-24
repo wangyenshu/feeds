@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-24T06:39:51.647Z</updated>
+    <updated>2026-03-24T18:14:03.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Bootstrapping a new derived equivalence with topological string theory]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3864.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3864.html"/>
-        <updated>2026-03-20T18:00:51.067Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3864.html" title="Bootstrapping a new derived equivalence with topological string theory" target="_blank">Bootstrapping a new derived equivalence with topological string theory</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Joseph McGovern (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3848.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3848.html"/>
-        <updated>2026-03-18T18:31:51.313Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3848.html" title="Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation" target="_blank">Vanishing rank gradient via fixed price and the Ideal Poisson Voronoi Tessellation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Sam Mellick (Jagiellonian Univ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Archimedean Perspectives on Affine Calabi-Yau Metrics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3863.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/93-3865.html" title="New developments on algebraically bounded theories with generic derivations" target="_blank">New developments on algebraically bounded theories with generic derivations</a>
                         </p>
                         <p class="speaker">Speaker(s): Elliot Kaplan (University of M...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3850.html"/>
+        <updated>2026-03-24T18:13:43.242Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 30</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3850.html" title="Progress on Kerr Stability Conjecture for Large Angular Momentum" target="_blank">Progress on Kerr Stability Conjecture for Large Angular Momentum</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Siyuan Ma (Chinese Academy of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symplectic Singularities and the Cotangent Bundle]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3859.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3859.html"/>
+        <updated>2026-03-24T18:13:43.244Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 07</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3859.html" title="Symplectic Singularities and the Cotangent Bundle" target="_blank">Symplectic Singularities and the Cotangent Bundle</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Baohua Fu (Chinese Academy of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
