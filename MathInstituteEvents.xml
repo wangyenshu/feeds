@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-26T06:45:50.834Z</updated>
+    <updated>2026-03-26T18:35:31.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture]]></title>
         <id>https://mathinstitutes.org/events/1347/view/</id>
         <link href="https://mathinstitutes.org/events/1347/view/"/>
-        <updated>2026-03-26T06:45:10.449Z</updated>
+        <updated>2026-03-26T06:45:10.447Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Hot Topics: Geometric Langlands Conjecture]]></title>
         <id>https://mathinstitutes.org/events/1347/view/</id>
         <link href="https://mathinstitutes.org/events/1347/view/"/>
-        <updated>2026-03-26T06:45:10.450Z</updated>
+        <updated>2026-03-26T06:45:10.447Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1347/view/" target="_blank" rel="noopener">Hot Topics: Geometric Langlands Conjecture</a></h5>
 			<div class="event-info">SLMath - April 6, 2026 to April 10, 2026</div>]]></content>
