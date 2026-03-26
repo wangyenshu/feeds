@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-25T18:15:11.540Z</updated>
+    <updated>2026-03-26T06:45:50.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -40,6 +40,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Twisted Torus Links That Are Unlinks]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3870.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3870.html"/>
+        <updated>2026-03-26T06:45:32.867Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Mar 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3870.html" title="Twisted Torus Links That Are Unlinks" target="_blank">Twisted Torus Links That Are Unlinks</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Hong Chang (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/46-3850.html"/>
@@ -71,23 +88,6 @@
                             <a href="/content/show/46-3868.html" title="Flexibility, Regularity and Rigidity of Uniformly Rotating Vortex Patch &nbsp;" target="_blank">Flexibility, Regularity and Rigidity of Uniformly Rotating Vortex Patch &nbsp;</a>
                         </p>
                         <p class="speaker">Speaker(s): Yuchen Wang (Tianjin Normal Un...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poincaré-Einstein 4-Manifolds with Conformally Kähler Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3867.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3867.html"/>
-        <updated>2026-03-25T18:14:50.558Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 01</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/43-3867.html" title="Poincaré-Einstein 4-Manifolds with Conformally Kähler Geometry" target="_blank">Poincaré-Einstein 4-Manifolds with Conformally Kähler Geometry</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Hongyi Liu (Princeton Universi...</p>
                     </dd>]]></content>
     </entry>
     <entry>

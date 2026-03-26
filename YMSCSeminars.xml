@@ -2,9 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-03-25T18:15:11.531Z</updated>
+    <updated>2026-03-26T06:45:50.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
+        <updated>2026-03-26T06:45:41.361Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 02</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3730.htm" class="right text">
+        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
+        <div class="t-2">Upcoming talks： Time: Thur., 16:00-17:00, April. 2, 2026Venue: C548, Shuangqing Complex Building ASpeaker：Rostyslav Kozhan（Uppsala University）Title: Random matrices via orthogonal polynomials and sparse matricesAbstract: I will provide an introduction to the basics of orthogonal polynomials on the real line and on the unit circle, and discuss their applications to the simplest random matric...</div>
+        <div class="t-3">Speaker：Rostyslav Kozhan（Uppsala University）</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
+        <updated>2026-03-26T06:45:41.366Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 02</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2401.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
+        <div class="t-2">The Weil conjectures and applications I (12-1 pm, BIMSA A4-1)</div>
+        <div class="t-3">Speaker：Koji Shimizu</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统计讨论班 Statistics seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3731.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3731.htm"/>
+        <updated>2026-03-26T06:45:41.368Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 02</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3731.htm" class="right text">
+        <div class="t-1">统计讨论班 Statistics seminar</div>
+        <div class="t-2">Upcoming talk：组织者 Organizer: 董金硕Time: Thur., 10:00-11:00, April. 2, 2026Venue: C548, Shuangqing Complex Building ASpeaker: Feng Ruan 阮丰, Assistant Professor, Northwestern UniversityTitle: A Theory of Feature Learning in Kernel ModelsAbstract: We study feature learning in a compositional variant of kernel ridge regression in which the predictor is applied to a learnable linear transform...</div>
+        <div class="t-3">Speaker：Feng Ruan 阮丰, Assistant Professor, Northwestern University</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caltech-Tsinghua Joint Colloquium]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2766.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2766.htm"/>
+        <updated>2026-03-26T06:45:41.369Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 01</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2766.htm" class="right text">
+        <div class="t-1">Caltech-Tsinghua Joint Colloquium</div>
+        <div class="t-2">Upcoming talk:Date: Wednesday, April 1, 8-9 AMZoom Link: https://caltech.zoom.us/j/5181912363?omn=87417799891Speaker: Liyang Yang (Caltech)Title:  Spectral Reciprocity, Subconvexity, and Arithmetic ApplicationsAbstract:  Spectral reciprocity reveals hidden connections between different automorphic spectra and has emerged as a powerful tool in the study of automorphic $L$-functions. In this talk...</div>
+        <div class="t-3">Speaker：Liyang Yang (Caltech)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
@@ -18,70 +82,6 @@
         <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
         <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
         <div class="t-3">Speaker：Jiawei Yu (PKU)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
-        <updated>2026-03-16T06:53:11.927Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 27</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3262.htm" class="right text">
-        <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：3 月 27 日 16:00~17:00地点：双清综合楼C654报告人：李高荣 教授，北京师范大学统计学院 报告题目：From Penalization to Over-parameterization: Achieving Implicit Regularization for High-dimensional Linear Errors-in-Variables Models摘要：Regularization methods are crucial for the analysis of high-dimensional data, with most methods adding a penalty term to the los...</div>
-        <div class="t-3">Speaker：李高荣，林志翔，马维，杨玥含，戴奔</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2026-03-20T18:01:01.530Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 27</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Javier Fernández de Bobadilla (Basque Center for Applied Mathematics)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
-        <updated>2026-03-25T06:40:07.389Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 27</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3694.htm" class="right text">
-        <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks  Place: B627, Shuangqing Complex Building（双清综合楼B627教室), Yau Mathematical Sciences Center,  Tsinghua University 2026/03/27 2pm-3pm, Jianrong Li (University of Vienna)Tropical symmetries of cluster algebrasIn this talk, I will present joint work with James Drummond and Ömer Gürdoğan on tropicalizations of quasi-automorphisms of cluster algebras. We study tropicalizations o...</div>
-        <div class="t-3">Speaker：Jianrong Li (University of Vienna)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2026-03-12T18:09:33.959Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 26</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Defect Approach to Giant Graviton DynamicsSpeaker: Xinan Zhou (Kavli Institute for Theoretical Sciences (UCAS))Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Mar 26 (Thursday)Abstract:In this talk, I will introduce a framework utilizing zero-dimensional defects to analyze light-light-heavy-heavy (LLHH) correlators in conformal field theories. I will apply this for...</div>
-        <div class="t-3">Speaker：Xinan Zhou (Kavli Institute for Theoretical Sciences (UCAS))</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
