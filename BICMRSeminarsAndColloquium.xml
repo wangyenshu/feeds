@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-27T06:46:41.666Z</updated>
+    <updated>2026-03-27T18:11:54.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Twisted Torus Links That Are Unlinks]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3870.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3870.html"/>
-        <updated>2026-03-26T06:45:32.867Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Mar 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3870.html" title="Twisted Torus Links That Are Unlinks" target="_blank">Twisted Torus Links That Are Unlinks</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Hong Chang (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Progress on Kerr Stability Conjecture for Large Angular Momentum]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3850.html</id>
@@ -32,7 +15,7 @@
                         <p>Mar 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3850.html" title="Progress on Kerr Stability Conjecture for Large Angular Momentum" target="_blank">Progress on Kerr Stability Conjecture for Large Angular Momentum</a>
                         </p>
@@ -49,7 +32,7 @@
                         <p>Mar 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3868.html" title="Flexibility, Regularity and Rigidity of Uniformly Rotating Vortex Patch &nbsp;" target="_blank">Flexibility, Regularity and Rigidity of Uniformly Rotating Vortex Patch &nbsp;</a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/18-3869.html" title="On the energy of the dilute Bose gas" target="_blank">On the energy of the dilute Bose gas</a>
                         </p>
                         <p class="speaker">Speaker(s): Soren Fournais (University of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolution of Singular Foliations via Principalization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3866.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3866.html"/>
+        <updated>2026-03-27T18:11:34.030Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 02</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3866.html" title="Resolution of Singular Foliations via Principalization" target="_blank">Resolution of Singular Foliations via Principalization</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Andre Belotto da Silva (Unive...</p>
                     </dd>]]></content>
     </entry>
     <entry>

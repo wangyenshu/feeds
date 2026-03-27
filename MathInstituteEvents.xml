@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-03-27T06:46:41.674Z</updated>
+    <updated>2026-03-27T18:11:54.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -209,7 +209,7 @@
         <title type="html"><![CDATA[A test event]]></title>
         <id>https://mathinstitutes.org/events/1471/view/</id>
         <link href="https://mathinstitutes.org/events/1471/view/"/>
-        <updated>2026-03-27T06:45:58.740Z</updated>
+        <updated>2026-03-27T06:45:58.738Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -222,7 +222,7 @@
         <title type="html"><![CDATA[A test event]]></title>
         <id>https://mathinstitutes.org/events/1471/view/</id>
         <link href="https://mathinstitutes.org/events/1471/view/"/>
-        <updated>2026-03-27T06:45:58.740Z</updated>
+        <updated>2026-03-27T06:45:58.738Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1471/view/" target="_blank" rel="noopener">A test event</a></h5>
 			<div class="event-info">IPAM - March 25, 2026 to March 30, 2026</div>]]></content>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Coding for Fault-Tolerant Quantum Computing]]></title>
         <id>https://mathinstitutes.org/events/1402/view/</id>
         <link href="https://mathinstitutes.org/events/1402/view/"/>
-        <updated>2026-03-27T06:45:58.753Z</updated>
+        <updated>2026-03-27T06:45:58.752Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Coding for Fault-Tolerant Quantum Computing]]></title>
         <id>https://mathinstitutes.org/events/1402/view/</id>
         <link href="https://mathinstitutes.org/events/1402/view/"/>
-        <updated>2026-03-27T06:45:58.755Z</updated>
+        <updated>2026-03-27T06:45:58.752Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1402/view/" target="_blank" rel="noopener">Coding for Fault-Tolerant Quantum Computing</a></h5>
 			<div class="event-info">ICERM - April 11, 2026 to April 12, 2026</div>]]></content>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Combinatorial coding theory]]></title>
         <id>https://mathinstitutes.org/events/1325/view/</id>
         <link href="https://mathinstitutes.org/events/1325/view/"/>
-        <updated>2026-03-27T06:45:58.759Z</updated>
+        <updated>2026-03-27T06:45:58.758Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Combinatorial coding theory]]></title>
         <id>https://mathinstitutes.org/events/1325/view/</id>
         <link href="https://mathinstitutes.org/events/1325/view/"/>
-        <updated>2026-03-27T06:45:58.761Z</updated>
+        <updated>2026-03-27T06:45:58.758Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1325/view/" target="_blank" rel="noopener">Combinatorial coding theory</a></h5>
 			<div class="event-info">AIM - April 13, 2026 to April 17, 2026</div>]]></content>
