@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-03-26T18:35:31.603Z</updated>
+    <updated>2026-03-27T06:46:41.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-03-27T06:46:31.907Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 03</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Yao Yuan (Capital Normal University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
@@ -34,22 +50,6 @@
         <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
         <div class="t-2">The Weil conjectures and applications I (12-1 pm, BIMSA A4-1)</div>
         <div class="t-3">Speaker：Koji Shimizu</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计讨论班 Statistics seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3731.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3731.htm"/>
-        <updated>2026-03-26T06:45:41.368Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 02</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3731.htm" class="right text">
-        <div class="t-1">统计讨论班 Statistics seminar</div>
-        <div class="t-2">Upcoming talk：组织者 Organizer: 董金硕Time: Thur., 10:00-11:00, April. 2, 2026Venue: C548, Shuangqing Complex Building ASpeaker: Feng Ruan 阮丰, Assistant Professor, Northwestern UniversityTitle: A Theory of Feature Learning in Kernel ModelsAbstract: We study feature learning in a compositional variant of kernel ridge regression in which the predictor is applied to a learnable linear transform...</div>
-        <div class="t-3">Speaker：Feng Ruan 阮丰, Assistant Professor, Northwestern University</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
