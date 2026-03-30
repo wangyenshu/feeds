@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-29T17:58:02.019Z</updated>
+    <updated>2026-03-30T07:07:51.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Mar 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3871.html" title="An Introduction to Orthogonal Polynomials on the Unit Circle" target="_blank">An Introduction to Orthogonal Polynomials on the Unit Circle</a>
                         </p>
