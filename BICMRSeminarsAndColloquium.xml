@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-03-31T06:54:17.353Z</updated>
+    <updated>2026-03-31T18:13:26.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -74,20 +74,20 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Symplectic Singularities and the Cotangent Bundle]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3859.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3859.html"/>
-        <updated>2026-03-30T18:22:55.372Z</updated>
+        <title type="html"><![CDATA[Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3873.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3873.html"/>
+        <updated>2026-03-31T18:13:07.462Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
                         <p>Apr 07</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/18-3859.html" title="Symplectic Singularities and the Cotangent Bundle" target="_blank">Symplectic Singularities and the Cotangent Bundle</a>
+                            <a href="/content/show/82-3873.html" title="Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B" target="_blank">Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B</a>
                         </p>
-                        <p class="speaker">Speaker(s): Baohua Fu (Chinese Academy of ...</p>
+                        <p class="speaker">Speaker(s): Gaston Burrull (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
