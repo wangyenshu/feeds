@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-02T06:49:19.927Z</updated>
+    <updated>2026-04-02T18:08:57.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[混合整数规划的局部搜索算法]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/45-3876.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/45-3876.html"/>
-        <updated>2026-04-01T18:10:06.025Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 02</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> </p>
-                        <p class="black">
-                            <a href="/content/show/45-3876.html" title="混合整数规划的局部搜索算法" target="_blank">混合整数规划的局部搜索算法</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shaowei Cai (Institute of Soft...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolution of Singular Foliations via Principalization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3866.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3866.html"/>
-        <updated>2026-03-30T18:22:55.370Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 02</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3866.html" title="Resolution of Singular Foliations via Principalization" target="_blank">Resolution of Singular Foliations via Principalization</a>
-                        </p>
-                        <p class="speaker">Speaker(s):  Andre Belotto da Silva (Unive...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raising to powers on the unit circle]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3872.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3872.html"/>
-        <updated>2026-03-30T18:22:55.372Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 02</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/93-3872.html" title="Raising to powers on the unit circle" target="_blank">Raising to powers on the unit circle</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yilong Zhang (University of Bo...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Sampling Gibbs Distribution for Ising Model using Machine Learning]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3874.html</id>
@@ -88,6 +37,57 @@
                             <a href="/content/show/82-3873.html" title="Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B" target="_blank">Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B</a>
                         </p>
                         <p class="speaker">Speaker(s): Gaston Burrull (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symplectic Singularities and the Cotangent Bundle]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3859.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3859.html"/>
+        <updated>2026-04-02T18:08:37.375Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 07</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3859.html" title="Symplectic Singularities and the Cotangent Bundle" target="_blank">Symplectic Singularities and the Cotangent Bundle</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Baohua Fu (Chinese Academy of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enumerative Problems for Minimal Surfaces with Prescribed Genus]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3879.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3879.html"/>
+        <updated>2026-04-02T18:08:37.376Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 08</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3879.html" title="Enumerative&nbsp;Problems&nbsp;for Minimal Surfaces with Prescribed Genus" target="_blank">Enumerative&nbsp;Problems&nbsp;for Minimal Surfaces with Prescribed Genus</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Adrian Chun-Pong Chu (Cornell ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorentzian geometry and Einstein equations]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3875.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3875.html"/>
+        <updated>2026-04-02T18:08:37.377Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 08</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3875.html" title="Lorentzian geometry and Einstein equations " target="_blank">Lorentzian geometry and Einstein equations </a>
+                        </p>
+                        <p class="speaker">Speaker(s): Bing-Long Chen (Sun Yat-sen Un...</p>
                     </dd>]]></content>
     </entry>
     <entry>
