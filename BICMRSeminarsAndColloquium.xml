@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-01T18:10:27.776Z</updated>
+    <updated>2026-04-02T06:49:19.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Apr 02</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> </p>
                         <p class="black">
                             <a href="/content/show/45-3876.html" title="混合整数规划的局部搜索算法" target="_blank">混合整数规划的局部搜索算法</a>
                         </p>

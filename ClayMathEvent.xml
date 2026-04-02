@@ -2,33 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2026-04-01T18:10:27.778Z</updated>
+    <updated>2026-04-02T06:49:19.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[British Mathematical Colloquium]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.955Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="1904" height="741" src="https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni.jpg" class="attachment-4217 size-4217 wp-post-image" alt="Cardiff University" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni.jpg 1904w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-300x117.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-1024x399.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-768x299.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/10/cardiff-uni-1536x598.jpg 1536w" sizes="(max-width: 1904px) 100vw, 1904px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      30 March - 2 April 2026    </span>
-    <h3>British Mathematical Colloquium</h3>
-   <p> Cardiff University</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Illustration as a Mathematical Research Technique]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.956Z</updated>
+        <updated>2026-04-02T06:48:31.753Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -47,11 +28,11 @@
         <title type="html"><![CDATA[Millennium Prize Problems Lecture Series]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.956Z</updated>
+        <updated>2026-04-02T06:48:31.753Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="1656" height="2560" src="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg" class="attachment-4067 size-4067 wp-post-image" alt="MPP Harvard poster" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg 1656w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-194x300.jpg 194w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-663x1024.jpg 663w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-768x1187.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-994x1536.jpg 994w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-1325x2048.jpg 1325w" sizes="(max-width: 1656px) 100vw, 1656px">  </div>
+  <img width="1656" height="2560" src="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg" class="attachment-4067 size-4067 wp-post-image" alt="MPP Harvard poster" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-scaled.jpg 1656w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-194x300.jpg 194w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-663x1024.jpg 663w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-768x1187.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-994x1536.jpg 994w, https://www.claymath.org/wp-content/uploads/2025/04/MillenniumPrizeEvent-poster-1325x2048.jpg 1325w" sizes="(max-width: 1656px) 100vw, 1656px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -66,7 +47,7 @@
         <title type="html"><![CDATA[Farey’s Legacy in Frieze Patterns and Discrete Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.956Z</updated>
+        <updated>2026-04-02T06:48:31.753Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -85,7 +66,7 @@
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.956Z</updated>
+        <updated>2026-04-02T06:48:31.756Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -104,7 +85,7 @@
         <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.957Z</updated>
+        <updated>2026-04-02T06:48:31.758Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -123,7 +104,7 @@
         <title type="html"><![CDATA[New Directions in Nonlinear PDEs]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.959Z</updated>
+        <updated>2026-04-02T06:48:31.760Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -142,7 +123,7 @@
         <title type="html"><![CDATA[International Conference on Complex and Differential Geometry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.960Z</updated>
+        <updated>2026-04-02T06:48:31.760Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -161,7 +142,7 @@
         <title type="html"><![CDATA[CMI-HIMR Summer School on Random Geometries and Random Matrices]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.963Z</updated>
+        <updated>2026-04-02T06:48:31.763Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -182,7 +163,7 @@
         <title type="html"><![CDATA[Young Geometric Group Theory XIV]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.966Z</updated>
+        <updated>2026-04-02T06:48:31.764Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -201,7 +182,7 @@
         <title type="html"><![CDATA[Geometry, Dynamics, and Computer-Assisted Proofs]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.969Z</updated>
+        <updated>2026-04-02T06:48:31.764Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -220,7 +201,7 @@
         <title type="html"><![CDATA[p-adic Kudla Program and p-adic Automorphic Forms]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.970Z</updated>
+        <updated>2026-04-02T06:48:31.765Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -239,7 +220,7 @@
         <title type="html"><![CDATA[Geometric Spectral Theory and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.971Z</updated>
+        <updated>2026-04-02T06:48:31.767Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -258,7 +239,7 @@
         <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.973Z</updated>
+        <updated>2026-04-02T06:48:31.768Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -277,7 +258,7 @@
         <title type="html"><![CDATA[Fundamental Geometries]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.977Z</updated>
+        <updated>2026-04-02T06:48:31.770Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -296,7 +277,7 @@
         <title type="html"><![CDATA[String Math 2026]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-04-01T18:09:36.978Z</updated>
+        <updated>2026-04-02T06:48:31.771Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -307,6 +288,25 @@
       22 - 26  June 2026    </span>
     <h3>String Math 2026</h3>
    <p> University of Edinburgh</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young Topologists Meeting]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-04-02T06:48:31.772Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1151" height="845" src="https://www.claymath.org/wp-content/uploads/2026/02/YTM_Logo.png" class="attachment-4405 size-4405 wp-post-image" alt="Young Topologists Copenhagen" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2026/02/YTM_Logo.png 1151w, https://www.claymath.org/wp-content/uploads/2026/02/YTM_Logo-300x220.png 300w, https://www.claymath.org/wp-content/uploads/2026/02/YTM_Logo-1024x752.png 1024w, https://www.claymath.org/wp-content/uploads/2026/02/YTM_Logo-768x564.png 768w" sizes="(max-width: 1151px) 100vw, 1151px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      29 June - 3 July 2026    </span>
+    <h3>Young Topologists Meeting</h3>
+   <p> University of Copenhagen</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>
