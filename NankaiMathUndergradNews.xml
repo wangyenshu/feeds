@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://math.nankai.edu.cn/</id>
     <title>南开大学数学学院本科生教育消息</title>
-    <updated>2026-04-02T18:08:57.353Z</updated>
+    <updated>2026-04-03T06:46:32.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://math.nankai.edu.cn/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[数学科学学院调课通知（26.4.3)]]></title>
+        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
+        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
+        <updated>2025-09-16T05:39:50.451Z</updated>
+        <content type="html"><![CDATA[<div class="news_box clearfix">
+										<div class="news_meta">
+											<div class="news_days">03</div>
+											<div class="news_year">2026-04</div>
+										</div>
+										<div class="news_wz">
+											<div class="news_con">
+												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="教务通知" alt="教务通知">教务通知</a>】<a href="/2026/0403/c34387a592150/page.htm" target="_blank" title="数学科学学院调课通知（26.4.3)">数学科学学院调课通知（26.4.3)</a></div>
+											</div>
+										</div>
+									</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学科学学院2026年接收转专业细则和接收计划公示]]></title>
         <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
@@ -69,23 +86,6 @@
 										<div class="news_wz">
 											<div class="news_con">
 												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生招生" alt="本科生招生">本科生招生</a>】<a href="/2026/0306/c34387a590436/page.htm" target="_blank" title="2024级第二次动态进出考试拔尖计划和强基计划拟录取名单公示">2024级第二次动态进出考试拔尖计划和强基计划拟录取名单公示</a></div>
-											</div>
-										</div>
-									</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024级数学与人工智能实验班二次选拔拟录取名单公示]]></title>
-        <id>http://math.nankai.edu.cn/jwtz/list.htm</id>
-        <link href="http://math.nankai.edu.cn/jwtz/list.htm"/>
-        <updated>2025-09-16T05:39:50.451Z</updated>
-        <content type="html"><![CDATA[<div class="news_box clearfix">
-										<div class="news_meta">
-											<div class="news_days">04</div>
-											<div class="news_year">2026-03</div>
-										</div>
-										<div class="news_wz">
-											<div class="news_con">
-												<div class="news_title">【<a href="http://math.nankai.edu.cn/jwtz/list.htm" target="_blank" title="本科生招生" alt="本科生招生">本科生招生</a>】<a href="/2026/0304/c34387a590338/page.htm" target="_blank" title="2024级数学与人工智能实验班二次选拔拟录取名单公示">2024级数学与人工智能实验班二次选拔拟录取名单公示</a></div>
 											</div>
 										</div>
 									</div>]]></content>
