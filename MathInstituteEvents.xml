@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-03T06:46:32.028Z</updated>
+    <updated>2026-04-03T18:01:13.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Workshop II: Learning Models from Data for Multi-Fidelity Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1410/view/</id>
         <link href="https://mathinstitutes.org/events/1410/view/"/>
-        <updated>2026-04-03T06:45:52.769Z</updated>
+        <updated>2026-04-03T06:45:52.768Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Workshop II: Learning Models from Data for Multi-Fidelity Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1410/view/</id>
         <link href="https://mathinstitutes.org/events/1410/view/"/>
-        <updated>2026-04-03T06:45:52.770Z</updated>
+        <updated>2026-04-03T06:45:52.768Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1410/view/" target="_blank" rel="noopener">Workshop II: Learning Models from Data for Multi-Fidelity Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)</a></h5>
 			<div class="event-info">IPAM - April 13, 2026 to April 17, 2026</div>]]></content>

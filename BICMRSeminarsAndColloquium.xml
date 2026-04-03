@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-03T06:46:32.026Z</updated>
+    <updated>2026-04-03T18:01:13.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Sampling Gibbs Distribution for Ising Model using Machine Learning]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3874.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3874.html"/>
-        <updated>2026-04-01T06:59:27.481Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3874.html" title="Sampling Gibbs Distribution for Ising Model using Machine Learning" target="_blank">Sampling Gibbs Distribution for Ising Model using Machine Learning</a>
-                        </p>
-                        <p class="speaker">Speaker(s): William Vickery (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/82-3873.html</id>
@@ -91,6 +74,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On Rational Multisections of Conic Bundles]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3877.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3877.html"/>
+        <updated>2026-04-03T18:00:55.157Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3877.html" title="On Rational Multisections of Conic Bundles" target="_blank">On Rational Multisections of Conic Bundles</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Lena Ji (University of Illinoi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 3rd NYU Shanghai - Peking - Westlake Probability Conference]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=130</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130"/>
@@ -125,6 +125,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
+        <updated>2026-04-03T18:00:55.161Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
@@ -137,23 +154,6 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1st Italy-China Mathematical Bilateral Meeting]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=132</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=132"/>
-        <updated>2026-03-11T06:09:05.260Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 07</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=132" title="1st Italy-China Mathematical Bilateral Meeting" target="_blank">1st Italy-China Mathematical Bilateral Meeting</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
