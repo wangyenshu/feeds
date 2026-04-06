@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-06T07:09:49.450Z</updated>
+    <updated>2026-04-06T18:12:17.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
                         <p>Apr 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3877.html" title="On Rational Multisections of Conic Bundles" target="_blank">On Rational Multisections of Conic Bundles</a>
                         </p>
@@ -100,7 +100,7 @@
                         <p>Apr 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130" title="The 3rd NYU Shanghai - Peking - Westlake Probability Conference" target="_blank">The 3rd NYU Shanghai - Peking - Westlake Probability Conference</a>
                         </p>
