@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-07T06:54:54.206Z</updated>
+    <updated>2026-04-07T18:15:37.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3873.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3873.html"/>
-        <updated>2026-04-01T18:10:06.031Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 07</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3873.html" title="Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B" target="_blank">Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Gaston Burrull (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symplectic Singularities and the Cotangent Bundle]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3859.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3859.html"/>
-        <updated>2026-04-02T18:08:37.375Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 07</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3859.html" title="Symplectic Singularities and the Cotangent Bundle" target="_blank">Symplectic Singularities and the Cotangent Bundle</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Baohua Fu (Chinese Academy of ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Enumerative Problems for Minimal Surfaces with Prescribed Genus]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3879.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/93-3882.html" title="Schröder-Bernstein property on metric theories." target="_blank">Schröder-Bernstein property on metric theories.</a>
                         </p>
                         <p class="speaker">Speaker(s): Nicolas Cuervo Ovalle (Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Rational Multisections of Conic Bundles]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3877.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3877.html"/>
+        <updated>2026-04-07T18:15:18.598Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3877.html" title="On Rational Multisections of Conic Bundles" target="_blank">On Rational Multisections of Conic Bundles</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Lena Ji (University of Illinoi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-Time Dynamics for Some Energy-Critical Heat Flows]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3854.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3854.html"/>
+        <updated>2026-04-07T18:15:18.600Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3854.html" title="Long-Time Dynamics for Some Energy-Critical Heat Flows" target="_blank">Long-Time Dynamics for Some Energy-Critical Heat Flows</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yifu Zhou (Wuhan University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
