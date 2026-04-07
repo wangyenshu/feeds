@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-06T18:12:17.904Z</updated>
+    <updated>2026-04-07T06:54:54.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Apr 07</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3873.html" title="Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B" target="_blank">Lehmer codes and Poincaré polynomials of Schubert varieties in types A and B</a>
                         </p>
@@ -74,20 +74,20 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Rational Multisections of Conic Bundles]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3877.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3877.html"/>
-        <updated>2026-04-03T18:00:55.157Z</updated>
+        <title type="html"><![CDATA[Schröder-Bernstein property on metric theories.]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3882.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3882.html"/>
+        <updated>2026-04-07T06:54:33.009Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
                         <p>Apr 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/35-3877.html" title="On Rational Multisections of Conic Bundles" target="_blank">On Rational Multisections of Conic Bundles</a>
+                            <a href="/content/show/93-3882.html" title="Schröder-Bernstein property on metric theories." target="_blank">Schröder-Bernstein property on metric theories.</a>
                         </p>
-                        <p class="speaker">Speaker(s): Lena Ji (University of Illinoi...</p>
+                        <p class="speaker">Speaker(s): Nicolas Cuervo Ovalle (Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
