@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-07T18:15:37.228Z</updated>
+    <updated>2026-04-08T18:48:03.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Enumerative Problems for Minimal Surfaces with Prescribed Genus]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3879.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3879.html"/>
-        <updated>2026-04-02T18:08:37.376Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/43-3879.html" title="Enumerative&nbsp;Problems&nbsp;for Minimal Surfaces with Prescribed Genus" target="_blank">Enumerative&nbsp;Problems&nbsp;for Minimal Surfaces with Prescribed Genus</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Adrian Chun-Pong Chu (Cornell ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lorentzian geometry and Einstein equations]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3875.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3875.html"/>
-        <updated>2026-04-02T18:08:37.377Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3875.html" title="Lorentzian geometry and Einstein equations " target="_blank">Lorentzian geometry and Einstein equations </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Bing-Long Chen (Sun Yat-sen Un...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Schröder-Bernstein property on metric theories.]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3882.html</id>
@@ -91,6 +57,40 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3881.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3881.html"/>
+        <updated>2026-04-08T18:47:44.702Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3881.html" title="[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages" target="_blank">[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Carlos Gustavo Moreira (Instit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Distinguished Lecture]A new model for stable homotopy]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3880.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3880.html"/>
+        <updated>2026-04-08T18:47:44.703Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3880.html" title="[Distinguished Lecture]A new model for stable homotopy" target="_blank">[Distinguished Lecture]A new model for stable homotopy</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Mohammed Abouzaid (Stanford Un...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 3rd NYU Shanghai - Peking - Westlake Probability Conference]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=130</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130"/>
@@ -103,6 +103,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130" title="The 3rd NYU Shanghai - Peking - Westlake Probability Conference" target="_blank">The 3rd NYU Shanghai - Peking - Westlake Probability Conference</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beijing–Hangzhou–Zurich Moduli Workshop]]></title>
+        <id>https://y-x-wen.github.io/bhz-moduli-workshop/</id>
+        <link href="https://y-x-wen.github.io/bhz-moduli-workshop/"/>
+        <updated>2026-04-08T18:47:44.706Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="https://y-x-wen.github.io/bhz-moduli-workshop/" title="Beijing–Hangzhou–Zurich Moduli Workshop" target="_blank">Beijing–Hangzhou–Zurich Moduli Workshop</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
@@ -137,23 +154,6 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
-        <updated>2026-03-17T06:39:50.091Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
