@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-04-08T18:48:03.863Z</updated>
+    <updated>2026-04-09T06:56:30.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -38,18 +38,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zhongguancun Number Theory Colloquium]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm"/>
-        <updated>2025-12-04T17:46:55.436Z</updated>
+        <title type="html"><![CDATA[Algebraic Geometry Workshop 2026]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3751.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3751.htm"/>
+        <updated>2026-04-09T06:56:29.302Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 10</span></p>
+         <p class="t-1"><span>Apr 24</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1060/3051.htm" class="right text">
-        <div class="t-1">Zhongguancun Number Theory Colloquium</div>
-        <div class="t-2">Upcoming：  Venue:Wangxuan Lecture Hall, Zhihua Building, Peking University北京大学智华楼王选报告厅Time: 15:10-16:10Speaker: Kang Zuo, Professor, Wuhan UniversityTitle: Higgs Bundles and p-adic Local SystemsAbstract: We first recall the non-abelian Hodge correspondence between periodic Higgs bundles and crystalline local systems. We then explore the potential for extending this correspondence t...</div>
-        <div class="t-3">Organizer：Koji Shimizu (YMSC), Yihang Zhu (YMSC)</div>
+    <a href="info/1060/3751.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Workshop 2026</div>
+        <div class="t-2">Venue: B725, Shuangqing Complex Building ADate: April 24, 2026Zoom Meeting ID: 262 865 5007Passcode: YMSCRegistration For the Algebraic Geometry Workshop 2026https://docs.qq.com/form/page/DRXJGaU9ueGdjTFRXTime: 09:00-10:00Speaker: Long Wang (SIMIS)Title: Approaches to the Kawaguchi-Silverman conjectureAbstract: Kawaguchi and Silverman proposed a conjecture about arithmetic and dynamical degrees...</div>
+        <div class="t-3">Organizer：Jiajia</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

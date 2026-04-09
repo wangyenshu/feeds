@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-04-08T18:48:03.859Z</updated>
+    <updated>2026-04-09T06:56:30.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -50,7 +50,7 @@
         <div class="t-1">Convex Optimization in Quantitative Finance</div>
         <div class="t-2">Abstract:We give several examples of problems in quantitative finance that can be solved using convex optimization.  We show simple versions, and include CVXPY code, to illustrate the ease with which the problems can be specified and solved.  The associated open-source code repository contains all code and data needed to recreate the example results.This talk assumes basic familiarity with conv...</div>
         <div class="t-3">Speaker：Stephen P. Boyd (Stanford University)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>

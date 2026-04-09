@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-08T18:48:03.884Z</updated>
+    <updated>2026-04-09T06:56:30.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Apr 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3882.html" title="Schröder-Bernstein property on metric theories." target="_blank">Schröder-Bernstein property on metric theories.</a>
                         </p>
