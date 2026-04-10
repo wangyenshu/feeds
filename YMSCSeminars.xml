@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-04-09T06:56:30.053Z</updated>
+    <updated>2026-04-10T07:07:54.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-04-10T07:07:36.595Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 17</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Xiaoyu Su (BUPT)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
+        <updated>2026-04-10T07:07:36.595Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 16</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2401.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
+        <div class="t-2">Automorphic L-functions and Quantum integrability I (12-1 pm, BIMSA A4-1)</div>
+        <div class="t-3">Speaker：Sergey Oblezin</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
@@ -22,6 +54,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Learning Machine Learning (LML) Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3736.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3736.htm"/>
+        <updated>2026-04-10T07:07:36.596Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 13</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3736.htm" class="right text">
+        <div class="t-1">Learning Machine Learning (LML) Seminar</div>
+        <div class="t-2">Title: Implementing Reinforcement Learning in Production Planning: A Step-by-Step Methodology for Industrial Use CasesAbstract: As traditional production planning and control (PPC) struggles with increasing volatility and complexity, Reinforcement Learning (RL) offers a path toward more adaptive and robust decision-making. This presentation provides a goal-oriented guide on how to practically i...</div>
+        <div class="t-3">Speaker：Marc Wegmann, Technical University of Munich</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
@@ -34,54 +82,6 @@
         <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
         <div class="t-2">The local Langlands category (II) (2:30-4 pm, MCM 110)</div>
         <div class="t-3">Speaker：Yihang Zhu (YMSC)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm"/>
-        <updated>2026-04-08T18:47:53.571Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 13</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3702.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
-        <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
-        <div class="t-3">Speaker：Zhongyipan Lin (Tongji University)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
-        <updated>2026-04-02T06:49:08.625Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 10</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3262.htm" class="right text">
-        <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：4 月 10 日 16:00~17:00地点：双清综合楼C654报告人：马维 副教授，中国人民大学统计与大数据研究院报告题目：Covariate-adaptive design: An overview and recent advances摘要：Covariate-adaptive designs are a class of experimental design methods that dynamically adjust treatment allocation probabilities to achieve balanced covariates across treatment groups. Because ...</div>
-        <div class="t-3">Speaker：马维，杨玥含，戴奔</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2026-04-02T18:08:46.753Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 09</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Critical Phenomena from the perspective of Fuzzy SphereSpeaker: Wei Zhu (Westlake University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, April 13 (Monday)Abstract:We introduce a scheme to study the phase transition and critical phenomena on the space-time geometry S^2 x R, using the fuzzy sphere regularization. This method is able to identify the emergent conf...</div>
-        <div class="t-3">Speaker：Kaiwen Sun (University of Science and Technology of China); Wei Zhu (Westlake University)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

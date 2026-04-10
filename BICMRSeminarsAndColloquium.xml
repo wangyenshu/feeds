@@ -2,58 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-09T06:56:30.051Z</updated>
+    <updated>2026-04-10T07:07:54.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Schröder-Bernstein property on metric theories.]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3882.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3882.html"/>
-        <updated>2026-04-07T06:54:33.009Z</updated>
+        <title type="html"><![CDATA[Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3888.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3888.html"/>
+        <updated>2026-04-10T07:07:25.695Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 09</p>
+                        <p>Apr 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/93-3882.html" title="Schröder-Bernstein property on metric theories." target="_blank">Schröder-Bernstein property on metric theories.</a>
+                            <a href="/content/show/47-3888.html" title="Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B" target="_blank">Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B</a>
                         </p>
-                        <p class="speaker">Speaker(s): Nicolas Cuervo Ovalle (Univers...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Rational Multisections of Conic Bundles]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3877.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3877.html"/>
-        <updated>2026-04-07T18:15:18.598Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3877.html" title="On Rational Multisections of Conic Bundles" target="_blank">On Rational Multisections of Conic Bundles</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Lena Ji (University of Illinoi...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-Time Dynamics for Some Energy-Critical Heat Flows]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3854.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3854.html"/>
-        <updated>2026-04-07T18:15:18.600Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3854.html" title="Long-Time Dynamics for Some Energy-Critical Heat Flows" target="_blank">Long-Time Dynamics for Some Energy-Critical Heat Flows</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yifu Zhou (Wuhan University)</p>
+                        <p class="speaker">Speaker(s): Gaston Burrull (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -74,6 +40,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Heritability: a counterfactual perspective]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/92-3889.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/92-3889.html"/>
+        <updated>2026-04-10T07:07:25.699Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/92-3889.html" title="Heritability: a counterfactual perspective" target="_blank">Heritability: a counterfactual perspective</a>
+                        </p>
+                        <p class="speaker">Speaker(s):   Hongyuan Cao (Florida State ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Distinguished Lecture]A new model for stable homotopy]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3880.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/18-3880.html"/>
@@ -91,6 +74,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Obstruction Flatness and Bergman Logarithmic Flatness of Circle Bundles]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3885.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3885.html"/>
+        <updated>2026-04-10T07:07:25.701Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 15</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3885.html" title="Obstruction Flatness and Bergman Logarithmic Flatness of Circle Bundles" target="_blank">Obstruction Flatness and Bergman Logarithmic Flatness of Circle Bundles</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Ming Xiao (University of Calif...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 3rd NYU Shanghai - Peking - Westlake Probability Conference]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=130</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130"/>
@@ -100,7 +100,7 @@
                         <p>Apr 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=130" title="The 3rd NYU Shanghai - Peking - Westlake Probability Conference" target="_blank">The 3rd NYU Shanghai - Peking - Westlake Probability Conference</a>
                         </p>
