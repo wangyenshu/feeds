@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-04-10T07:07:54.553Z</updated>
+    <updated>2026-04-10T18:09:11.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
     <a href="info/1060/3751.htm" class="right text">
         <div class="t-1">Algebraic Geometry Workshop 2026</div>
         <div class="t-2">Venue: B725, Shuangqing Complex Building ADate: April 24, 2026Zoom Meeting ID: 262 865 5007Passcode: YMSCRegistration For the Algebraic Geometry Workshop 2026https://docs.qq.com/form/page/DRXJGaU9ueGdjTFRXTime: 09:00-10:00Speaker: Jihao Liu (PKU)Title: Existence of the minimal model program for log canonical generalized pairsAbstract: In this talk, I will discuss joint work with Zhengyu Hu esta...</div>
-        <div class="t-3">Organizer：Jia Jia</div>
+        <div class="t-3">Organizer：Caucher Birkar, Jia Jia</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

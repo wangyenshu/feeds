@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-10T07:07:54.555Z</updated>
+    <updated>2026-04-10T18:09:11.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3888.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3888.html"/>
-        <updated>2026-04-10T07:07:25.695Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3888.html" title="Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B" target="_blank">Lehmer Codes and Poincaré Polynomials of Schubert Varieties in Types A and B</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Gaston Burrull (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3881.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3881.html"/>
-        <updated>2026-04-08T18:47:44.702Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3881.html" title="[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages" target="_blank">[Distinguished Lecture]Complexity of infinite words and growth of extendable hereditary languages</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Carlos Gustavo Moreira (Instit...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Heritability: a counterfactual perspective]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/92-3889.html</id>
@@ -49,7 +15,7 @@
                         <p>Apr 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/92.html" title="Biostatistics" target="_blank">Biostatistics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/92-3889.html" title="Heritability: a counterfactual perspective" target="_blank">Heritability: a counterfactual perspective</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/43-3885.html" title="Obstruction Flatness and Bergman Logarithmic Flatness of Circle Bundles" target="_blank">Obstruction Flatness and Bergman Logarithmic Flatness of Circle Bundles</a>
                         </p>
                         <p class="speaker">Speaker(s): Ming Xiao (University of Calif...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3883.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3883.html"/>
+        <updated>2026-04-10T18:08:53.950Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3883.html" title=" Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian" target="_blank"> Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yao Yuan (Capital Normal Unive...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3861.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3861.html"/>
+        <updated>2026-04-10T18:08:53.951Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 21</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3861.html" title="Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization" target="_blank">Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jong-Shi Pang (University of S...</p>
                     </dd>]]></content>
     </entry>
     <entry>
