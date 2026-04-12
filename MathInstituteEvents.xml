@@ -2,83 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-11T17:58:37.080Z</updated>
+    <updated>2026-04-12T06:54:06.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1320/view/</id>
-        <link href="https://mathinstitutes.org/events/1320/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1320/view/</id>
-        <link href="https://mathinstitutes.org/events/1320/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
-        <id>https://mathinstitutes.org/events/1320/view/</id>
-        <link href="https://mathinstitutes.org/events/1320/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
-        <id>https://mathinstitutes.org/events/1319/view/</id>
-        <link href="https://mathinstitutes.org/events/1319/view/"/>
-        <updated>2026-02-13T06:35:59.525Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
-			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
         <id>https://mathinstitutes.org/events/1128/view/</id>
@@ -117,6 +43,80 @@
 			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1320/view/</id>
+        <link href="https://mathinstitutes.org/events/1320/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1320/view/</id>
+        <link href="https://mathinstitutes.org/events/1320/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1320/view/</id>
+        <link href="https://mathinstitutes.org/events/1320/view/"/>
+        <updated>2026-02-13T06:35:59.524Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1320/view/" target="_blank" rel="noopener">Topological and Geometric Structures in Low Dimensions</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups]]></title>
+        <id>https://mathinstitutes.org/events/1319/view/</id>
+        <link href="https://mathinstitutes.org/events/1319/view/"/>
+        <updated>2026-02-13T06:35:59.525Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1319/view/" target="_blank" rel="noopener">Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups</a></h5>
+			<div class="event-info">SLMath - January 20, 2026 to May 22, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multi-Fidelity Methods for Fusion Energy]]></title>
         <id>https://mathinstitutes.org/events/1406/view/</id>
         <link href="https://mathinstitutes.org/events/1406/view/"/>
@@ -152,43 +152,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1406/view/" target="_blank" rel="noopener">Multi-Fidelity Methods for Fusion Energy</a></h5>
 			<div class="event-info">IPAM - March 9, 2026 to June 12, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding for Fault-Tolerant Quantum Computing]]></title>
-        <id>https://mathinstitutes.org/events/1402/view/</id>
-        <link href="https://mathinstitutes.org/events/1402/view/"/>
-        <updated>2026-03-27T06:45:58.752Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1402/view/" target="_blank" rel="noopener">Coding for Fault-Tolerant Quantum Computing</a></h5>
-			<div class="event-info">ICERM - April 11, 2026 to April 12, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding for Fault-Tolerant Quantum Computing]]></title>
-        <id>https://mathinstitutes.org/events/1402/view/</id>
-        <link href="https://mathinstitutes.org/events/1402/view/"/>
-        <updated>2026-03-27T06:45:58.752Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1402/view/" target="_blank" rel="noopener">Coding for Fault-Tolerant Quantum Computing</a></h5>
-			<div class="event-info">ICERM - April 11, 2026 to April 12, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding for Fault-Tolerant Quantum Computing]]></title>
-        <id>https://mathinstitutes.org/events/1402/view/</id>
-        <link href="https://mathinstitutes.org/events/1402/view/"/>
-        <updated>2026-03-27T06:45:58.752Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1402/view/" target="_blank" rel="noopener">Coding for Fault-Tolerant Quantum Computing</a></h5>
-			<div class="event-info">ICERM - April 11, 2026 to April 12, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Workshop II: Learning Models from Data for Multi-Fidelity Fusion Plasma Physics (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
@@ -374,5 +337,42 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1173/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov representations</a></h5>
 			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations]]></title>
+        <id>https://mathinstitutes.org/events/1375/view/</id>
+        <link href="https://mathinstitutes.org/events/1375/view/"/>
+        <updated>2026-04-12T06:53:29.166Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1375/view/" target="_blank" rel="noopener">Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations</a></h5>
+			<div class="event-info">ICERM - April 27, 2026 to May 1, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations]]></title>
+        <id>https://mathinstitutes.org/events/1375/view/</id>
+        <link href="https://mathinstitutes.org/events/1375/view/"/>
+        <updated>2026-04-12T06:53:29.167Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1375/view/" target="_blank" rel="noopener">Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations</a></h5>
+			<div class="event-info">ICERM - April 27, 2026 to May 1, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations]]></title>
+        <id>https://mathinstitutes.org/events/1375/view/</id>
+        <link href="https://mathinstitutes.org/events/1375/view/"/>
+        <updated>2026-04-12T06:53:29.168Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1375/view/" target="_blank" rel="noopener">Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations</a></h5>
+			<div class="event-info">ICERM - April 27, 2026 to May 1, 2026</div>]]></content>
     </entry>
 </feed>
