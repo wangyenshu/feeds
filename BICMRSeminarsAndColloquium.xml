@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-13T18:46:27.652Z</updated>
+    <updated>2026-04-14T07:08:01.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -40,6 +40,40 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Generic automorphisms of valued fields]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3890.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3890.html"/>
+        <updated>2026-04-14T07:07:39.239Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3890.html" title="Generic automorphisms of valued fields" target="_blank">Generic automorphisms of valued fields</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Rosario Mennuni (Università de...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3891.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3891.html"/>
+        <updated>2026-04-14T07:07:39.241Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3891.html" title="Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry" target="_blank">Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Pau Amaro Seoane (Universitat ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3883.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/35-3883.html"/>
@@ -54,40 +88,6 @@
                             <a href="/content/show/35-3883.html" title=" Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian" target="_blank"> Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian</a>
                         </p>
                         <p class="speaker">Speaker(s): Yao Yuan (Capital Normal Unive...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3861.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3861.html"/>
-        <updated>2026-04-10T18:08:53.951Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 21</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3861.html" title="Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization" target="_blank">Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jong-Shi Pang (University of S...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free curves and fundamental groups of singular varieties]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3887.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3887.html"/>
-        <updated>2026-04-13T18:46:06.717Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 21</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3887.html" title="Free curves and fundamental groups of singular varieties" target="_blank">Free curves and fundamental groups of singular varieties</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Eric Riedl (The University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
