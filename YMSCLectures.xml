@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-04-15T18:41:39.066Z</updated>
+    <updated>2026-04-16T18:43:39.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <div class="t-1">The Critical 2D Stochastic Heat Flow</div>
         <div class="t-2">Abstract:I will review joint work with F. Caravenna and N. Zygouras on the directed polymer model, the stochastic heat equation (SHE), and the KPZ equation in the critical dimension 2, which eventually led to our construction of the Critical 2D Stochastic Heat Flow (SHF). The SHF provides a candidate solution to the 2D SHE, a critical singular SPDE that lies beyond the scope of existing solutio...</div>
         <div class="t-3">Speaker：Rongfeng Sun (NUS)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>

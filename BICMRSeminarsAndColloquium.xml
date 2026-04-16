@@ -2,92 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-15T18:41:39.019Z</updated>
+    <updated>2026-04-16T18:43:39.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Combinatorial Non-Rigidity for Infinitely Renormalizable Unicritical Cubic Polynomials]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3892.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3892.html"/>
-        <updated>2026-04-15T07:08:30.902Z</updated>
+        <title type="html"><![CDATA[Categrification of Canonical Basis and PBW Basis]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3895.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3895.html"/>
+        <updated>2026-04-16T18:43:22.711Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 16</p>
+                        <p>Apr 17</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/82-3892.html" title="Combinatorial Non-Rigidity for Infinitely Renormalizable Unicritical Cubic Polynomials" target="_blank">Combinatorial Non-Rigidity for Infinitely Renormalizable Unicritical Cubic Polynomials</a>
+                            <a href="/content/show/47-3895.html" title="Categrification of Canonical Basis and PBW Basis" target="_blank">Categrification of Canonical Basis and PBW Basis</a>
                         </p>
-                        <p class="speaker">Speaker(s): Hiroyuki Inou (Kyoto Universit...</p>
+                        <p class="speaker">Speaker(s): Yumeng Wu (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generic automorphisms of valued fields]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3890.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3890.html"/>
-        <updated>2026-04-14T07:07:39.239Z</updated>
+        <title type="html"><![CDATA[Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3861.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3861.html"/>
+        <updated>2026-04-16T18:43:22.713Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 16</p>
+                        <p>Apr 21</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/93-3890.html" title="Generic automorphisms of valued fields" target="_blank">Generic automorphisms of valued fields</a>
+                            <a href="/content/show/18-3861.html" title="Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization" target="_blank">Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization</a>
                         </p>
-                        <p class="speaker">Speaker(s): Rosario Mennuni (Università de...</p>
+                        <p class="speaker">Speaker(s): Jong-Shi Pang (University of S...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Any Weak Perron Number Can Be the Stretch Factor of an End Periodic Surface Map]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3893.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3893.html"/>
-        <updated>2026-04-15T07:08:30.908Z</updated>
+        <title type="html"><![CDATA[Free curves and fundamental groups of singular varieties]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3887.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3887.html"/>
+        <updated>2026-04-16T18:43:22.714Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 16</p>
+                        <p>Apr 21</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/82-3893.html" title="Any Weak Perron Number Can Be the Stretch Factor of an End Periodic Surface Map" target="_blank">Any Weak Perron Number Can Be the Stretch Factor of an End Periodic Surface Map</a>
+                            <a href="/content/show/18-3887.html" title="Free curves and fundamental groups of singular varieties" target="_blank">Free curves and fundamental groups of singular varieties</a>
                         </p>
-                        <p class="speaker">Speaker(s): Chenxi Wu (University of Wisco...</p>
+                        <p class="speaker">Speaker(s): Eric Riedl (The University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3891.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3891.html"/>
-        <updated>2026-04-14T07:07:39.241Z</updated>
+        <title type="html"><![CDATA[An Improved Bend-and-Break]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3886.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3886.html"/>
+        <updated>2026-04-16T18:43:22.715Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 16</p>
+                        <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/35-3891.html" title="Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry" target="_blank">Extreme Mass-Ratio Inspirals as Dynamical Probes of Spacetime Geometry</a>
+                            <a href="/content/show/35-3886.html" title="An Improved Bend-and-Break" target="_blank">An Improved Bend-and-Break</a>
                         </p>
-                        <p class="speaker">Speaker(s): Pau Amaro Seoane (Universitat ...</p>
+                        <p class="speaker">Speaker(s): Eric Riedl (Notre Dame)</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3883.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3883.html"/>
-        <updated>2026-04-15T18:41:17.734Z</updated>
+        <title type="html"><![CDATA[An Explicit Uniform Bound for Rational Points on Curves]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3894.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3894.html"/>
+        <updated>2026-04-16T18:43:22.716Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Apr 16</p>
+                        <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/35-3883.html" title=" Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian" target="_blank"> Lefschetz Filtration and Perverse Filtration on the Compactified Jacobian</a>
+                            <a href="/content/show/43-3894.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
                         </p>
-                        <p class="speaker">Speaker(s): Yao Yuan (Capital Normal Unive...</p>
+                        <p class="speaker">Speaker(s): Shengxuan Zhou (Institut de Ma...</p>
                     </dd>]]></content>
     </entry>
     <entry>
