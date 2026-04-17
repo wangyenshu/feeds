@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-17T07:11:33.441Z</updated>
+    <updated>2026-04-17T18:12:24.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Categrification of Canonical Basis and PBW Basis]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3895.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3895.html"/>
-        <updated>2026-04-16T18:43:22.711Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/47-3895.html" title="Categrification of Canonical Basis and PBW Basis" target="_blank">Categrification of Canonical Basis and PBW Basis</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yumeng Wu (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Quasi-difference-convexity: Modernization of Quasi-differentiable Optimization]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3861.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/43-3894.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
                         </p>
                         <p class="speaker">Speaker(s): Shengxuan Zhou (Institut de Ma...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3896.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3896.html"/>
+        <updated>2026-04-17T18:12:04.279Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 22</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3896.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Introduction to Algebraic Cycles" target="_blank">"One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fumiaki Suzuki (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
