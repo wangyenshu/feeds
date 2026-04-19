@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-18T18:02:23.700Z</updated>
+    <updated>2026-04-19T06:58:44.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
         <id>https://mathinstitutes.org/events/1326/view/</id>
         <link href="https://mathinstitutes.org/events/1326/view/"/>
-        <updated>2026-04-18T18:01:41.662Z</updated>
+        <updated>2026-04-18T18:01:41.660Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
         <id>https://mathinstitutes.org/events/1326/view/</id>
         <link href="https://mathinstitutes.org/events/1326/view/"/>
-        <updated>2026-04-18T18:01:41.665Z</updated>
+        <updated>2026-04-18T18:01:41.660Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
 			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>]]></content>
