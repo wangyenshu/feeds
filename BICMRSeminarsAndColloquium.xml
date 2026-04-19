@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-19T06:58:44.122Z</updated>
+    <updated>2026-04-19T18:02:49.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
                         <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3886.html" title="An Improved Bend-and-Break" target="_blank">An Improved Bend-and-Break</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/43-3894.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
                         </p>
@@ -83,7 +83,7 @@
                         <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/35-3896.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Introduction to Algebraic Cycles" target="_blank">"One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles</a>
                         </p>
