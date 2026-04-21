@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-04-21T07:12:31.872Z</updated>
+    <updated>2026-04-21T18:40:01.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -64,8 +64,8 @@
     </div>
     <a href="info/1053/3050.htm" class="right text">
         <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Intermediate vertex algebras and the 3d N=4 minimal SCFTSpeaker: Heeyeon Kim (KAIST)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, April 23 (Thursday)Abstract:In this talk, I will present a three-dimensional field theory construction that realizes the vertex algebras associated with the intermediate Lie algebras as boundary algebras, filling the “missing hole” i...</div>
-        <div class="t-3">Speaker：Heeyeon Kim (KAIST)</div>
+        <div class="t-2">Title: Refined invariants and quantum curves from supersymmetric localizationSpeaker: Nafiz Ishtiaque (SIMIS)Venue: Classroom B725, Shuangqing Complex Building ATime: 13:30-14:30, April 29 (Wednesday)Abstract:Given a pair (Y,L) consisting of a toric Calabi-Yau 3-fold Y and a special Lagrangian submanifold L thereof, one can study various enumerative properties (e.g. Gromov-Witten/Donaldson-Thom...</div>
+        <div class="t-3">Speaker：Heeyeon Kim (KAIST), Nafiz Ishtiaque (SIMIS)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
