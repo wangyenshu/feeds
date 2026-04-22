@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-04-21T18:40:01.259Z</updated>
+    <updated>2026-04-22T07:12:53.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -38,6 +38,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm"/>
+        <updated>2026-04-22T07:12:44.249Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 27</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3702.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
+        <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
+        <div class="t-3">Speaker： Li Cai (Capital Normal University)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
@@ -54,34 +70,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2026-04-16T18:43:30.766Z</updated>
+        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
+        <updated>2026-04-22T07:12:44.252Z</updated>
         <content type="html"><![CDATA[<div class="left time">
          <p class="t-1"><span>Apr 23</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Refined invariants and quantum curves from supersymmetric localizationSpeaker: Nafiz Ishtiaque (SIMIS)Venue: Classroom B725, Shuangqing Complex Building ATime: 13:30-14:30, April 29 (Wednesday)Abstract:Given a pair (Y,L) consisting of a toric Calabi-Yau 3-fold Y and a special Lagrangian submanifold L thereof, one can study various enumerative properties (e.g. Gromov-Witten/Donaldson-Thom...</div>
-        <div class="t-3">Speaker：Heeyeon Kim (KAIST), Nafiz Ishtiaque (SIMIS)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2026-04-10T07:07:36.595Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 23</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">Automorphic L-functions and Quantum integrability II (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：Sergey Oblezin</div>
+    <a href="info/1053/3730.htm" class="right text">
+        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
+        <div class="t-2">Upcoming talks： Time: Thur., 16:00-17:00, April. 23, 2026Venue: C548, Shuangqing Complex Building ASpeaker：Zhenyao Sun 孙振尧 BITTitle: Effect of small noise on the speed of reaction-diffusion equations with non-Lipschitz driftAbstract: We consider the $[0,1]$-valued solution $(u_{t,x}:t\geq 0, x\in \mathbb R)$ to the one dimensional stochastic reaction diffusion equation with Wright-Fisher n...</div>
+        <div class="t-3">Speaker：Zhenyao Sun 孙振尧 BIT</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

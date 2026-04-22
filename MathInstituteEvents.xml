@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-21T18:40:01.195Z</updated>
+    <updated>2026-04-22T07:12:53.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Workshop III: Fusion Device Design and Engineering (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1439/view/</id>
         <link href="https://mathinstitutes.org/events/1439/view/"/>
-        <updated>2026-04-21T18:39:22.437Z</updated>
+        <updated>2026-04-21T18:39:22.435Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Workshop III: Fusion Device Design and Engineering (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)]]></title>
         <id>https://mathinstitutes.org/events/1439/view/</id>
         <link href="https://mathinstitutes.org/events/1439/view/"/>
-        <updated>2026-04-21T18:39:22.438Z</updated>
+        <updated>2026-04-21T18:39:22.435Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1439/view/" target="_blank" rel="noopener">Workshop III: Fusion Device Design and Engineering (Part of the Long Program Multi-Fidelity Methods for Fusion Energy)</a></h5>
 			<div class="event-info">IPAM - May 4, 2026 to May 8, 2026</div>]]></content>
