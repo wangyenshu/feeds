@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-22T07:12:53.621Z</updated>
+    <updated>2026-04-22T18:38:43.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[An Improved Bend-and-Break]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3886.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3886.html"/>
-        <updated>2026-04-16T18:43:22.715Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
-                        <p class="black">
-                            <a href="/content/show/35-3886.html" title="An Improved Bend-and-Break" target="_blank">An Improved Bend-and-Break</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Eric Riedl (Notre Dame)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[An Explicit Uniform Bound for Rational Points on Curves]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3894.html</id>
@@ -32,28 +15,11 @@
                         <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3894.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
                         </p>
                         <p class="speaker">Speaker(s): Shengxuan Zhou (Institut de Ma...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modelling Particle Systems with Many-body Equivariant Networks]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3897.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3897.html"/>
-        <updated>2026-04-20T07:28:18.078Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-3897.html" title="Modelling Particle Systems with Many-body Equivariant Networks" target="_blank">Modelling Particle Systems with Many-body Equivariant Networks</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Christoph Ortner (The Universi...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -66,7 +32,7 @@
                         <p>Apr 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
                         <p class="black">
                             <a href="/content/show/35-3896.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Introduction to Algebraic Cycles" target="_blank">"One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/35-3900.html" title="A Grauert-Riemenschneider Vanishing Theorem for Witt Canonical Sheaves" target="_blank">A Grauert-Riemenschneider Vanishing Theorem for Witt Canonical Sheaves</a>
                         </p>
                         <p class="speaker">Speaker(s): Jefferson Baudin (École Polyte...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bauer-Poulsen dichotomies in logic and ergodic theory]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3899.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3899.html"/>
+        <updated>2026-04-22T18:38:24.533Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3899.html" title="Bauer-Poulsen dichotomies in logic and ergodic theory" target="_blank">Bauer-Poulsen dichotomies in logic and ergodic theory</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Tomas Ibarlucia (IMJ–PRG Unive...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validity of Prandtl's boundary layer from the Boltzmann theory]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3898.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3898.html"/>
+        <updated>2026-04-22T18:38:24.533Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3898.html" title="Validity of Prandtl's boundary layer from the Boltzmann theory" target="_blank">Validity of Prandtl's boundary layer from the Boltzmann theory</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Trinh T. Nguyen (Shanghai Jiao...</p>
                     </dd>]]></content>
     </entry>
     <entry>
