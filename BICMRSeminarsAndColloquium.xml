@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-23T07:15:20.161Z</updated>
+    <updated>2026-04-23T18:42:44.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Apr 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
                         <p class="black">
                             <a href="/content/show/35-3900.html" title="A Grauert-Riemenschneider Vanishing Theorem for Witt Canonical Sheaves" target="_blank">A Grauert-Riemenschneider Vanishing Theorem for Witt Canonical Sheaves</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Apr 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3899.html" title="Bauer-Poulsen dichotomies in logic and ergodic theory" target="_blank">Bauer-Poulsen dichotomies in logic and ergodic theory</a>
                         </p>

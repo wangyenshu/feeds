@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-23T07:15:20.190Z</updated>
+    <updated>2026-04-23T18:42:44.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -152,43 +152,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1406/view/" target="_blank" rel="noopener">Multi-Fidelity Methods for Fusion Energy</a></h5>
 			<div class="event-info">IPAM - March 9, 2026 to June 12, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov Representations]]></title>
-        <id>https://mathinstitutes.org/events/1348/view/</id>
-        <link href="https://mathinstitutes.org/events/1348/view/"/>
-        <updated>2026-04-10T07:07:04.993Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1348/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov Representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov Representations]]></title>
-        <id>https://mathinstitutes.org/events/1348/view/</id>
-        <link href="https://mathinstitutes.org/events/1348/view/"/>
-        <updated>2026-04-10T07:07:04.993Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1348/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov Representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov Representations]]></title>
-        <id>https://mathinstitutes.org/events/1348/view/</id>
-        <link href="https://mathinstitutes.org/events/1348/view/"/>
-        <updated>2026-04-10T07:07:04.993Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1348/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov Representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Homogeneous Dynamics and Anosov representations]]></title>
@@ -374,5 +337,42 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1389/view/" target="_blank" rel="noopener">Asynchronous Methods for Numerical Linear Algebra</a></h5>
 			<div class="event-info">ICERM - May 4, 2026 to May 8, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.059Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.060Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.062Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>]]></content>
     </entry>
 </feed>
