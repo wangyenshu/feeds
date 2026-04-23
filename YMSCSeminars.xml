@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-04-22T18:38:43.018Z</updated>
+    <updated>2026-04-23T07:15:20.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -38,6 +38,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
+        <updated>2026-04-23T07:15:06.990Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Apr 27</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2507.htm" class="right text">
+        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
+        <div class="t-2">Monodromic and equivariant categories (2:30-4 pm, MCM 110)</div>
+        <div class="t-3">Speaker：Yichao Tian (MCM)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm"/>
@@ -64,24 +80,8 @@
     </div>
     <a href="info/1053/3694.htm" class="right text">
         <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks 2026/4/24 2-3 pm, Shuangqing B627, Vasily Krylov (Harvard/CMSA)From geometric realizations of affine Hecke algebras to character formulasI will explain an approach to extract character formulas for irreducible \hat{g}-modules at the positive level from the geometry of some open subvarieties of Steinberg varieties. The approach uses Bezrukavnikov’s “exotic coherent” categorific...</div>
-        <div class="t-3">Speaker：Vasily Krylov (Harvard/CMSA)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
-        <updated>2026-04-22T07:12:44.252Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Apr 23</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3730.htm" class="right text">
-        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
-        <div class="t-2">Upcoming talks： Time: Thur., 16:00-17:00, April. 23, 2026Venue: C548, Shuangqing Complex Building ASpeaker：Zhenyao Sun 孙振尧 BITTitle: Effect of small noise on the speed of reaction-diffusion equations with non-Lipschitz driftAbstract: We consider the $[0,1]$-valued solution $(u_{t,x}:t\geq 0, x\in \mathbb R)$ to the one dimensional stochastic reaction diffusion equation with Wright-Fisher n...</div>
-        <div class="t-3">Speaker：Zhenyao Sun 孙振尧 BIT</div>
+        <div class="t-2">Upcoming talks 2026/04/27 3:30-4:30pm, Shuangqing B627, Marc Besson (YMSC)Tangent spaces of spherical Schubert varieties and counterexamples to the reducedness conjectureI will discuss joint work with J. Hong and H. Yu. We study the tangent spaces of affine Schubert varieties and Finkelberg-Mirkovic Schubert schemes. We demonstrate that these tangent spaces need not agree when G is of type E6,E...</div>
+        <div class="t-3">Speaker：Vasily Krylov (Harvard/CMSA), Marc Besson (YMSC)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

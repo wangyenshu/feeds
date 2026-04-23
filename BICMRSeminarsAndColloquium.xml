@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-22T18:38:43.021Z</updated>
+    <updated>2026-04-23T07:15:20.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[An Explicit Uniform Bound for Rational Points on Curves]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3894.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3894.html"/>
-        <updated>2026-04-16T18:43:22.716Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3894.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shengxuan Zhou (Institut de Ma...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3896.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3896.html"/>
-        <updated>2026-04-21T18:39:41.057Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
-                        <p class="black">
-                            <a href="/content/show/35-3896.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Introduction to Algebraic Cycles" target="_blank">"One-hour Mathematical Lecture Series" —— Introduction to Algebraic Cycles</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Fumiaki Suzuki (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A Grauert-Riemenschneider Vanishing Theorem for Witt Canonical Sheaves]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-3900.html</id>
@@ -74,6 +40,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Skew Murnaghan-Nakayama Rule for Hopf Dual Pairs]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3901.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3901.html"/>
+        <updated>2026-04-23T07:14:56.592Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 24</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3901.html" title="A Skew Murnaghan-Nakayama Rule for Hopf Dual Pairs" target="_blank">A Skew Murnaghan-Nakayama Rule for Hopf Dual Pairs</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Ning Liu (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Validity of Prandtl's boundary layer from the Boltzmann theory]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3898.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/46-3898.html"/>
@@ -88,6 +71,23 @@
                             <a href="/content/show/46-3898.html" title="Validity of Prandtl's boundary layer from the Boltzmann theory" target="_blank">Validity of Prandtl's boundary layer from the Boltzmann theory</a>
                         </p>
                         <p class="speaker">Speaker(s): Trinh T. Nguyen (Shanghai Jiao...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quermassintegral Inequalities and Horo-Convexity]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3902.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3902.html"/>
+        <updated>2026-04-23T07:14:56.595Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Apr 29</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3902.html" title="Quermassintegral Inequalities and Horo-Convexity" target="_blank">Quermassintegral Inequalities and Horo-Convexity</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shujing Pan (Goethe-University...</p>
                     </dd>]]></content>
     </entry>
     <entry>
