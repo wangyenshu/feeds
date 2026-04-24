@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-24T07:18:53.425Z</updated>
+    <updated>2026-04-24T18:07:05.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
         <id>https://mathinstitutes.org/events/1408/view/</id>
         <link href="https://mathinstitutes.org/events/1408/view/"/>
-        <updated>2026-04-24T07:18:11.986Z</updated>
+        <updated>2026-04-24T07:18:11.985Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
 			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>]]></content>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[The Bochner technique]]></title>
         <id>https://mathinstitutes.org/events/1337/view/</id>
         <link href="https://mathinstitutes.org/events/1337/view/"/>
-        <updated>2026-04-24T07:18:11.989Z</updated>
+        <updated>2026-04-24T07:18:11.988Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[The Bochner technique]]></title>
         <id>https://mathinstitutes.org/events/1337/view/</id>
         <link href="https://mathinstitutes.org/events/1337/view/"/>
-        <updated>2026-04-24T07:18:11.990Z</updated>
+        <updated>2026-04-24T07:18:11.988Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1337/view/" target="_blank" rel="noopener">The Bochner technique</a></h5>
 			<div class="event-info">AIM - May 11, 2026 to May 15, 2026</div>]]></content>
