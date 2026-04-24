@@ -2,46 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-04-23T18:42:44.191Z</updated>
+    <updated>2026-04-24T07:18:53.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1128/view/</id>
-        <link href="https://mathinstitutes.org/events/1128/view/"/>
-        <updated>2026-02-13T06:35:59.524Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1128/view/" target="_blank" rel="noopener">Stochastic and Randomized Algorithms in Scientific Computing: Foundations and Applications</a></h5>
-			<div class="event-info">ICERM - January 20, 2026 to April 24, 2026</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Topological and Geometric Structures in Low Dimensions]]></title>
         <id>https://mathinstitutes.org/events/1320/view/</id>
@@ -152,43 +115,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1406/view/" target="_blank" rel="noopener">Multi-Fidelity Methods for Fusion Energy</a></h5>
 			<div class="event-info">IPAM - March 9, 2026 to June 12, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov representations]]></title>
-        <id>https://mathinstitutes.org/events/1173/view/</id>
-        <link href="https://mathinstitutes.org/events/1173/view/"/>
-        <updated>2026-04-10T07:07:04.990Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1173/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov representations]]></title>
-        <id>https://mathinstitutes.org/events/1173/view/</id>
-        <link href="https://mathinstitutes.org/events/1173/view/"/>
-        <updated>2026-04-10T07:07:04.990Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1173/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homogeneous Dynamics and Anosov representations]]></title>
-        <id>https://mathinstitutes.org/events/1173/view/</id>
-        <link href="https://mathinstitutes.org/events/1173/view/"/>
-        <updated>2026-04-10T07:07:04.990Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1173/view/" target="_blank" rel="noopener">Homogeneous Dynamics and Anosov representations</a></h5>
-			<div class="event-info">SLMath - April 20, 2026 to April 24, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nonlinear Waves: From Theoretical and Computational Advances to Experimental Observations]]></title>
@@ -302,6 +228,43 @@
 			<div class="event-info">IPAM - May 4, 2026 to May 8, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.059Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.059Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
+        <id>https://mathinstitutes.org/events/1326/view/</id>
+        <link href="https://mathinstitutes.org/events/1326/view/"/>
+        <updated>2026-04-23T18:42:06.059Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
+			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Asynchronous Methods for Numerical Linear Algebra]]></title>
         <id>https://mathinstitutes.org/events/1389/view/</id>
         <link href="https://mathinstitutes.org/events/1389/view/"/>
@@ -339,40 +302,77 @@
 			<div class="event-info">ICERM - May 4, 2026 to May 8, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
-        <id>https://mathinstitutes.org/events/1326/view/</id>
-        <link href="https://mathinstitutes.org/events/1326/view/"/>
-        <updated>2026-04-23T18:42:06.059Z</updated>
+        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
+        <id>https://mathinstitutes.org/events/1408/view/</id>
+        <link href="https://mathinstitutes.org/events/1408/view/"/>
+        <updated>2026-04-24T07:18:11.985Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
-			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
+			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
-        <id>https://mathinstitutes.org/events/1326/view/</id>
-        <link href="https://mathinstitutes.org/events/1326/view/"/>
-        <updated>2026-04-23T18:42:06.060Z</updated>
+        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
+        <id>https://mathinstitutes.org/events/1408/view/</id>
+        <link href="https://mathinstitutes.org/events/1408/view/"/>
+        <updated>2026-04-24T07:18:11.985Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
-			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
+			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)]]></title>
-        <id>https://mathinstitutes.org/events/1326/view/</id>
-        <link href="https://mathinstitutes.org/events/1326/view/"/>
-        <updated>2026-04-23T18:42:06.062Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
-			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>]]></content>
+        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
+        <id>https://mathinstitutes.org/events/1408/view/</id>
+        <link href="https://mathinstitutes.org/events/1408/view/"/>
+        <updated>2026-04-24T07:18:11.986Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
+			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bochner technique]]></title>
+        <id>https://mathinstitutes.org/events/1337/view/</id>
+        <link href="https://mathinstitutes.org/events/1337/view/"/>
+        <updated>2026-04-24T07:18:11.988Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1337/view/" target="_blank" rel="noopener">The Bochner technique</a></h5>
+			<div class="event-info">AIM - May 11, 2026 to May 15, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bochner technique]]></title>
+        <id>https://mathinstitutes.org/events/1337/view/</id>
+        <link href="https://mathinstitutes.org/events/1337/view/"/>
+        <updated>2026-04-24T07:18:11.989Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1337/view/" target="_blank" rel="noopener">The Bochner technique</a></h5>
+			<div class="event-info">AIM - May 11, 2026 to May 15, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bochner technique]]></title>
+        <id>https://mathinstitutes.org/events/1337/view/</id>
+        <link href="https://mathinstitutes.org/events/1337/view/"/>
+        <updated>2026-04-24T07:18:11.990Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1337/view/" target="_blank" rel="noopener">The Bochner technique</a></h5>
+			<div class="event-info">AIM - May 11, 2026 to May 15, 2026</div>]]></content>
     </entry>
 </feed>
