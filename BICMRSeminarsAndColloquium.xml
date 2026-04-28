@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-27T07:55:04.964Z</updated>
+    <updated>2026-04-28T07:46:03.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Validity of Prandtl's boundary layer from the Boltzmann theory]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3898.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3898.html"/>
-        <updated>2026-04-22T18:38:24.533Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3898.html" title="Validity of Prandtl's boundary layer from the Boltzmann theory" target="_blank">Validity of Prandtl's boundary layer from the Boltzmann theory</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Trinh T. Nguyen (Shanghai Jiao...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Regularity of the Free Boundary in Bernoulli-Type Problems]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3903.html</id>
@@ -32,7 +15,7 @@
                         <p>Apr 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-3903.html" title="Regularity of the Free Boundary in Bernoulli-Type Problems" target="_blank">Regularity of the Free Boundary in Bernoulli-Type Problems</a>
                         </p>
@@ -66,7 +49,7 @@
                         <p>Apr 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/93-3906.html" title="Beautiful pairs: From fields, valued fields to valued difference fields " target="_blank">Beautiful pairs: From fields, valued fields to valued difference fields </a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/52-3904.html" title="Galois, the Analyst " target="_blank">Galois, the Analyst </a>
                         </p>
                         <p class="speaker">Speaker(s): Lizhen Ji (University of Michi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3905.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3905.html"/>
+        <updated>2026-04-28T07:45:42.038Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 20</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3905.html" title="Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit" target="_blank">Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Scott Smith (AMSS, CAS)</p>
                     </dd>]]></content>
     </entry>
     <entry>
