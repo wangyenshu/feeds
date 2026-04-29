@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-29T07:39:33.455Z</updated>
+    <updated>2026-04-29T18:56:19.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
                         <p>Apr 29</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3902.html" title="Quermassintegral Inequalities and Horo-Convexity" target="_blank">Quermassintegral Inequalities and Horo-Convexity</a>
                         </p>
