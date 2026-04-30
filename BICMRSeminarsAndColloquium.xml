@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-30T07:42:58.559Z</updated>
+    <updated>2026-04-30T18:53:16.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Apr 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3906.html" title="Beautiful pairs: From fields, valued fields to valued difference fields " target="_blank">Beautiful pairs: From fields, valued fields to valued difference fields </a>
                         </p>
