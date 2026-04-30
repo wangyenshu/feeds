@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-04-29T18:56:19.797Z</updated>
+    <updated>2026-04-30T07:42:58.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Regularity of the Free Boundary in Bernoulli-Type Problems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3903.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3903.html"/>
-        <updated>2026-04-24T07:18:32.933Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/46-3903.html" title="Regularity of the Free Boundary in Bernoulli-Type Problems" target="_blank">Regularity of the Free Boundary in Bernoulli-Type Problems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Morteza Fotouhi Firoozabad (Un...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quermassintegral Inequalities and Horo-Convexity]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3902.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3902.html"/>
-        <updated>2026-04-23T07:14:56.595Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Apr 29</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3902.html" title="Quermassintegral Inequalities and Horo-Convexity" target="_blank">Quermassintegral Inequalities and Horo-Convexity</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shujing Pan (Goethe-University...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful pairs: From fields, valued fields to valued difference fields]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3906.html</id>
@@ -54,6 +20,40 @@
                             <a href="/content/show/93-3906.html" title="Beautiful pairs: From fields, valued fields to valued difference fields " target="_blank">Beautiful pairs: From fields, valued fields to valued difference fields </a>
                         </p>
                         <p class="speaker">Speaker(s): Jinhe Ye (Nanjing University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livsic's Theorem Revisited]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3908.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3908.html"/>
+        <updated>2026-04-30T07:42:37.558Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3908.html" title="Livsic's Theorem Revisited" target="_blank">Livsic's Theorem Revisited</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Mark Pollicott (University of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Joint) Typical Periodic Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3909.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3909.html"/>
+        <updated>2026-04-30T07:42:37.558Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3909.html" title="(Joint) Typical Periodic Optimization" target="_blank">(Joint) Typical Periodic Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s):  Oliver Jenkinson (Queen Mary ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -125,6 +125,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【报名通知】2026年北京大学研究生应用数学专题讲习班]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
+        <updated>2026-04-30T07:42:37.566Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3907.html" title="【报名通知】2026年北京大学研究生应用数学专题讲习班" target="_blank">【报名通知】2026年北京大学研究生应用数学专题讲习班</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
@@ -137,23 +154,6 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
-        <updated>2026-04-11T17:58:16.329Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
