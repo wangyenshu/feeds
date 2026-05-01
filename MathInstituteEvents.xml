@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-05-01T07:42:20.220Z</updated>
+    <updated>2026-05-01T18:39:14.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Techniques and Tools for the Formalization of Analysis]]></title>
         <id>https://mathinstitutes.org/events/1378/view/</id>
         <link href="https://mathinstitutes.org/events/1378/view/"/>
-        <updated>2026-05-01T07:41:38.506Z</updated>
+        <updated>2026-05-01T07:41:38.501Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Techniques and Tools for the Formalization of Analysis]]></title>
         <id>https://mathinstitutes.org/events/1378/view/</id>
         <link href="https://mathinstitutes.org/events/1378/view/"/>
-        <updated>2026-05-01T07:41:38.506Z</updated>
+        <updated>2026-05-01T07:41:38.501Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1378/view/" target="_blank" rel="noopener">Techniques and Tools for the Formalization of Analysis</a></h5>
 			<div class="event-info">ICERM - May 11, 2026 to May 15, 2026</div>]]></content>
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Foundations of Computational Geometry and Topology]]></title>
         <id>https://mathinstitutes.org/events/1393/view/</id>
         <link href="https://mathinstitutes.org/events/1393/view/"/>
-        <updated>2026-05-01T07:41:38.511Z</updated>
+        <updated>2026-05-01T07:41:38.510Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1393/view/" target="_blank" rel="noopener">Foundations of Computational Geometry and Topology</a></h5>
 			<div class="event-info">ICERM - May 18, 2026 to May 21, 2026</div>]]></content>
