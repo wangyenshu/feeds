@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-03T18:11:46.526Z</updated>
+    <updated>2026-05-04T08:06:46.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -108,10 +108,10 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://bicmr.pku.edu.cn/</id>
-        <link href="https://bicmr.pku.edu.cn/"/>
-        <updated>2026-05-03T18:11:29.746Z</updated>
+        <title type="html"><![CDATA[Workshop on Geometric Analysis 2026]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting-524530</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting-524530"/>
+        <updated>2026-05-04T08:06:25.980Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
                         <p>May 24</p>
@@ -119,6 +119,43 @@
                                         <dd>
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            </p></dd>]]></content>
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting-524530" title="Workshop on Geometric Analysis 2026" target="_blank">Workshop on Geometric Analysis 2026</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【报名通知】2026年北京大学研究生应用数学专题讲习班]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
+        <updated>2026-05-04T08:06:25.981Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3907.html" title="【报名通知】2026年北京大学研究生应用数学专题讲习班" target="_blank">【报名通知】2026年北京大学研究生应用数学专题讲习班</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
+        <updated>2026-05-04T08:06:25.982Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
     </entry>
 </feed>
