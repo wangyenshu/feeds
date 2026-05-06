@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-05-05T18:54:45.235Z</updated>
+    <updated>2026-05-06T07:55:56.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Workshop IV: Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes]]></title>
         <id>https://mathinstitutes.org/events/1412/view/</id>
         <link href="https://mathinstitutes.org/events/1412/view/"/>
-        <updated>2026-05-05T18:54:07.698Z</updated>
+        <updated>2026-05-05T18:54:07.696Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Workshop IV: Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes]]></title>
         <id>https://mathinstitutes.org/events/1412/view/</id>
         <link href="https://mathinstitutes.org/events/1412/view/"/>
-        <updated>2026-05-05T18:54:07.698Z</updated>
+        <updated>2026-05-05T18:54:07.696Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1412/view/" target="_blank" rel="noopener">Workshop IV: Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes</a></h5>
 			<div class="event-info">IPAM - May 18, 2026 to May 22, 2026</div>]]></content>
