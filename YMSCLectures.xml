@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-05-06T07:55:56.462Z</updated>
+    <updated>2026-05-07T08:05:38.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,7 +18,7 @@
         <div class="t-1">On Efficiently Computable Approximate Stationarity Concepts in Bilevel Optimization</div>
         <div class="t-2">Abstract:Bilevel optimization (BO), which concerns optimal decision making in processes that involve an upper-level decision maker (the leader) and a lower-level decision maker (the follower), has attracted much interest lately due to its many applications in machine learning and signal processing. One of the current research directions is the design of efficient iterative methods with complexi...</div>
         <div class="t-3">Speaker：Anthony Man-Cho So (CUHK)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
