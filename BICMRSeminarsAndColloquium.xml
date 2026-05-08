@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-07T19:15:07.988Z</updated>
+    <updated>2026-05-08T07:11:23.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -20,6 +20,23 @@
                             <a href="/content/show/47-3915.html" title="Relatively Acylindrical Graphs of Relatively Hyperbolic Groups" target="_blank">Relatively Acylindrical Graphs of Relatively Hyperbolic Groups</a>
                         </p>
                         <p class="speaker">Speaker(s): Ravi Tomar (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Defects in Mirror Symmetry for Parabolic Hitchin Systems]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3914.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3914.html"/>
+        <updated>2026-05-07T08:05:12.450Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3914.html" title=" Local Defects in Mirror Symmetry for Parabolic Hitchin Systems" target="_blank"> Local Defects in Mirror Symmetry for Parabolic Hitchin Systems</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yaoxiong Wen (Zhejiang Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -54,23 +71,6 @@
                             <a href="/content/show/82-3909.html" title="(Joint) Typical Periodic Optimization" target="_blank">(Joint) Typical Periodic Optimization</a>
                         </p>
                         <p class="speaker">Speaker(s):  Oliver Jenkinson (Queen Mary ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Defects in Mirror Symmetry for Parabolic Hitchin Systems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3914.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3914.html"/>
-        <updated>2026-05-07T08:05:12.450Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/49-3914.html" title=" Local Defects in Mirror Symmetry for Parabolic Hitchin Systems" target="_blank"> Local Defects in Mirror Symmetry for Parabolic Hitchin Systems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yaoxiong Wen (Zhejiang Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
