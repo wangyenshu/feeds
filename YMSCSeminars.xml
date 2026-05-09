@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-08T18:52:20.693Z</updated>
+    <updated>2026-05-09T07:25:52.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -80,7 +80,7 @@
     </div>
     <a href="info/1053/3050.htm" class="right text">
         <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Quantum Phase Transitions in Open Quantum SystemsSpeaker: Shuo Yang (Tsinghua University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, May 14 (Thurssday)Abstract:Characterizing quantum phases and phase transitions in open quantum systems is a key problem in modern physics. Standard methods based on real-time Lindbladian steady states cannot properly describe quan...</div>
+        <div class="t-2">Title: Quantum Phase Transitions in Open Quantum SystemsSpeaker: Shuo Yang (Tsinghua University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, May 14 (Thursday)Abstract:Characterizing quantum phases and phase transitions in open quantum systems is a key problem in modern physics. Standard methods based on real-time Lindbladian steady states cannot properly describe quant...</div>
         <div class="t-3">Speaker：Siyuan Wang, Nianrui Fu, Shuo Yang</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
