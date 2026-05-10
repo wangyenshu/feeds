@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-10T07:39:55.199Z</updated>
+    <updated>2026-05-10T18:15:00.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -66,7 +66,7 @@
                         <p>May 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/83-3917.html" title=" Flow-Dependent SDEs and Particle Systems for Nonlinear Fokker–Planck Equations with Signed Initial Measures" target="_blank"> Flow-Dependent SDEs and Particle Systems for Nonlinear Fokker–Planck Equations with Signed Initial Measures</a>
                         </p>
@@ -83,7 +83,7 @@
                         <p>May 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/43-3913.html" title="A Yamabe Problem for the Quotient between the $Q$ Curvature and the Scalar Curvature" target="_blank">A Yamabe Problem for the Quotient between the $Q$ Curvature and the Scalar Curvature</a>
                         </p>
