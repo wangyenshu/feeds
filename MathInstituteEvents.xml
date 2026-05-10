@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-05-09T18:14:12.396Z</updated>
+    <updated>2026-05-10T07:39:55.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -152,43 +152,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1326/view/" target="_blank" rel="noopener">Séminaire de Mathématiques Supérieures 2026: Universal Statistics in Number Theory (Montréal, Canada)</a></h5>
 			<div class="event-info">SLMath - May 4, 2026 to May 15, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
-        <id>https://mathinstitutes.org/events/1408/view/</id>
-        <link href="https://mathinstitutes.org/events/1408/view/"/>
-        <updated>2026-04-24T07:18:11.985Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
-			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
-        <id>https://mathinstitutes.org/events/1408/view/</id>
-        <link href="https://mathinstitutes.org/events/1408/view/"/>
-        <updated>2026-04-24T07:18:11.985Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
-			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic Scientific Computing and Scientific Machine Learning]]></title>
-        <id>https://mathinstitutes.org/events/1408/view/</id>
-        <link href="https://mathinstitutes.org/events/1408/view/"/>
-        <updated>2026-04-24T07:18:11.985Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1408/view/" target="_blank" rel="noopener">Agentic Scientific Computing and Scientific Machine Learning</a></h5>
-			<div class="event-info">ICERM - May 9, 2026 to May 10, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Bochner technique]]></title>
@@ -374,5 +337,42 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1393/view/" target="_blank" rel="noopener">Foundations of Computational Geometry and Topology</a></h5>
 			<div class="event-info">ICERM - May 18, 2026 to May 21, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
+        <id>https://mathinstitutes.org/events/1395/view/</id>
+        <link href="https://mathinstitutes.org/events/1395/view/"/>
+        <updated>2026-05-10T07:39:23.056Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
+			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
+        <id>https://mathinstitutes.org/events/1395/view/</id>
+        <link href="https://mathinstitutes.org/events/1395/view/"/>
+        <updated>2026-05-10T07:39:23.057Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
+			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
+        <id>https://mathinstitutes.org/events/1395/view/</id>
+        <link href="https://mathinstitutes.org/events/1395/view/"/>
+        <updated>2026-05-10T07:39:23.057Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
+			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>]]></content>
     </entry>
 </feed>
