@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-12T08:09:09.504Z</updated>
+    <updated>2026-05-12T19:18:10.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Local Defects in Mirror Symmetry for Parabolic Hitchin Systems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3914.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3914.html"/>
-        <updated>2026-05-07T08:05:12.450Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3914.html" title=" Local Defects in Mirror Symmetry for Parabolic Hitchin Systems" target="_blank"> Local Defects in Mirror Symmetry for Parabolic Hitchin Systems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yaoxiong Wen (Zhejiang Univers...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livsic's Theorem Revisited]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3908.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3908.html"/>
-        <updated>2026-04-30T07:42:37.558Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3908.html" title="Livsic's Theorem Revisited" target="_blank">Livsic's Theorem Revisited</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Mark Pollicott (University of ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Joint) Typical Periodic Optimization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3909.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3909.html"/>
-        <updated>2026-04-30T07:42:37.558Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3909.html" title="(Joint) Typical Periodic Optimization" target="_blank">(Joint) Typical Periodic Optimization</a>
-                        </p>
-                        <p class="speaker">Speaker(s):  Oliver Jenkinson (Queen Mary ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Flow-Dependent SDEs and Particle Systems for Nonlinear Fokker–Planck Equations with Signed Initial Measures]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/83-3917.html</id>
@@ -88,6 +37,57 @@
                             <a href="/content/show/43-3913.html" title="A Yamabe Problem for the Quotient between the $Q$ Curvature and the Scalar Curvature" target="_blank">A Yamabe Problem for the Quotient between the $Q$ Curvature and the Scalar Curvature</a>
                         </p>
                         <p class="speaker">Speaker(s): Yuxin Ge (University of toulou...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quasi-Isometric Rigidity for Random Subsets in Products of Trees]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3918.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3918.html"/>
+        <updated>2026-05-12T19:17:53.915Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3918.html" title="Quasi-Isometric Rigidity for Random Subsets in Products of Trees" target="_blank">Quasi-Isometric Rigidity for Random Subsets in Products of Trees</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Tianyi Zheng (University of Ca...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combinatorial Structure of Symmetric Classes in Modular Group]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3919.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3919.html"/>
+        <updated>2026-05-12T19:17:53.918Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3919.html" title="Combinatorial Structure of Symmetric Classes in Modular Group" target="_blank">Combinatorial Structure of Symmetric Classes in Modular Group</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Krishnendu Gongopadhyay (India...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galois, the Analyst]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/52-3904.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/52-3904.html"/>
+        <updated>2026-05-12T19:17:53.919Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/52.html" title="Others" target="_blank">Others</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/52-3904.html" title="Galois, the Analyst " target="_blank">Galois, the Analyst </a>
+                        </p>
+                        <p class="speaker">Speaker(s): Lizhen Ji (University of Michi...</p>
                     </dd>]]></content>
     </entry>
     <entry>
