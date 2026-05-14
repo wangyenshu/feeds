@@ -2,92 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-14T08:09:17.896Z</updated>
+    <updated>2026-05-14T19:18:31.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Quasi-Isometric Rigidity for Random Subsets in Products of Trees]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3918.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3918.html"/>
-        <updated>2026-05-12T19:17:53.915Z</updated>
+        <title type="html"><![CDATA[Hodge-to-de Rham Degeneration for Singular Curves]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3925.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3925.html"/>
+        <updated>2026-05-14T19:18:10.846Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 14</p>
+                        <p>May 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/82-3918.html" title="Quasi-Isometric Rigidity for Random Subsets in Products of Trees" target="_blank">Quasi-Isometric Rigidity for Random Subsets in Products of Trees</a>
+                            <a href="/content/show/47-3925.html" title="Hodge-to-de Rham Degeneration for Singular Curves" target="_blank">Hodge-to-de Rham Degeneration for Singular Curves</a>
                         </p>
-                        <p class="speaker">Speaker(s): Tianyi Zheng (University of Ca...</p>
+                        <p class="speaker">Speaker(s): Yunfan He (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Combinatorial Structure of Symmetric Classes in Modular Group]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3919.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3919.html"/>
-        <updated>2026-05-12T19:17:53.918Z</updated>
+        <title type="html"><![CDATA[Eta invariants of Seifert rational homology 3-spheres]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3910.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3910.html"/>
+        <updated>2026-05-14T19:18:10.847Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 14</p>
+                        <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/82-3919.html" title="Combinatorial Structure of Symmetric Classes in Modular Group" target="_blank">Combinatorial Structure of Symmetric Classes in Modular Group</a>
+                            <a href="/content/show/49-3910.html" title="Eta invariants of Seifert rational homology 3-spheres" target="_blank">Eta invariants of Seifert rational homology 3-spheres</a>
                         </p>
-                        <p class="speaker">Speaker(s): Krishnendu Gongopadhyay (India...</p>
+                        <p class="speaker">Speaker(s): Pedram Hekmati (University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Galois, the Analyst]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/52-3904.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/52-3904.html"/>
-        <updated>2026-05-12T19:17:53.919Z</updated>
+        <title type="html"><![CDATA[Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3912.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3912.html"/>
+        <updated>2026-05-14T19:18:10.849Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 14</p>
+                        <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/52.html" title="Others" target="_blank">Others</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/52-3904.html" title="Galois, the Analyst " target="_blank">Galois, the Analyst </a>
+                            <a href="/content/show/18-3912.html" title="Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation" target="_blank">Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation</a>
                         </p>
-                        <p class="speaker">Speaker(s): Lizhen Ji (University of Michi...</p>
+                        <p class="speaker">Speaker(s): Gordon Slade (University of Br...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perverse schobers in representation theory and its applications]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3922.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3922.html"/>
-        <updated>2026-05-13T19:45:04.350Z</updated>
+        <title type="html"><![CDATA[An Explicit Uniform Bound for Rational Points on Curves]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3927.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3927.html"/>
+        <updated>2026-05-14T19:18:10.850Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 14</p>
+                        <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/49-3922.html" title="Perverse schobers in representation theory and its applications" target="_blank">Perverse schobers in representation theory and its applications</a>
+                            <a href="/content/show/43-3927.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
                         </p>
-                        <p class="speaker">Speaker(s): Li Fan (Tsinghua University)</p>
+                        <p class="speaker">Speaker(s): Wenrui Kong (Courant Institute...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Distinguished Lecture] Moduli of K3 surfaces and enumerative geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3921.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3921.html"/>
-        <updated>2026-05-13T19:45:04.352Z</updated>
+        <title type="html"><![CDATA[Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3905.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3905.html"/>
+        <updated>2026-05-14T19:18:10.852Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 14</p>
+                        <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/18-3921.html" title="[Distinguished Lecture] Moduli of K3 surfaces and enumerative geometry" target="_blank">[Distinguished Lecture] Moduli of K3 surfaces and enumerative geometry</a>
+                            <a href="/content/show/83-3905.html" title="Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit" target="_blank">Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit</a>
                         </p>
-                        <p class="speaker">Speaker(s): Rahul Pandharipande (ETH Züric...</p>
+                        <p class="speaker">Speaker(s): Scott Smith (AMSS, CAS)</p>
                     </dd>]]></content>
     </entry>
     <entry>
