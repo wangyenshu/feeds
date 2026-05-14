@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-05-13T19:45:23.362Z</updated>
+    <updated>2026-05-14T08:09:17.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -228,43 +228,6 @@
 			<div class="event-info">ICERM - May 11, 2026 to May 15, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Workshop IV: Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes]]></title>
         <id>https://mathinstitutes.org/events/1412/view/</id>
         <link href="https://mathinstitutes.org/events/1412/view/"/>
@@ -300,6 +263,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1412/view/" target="_blank" rel="noopener">Workshop IV: Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes</a></h5>
 			<div class="event-info">IPAM - May 18, 2026 to May 22, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
+        <id>https://mathinstitutes.org/events/1424/view/</id>
+        <link href="https://mathinstitutes.org/events/1424/view/"/>
+        <updated>2026-05-08T07:10:41.993Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
+			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
+        <id>https://mathinstitutes.org/events/1424/view/</id>
+        <link href="https://mathinstitutes.org/events/1424/view/"/>
+        <updated>2026-05-08T07:10:41.993Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
+			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
+        <id>https://mathinstitutes.org/events/1424/view/</id>
+        <link href="https://mathinstitutes.org/events/1424/view/"/>
+        <updated>2026-05-08T07:10:41.993Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
+			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Foundations of Computational Geometry and Topology]]></title>
