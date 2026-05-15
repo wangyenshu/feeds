@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-14T19:18:31.116Z</updated>
+    <updated>2026-05-15T08:22:10.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-05-15T08:22:00.666Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 22</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Kobi Kremnitzer (University of Oxford)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
+        <updated>2026-05-07T08:05:24.553Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 21</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2401.htm" class="right text">
+        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
+        <div class="t-2">Modular forms in enumerative geometry of surfaces (12-1 pm, BIMSA A4-1)</div>
+        <div class="t-3">Speaker：Artan Sheshmani</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
+        <updated>2026-05-15T08:22:00.669Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>May 18</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2507.htm" class="right text">
+        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
+        <div class="t-2">Affine Deligne--Lusztig theory (2:30-4 pm, MCM 110)</div>
+        <div class="t-3">Speaker：Xiangqian Yang (PKU)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
@@ -32,56 +80,8 @@
     </div>
     <a href="info/1053/3694.htm" class="right text">
         <div class="t-1">Geometric Representation Theory Seminar</div>
-        <div class="t-2">Upcoming talks 2026/05/15 2-3 pm, Shuangqing B627, Clifton Cunningham (University of Calgary)A geometric perspective on local Arthur packets and some categorical implicationsWhile Arthur packets provide a decomposition of the discrete part of L2 spectrum of automorphic representations of classical groups, their local components may be expressed purely in terms of the vanishing cycles of pervers...</div>
-        <div class="t-3">Speaker：Clifton Cunningham (University of Calgary)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math+ML+X Seminar Series]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm"/>
-        <updated>2026-05-02T07:15:30.133Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 14</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3101.htm" class="right text">
-        <div class="t-1">Math+ML+X Seminar Series</div>
-        <div class="t-2">Speaker: Han Zhang (City University of Hong Kong)Title: Physics-Informed Neural Network for Blood Flow Simulation: Forward and Inverse ProblemDate &amp; Time: May 14th, 2026 @4pmVoov (Tencent): 294-173-543Abstract: Blood flow imaging plays a central role in understanding hemodynamic behavior and guiding medical diagnosis and treatment. However, obtaining high-quality flow fields is challenging due ...</div>
-        <div class="t-3">Speaker：Han Zhang (City University of Hong Kong)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2026-05-14T08:09:09.579Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 14</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: Carrollian amplitudes and flat limit of AdS correlatorsSpeaker: Bin Zhu (Nankai University)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, May 21 (Thursday)Abstract: With the new notions of flat holography introduced in recent years, there has been increased interest in relating the new formalisms to the flat space limit of AdS/CFT. We study Carrollian amplitudes o...</div>
-        <div class="t-3">Speaker：Shuo Yang, Bin Zhu</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2026-05-07T08:05:24.553Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 14</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">Counting bundles with extra structures over curves II (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：Tao Su</div>
+        <div class="t-2">Upcoming talks 05/18, 3:30-4:30 pm, Shuangqing B62705/20, 10:00-11:30 am, Shuangqing B62705/22, 1:30-3:00 pm, Shuangqing B627 Chin Hang Eddie Lam (The Chinese University of Hong Kong)Coulomb branches and geometry of shift operators In this talk, we construct an action of Coulomb branch algebra on the equivariant quantum cohomology of a semiprojective variety X. Our approach is based on shift op...</div>
+        <div class="t-3">Speaker：Clifton Cunningham, Chin Hang Eddie Lam</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

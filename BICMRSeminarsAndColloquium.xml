@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-14T19:18:31.141Z</updated>
+    <updated>2026-05-15T08:22:10.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-3925.html" title="Hodge-to-de Rham Degeneration for Singular Curves" target="_blank">Hodge-to-de Rham Degeneration for Singular Curves</a>
                         </p>
@@ -57,7 +57,7 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Explicit Uniform Bound for Rational Points on Curves]]></title>
+        <title type="html"><![CDATA[Curvature Estimates along Immortal Kähler-Ricci Flows]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3927.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/43-3927.html"/>
         <updated>2026-05-14T19:18:10.850Z</updated>
@@ -68,7 +68,7 @@
                                         <dd>
                         <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/43-3927.html" title="An Explicit Uniform Bound for Rational Points on Curves" target="_blank">An Explicit Uniform Bound for Rational Points on Curves</a>
+                            <a href="/content/show/43-3927.html" title="Curvature Estimates along Immortal Kähler-Ricci Flows" target="_blank">Curvature Estimates along Immortal Kähler-Ricci Flows</a>
                         </p>
                         <p class="speaker">Speaker(s): Wenrui Kong (Courant Institute...</p>
                     </dd>]]></content>
@@ -117,7 +117,7 @@
                         <p>May 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3926.html" title="p-adic Day" target="_blank">p-adic Day</a>
                         </p>
