@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-16T07:32:06.525Z</updated>
+    <updated>2026-05-16T18:13:44.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/49-3910.html" title="Eta invariants of Seifert rational homology 3-spheres" target="_blank">Eta invariants of Seifert rational homology 3-spheres</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/18-3912.html" title="Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation" target="_blank">Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation</a>
                         </p>
@@ -125,23 +125,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop on Geometric Analysis 2026]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting-524530</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting-524530"/>
-        <updated>2026-05-04T08:06:25.980Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting-524530" title="Workshop on Geometric Analysis 2026" target="_blank">Workshop on Geometric Analysis 2026</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Algebraic Cycles and Normal Functions]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3928.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3928.html"/>
@@ -156,6 +139,23 @@
                             <a href="/content/show/70-3928.html" title="Algebraic Cycles and Normal Functions" target="_blank">Algebraic Cycles and Normal Functions</a>
                         </p>
                         <p class="speaker">Speaker(s): Matt Kerr (Washington Universi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Peking University Lectures on Applied Mathematics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
+        <updated>2026-05-16T18:13:27.823Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3907.html" title="2026 Peking University Lectures on Applied Mathematics" target="_blank">2026 Peking University Lectures on Applied Mathematics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
                     </dd>]]></content>
     </entry>
 </feed>
