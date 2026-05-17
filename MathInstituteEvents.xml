@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-05-16T18:13:44.292Z</updated>
+    <updated>2026-05-17T07:56:37.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
         <id>https://mathinstitutes.org/events/1394/view/</id>
         <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.727Z</updated>
+        <updated>2026-05-16T18:13:07.725Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
         <id>https://mathinstitutes.org/events/1394/view/</id>
         <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.728Z</updated>
+        <updated>2026-05-16T18:13:07.725Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
 			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>]]></content>
