@@ -2,14 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
     <title>陈省身数学研究所 学术动态</title>
-    <updated>2026-05-18T08:57:30.776Z</updated>
+    <updated>2026-05-18T19:12:32.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.nim.nankai.edu.cn/xsbg/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[苏育才 教授：Some Recent Progress on Mixed Cohomology]]></title>
+        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
+        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
+        <updated>2026-05-18T19:11:18.476Z</updated>
+        <content type="html"><![CDATA[<div class="fields pr_fields">
+      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
+      <span><a href="/2026/0518/c6604a595562/page.htm" target="_blank" title="苏育才 教授：Some Recent Progress on Mixed Cohomology">苏育才 教授：Some Recent Progress on Mixed Cohomology</a></span>
+    </div>
+    <div class="fields ex_fields">
+      <span>2026-05-18</span>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梁晋婷 博士：Log-concavity and -convexity via distribu...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.020Z</updated>
+        <updated>2026-05-18T19:11:18.476Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0515/c6604a595357/page.htm" target="_blank" title="梁晋婷 博士：Log-concavity and -convexity via distributive lattices">梁晋婷 博士：Log-concavity and -convexity via distribu...</a></span>
@@ -22,7 +35,7 @@
         <title type="html"><![CDATA[李嘉伦 博士：Selberg, Ihara and Berkovich]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.021Z</updated>
+        <updated>2026-05-18T19:11:18.477Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0511/c6604a594780/page.htm" target="_blank" title="李嘉伦 博士：Selberg, Ihara and Berkovich">李嘉伦 博士：Selberg, Ihara and Berkovich</a></span>
@@ -35,7 +48,7 @@
         <title type="html"><![CDATA[朱晓雯 博士：Bulk-edge correspondence for insulators w...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.021Z</updated>
+        <updated>2026-05-18T19:11:18.478Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0511/c6604a594778/page.htm" target="_blank" title="朱晓雯 博士：Bulk-edge correspondence for insulators with Z_2 topological index">朱晓雯 博士：Bulk-edge correspondence for insulators w...</a></span>
@@ -48,7 +61,7 @@
         <title type="html"><![CDATA[吕勇 教授：Nonrelativistic limit of the Klein-Gordon-S...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.022Z</updated>
+        <updated>2026-05-18T19:11:18.478Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0424/c6604a593670/page.htm" target="_blank" title="吕勇 教授：Nonrelativistic limit of the Klein-Gordon-Schrödinger equations: optimal convergence rates and long time approximations">吕勇 教授：Nonrelativistic limit of the Klein-Gordon-S...</a></span>
@@ -61,7 +74,7 @@
         <title type="html"><![CDATA[项灿 博士：Constructions of non-RS type cyclic MDS cod...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.023Z</updated>
+        <updated>2026-05-18T19:11:18.478Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0410/c6604a592766/page.htm" target="_blank" title="项灿 博士：Constructions of non-RS type cyclic MDS codes">项灿 博士：Constructions of non-RS type cyclic MDS cod...</a></span>
@@ -74,7 +87,7 @@
         <title type="html"><![CDATA[杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Sp...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.023Z</updated>
+        <updated>2026-05-18T19:11:18.478Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0409/c6604a592509/page.htm" target="_blank" title="杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Spaces">杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Sp...</a></span>
@@ -87,7 +100,7 @@
         <title type="html"><![CDATA[董彬 教授：AI for Mathematics：从数字化到自动推理]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.025Z</updated>
+        <updated>2026-05-18T19:11:18.480Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/tbjz/list.htm" title="特别讲座" style="text-decoration:none;" target="_blank">特别讲座</a>】</span>
       <span><a href="/2026/0331/c6604a591778/page.htm" target="_blank" title="董彬 教授：AI for Mathematics：从数字化到自动推理"><font style="color:#057AFF;">董彬 教授：AI for Mathematics：从数字化到自动推理</font></a></span>
@@ -100,7 +113,7 @@
         <title type="html"><![CDATA[赵子鸣 研究员：大模型驱动的量子计算芯片调控与基准研究]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.027Z</updated>
+        <updated>2026-05-18T19:11:18.482Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0325/c6604a591460/page.htm" target="_blank" title="赵子鸣 研究员：大模型驱动的量子计算芯片调控与基准研究">赵子鸣 研究员：大模型驱动的量子计算芯片调控与基准研究</a></span>
@@ -113,7 +126,7 @@
         <title type="html"><![CDATA[李婷婷 研究员：面向程序化验证与算法优化的量子计算云服...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.031Z</updated>
+        <updated>2026-05-18T19:11:18.484Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0325/c6604a591455/page.htm" target="_blank" title="李婷婷 研究员：面向程序化验证与算法优化的量子计算云服务研究">李婷婷 研究员：面向程序化验证与算法优化的量子计算云服...</a></span>
@@ -126,7 +139,7 @@
         <title type="html"><![CDATA[Dr. José Lamas：Oscillatory motions, parabolic orbits...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.032Z</updated>
+        <updated>2026-05-18T19:11:18.486Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0320/c6604a591104/page.htm" target="_blank" title="Dr. José Lamas：Oscillatory motions, parabolic orbits and collision orbits in the planar circular restricted three-body problem">Dr. José Lamas：Oscillatory motions, parabolic orbits...</a></span>
@@ -139,7 +152,7 @@
         <title type="html"><![CDATA[Prof. Stéphane Nonnenmacher：High frequency chaotic d...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.033Z</updated>
+        <updated>2026-05-18T19:11:18.487Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2026/0318/c6604a590962/page.htm" target="_blank" title="Prof. Stéphane Nonnenmacher：High frequency chaotic drums"><font style="color:#030BFF;">Prof. Stéphane Nonnenmacher：High frequency chaotic d...</font></a></span>
@@ -152,7 +165,7 @@
         <title type="html"><![CDATA[熊仪睿 博士：Birational geometry from a categorical vi...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.035Z</updated>
+        <updated>2026-05-18T19:11:18.489Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0311/c6604a590698/page.htm" target="_blank" title="熊仪睿 博士：Birational geometry from a categorical view">熊仪睿 博士：Birational geometry from a categorical vi...</a></span>
@@ -165,26 +178,13 @@
         <title type="html"><![CDATA[何伟鲲 博士：Equidistribution of random walks on simpl...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.036Z</updated>
+        <updated>2026-05-18T19:11:18.490Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0302/c6604a590142/page.htm" target="_blank" title="何伟鲲 博士：Equidistribution of random walks on simple homogeneous spaces">何伟鲲 博士：Equidistribution of random walks on simpl...</a></span>
     </div>
     <div class="fields ex_fields">
       <span>2026-03-02</span>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samuel Bronstein：Finite orbits of the Mapping Class G...]]></title>
-        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
-        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-05-18T08:56:32.037Z</updated>
-        <content type="html"><![CDATA[<div class="fields pr_fields">
-      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
-      <span><a href="/2026/0130/c6604a589685/page.htm" target="_blank" title="Samuel Bronstein：Finite orbits of the Mapping Class Group in SL(2,C) character varieties">Samuel Bronstein：Finite orbits of the Mapping Class G...</a></span>
-    </div>
-    <div class="fields ex_fields">
-      <span>2026-01-30</span>
     </div>]]></content>
     </entry>
 </feed>
