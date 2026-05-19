@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-18T19:12:32.709Z</updated>
+    <updated>2026-05-19T08:44:04.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3930.html" title="Symplectic Calabi-Yau surfaces and their log counterparts" target="_blank">Symplectic Calabi-Yau surfaces and their log counterparts</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3910.html" title="Eta invariants of Seifert rational homology 3-spheres" target="_blank">Eta invariants of Seifert rational homology 3-spheres</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>May 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3912.html" title="Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation" target="_blank">Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation</a>
                         </p>
