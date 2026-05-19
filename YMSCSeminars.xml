@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-19T08:44:04.275Z</updated>
+    <updated>2026-05-19T19:26:40.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YMSC-BJTU Geometry seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3177.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3177.htm"/>
+        <updated>2026-05-19T19:26:30.890Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 03</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3177.htm" class="right text">
+        <div class="t-1">YMSC-BJTU Geometry seminar</div>
+        <div class="t-2">Upcoming talk: Date&amp;Time: June 3rd, 2026 9-10 AM Beijing, ChinaVenue: Zoom Online meetingMeeting ID: 891 8508 1544Passcode: YMSC123Speaker: Ivan Miranda de Almeida (IMPA)Title: Finite index constant mean curvature hypersurfaces in low dimensionsAbstract: We prove that every complete finite index immersed CMC hypersurface is either minimal or compact, provided that the ambient six-dimensional ma...</div>
+        <div class="t-3">Speaker：Ivan Miranda de Almeida (IMPA)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Quantum Scientific Computation and Quantum Artificial Intelligence量子科学计算与量子人工智能</div>
         <div class="t-2">Upcoming talk: Speakers：Leyu Chen 陈乐宇Host: Jin-Peng Liu 刘锦鹏Time: Wednesday, 16:15-17:15, May 20, 2026Venue: Ningzhai 204 / Tencent meeting: 523-5882-8284 Title: Quantum Approaches to Nonlinear PDEs: Vortex Dynamics and Young MeasuresAbstract:This report surveys two recent works on quantum algorithms for solving nonlinear partial differential equations (PDEs), addressing distinct key chal...</div>
         <div class="t-3">Speaker：Leyu Chen 陈乐宇</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
-        <updated>2026-05-15T08:22:00.669Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 18</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2507.htm" class="right text">
-        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
-        <div class="t-2">Affine Deligne--Lusztig theory (2:30-4 pm, MCM 110)</div>
-        <div class="t-3">Speaker：Xiangqian Yang (PKU)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-19T08:44:04.155Z</updated>
+    <updated>2026-05-19T19:26:40.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Symplectic Calabi-Yau surfaces and their log counterparts]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3930.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3930.html"/>
-        <updated>2026-05-18T19:12:13.033Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3930.html" title="Symplectic Calabi-Yau surfaces and their log counterparts" target="_blank">Symplectic Calabi-Yau surfaces and their log counterparts</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Tian-Jun Li (University of Min...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eta invariants of Seifert rational homology 3-spheres]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3910.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3910.html"/>
-        <updated>2026-05-14T19:18:10.847Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3910.html" title="Eta invariants of Seifert rational homology 3-spheres" target="_blank">Eta invariants of Seifert rational homology 3-spheres</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Pedram Hekmati (University of ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3912.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3912.html"/>
-        <updated>2026-05-14T19:18:10.849Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3912.html" title="Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation" target="_blank">Crossover from subcritical to critical decay: random walk, self-avoiding walk, percolation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Gordon Slade (University of Br...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Curvature Estimates along Immortal Kähler-Ricci Flows]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3927.html</id>
@@ -91,20 +40,54 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beijing–Hangzhou–Zurich Moduli Workshop]]></title>
-        <id>https://y-x-wen.github.io/bhz-moduli-workshop/</id>
-        <link href="https://y-x-wen.github.io/bhz-moduli-workshop/"/>
-        <updated>2026-04-08T18:47:44.706Z</updated>
+        <title type="html"><![CDATA[Productsets via model theory]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3931.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3931.html"/>
+        <updated>2026-05-19T19:26:22.370Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>May 13</p>
+                        <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="https://y-x-wen.github.io/bhz-moduli-workshop/" title="Beijing–Hangzhou–Zurich Moduli Workshop" target="_blank">Beijing–Hangzhou–Zurich Moduli Workshop</a>
+                            <a href="/content/show/93-3931.html" title=" Productsets via model theory" target="_blank"> Productsets via model theory</a>
                         </p>
-                        <p class="speaker"></p>
+                        <p class="speaker">Speaker(s): Amador Martin-Pizarro (Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combinatorial Structure of Symmetric Classes in Modular Group]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3929.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3929.html"/>
+        <updated>2026-05-19T19:26:22.371Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 21</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3929.html" title="Combinatorial Structure of Symmetric Classes in Modular Group" target="_blank">Combinatorial Structure of Symmetric Classes in Modular Group</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Krishnendu Gongopadhyay (India...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3933.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3933.html"/>
+        <updated>2026-05-19T19:26:22.373Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 22</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3933.html" title="Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$" target="_blank">Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Tianyue Liu (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -117,7 +100,7 @@
                         <p>May 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=134" title="2026 PKU Workshop on Neural Operator Learning" target="_blank">2026 PKU Workshop on Neural Operator Learning</a>
                         </p>
@@ -156,6 +139,23 @@
                             <a href="/content/show/70-3907.html" title="2026 Peking University Lectures on Applied Mathematics" target="_blank">2026 Peking University Lectures on Applied Mathematics</a>
                         </p>
                         <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
+        <updated>2026-05-19T19:26:22.380Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
 </feed>
