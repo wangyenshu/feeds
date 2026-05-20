@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-19T19:26:40.701Z</updated>
+    <updated>2026-05-20T08:41:10.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3927.html" title="Curvature Estimates along Immortal Kähler-Ricci Flows" target="_blank">Curvature Estimates along Immortal Kähler-Ricci Flows</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
                         <p class="black">
                             <a href="/content/show/83-3905.html" title="Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit" target="_blank">Mass generation for the two dimensional O(N) Linear Sigma Model in the large N limit</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>May 20</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3931.html" title=" Productsets via model theory" target="_blank"> Productsets via model theory</a>
                         </p>
