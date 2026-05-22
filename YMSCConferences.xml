@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-05-20T19:39:54.443Z</updated>
+    <updated>2026-05-22T08:37:28.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -22,34 +22,34 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zhongguancun Number Theory Colloquium]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3051.htm"/>
-        <updated>2026-05-15T08:22:10.229Z</updated>
+        <title type="html"><![CDATA[Workshop on Random Matrices and Complex Systems]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3976.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3976.htm"/>
+        <updated>2026-05-22T08:37:28.174Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 22</span></p>
+         <p class="t-1"><span>Jun 13</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1060/3051.htm" class="right text">
-        <div class="t-1">Zhongguancun Number Theory Colloquium</div>
-        <div class="t-2">Upcoming：  Speaker: Prof. Hui Gao (SUSTech)Title: Galois representations over convergent de Rham period ringTime: 15:10-16:10  May 22, 2026 (Friday)Place: MCM110Abstract: Inside Fontaine's de Rham period ring B_dR^+, there is a convergent subring which is exactly the (un-completed) stalk at the de Rham point of the Fargues--Fontaine curve. We study Galois representations over this convergent s...</div>
-        <div class="t-3">Organizer：Koji Shimizu (YMSC), Yihang Zhu (YMSC)</div>
+    <a href="info/1060/3976.htm" class="right text">
+        <div class="t-1">Workshop on Random Matrices and Complex Systems</div>
+        <div class="t-2">Organizer：Yun Li、Fan YangVenue: Room B725, Shuangqing Complex BuildingDate: June 13-14, 2026Tencent Meeting: 387-1389-2885Passcode: 2026Registration:  https://docs.qq.com/form/page/DRUxQVkRqT3dwYU5RSpeakers：Yuchen LiaoUniversity of Science and Technology of ChinaDangzheng LiuUniversity of Science and Technology of ChinaYutao MaBeijing Normal UniversityDong WangUniversity of Chinese Academy o...</div>
+        <div class="t-3">Organizer：Yun Li、Fan Yang</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mini-Workshop on Human–AI Collaboration in Mathematical Research]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3969.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3969.htm"/>
-        <updated>2026-05-12T08:09:08.885Z</updated>
+        <title type="html"><![CDATA[Mini-Workshop on Interacting Particle Systems]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3975.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3975.htm"/>
+        <updated>2026-05-22T08:37:28.178Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 20</span></p>
+         <p class="t-1"><span>May 26</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1060/3969.htm" class="right text">
-        <div class="t-1">Mini-Workshop on Human–AI Collaboration in Mathematical Research</div>
-        <div class="t-2">Mini-Workshop on Human–AI Collaboration in Mathematical ResearchSpeaker: Jiedong Jiang, Westlake UniversityTitle: End-to-End Automated Conjecture Resolution with Formal VerificationTime: Wednesday, May 20, 2026, 2:00–3:00 pmVenue: Room B725, Shuangqing Complex BuildingZoom Meeting ID: 892 226 4912Passcode: YMSCAbstract: Can large language models reliably solve research-level open problems and...</div>
-        <div class="t-3">Organizer：Heng Du</div>
+    <a href="info/1060/3975.htm" class="right text">
+        <div class="t-1">Mini-Workshop on Interacting Particle Systems</div>
+        <div class="t-2"></div>
+        <div class="t-3">Organizer：Chenlin Gu 顾陈琳 （YMSC）</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

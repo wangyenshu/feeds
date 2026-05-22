@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-20T19:39:54.430Z</updated>
+    <updated>2026-05-22T08:37:28.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Combinatorial Structure of Symmetric Classes in Modular Group]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3929.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3929.html"/>
-        <updated>2026-05-19T19:26:22.371Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 21</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3929.html" title="Combinatorial Structure of Symmetric Classes in Modular Group" target="_blank">Combinatorial Structure of Symmetric Classes in Modular Group</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Krishnendu Gongopadhyay (India...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3933.html</id>
@@ -32,7 +15,7 @@
                         <p>May 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-3933.html" title="Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$" target="_blank">Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$</a>
                         </p>
@@ -49,7 +32,7 @@
                         <p>May 25</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/50-3935.html" title="One relator, Many problems (I)" target="_blank">One relator, Many problems (I)</a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/49-3911.html" title="Kapranov L-infinity algebras" target="_blank">Kapranov L-infinity algebras</a>
                         </p>
                         <p class="speaker">Speaker(s): Ping Xu (University of Aucklan...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weierstrass representation of Proper Definite Affine Spheres]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3934.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3934.html"/>
+        <updated>2026-05-22T08:37:06.017Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3934.html" title="Weierstrass representation of Proper Definite Affine Spheres" target="_blank">Weierstrass representation of Proper Definite Affine Spheres</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Erxiao Wang (Zhejiang Normal U...</p>
                     </dd>]]></content>
     </entry>
     <entry>
