@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-22T08:37:28.640Z</updated>
+    <updated>2026-05-23T07:55:23.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3933.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3933.html"/>
-        <updated>2026-05-19T19:26:22.373Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3933.html" title="Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$" target="_blank">Asymptotics of $b$-6j symbols from $U_q\mathfrak{sl}(2; R)$</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Tianyue Liu (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[One relator, Many problems (I)]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/50-3935.html</id>
@@ -49,7 +32,7 @@
                         <p>May 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/34-3923.html" title="Log-Concavity and -Convexity via Distributive Lattices" target="_blank">Log-Concavity and -Convexity via Distributive Lattices</a>
                         </p>
@@ -66,7 +49,7 @@
                         <p>May 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/49-3911.html" title="Kapranov L-infinity algebras" target="_blank">Kapranov L-infinity algebras</a>
                         </p>
@@ -91,6 +74,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3938.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3938.html"/>
+        <updated>2026-05-23T07:55:06.387Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3938.html" title=" Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules " target="_blank"> Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules </a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zeyou Zhu (Shandong University...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026 PKU Workshop on Neural Operator Learning]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=134</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=134"/>
@@ -100,7 +100,7 @@
                         <p>May 22</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=134" title="2026 PKU Workshop on Neural Operator Learning" target="_blank">2026 PKU Workshop on Neural Operator Learning</a>
                         </p>
