@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-24T18:38:09.243Z</updated>
+    <updated>2026-05-25T19:01:55.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[One relator, Many problems (I)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/50-3935.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/50-3935.html"/>
-        <updated>2026-05-20T19:39:34.902Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 25</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/50-3935.html" title="One relator, Many problems (I)" target="_blank">One relator, Many problems (I)</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Nyberg Brodda CarlFredrik (KIA...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Log-Concavity and -Convexity via Distributive Lattices]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/34-3923.html</id>
@@ -53,7 +36,7 @@
                         <p class="black">
                             <a href="/content/show/49-3911.html" title="Kapranov L-infinity algebras" target="_blank">Kapranov L-infinity algebras</a>
                         </p>
-                        <p class="speaker">Speaker(s): Ping Xu (University of Aucklan...</p>
+                        <p class="speaker">Speaker(s): Ping Xu (Penn State)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -88,6 +71,23 @@
                             <a href="/content/show/83-3938.html" title=" Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules " target="_blank"> Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules </a>
                         </p>
                         <p class="speaker">Speaker(s): Zeyou Zhu (Shandong University...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One relator, Many problems (II)]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/50-3936.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/50-3936.html"/>
+        <updated>2026-05-25T19:01:35.588Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/50-3936.html" title="One relator, Many problems (II)" target="_blank">One relator, Many problems (II)</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Nyberg Brodda CarlFredrik (KIA...</p>
                     </dd>]]></content>
     </entry>
     <entry>
