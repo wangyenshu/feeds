@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-25T19:01:55.371Z</updated>
+    <updated>2026-05-26T08:50:15.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> </p>
                         <p class="black">
                             <a href="/content/show/34-3923.html" title="Log-Concavity and -Convexity via Distributive Lattices" target="_blank">Log-Concavity and -Convexity via Distributive Lattices</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>May 26</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3911.html" title="Kapranov L-infinity algebras" target="_blank">Kapranov L-infinity algebras</a>
                         </p>
