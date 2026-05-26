@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-26T08:50:15.784Z</updated>
+    <updated>2026-05-26T19:34:23.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Log-Concavity and -Convexity via Distributive Lattices]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/34-3923.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/34-3923.html"/>
-        <updated>2026-05-20T19:39:34.904Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 26</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> </p>
-                        <p class="black">
-                            <a href="/content/show/34-3923.html" title="Log-Concavity and -Convexity via Distributive Lattices" target="_blank">Log-Concavity and -Convexity via Distributive Lattices</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jinting Liang (University of B...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kapranov L-infinity algebras]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3911.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3911.html"/>
-        <updated>2026-05-20T19:39:34.905Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 26</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3911.html" title="Kapranov L-infinity algebras" target="_blank">Kapranov L-infinity algebras</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Ping Xu (Penn State)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Weierstrass representation of Proper Definite Affine Spheres]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3934.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/50-3936.html" title="One relator, Many problems (II)" target="_blank">One relator, Many problems (II)</a>
                         </p>
                         <p class="speaker">Speaker(s): Nyberg Brodda CarlFredrik (KIA...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Reconstruction Theorem for Coadmissible D-cap-modules]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/44-3939.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/44-3939.html"/>
+        <updated>2026-05-26T19:34:05.209Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 27</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/44-3939.html" title="A Reconstruction Theorem for Coadmissible D-cap-modules" target="_blank">A Reconstruction Theorem for Coadmissible D-cap-modules</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Finn Wiersig (National Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3932.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3932.html"/>
+        <updated>2026-05-26T19:34:05.210Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3932.html" title="Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions" target="_blank">Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Liming Wu (Université Clermont...</p>
                     </dd>]]></content>
     </entry>
     <entry>
