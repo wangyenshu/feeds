@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-26T19:34:23.535Z</updated>
+    <updated>2026-05-27T08:52:24.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3934.html" title="Weierstrass representation of Proper Definite Affine Spheres" target="_blank">Weierstrass representation of Proper Definite Affine Spheres</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>May 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
                         <p class="black">
                             <a href="/content/show/83-3938.html" title=" Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules " target="_blank"> Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules </a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>May 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> </p>
                         <p class="black">
                             <a href="/content/show/50-3936.html" title="One relator, Many problems (II)" target="_blank">One relator, Many problems (II)</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>May 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> </p>
                         <p class="black">
                             <a href="/content/show/44-3939.html" title="A Reconstruction Theorem for Coadmissible D-cap-modules" target="_blank">A Reconstruction Theorem for Coadmissible D-cap-modules</a>
                         </p>
@@ -74,20 +74,20 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3932.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3932.html"/>
-        <updated>2026-05-26T19:34:05.210Z</updated>
+        <title type="html"><![CDATA[Definable sets in locally convexly orderable structures]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3940.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3940.html"/>
+        <updated>2026-05-27T08:52:06.543Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
                         <p>May 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
-                            <a href="/content/show/18-3932.html" title="Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions" target="_blank">Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions</a>
+                            <a href="/content/show/93-3940.html" title="Definable sets in locally convexly orderable structures" target="_blank">Definable sets in locally convexly orderable structures</a>
                         </p>
-                        <p class="speaker">Speaker(s): Liming Wu (Université Clermont...</p>
+                        <p class="speaker">Speaker(s): Jacob Stern (CUNY)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -100,11 +100,28 @@
                         <p>May 27</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
                         <p class="black">
                             <a href="/content/show/70-3928.html" title="Algebraic Cycles and Normal Functions" target="_blank">Algebraic Cycles and Normal Functions</a>
                         </p>
                         <p class="speaker">Speaker(s): Matt Kerr (Washington Universi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in Dynamics Seminar]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3942.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3942.html"/>
+        <updated>2026-05-27T08:52:06.546Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3942.html" title="Advances in Dynamics Seminar" target="_blank">Advances in Dynamics Seminar</a>
+                        </p>
+                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -137,23 +154,6 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
-        <updated>2026-05-24T18:37:50.000Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
