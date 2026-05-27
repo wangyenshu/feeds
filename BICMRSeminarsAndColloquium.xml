@@ -2,77 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-27T08:52:24.628Z</updated>
+    <updated>2026-05-27T19:37:31.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Weierstrass representation of Proper Definite Affine Spheres]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3934.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3934.html"/>
-        <updated>2026-05-22T08:37:06.017Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3934.html" title="Weierstrass representation of Proper Definite Affine Spheres" target="_blank">Weierstrass representation of Proper Definite Affine Spheres</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Erxiao Wang (Zhejiang Normal U...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/83-3938.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/83-3938.html"/>
-        <updated>2026-05-23T07:55:06.387Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> </p>
-                        <p class="black">
-                            <a href="/content/show/83-3938.html" title=" Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules " target="_blank"> Arveson's version of the Gauss-Bonnet-Chern formula for Hilbert modules </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zeyou Zhu (Shandong University...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One relator, Many problems (II)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/50-3936.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/50-3936.html"/>
-        <updated>2026-05-25T19:01:35.588Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> </p>
-                        <p class="black">
-                            <a href="/content/show/50-3936.html" title="One relator, Many problems (II)" target="_blank">One relator, Many problems (II)</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Nyberg Brodda CarlFredrik (KIA...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Reconstruction Theorem for Coadmissible D-cap-modules]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/44-3939.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/44-3939.html"/>
-        <updated>2026-05-26T19:34:05.209Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 27</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> </p>
-                        <p class="black">
-                            <a href="/content/show/44-3939.html" title="A Reconstruction Theorem for Coadmissible D-cap-modules" target="_blank">A Reconstruction Theorem for Coadmissible D-cap-modules</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Finn Wiersig (National Univers...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Definable sets in locally convexly orderable structures]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-3940.html</id>
@@ -88,6 +20,74 @@
                             <a href="/content/show/93-3940.html" title="Definable sets in locally convexly orderable structures" target="_blank">Definable sets in locally convexly orderable structures</a>
                         </p>
                         <p class="speaker">Speaker(s): Jacob Stern (CUNY)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3932.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3932.html"/>
+        <updated>2026-05-27T19:37:12.161Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3932.html" title="Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions" target="_blank">Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Liming Wu (Université Clermont...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crystal-Basis Approach to the Littlewood-Richardson Rule]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3941.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3941.html"/>
+        <updated>2026-05-27T19:37:12.165Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 29</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3941.html" title="A Crystal-Basis Approach to the Littlewood-Richardson Rule" target="_blank">A Crystal-Basis Approach to the Littlewood-Richardson Rule</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shaolong Han (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modular Invariants in Algebraic Geometry and Their Applications]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3916.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3916.html"/>
+        <updated>2026-05-27T19:37:12.166Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 02</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3916.html" title="Modular Invariants in Algebraic Geometry and Their Applications" target="_blank">Modular Invariants in Algebraic Geometry and Their Applications</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Sheng-Li Tan  (East China Norm...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-Order Methods for Bilevel Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3943.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3943.html"/>
+        <updated>2026-05-27T19:37:12.167Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3943.html" title="First-Order Methods for Bilevel Optimization" target="_blank">First-Order Methods for Bilevel Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhaosong Lu (University of Min...</p>
                     </dd>]]></content>
     </entry>
     <entry>
