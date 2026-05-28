@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-27T19:37:31.883Z</updated>
+    <updated>2026-05-28T08:59:32.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Statistical Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
+        <updated>2026-05-28T08:59:20.813Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 05</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3262.htm" class="right text">
+        <div class="t-1">Statistical Seminar</div>
+        <div class="t-2">Upcoming talks:   组织者：吴宇楠时间：2026年 6 月 5 日 16:00~17:00地点：双清综合楼C654报告人：张洪教授，中国科学技术大学管理学院统计与金融系报告题目：Assessing New Predictors with Biased Data Augmented with Summary Statistics摘要：In many real-world applications, evaluating the added value of new risk predictors is hampered by the lack of individual-level data in the target population—only sum...</div>
+        <div class="t-3">Speaker：张洪（中国科学技术大学）</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2026-05-28T08:59:20.814Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 04</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">Title: Bootstrapping Banana Loops via Unparticles: from differential equations to kinematic flowSpeaker: Chen Yang (Scuola Normale Superiore, Pisa)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, June 4 (Thursday)Abstract: This seminar explains how banana loop correlators in cosmology can be recast as tree-level unparticle exchanges, turning loop computations into bootstra...</div>
+        <div class="t-3">Speaker：Chen Yang, Slava Rychkov</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YMSC-BJTU Geometry seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3177.htm</id>
@@ -38,50 +70,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Tsinghua Number Theory Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3702.htm"/>
-        <updated>2026-05-27T08:52:15.208Z</updated>
+        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
+        <updated>2026-05-28T08:59:20.818Z</updated>
         <content type="html"><![CDATA[<div class="left time">
          <p class="t-1"><span>Jun 01</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3702.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Tsinghua Number Theory Seminar</div>
-        <div class="t-2">Note:Location &amp; Time can change depending on the speaker's availability. This is a research seminar on topics related to number theory and its applications which broadly can include related areas of interests such as analytic and algebraic number theory, algebra, combinatorics, algebraic and arithmetic geometry, cryptography, representation theory etc. The speakers are also encouraged to make t...</div>
-        <div class="t-3">Speaker：Yutaro Mikami （RIKEN AIP）</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2026-05-23T07:55:14.754Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 29</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm"/>
-        <updated>2026-05-07T08:05:24.553Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>May 28</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2401.htm" class="right text">
-        <div class="t-1">BIMSA-YMSC Number Theory Lunch Seminar</div>
-        <div class="t-2">Counting torsion 2 dimensional sheaves in CY3 and modular forms II (12-1 pm, BIMSA A4-1)</div>
-        <div class="t-3">Speaker：Artan Sheshmani</div>
+    <a href="info/1053/1973.htm" class="right text">
+        <div class="t-1">YMSC Topology Seminar</div>
+        <div class="t-2">Title: Low dimensional loci in strata of meromorphic differentialsSpeaker: Guillaume TAHAR (BIMSA)Abstract: In strata of the moduli spaces of meromorphic differentials, the period coordinate atlas induces, on certain low-dimensional loci, rich geometric structures that often allow for explicit descriptions. In a series of works in collaboration with Dawei Chen, Gianluca Faraco, Quentin Gendron,...</div>
+        <div class="t-3">Speaker：Guillaume TAHAR (BIMSA)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

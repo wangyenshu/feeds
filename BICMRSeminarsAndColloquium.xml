@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-27T19:37:31.871Z</updated>
+    <updated>2026-05-28T08:59:32.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>May 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
                         <p class="black">
                             <a href="/content/show/93-3940.html" title="Definable sets in locally convexly orderable structures" target="_blank">Definable sets in locally convexly orderable structures</a>
                         </p>
@@ -32,11 +32,28 @@
                         <p>May 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3932.html" title="Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions" target="_blank">Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions</a>
                         </p>
                         <p class="speaker">Speaker(s): Liming Wu (Université Clermont...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Asymptotic Analysis and Boundary Layer Problems in Kinetic...]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-3945.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-3945.html"/>
+        <updated>2026-05-28T08:59:11.627Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>May 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-3945.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Asymptotic Analysis and Boundary Layer Problems in Kinetic Theory" target="_blank">"One-hour Mathematical Lecture Series" —— Asymptotic Analysis and Boundary Layer Problems in Kinetic...</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhimeng Ouyang (Peking Univers...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -71,23 +88,6 @@
                             <a href="/content/show/18-3916.html" title="Modular Invariants in Algebraic Geometry and Their Applications" target="_blank">Modular Invariants in Algebraic Geometry and Their Applications</a>
                         </p>
                         <p class="speaker">Speaker(s): Sheng-Li Tan  (East China Norm...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First-Order Methods for Bilevel Optimization]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/45-3943.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/45-3943.html"/>
-        <updated>2026-05-27T19:37:12.167Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/45-3943.html" title="First-Order Methods for Bilevel Optimization" target="_blank">First-Order Methods for Bilevel Optimization</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhaosong Lu (University of Min...</p>
                     </dd>]]></content>
     </entry>
     <entry>
