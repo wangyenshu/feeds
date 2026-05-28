@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-28T08:59:32.087Z</updated>
+    <updated>2026-05-28T19:54:19.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Definable sets in locally convexly orderable structures]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-3940.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-3940.html"/>
-        <updated>2026-05-27T08:52:06.543Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-3940.html" title="Definable sets in locally convexly orderable structures" target="_blank">Definable sets in locally convexly orderable structures</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jacob Stern (CUNY)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3932.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3932.html"/>
-        <updated>2026-05-27T19:37:12.161Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3932.html" title="Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions" target="_blank">Talagrand's concentration inequalities for mean-field particles systems and McKean-Vlasov diffusions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Liming Wu (Université Clermont...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["One-hour Mathematical Lecture Series" —— Asymptotic Analysis and Boundary Layer Problems in Kinetic...]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3945.html</id>
@@ -49,7 +15,7 @@
                         <p>May 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3945.html" title="&quot;One-hour Mathematical Lecture Series&quot; —— Asymptotic Analysis and Boundary Layer Problems in Kinetic Theory" target="_blank">"One-hour Mathematical Lecture Series" —— Asymptotic Analysis and Boundary Layer Problems in Kinetic...</a>
                         </p>
@@ -91,6 +57,40 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Monotone Quantities and Positive Scalar Curvature]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3944.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3944.html"/>
+        <updated>2026-05-28T19:53:59.729Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3944.html" title="Monotone Quantities and Positive Scalar Curvature" target="_blank">Monotone Quantities and Positive Scalar Curvature</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Xingyu Zhu (Michigan State Uni...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-Order Methods for Bilevel Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3943.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3943.html"/>
+        <updated>2026-05-28T19:53:59.729Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3943.html" title="First-Order Methods for Bilevel Optimization" target="_blank">First-Order Methods for Bilevel Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhaosong Lu (University of Min...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Algebraic Cycles and Normal Functions]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3928.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3928.html"/>
@@ -105,23 +105,6 @@
                             <a href="/content/show/70-3928.html" title="Algebraic Cycles and Normal Functions" target="_blank">Algebraic Cycles and Normal Functions</a>
                         </p>
                         <p class="speaker">Speaker(s): Matt Kerr (Washington Universi...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in Dynamics Seminar]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3942.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3942.html"/>
-        <updated>2026-05-27T08:52:06.546Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>May 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/17-3942.html" title="Advances in Dynamics Seminar" target="_blank">Advances in Dynamics Seminar</a>
-                        </p>
-                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
+        <updated>2026-05-28T19:53:59.736Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Aug 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
