@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-28T19:54:19.683Z</updated>
+    <updated>2026-05-29T08:56:36.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -70,18 +70,18 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm"/>
-        <updated>2026-05-28T08:59:20.818Z</updated>
+        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
+        <updated>2026-05-29T08:56:26.469Z</updated>
         <content type="html"><![CDATA[<div class="left time">
          <p class="t-1"><span>Jun 01</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/1973.htm" class="right text">
-        <div class="t-1">YMSC Topology Seminar</div>
-        <div class="t-2">Title: Low dimensional loci in strata of meromorphic differentialsSpeaker: Guillaume TAHAR (BIMSA)Abstract: In strata of the moduli spaces of meromorphic differentials, the period coordinate atlas induces, on certain low-dimensional loci, rich geometric structures that often allow for explicit descriptions. In a series of works in collaboration with Dawei Chen, Gianluca Faraco, Quentin Gendron,...</div>
-        <div class="t-3">Speaker：Guillaume TAHAR (BIMSA)</div>
+    <a href="info/1053/2507.htm" class="right text">
+        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
+        <div class="t-2">Tame and unipotent local Langlands category (2:30-4 pm, MCM 110)</div>
+        <div class="t-3">Speaker：Bin Xu (YMSC)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
