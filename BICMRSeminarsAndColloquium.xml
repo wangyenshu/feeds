@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-05-30T08:03:30.504Z</updated>
+    <updated>2026-05-30T18:40:02.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Jun 02</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/49-3947.html" title="Conformal Blocks and Abelianization" target="_blank">Conformal Blocks and Abelianization</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Jun 02</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/18-3916.html" title="Modular Invariants in Algebraic Geometry and Their Applications" target="_blank">Modular Invariants in Algebraic Geometry and Their Applications</a>
                         </p>
