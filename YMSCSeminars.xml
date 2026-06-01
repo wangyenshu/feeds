@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-05-31T18:44:22.874Z</updated>
+    <updated>2026-06-01T10:38:42.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -16,8 +16,40 @@
     </div>
     <a href="info/1053/3262.htm" class="right text">
         <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks:   组织者：吴宇楠时间：2026年 6 月 5 日 16:00~17:00地点：双清综合楼C654报告人：张洪教授，中国科学技术大学管理学院统计与金融系报告题目：Assessing New Predictors with Biased Data Augmented with Summary Statistics摘要：In many real-world applications, evaluating the added value of new risk predictors is hampered by the lack of individual-level data in the target population—only sum...</div>
-        <div class="t-3">Speaker：张洪（中国科学技术大学）</div>
+        <div class="t-2">Upcoming talks:  组织者 Organizer: 董金硕Time: Friday, 11:00-12:00, June. 12, 2026Venue: C654, Shuangqing Complex Building ASpeaker: Ran Chen 陈然, Assistant Professor, Washington University in St. LouisBio: Ran Chen is an Assistant Professor of Statistics and Data Science at Washington University in St. Louis. Prior to joining WashU, she was a postdoctoral researcher at the Laboratory for Info...</div>
+        <div class="t-3">Speaker：张洪，陈然</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
+        <updated>2026-06-01T10:38:33.806Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 05</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3694.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks 2026/06/05 2-3pm, Shuangqing B627 Yehao Zhou 周业浩 (SIMIS)Yangians from critical stable envelopes, and relation to cohomological Hall algebrasGiven a symmetric quiver Q with potential W, I will describe in this talk a construction of a (shifted) Yangian Y(Q,W) and its underlying Lie algebra g(Q,W) using the critical stable envelopes and R-matrices. I will also talk about relatio...</div>
+        <div class="t-3">Speaker：Yehao Zhou 周业浩 (SIMIS)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3988.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3988.htm"/>
+        <updated>2026-06-01T10:38:33.808Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 04</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3988.htm" class="right text">
+        <div class="t-1">Dynamics Seminar</div>
+        <div class="t-2">Title:  Effective multi-equidistribution for translates of unipotent flows and Central limit theorems in inhomogeneous Diophantine approximationSpeaker: Anish Gosh (Tata Institute for Fundamental Research)Time: June 4, 15:15-16:15Location: Shuangqing Complex, 304Abstract: I will talk about a recent joint work with Das and Aggarwal. We prove Central Limit Theorem for inhomogeneous Diophantine ap...</div>
+        <div class="t-3">Speaker：Anish Gosh (Tata Institute for Fundamental Research)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
@@ -50,38 +82,6 @@
         <div class="t-1">YMSC-BJTU Geometry seminar</div>
         <div class="t-2">Upcoming talk: Date&amp;Time: June 3rd, 2026 9-10 AM Beijing, ChinaVenue: Zoom Online meetingMeeting ID: 891 8508 1544Passcode: YMSC123Speaker: Ivan Miranda de Almeida (IMPA)Title: Finite index constant mean curvature hypersurfaces in low dimensionsAbstract: We prove that every complete finite index immersed CMC hypersurface is either minimal or compact, provided that the ambient six-dimensional ma...</div>
         <div class="t-3">Speaker：Ivan Miranda de Almeida (IMPA)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm"/>
-        <updated>2026-05-27T08:52:15.206Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 02</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3487.htm" class="right text">
-        <div class="t-1">Geometry and Physics Seminar (GPS)</div>
-        <div class="t-2">Speaker：Conan Leung （CUHK）Time：June 2，10:00-11:00Place:  Room 102, No.1 Teaching Building. 清华大学 一教 102Title：Brane quantization and SYZ mirror symmetryAbstract：In this talk, I will explain SYZ transformation of canonical coisotropic A-branes. On the morphism level, this will relate deformation quantization and geometric quantization with Ext groups in the mirror B-model. Speaker: Yi...</div>
-        <div class="t-3">Speaker：Conan Leung （CUHK）</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
-        <updated>2026-05-29T08:56:26.469Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 01</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2507.htm" class="right text">
-        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
-        <div class="t-2">Tame and unipotent local Langlands category (2:30-4 pm, MCM 110)</div>
-        <div class="t-3">Speaker：Bin Xu (YMSC)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
