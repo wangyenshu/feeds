@@ -2,14 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
     <title>陈省身数学研究所 学术动态</title>
-    <updated>2026-06-02T20:25:37.034Z</updated>
+    <updated>2026-06-03T20:38:10.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.nim.nankai.edu.cn/xsbg/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[许振朋 教授：Optimal Inequalities for State-Independen...]]></title>
+        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
+        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
+        <updated>2026-06-03T20:37:15.886Z</updated>
+        <content type="html"><![CDATA[<div class="fields pr_fields">
+      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
+      <span><a href="/2026/0603/c6604a597579/page.htm" target="_blank" title="许振朋 教授：Optimal Inequalities for State-Independent Contextuality with Imperfect Devices">许振朋 教授：Optimal Inequalities for State-Independen...</a></span>
+    </div>
+    <div class="fields ex_fields">
+      <span>2026-06-03</span>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倪忆 教授 ：Knot Floer homology and the monodromy of f...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.644Z</updated>
+        <updated>2026-06-03T20:37:15.886Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6701/list.htm" title="学术讲座" style="text-decoration:none;" target="_blank">学术讲座</a>】</span>
       <span><a href="/2026/0528/c6604a596430/page.htm" target="_blank" title="倪忆 教授 ：Knot Floer homology and the monodromy of fibered knots"><font style="color:#1100FF;">倪忆 教授 ：Knot Floer homology and the monodromy of f...</font></a></span>
@@ -22,7 +35,7 @@
         <title type="html"><![CDATA[袁平之 教授：Injective systems for PPs over finite fie...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.648Z</updated>
+        <updated>2026-06-03T20:37:15.894Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0528/c6604a596428/page.htm" target="_blank" title="袁平之 教授：Injective systems for PPs over finite fields">袁平之 教授：Injective systems for PPs over finite fie...</a></span>
@@ -35,7 +48,7 @@
         <title type="html"><![CDATA[孙洁昕 博士：平面5体中心构形的特征值]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.650Z</updated>
+        <updated>2026-06-03T20:37:15.894Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0526/c6604a596274/page.htm" target="_blank" title="孙洁昕 博士：平面5体中心构形的特征值">孙洁昕 博士：平面5体中心构形的特征值</a></span>
@@ -48,7 +61,7 @@
         <title type="html"><![CDATA[季理真 教授：Galois, the Analyst]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.651Z</updated>
+        <updated>2026-06-03T20:37:15.897Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0522/c6604a596015/page.htm" target="_blank" title="季理真 教授：Galois, the Analyst">季理真 教授：Galois, the Analyst</a></span>
@@ -61,7 +74,7 @@
         <title type="html"><![CDATA[陆狄雷 博士：Quasi-triangular and factorizable Poisson...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.651Z</updated>
+        <updated>2026-06-03T20:37:15.898Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0522/c6604a596014/page.htm" target="_blank" title="陆狄雷 博士：Quasi-triangular and factorizable Poisson bialgebras">陆狄雷 博士：Quasi-triangular and factorizable Poisson...</a></span>
@@ -74,7 +87,7 @@
         <title type="html"><![CDATA[周振宇 博士：Full Conformal Oscillator Representations...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.652Z</updated>
+        <updated>2026-06-03T20:37:15.899Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0522/c6604a596013/page.htm" target="_blank" title="周振宇 博士：Full Conformal Oscillator Representations of E6 Lie Algebra and Singular Vectors">周振宇 博士：Full Conformal Oscillator Representations...</a></span>
@@ -87,7 +100,7 @@
         <title type="html"><![CDATA[曹俊鹏 研究员：An integrable dissipative Bose-Hubbard ...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.652Z</updated>
+        <updated>2026-06-03T20:37:15.900Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0519/c6604a595649/page.htm" target="_blank" title="曹俊鹏 研究员：An integrable dissipative Bose-Hubbard model">曹俊鹏 研究员：An integrable dissipative Bose-Hubbard ...</a></span>
@@ -100,7 +113,7 @@
         <title type="html"><![CDATA[苏育才 教授：Some Recent Progress on Mixed Cohomology]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.653Z</updated>
+        <updated>2026-06-03T20:37:15.905Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0518/c6604a595562/page.htm" target="_blank" title="苏育才 教授：Some Recent Progress on Mixed Cohomology">苏育才 教授：Some Recent Progress on Mixed Cohomology</a></span>
@@ -113,7 +126,7 @@
         <title type="html"><![CDATA[梁晋婷 博士：Log-concavity and -convexity via distribu...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.654Z</updated>
+        <updated>2026-06-03T20:37:15.906Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0515/c6604a595357/page.htm" target="_blank" title="梁晋婷 博士：Log-concavity and -convexity via distributive lattices">梁晋婷 博士：Log-concavity and -convexity via distribu...</a></span>
@@ -126,7 +139,7 @@
         <title type="html"><![CDATA[李嘉伦 博士：Selberg, Ihara and Berkovich]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.658Z</updated>
+        <updated>2026-06-03T20:37:15.908Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0511/c6604a594780/page.htm" target="_blank" title="李嘉伦 博士：Selberg, Ihara and Berkovich">李嘉伦 博士：Selberg, Ihara and Berkovich</a></span>
@@ -139,7 +152,7 @@
         <title type="html"><![CDATA[朱晓雯 博士：Bulk-edge correspondence for insulators w...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.658Z</updated>
+        <updated>2026-06-03T20:37:15.909Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0511/c6604a594778/page.htm" target="_blank" title="朱晓雯 博士：Bulk-edge correspondence for insulators with Z_2 topological index">朱晓雯 博士：Bulk-edge correspondence for insulators w...</a></span>
@@ -152,7 +165,7 @@
         <title type="html"><![CDATA[吕勇 教授：Nonrelativistic limit of the Klein-Gordon-S...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.660Z</updated>
+        <updated>2026-06-03T20:37:15.910Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0424/c6604a593670/page.htm" target="_blank" title="吕勇 教授：Nonrelativistic limit of the Klein-Gordon-Schrödinger equations: optimal convergence rates and long time approximations">吕勇 教授：Nonrelativistic limit of the Klein-Gordon-S...</a></span>
@@ -165,26 +178,13 @@
         <title type="html"><![CDATA[项灿 博士：Constructions of non-RS type cyclic MDS cod...]]></title>
         <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
         <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.661Z</updated>
+        <updated>2026-06-03T20:37:15.911Z</updated>
         <content type="html"><![CDATA[<div class="fields pr_fields">
       <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
       <span><a href="/2026/0410/c6604a592766/page.htm" target="_blank" title="项灿 博士：Constructions of non-RS type cyclic MDS codes">项灿 博士：Constructions of non-RS type cyclic MDS cod...</a></span>
     </div>
     <div class="fields ex_fields">
       <span>2026-04-10</span>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Sp...]]></title>
-        <id>http://www.nim.nankai.edu.cn/xsbg/list.htm</id>
-        <link href="http://www.nim.nankai.edu.cn/xsbg/list.htm"/>
-        <updated>2026-06-02T20:24:41.662Z</updated>
-        <content type="html"><![CDATA[<div class="fields pr_fields">
-      <span>【<a href="/6700/list.htm" title="学术报告" style="text-decoration:none;" target="_blank">学术报告</a>】</span>
-      <span><a href="/2026/0409/c6604a592509/page.htm" target="_blank" title="杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Spaces">杨朝栋：Geometric Infiniteness in Gromov Hyperbolic Sp...</a></span>
-    </div>
-    <div class="fields ex_fields">
-      <span>2026-04-09</span>
     </div>]]></content>
     </entry>
 </feed>
