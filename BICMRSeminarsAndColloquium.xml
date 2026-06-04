@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-03T20:38:10.362Z</updated>
+    <updated>2026-06-04T19:37:22.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Diagonal Cycles on Shtukas and Adjoint L-functions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/52-3952.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/52-3952.html"/>
-        <updated>2026-06-01T10:38:26.069Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/52.html" title="Others" target="_blank">Others</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/52-3952.html" title="Diagonal Cycles on Shtukas and Adjoint L-functions" target="_blank">Diagonal Cycles on Shtukas and Adjoint L-functions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zeyu Wang (MIT)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cluster Type Varieties]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-3948.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-3948.html"/>
-        <updated>2026-06-01T10:38:26.071Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/35-3948.html" title="Cluster Type Varieties" target="_blank">Cluster Type Varieties</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Joaquin Moraga (UCLA)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A p-adic Interpolation of the Cogdell Lift]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3958.html</id>
@@ -54,6 +20,23 @@
                             <a href="/content/show/47-3958.html" title="A p-adic Interpolation of the Cogdell Lift" target="_blank">A p-adic Interpolation of the Cogdell Lift</a>
                         </p>
                         <p class="speaker">Speaker(s): Francesco Iudica (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zet...]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-3963.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-3963.html"/>
+        <updated>2026-06-04T19:37:05.400Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 08</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-3963.html" title="Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zeta Function" target="_blank">Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zet...</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Thanasis Fokas (University of ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -88,6 +71,23 @@
                             <a href="/content/show/18-3949.html" title="Recognizing coordinates and corona rigidity" target="_blank">Recognizing coordinates and corona rigidity</a>
                         </p>
                         <p class="speaker">Speaker(s): Ilijas Farah (York University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Lose at Monte Carlo]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3959.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3959.html"/>
+        <updated>2026-06-04T19:37:05.406Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3959.html" title="How to Lose at Monte Carlo" target="_blank">How to Lose at Monte Carlo</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Michael Yampolsky (University ...</p>
                     </dd>]]></content>
     </entry>
     <entry>

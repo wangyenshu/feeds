@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-06-03T20:38:10.361Z</updated>
+    <updated>2026-06-04T19:37:22.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A deep learning method for computing the spectrum of the Schrödinger operator: numerics and analysis]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4004.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/4004.htm"/>
+        <updated>2026-06-04T19:37:17.399Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 11</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1056/4004.htm" class="right text">
+        <div class="t-1">A deep learning method for computing the spectrum of the Schrödinger operator: numerics and analysis</div>
+        <div class="t-2">Abstract: We present a novel deep learning method for computing eigenstates of the Schrödinger operator.  Our approach combines a novel loss function with an innovative neural network architecture that incorporates a-prior knowledge of the problem. These improvements enable the method to handle both high-dimensional problems and problems posed on irregular bounded domains. We successfully compu...</div>
+        <div class="t-3">Speaker：Ming Pingbing (CAS)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical interfaces and SLE curves: power law rate of convergence]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3972.htm</id>
@@ -18,7 +34,7 @@
         <div class="t-1">Critical interfaces and SLE curves: power law rate of convergence</div>
         <div class="t-2">Abstract:Many two‑dimensional lattice models from statistical physics are believed to exhibit universal scaling limits at criticality, described by Schramm–Loewner Evolution (SLE). While convergence to SLE has been established in several celebrated cases, much less is known about how fast this convergence occurs. In this talk, I will discuss recent progress on quantitative convergence results...</div>
         <div class="t-3">Speaker：Ilia Binder (University of Toronto)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
@@ -66,22 +82,6 @@
         <div class="t-1">Convex Optimization in Quantitative Finance</div>
         <div class="t-2">Abstract:We give several examples of problems in quantitative finance that can be solved using convex optimization.  We show simple versions, and include CVXPY code, to illustrate the ease with which the problems can be specified and solved.  The associated open-source code repository contains all code and data needed to recreate the example results.This talk assumes basic familiarity with conv...</div>
         <div class="t-3">Speaker：Stephen P. Boyd (Stanford University)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A neural network approach to learning solutions of a class of elliptic variational inequalities]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/3700.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/3700.htm"/>
-        <updated>2026-03-03T06:09:27.127Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Mar 06</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1056/3700.htm" class="right text">
-        <div class="t-1">A neural network approach to learning solutions of a class of elliptic variational inequalities</div>
-        <div class="t-2">Abstract:We develop a weak adversarial approach to solving obstacle problems using neural networks. By using (generalized) regularized gap functions and their properties we rewrite the obstacle problem (which is an elliptic variational inequality) as a minmax problem, providing a natural formulation amenable to a learning approach. Our approach, in contrast to much of the literature, does not r...</div>
-        <div class="t-3">Speaker：Michael Hintermüller (Humboldt University of Berlin)</div>
         
     </a>]]></content>
     </entry>
