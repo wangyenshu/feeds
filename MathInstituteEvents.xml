@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-06-04T19:37:22.515Z</updated>
+    <updated>2026-06-05T08:56:40.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -80,43 +80,6 @@
 			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
-        <id>https://mathinstitutes.org/events/1395/view/</id>
-        <link href="https://mathinstitutes.org/events/1395/view/"/>
-        <updated>2026-05-10T07:39:23.056Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
-			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
-        <id>https://mathinstitutes.org/events/1395/view/</id>
-        <link href="https://mathinstitutes.org/events/1395/view/"/>
-        <updated>2026-05-10T07:39:23.056Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
-			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling and Theory in Population Biology]]></title>
-        <id>https://mathinstitutes.org/events/1395/view/</id>
-        <link href="https://mathinstitutes.org/events/1395/view/"/>
-        <updated>2026-05-10T07:39:23.056Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1395/view/" target="_blank" rel="noopener">Modeling and Theory in Population Biology</a></h5>
-			<div class="event-info">ICERM - June 1, 2026 to June 5, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Number Field Counting in the LMFDB]]></title>
         <id>https://mathinstitutes.org/events/1386/view/</id>
         <link href="https://mathinstitutes.org/events/1386/view/"/>
@@ -152,6 +115,43 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1386/view/" target="_blank" rel="noopener">Number Field Counting in the LMFDB</a></h5>
 			<div class="event-info">ICERM - June 8, 2026 to June 12, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
+        <id>https://mathinstitutes.org/events/1394/view/</id>
+        <link href="https://mathinstitutes.org/events/1394/view/"/>
+        <updated>2026-05-16T18:13:07.725Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
+			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
+        <id>https://mathinstitutes.org/events/1394/view/</id>
+        <link href="https://mathinstitutes.org/events/1394/view/"/>
+        <updated>2026-05-16T18:13:07.725Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
+			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
+        <id>https://mathinstitutes.org/events/1394/view/</id>
+        <link href="https://mathinstitutes.org/events/1394/view/"/>
+        <updated>2026-05-16T18:13:07.725Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
+			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Geometric Measure Theory]]></title>
@@ -228,80 +228,6 @@
 			<div class="event-info">SLMath - June 8, 2026 to June 19, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
-        <id>https://mathinstitutes.org/events/1329/view/</id>
-        <link href="https://mathinstitutes.org/events/1329/view/"/>
-        <updated>2026-05-22T08:36:47.810Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
-			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
-        <id>https://mathinstitutes.org/events/1329/view/</id>
-        <link href="https://mathinstitutes.org/events/1329/view/"/>
-        <updated>2026-05-22T08:36:47.810Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
-			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
-        <id>https://mathinstitutes.org/events/1329/view/</id>
-        <link href="https://mathinstitutes.org/events/1329/view/"/>
-        <updated>2026-05-22T08:36:47.810Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
-			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Algebraic and combinatorial structures in exactly solvable models]]></title>
         <id>https://mathinstitutes.org/events/1338/view/</id>
         <link href="https://mathinstitutes.org/events/1338/view/"/>
@@ -374,5 +300,79 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1330/view/" target="_blank" rel="noopener">Random Growth Models, Phase Separation and Hamilton-Jacobi PDE (UC Berkeley)</a></h5>
 			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
+        <id>https://mathinstitutes.org/events/1329/view/</id>
+        <link href="https://mathinstitutes.org/events/1329/view/"/>
+        <updated>2026-05-22T08:36:47.810Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
+			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
+        <id>https://mathinstitutes.org/events/1329/view/</id>
+        <link href="https://mathinstitutes.org/events/1329/view/"/>
+        <updated>2026-05-22T08:36:47.810Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
+			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)]]></title>
+        <id>https://mathinstitutes.org/events/1329/view/</id>
+        <link href="https://mathinstitutes.org/events/1329/view/"/>
+        <updated>2026-05-22T08:36:47.810Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1329/view/" target="_blank" rel="noopener">ICTP-INdAM-SLMath School: Mathematics For Machine Learning (Trieste, Italy)</a></h5>
+			<div class="event-info">SLMath - June 15, 2026 to June 26, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai]]></title>
+        <id>https://mathinstitutes.org/events/1425/view/</id>
+        <link href="https://mathinstitutes.org/events/1425/view/"/>
+        <updated>2026-06-05T08:56:06.428Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1425/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai</a></h5>
+			<div class="event-info">IPAM - June 16, 2026 to August 6, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai]]></title>
+        <id>https://mathinstitutes.org/events/1425/view/</id>
+        <link href="https://mathinstitutes.org/events/1425/view/"/>
+        <updated>2026-06-05T08:56:06.428Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1425/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai</a></h5>
+			<div class="event-info">IPAM - June 16, 2026 to August 6, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai]]></title>
+        <id>https://mathinstitutes.org/events/1425/view/</id>
+        <link href="https://mathinstitutes.org/events/1425/view/"/>
+        <updated>2026-06-05T08:56:06.428Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1425/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai</a></h5>
+			<div class="event-info">IPAM - June 16, 2026 to August 6, 2026</div>]]></content>
     </entry>
 </feed>
