@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-08T10:02:56.190Z</updated>
+    <updated>2026-06-08T19:40:28.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zet...]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3963.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3963.html"/>
-        <updated>2026-06-04T19:37:05.400Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3963.html" title="Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zeta Function" target="_blank">Deformations to the Complex Plane, Novel Asymptotic Techniques, and the Large t-Asymptotics of the Riemann Zet...</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Thanasis Fokas (University of ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-3950.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/82-3960.html" title="Dynamics On Graphs Induced by PCF Rational Maps" target="_blank">Dynamics On Graphs Induced by PCF Rational Maps</a>
                         </p>
                         <p class="speaker">Speaker(s): Dima Dukdo (Stony Brook Univer...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-3962.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-3962.html"/>
+        <updated>2026-06-08T19:40:11.504Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-3962.html" title="Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space" target="_blank">Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yaoting Gui (Xiamen University...</p>
                     </dd>]]></content>
     </entry>
     <entry>
