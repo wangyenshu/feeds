@@ -2,77 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-09T08:47:03.436Z</updated>
+    <updated>2026-06-09T19:35:05.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/49-3950.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/49-3950.html"/>
-        <updated>2026-06-02T20:25:19.860Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
-                        <p class="black">
-                            <a href="/content/show/49-3950.html" title="Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island" target="_blank">Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Ping Gao (University of Chines...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recognizing coordinates and corona rigidity]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3949.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3949.html"/>
-        <updated>2026-06-03T20:37:52.717Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3949.html" title="Recognizing coordinates and corona rigidity" target="_blank">Recognizing coordinates and corona rigidity</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Ilijas Farah (York University)</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Lose at Monte Carlo]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3959.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3959.html"/>
-        <updated>2026-06-04T19:37:05.406Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3959.html" title="How to Lose at Monte Carlo" target="_blank">How to Lose at Monte Carlo</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Michael Yampolsky (University ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics On Graphs Induced by PCF Rational Maps]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3960.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3960.html"/>
-        <updated>2026-06-05T19:17:45.579Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-3960.html" title="Dynamics On Graphs Induced by PCF Rational Maps" target="_blank">Dynamics On Graphs Induced by PCF Rational Maps</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Dima Dukdo (Stony Brook Univer...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-3962.html</id>
@@ -91,7 +23,75 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peking University AI for Math User Workshop]]></title>
+        <title type="html"><![CDATA[Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/40-3955.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/40-3955.html"/>
+        <updated>2026-06-09T19:34:52.427Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/40-3955.html" title="Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions" target="_blank">Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yixuan Liang (Tsinghua Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/40-3956.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/40-3956.html"/>
+        <updated>2026-06-09T19:34:52.427Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/40-3956.html" title="Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions" target="_blank">Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yanqiao Wang (Tsinghua Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eigenvalues of p-adic random matrices]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/34-3961.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/34-3961.html"/>
+        <updated>2026-06-09T19:34:52.428Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/34-3961.html" title="Eigenvalues of p-adic random matrices" target="_blank">Eigenvalues of p-adic random matrices</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jiahe Shen (Columbia Universit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-uniqueness of Solutions to Two-Dimensional Navier–Stokes and Magnetohydrodynamic Equations]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3951.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3951.html"/>
+        <updated>2026-06-09T19:34:52.429Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3951.html" title="Non-uniqueness of Solutions to Two-Dimensional Navier–Stokes and Magnetohydrodynamic Equations" target="_blank">Non-uniqueness of Solutions to Two-Dimensional Navier–Stokes and Magnetohydrodynamic Equations</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yao Nie (Nankai University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peking University AI for Math Exchange Workshop]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=136</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136"/>
         <updated>2026-06-08T10:02:38.094Z</updated>
@@ -102,7 +102,7 @@
                                         <dd>
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136" title="Peking University AI for Math User Workshop" target="_blank">Peking University AI for Math User Workshop</a>
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136" title="Peking University AI for Math Exchange Workshop" target="_blank">Peking University AI for Math Exchange Workshop</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
