@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-08T19:40:28.452Z</updated>
+    <updated>2026-06-09T08:47:03.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Jun 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3950.html" title="Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island" target="_blank">Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Jun 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3949.html" title="Recognizing coordinates and corona rigidity" target="_blank">Recognizing coordinates and corona rigidity</a>
                         </p>
