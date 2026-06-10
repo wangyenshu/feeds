@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-10T09:05:27.024Z</updated>
+    <updated>2026-06-10T19:54:18.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-3962.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-3962.html"/>
-        <updated>2026-06-08T19:40:11.504Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-3962.html" title="Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space" target="_blank">Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yaoting Gui (Xiamen University...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3955.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3955.html"/>
-        <updated>2026-06-09T19:34:52.427Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
-                        <p class="black">
-                            <a href="/content/show/40-3955.html" title="Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions" target="_blank">Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yixuan Liang (Tsinghua Univers...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/40-3956.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/40-3956.html"/>
-        <updated>2026-06-09T19:34:52.427Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
-                        <p class="black">
-                            <a href="/content/show/40-3956.html" title="Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions" target="_blank">Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yanqiao Wang (Tsinghua Univers...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Eigenvalues of p-adic random matrices]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/34-3961.html</id>
@@ -88,6 +37,74 @@
                             <a href="/content/show/46-3951.html" title="Non-uniqueness of Solutions to Two-Dimensional Navier–Stokes and Magnetohydrodynamic Equations" target="_blank">Non-uniqueness of Solutions to Two-Dimensional Navier–Stokes and Magnetohydrodynamic Equations</a>
                         </p>
                         <p class="speaker">Speaker(s): Yao Nie (Nankai University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Height Boundedness of Periodic Points of Dominant Rational Self-maps]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3965.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3965.html"/>
+        <updated>2026-06-10T19:54:03.343Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3965.html" title="Height Boundedness of Periodic Points of Dominant Rational Self-maps" target="_blank">Height Boundedness of Periodic Points of Dominant Rational Self-maps</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yohsuke Matsuzawa (Osaka Metro...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coloring in graphs definable in a pure set]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-3969.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-3969.html"/>
+        <updated>2026-06-10T19:54:03.343Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-3969.html" title="Coloring in graphs definable in a pure set" target="_blank">Coloring in graphs definable in a pure set</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Sam Braunfeld (Czech Academy o...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Cascade for Two Nonlinear Wave Systems]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-3953.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-3953.html"/>
+        <updated>2026-06-10T19:54:03.344Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 12</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-3953.html" title="Energy Cascade for Two Nonlinear Wave Systems" target="_blank">Energy Cascade for Two Nonlinear Wave Systems</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shijie Dong (Southern Universi...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probability & Quantum Field Theory (Week 3)]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3970.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3970.html"/>
+        <updated>2026-06-10T19:54:03.345Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 15</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3970.html" title="Probability &amp; Quantum Field Theory (Week 3)" target="_blank">Probability &amp; Quantum Field Theory (Week 3)</a>
+                        </p>
+                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -137,23 +154,6 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
-        <updated>2026-05-28T19:53:59.736Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 03</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
