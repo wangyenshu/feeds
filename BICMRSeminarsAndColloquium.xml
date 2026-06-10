@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-09T19:35:05.964Z</updated>
+    <updated>2026-06-10T09:05:27.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Jun 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-3962.html" title="Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space" target="_blank">Constructing Constant Harmonic Mean Curvature Foliation in Asymptotic Flat Space</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Jun 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
                         <p class="black">
                             <a href="/content/show/40-3955.html" title="Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions" target="_blank">Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>Jun 10</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> </p>
                         <p class="black">
                             <a href="/content/show/40-3956.html" title="Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions" target="_blank">Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions</a>
                         </p>

@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-06-09T19:35:05.964Z</updated>
+    <updated>2026-06-10T09:05:27.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm"/>
+        <updated>2026-06-10T09:05:15.989Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 16</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3487.htm" class="right text">
+        <div class="t-1">Geometry and Physics Seminar (GPS)</div>
+        <div class="t-2">Speaker: Yalong Cao (MCM)Time: June 16, 2026, 10:00-11:30Place: 新水利馆 300, Tsinghua UniversityTitle: Quivers with potentials and their Yangian symmetryAbstract: Symmetric quivers with potentials are geometric objects that provide generalizations of Nakajima quiver varieties. There are naturally defined Yangian type quantum group actions on their critical cohomologies. The associated Lie (sup...</div>
+        <div class="t-3">Speaker：Yalong Cao (MCM)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YMSC Topology Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/1973.htm</id>
@@ -38,50 +54,34 @@
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
-        <updated>2026-06-09T08:46:54.269Z</updated>
+        <title type="html"><![CDATA[Geometric Representation Theory Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3694.htm"/>
+        <updated>2026-06-10T09:05:15.995Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 10</span></p>
+         <p class="t-1"><span>Jun 12</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3730.htm" class="right text">
-        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
-        <div class="t-2">Upcoming talks：  Past talks:  Time: Thur., 16:00-17:00, May 21, 2026Venue: C548, Shuangqing Complex Building ASpeaker: Weikun He 何伟鲲 AMSSTitle : Khitchine dichotomy for self-similar measuresAbstract: Khintchine's theorem is a basic result in Metric Diophantine approximation. It charaterizes whether a random real number can be well approximated by rational or not. In the original Khintchine'...</div>
-        <div class="t-3">Speaker：Yilin Wang (ETH Zürich)</div>
+    <a href="info/1053/3694.htm" class="right text">
+        <div class="t-1">Geometric Representation Theory Seminar</div>
+        <div class="t-2">Upcoming talks 2026/06/12 2-3pm, Shuangqing B627Tianqing Zhu 祝天擎 (Columbia)K-theoretic stable envelopes, Kahler parametre wall-crossings and quantum loop groupIn this talk, I will show that the Kahler parametre wall-crossing for the K-theoretic stable envelopes for the Nakajima quiver varieties coincides with the universal R-matrix of the slope subalgebra for the Drinfeld double of the prepr...</div>
+        <div class="t-3">Speaker：Tianqing Zhu 祝天擎 (Columbia)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quantum Scientific Computation and Quantum Artificial Intelligence量子科学计算与量子人工智能]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3138.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3138.htm"/>
-        <updated>2026-06-08T10:02:46.777Z</updated>
+        <title type="html"><![CDATA[应用分析讨论班]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3870.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3870.htm"/>
+        <updated>2026-06-10T09:05:15.996Z</updated>
         <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 09</span></p>
+         <p class="t-1"><span>Jun 11</span></p>
         <p class="t-2"><span>2026</span></p>
     </div>
-    <a href="info/1053/3138.htm" class="right text">
-        <div class="t-1">Quantum Scientific Computation and Quantum Artificial Intelligence量子科学计算与量子人工智能</div>
-        <div class="t-2">Upcoming talk:  Speaker: Yixuan Liang 梁毅轩Host: Jin-Peng Liu 刘锦鹏Time: Tuesday, 15:30-16:30, June 9, 2026Venue: Ningzhai 204 / Tencent meeting:：523-5882-8284Title: Quantum eigenvalue processingAbstract: In this talk, we discuss the work 'quantum eigenvalue processing' by Guang Hao Low and Yuan Su, which considers how to apply a function to the eigenvalues of a matrix. The report covers Che...</div>
-        <div class="t-3">Speaker：Yixuan Liang 梁毅轩</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCM-YMSC p-adic Geometry Learning Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2507.htm"/>
-        <updated>2026-06-05T08:56:31.768Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 08</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2507.htm" class="right text">
-        <div class="t-1">MCM-YMSC p-adic Geometry Learning Seminar</div>
-        <div class="t-2">Categorical equivalences (2:30-4 pm, MCM 110)</div>
-        <div class="t-3">Speaker：Xu Shen (MCM)</div>
+    <a href="info/1053/3870.htm" class="right text">
+        <div class="t-1">应用分析讨论班</div>
+        <div class="t-2">Applied Analysis Seminar</div>
+        <div class="t-3">Speaker：Dr. Xin Fu (傅信), Westlake University​</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
