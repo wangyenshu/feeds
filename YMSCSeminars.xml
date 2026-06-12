@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-06-11T19:58:50.316Z</updated>
+    <updated>2026-06-12T09:42:59.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-06-05T08:56:31.767Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 18</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker：Constantin Shramov (HSE)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geometry and Physics Seminar (GPS)]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3487.htm</id>
@@ -34,22 +50,6 @@
         <div class="t-1">YMSC Topology Seminar</div>
         <div class="t-2">Title: Bombieri type inequalities and equidistribution of points on surfaces Speaker:  Håkan HEDENMALM (KTH)Abstract:This talk is concerned with packing a given number of points in a good way on a compact Riemann surface. In the case of the Riemann sphere the packing is related with the iterated Bombieri inequality. Close to optimal bounds for the sphere were found by Beltran and Etayo for expo...</div>
         <div class="t-3">Speaker：Håkan HEDENMALM (KTH)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
-        <updated>2026-06-05T08:56:31.767Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 12</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/2568.htm" class="right text">
-        <div class="t-1">Algebraic Geometry Seminar</div>
-        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
-        <div class="t-3">Speaker：Santosha Pattanayak (IIT Kanpur)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

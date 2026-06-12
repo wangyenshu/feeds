@@ -2,56 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2026-06-11T19:58:50.291Z</updated>
+    <updated>2026-06-12T09:42:58.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Young Geometric Group Theory XIV]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.121Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="1599" height="1062" src="https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1.jpg" class="attachment-4222 size-4222 wp-post-image" alt="Korea Institute for Advanced Study" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1.jpg 1599w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-300x199.jpg 300w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-1024x680.jpg 1024w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-768x510.jpg 768w, https://www.claymath.org/wp-content/uploads/2025/10/Korea_Institute_for_Advanced_Study1-1536x1020.jpg 1536w" sizes="(max-width: 1599px) 100vw, 1599px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      8 - 12  June 2026    </span>
-    <h3>Young Geometric Group Theory XIV</h3>
-   <p> Korea Institute for Advanced Study</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry, Dynamics, and Computer-Assisted Proofs]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.121Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="1280" height="1785" src="https://www.claymath.org/wp-content/uploads/2026/03/unnamed.png" class="attachment-4413 size-4413 wp-post-image" alt="Geometry, Dynamics poster" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2026/03/unnamed.png 1280w, https://www.claymath.org/wp-content/uploads/2026/03/unnamed-215x300.png 215w, https://www.claymath.org/wp-content/uploads/2026/03/unnamed-734x1024.png 734w, https://www.claymath.org/wp-content/uploads/2026/03/unnamed-768x1071.png 768w, https://www.claymath.org/wp-content/uploads/2026/03/unnamed-1101x1536.png 1101w" sizes="(max-width: 1280px) 100vw, 1280px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      10 - 12  June 2026    </span>
-    <h3>Geometry, Dynamics, and Computer-Assisted Proofs</h3>
-   <p> Heidelberg University</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[p-adic Kudla Program and p-adic Automorphic Forms]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.122Z</updated>
+        <updated>2026-06-12T09:42:13.439Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="350" height="237" src="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg" class="attachment-4230 size-4230 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/04/image-78-300x203.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
+  <img width="350" height="237" src="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg" class="attachment-4230 size-4230 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/04/image-78.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/04/image-78-300x203.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -66,7 +28,7 @@
         <title type="html"><![CDATA[Geometric Spectral Theory and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.122Z</updated>
+        <updated>2026-06-12T09:42:13.440Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -85,7 +47,7 @@
         <title type="html"><![CDATA[Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.124Z</updated>
+        <updated>2026-06-12T09:42:13.443Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -104,7 +66,7 @@
         <title type="html"><![CDATA[Fundamental Geometries]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.125Z</updated>
+        <updated>2026-06-12T09:42:13.444Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -123,7 +85,7 @@
         <title type="html"><![CDATA[String Math 2026]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.126Z</updated>
+        <updated>2026-06-12T09:42:13.446Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -142,7 +104,7 @@
         <title type="html"><![CDATA[Young Topologists Meeting]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.126Z</updated>
+        <updated>2026-06-12T09:42:13.447Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -161,7 +123,7 @@
         <title type="html"><![CDATA[Algorithmic Number Theory Symposium (ANTS XVII)]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.127Z</updated>
+        <updated>2026-06-12T09:42:13.448Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -180,7 +142,7 @@
         <title type="html"><![CDATA[Mathematical Developments in Geophysical Fluid Dynamics]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.129Z</updated>
+        <updated>2026-06-12T09:42:13.451Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -199,7 +161,7 @@
         <title type="html"><![CDATA[Enumerative Geometry and Categorification]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.129Z</updated>
+        <updated>2026-06-12T09:42:13.455Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -218,7 +180,7 @@
         <title type="html"><![CDATA[Homological Methods in Noncommutative Algebra and Number Theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.130Z</updated>
+        <updated>2026-06-12T09:42:13.455Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -237,7 +199,7 @@
         <title type="html"><![CDATA[The Langlands Programme: Recent Trends, New Developments, and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.131Z</updated>
+        <updated>2026-06-12T09:42:13.457Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -256,7 +218,7 @@
         <title type="html"><![CDATA[Foundations of Computational Mathematics (FoCM 2026)]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.132Z</updated>
+        <updated>2026-06-12T09:42:13.458Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -275,7 +237,7 @@
         <title type="html"><![CDATA[Knotted Surfaces in Four-Manifolds]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.132Z</updated>
+        <updated>2026-06-12T09:42:13.461Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -294,7 +256,7 @@
         <title type="html"><![CDATA[New Methods in Evolution Partial Differential Equations]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-06-11T19:58:07.133Z</updated>
+        <updated>2026-06-12T09:42:13.462Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -305,6 +267,44 @@
       20 - 22  July 2026    </span>
     <h3>New Methods in Evolution Partial Differential Equations</h3>
    <p> Princeton University</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gross-Zagier Formula, 40 Years Later]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-06-12T09:42:13.463Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="600" height="225" src="https://www.claymath.org/wp-content/uploads/2025/06/building2_pagewidth.jpg" class="attachment-4119 size-4119 wp-post-image" alt="MIT" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/06/building2_pagewidth.jpg 600w, https://www.claymath.org/wp-content/uploads/2025/06/building2_pagewidth-300x113.jpg 300w" sizes="(max-width: 600px) 100vw, 600px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      3 - 7  August 2026    </span>
+    <h3>The Gross-Zagier Formula, 40 Years Later</h3>
+   <p> Massachusetts Institute of Technology</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billiards and Stars:  Geometry and Dynamics]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-06-12T09:42:13.464Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="720" height="404" src="https://www.claymath.org/wp-content/uploads/2024/10/CIMAT1.jpg" class="attachment-4388 size-4388 wp-post-image" alt="CIMAT" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/10/CIMAT1.jpg 720w, https://www.claymath.org/wp-content/uploads/2024/10/CIMAT1-300x168.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      10 - 14  August 2026    </span>
+    <h3>Billiards and Stars:  Geometry and Dynamics</h3>
+   <p> CIMAT</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>
