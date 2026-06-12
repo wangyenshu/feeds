@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-12T09:42:58.996Z</updated>
+    <updated>2026-06-12T19:30:24.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Energy Cascade for Two Nonlinear Wave Systems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3953.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3953.html"/>
-        <updated>2026-06-10T19:54:03.344Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/46-3953.html" title="Energy Cascade for Two Nonlinear Wave Systems" target="_blank">Energy Cascade for Two Nonlinear Wave Systems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shijie Dong (Southern Universi...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Results on Small Arboreal Galois Representation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3968.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3968.html"/>
-        <updated>2026-06-11T19:58:35.158Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3968.html" title="Some Results on Small Arboreal Galois Representation" target="_blank">Some Results on Small Arboreal Galois Representation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Chifan Leung (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[From Equations to Inequalities: A Finite Differential Criterion in One Dimension]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3966.html</id>
@@ -88,6 +54,40 @@
                             <a href="/content/show/18-3967.html" title="Higgs bundle and the Miyaoka-Yau inequality" target="_blank">Higgs bundle and the Miyaoka-Yau inequality</a>
                         </p>
                         <p class="speaker">Speaker(s): Xi Zhang (Nanjing University o...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattern Rigidity and Wild Flexibility for Fuchsian Groups]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/50-3971.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/50-3971.html"/>
+        <updated>2026-06-12T19:30:07.514Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 18</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/50-3971.html" title="Pattern Rigidity and Wild Flexibility for Fuchsian Groups" target="_blank">Pattern Rigidity and Wild Flexibility for Fuchsian Groups</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yushan Jiang (The City College...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-Order Methods for Bilevel Optimization]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-3943.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-3943.html"/>
+        <updated>2026-06-12T19:30:07.515Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-3943.html" title="First-Order Methods for Bilevel Optimization" target="_blank">First-Order Methods for Bilevel Optimization</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zhaosong Lu (University of Min...</p>
                     </dd>]]></content>
     </entry>
     <entry>
