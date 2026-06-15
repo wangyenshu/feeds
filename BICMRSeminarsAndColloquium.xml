@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-14T18:52:03.815Z</updated>
+    <updated>2026-06-15T11:30:04.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
                         <p>Jun 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-3946.html" title="AI Proofs in PDEs" target="_blank">AI Proofs in PDEs</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Jun 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/50-3971.html" title="Pattern Rigidity and Wild Flexibility for Fuchsian Groups" target="_blank">Pattern Rigidity and Wild Flexibility for Fuchsian Groups</a>
                         </p>
@@ -100,7 +100,7 @@
                         <p>Jun 15</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="/content/show/17-3970.html" title="Probability &amp; Quantum Field Theory (Week 3)" target="_blank">Probability &amp; Quantum Field Theory (Week 3)</a>
                         </p>
@@ -117,7 +117,7 @@
                         <p>Jun 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136" title="Peking University AI for Math Exchange Workshop" target="_blank">Peking University AI for Math Exchange Workshop</a>
                         </p>
