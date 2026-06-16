@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-06-15T20:38:02.179Z</updated>
+    <updated>2026-06-16T10:25:56.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -16,8 +16,8 @@
     </div>
     <a href="info/1053/3262.htm" class="right text">
         <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：6 月 22 日 14:00~15:00地点：双清综合楼C548报告人：Prof. Wen Zhou，Department of Biostatistics at the School of Global Public Health报告题目：From coevolution signals to mutation effects: statistically calibrated protein contact maps and fitness prediction 摘要：Protein sequence data offer a massive natural experiment: across evolution, residue positions co-v...</div>
-        <div class="t-3">Speaker：Wen Zhou </div>
+        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：2026 年 6 月 22 日 14:00~15:00地点：双清综合楼C548报告人：Prof. Wen Zhou，Department of Biostatistics at the School of Global Public Health, New York University报告题目：From coevolution signals to mutation effects: statistically calibrated protein contact maps and fitness prediction摘要：Protein sequence data offer a massive natural experiment: across evolu...</div>
+        <div class="t-3">Speaker：Wen Zhou （New York University）</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
