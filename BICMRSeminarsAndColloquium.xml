@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-16T20:24:15.143Z</updated>
+    <updated>2026-06-17T10:14:54.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[From Equations to Inequalities: A Finite Differential Criterion in One Dimension]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3966.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3966.html"/>
-        <updated>2026-06-11T19:58:35.158Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 12</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/46-3966.html" title="From Equations to Inequalities: A Finite Differential Criterion in One Dimension" target="_blank">From Equations to Inequalities: A Finite Differential Criterion in One Dimension</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Kevin Luli (UC Davis)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI Proofs in PDEs]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/46-3946.html</id>
@@ -71,6 +54,23 @@
                             <a href="/content/show/50-3971.html" title="Pattern Rigidity and Wild Flexibility for Fuchsian Groups" target="_blank">Pattern Rigidity and Wild Flexibility for Fuchsian Groups</a>
                         </p>
                         <p class="speaker">Speaker(s): Yushan Jiang (CUNY)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Veech Groups: Genus Two, Teichmüller Curves, and Symplectic Images]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/50-3972.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/50-3972.html"/>
+        <updated>2026-06-17T10:14:36.718Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 18</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/50-3972.html" title="Introduction to Veech Groups: Genus Two, Teichmüller Curves, and Symplectic Images" target="_blank">Introduction to Veech Groups: Genus Two, Teichmüller Curves, and Symplectic Images</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Zihao Liu (Rice University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
