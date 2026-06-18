@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-18T09:53:55.430Z</updated>
+    <updated>2026-06-18T19:47:20.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,40 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Probability & Quantum Field Theory (Week 3)]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/17-3970.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/17-3970.html"/>
-        <updated>2026-06-10T19:54:03.345Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 15</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="/content/show/17-3970.html" title="Probability &amp; Quantum Field Theory (Week 3)" target="_blank">Probability &amp; Quantum Field Theory (Week 3)</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peking University AI for Math Exchange Workshop]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=136</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136"/>
-        <updated>2026-06-08T10:02:38.094Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 18</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136" title="Peking University AI for Math Exchange Workshop" target="_blank">Peking University AI for Math Exchange Workshop</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 1]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3973.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3973.html"/>
@@ -156,6 +122,40 @@
                             <a href="/content/show/70-3974.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2</a>
                         </p>
                         <p class="speaker">Speaker(s): Jingyin Huang (Ohio State Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3975.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3975.html"/>
+        <updated>2026-06-18T19:47:04.804Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jun 25</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3975.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jingyin Huang (Ohio State Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Peking University Lectures on Applied Mathematics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
+        <updated>2026-06-18T19:47:04.806Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 06</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/70-3907.html" title="2026 Peking University Lectures on Applied Mathematics" target="_blank">2026 Peking University Lectures on Applied Mathematics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
                     </dd>]]></content>
     </entry>
 </feed>

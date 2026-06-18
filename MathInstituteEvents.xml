@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-06-18T09:53:55.458Z</updated>
+    <updated>2026-06-18T19:47:20.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -320,7 +320,7 @@
         <title type="html"><![CDATA[New Horizons on Model Transportability and Data Integration]]></title>
         <id>https://mathinstitutes.org/events/1158/view/</id>
         <link href="https://mathinstitutes.org/events/1158/view/"/>
-        <updated>2026-06-18T09:53:21.962Z</updated>
+        <updated>2026-06-18T09:53:21.960Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -333,7 +333,7 @@
         <title type="html"><![CDATA[New Horizons on Model Transportability and Data Integration]]></title>
         <id>https://mathinstitutes.org/events/1158/view/</id>
         <link href="https://mathinstitutes.org/events/1158/view/"/>
-        <updated>2026-06-18T09:53:21.963Z</updated>
+        <updated>2026-06-18T09:53:21.960Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1158/view/" target="_blank" rel="noopener">New Horizons on Model Transportability and Data Integration</a></h5>
 			<div class="event-info">IMSI - June 22, 2026 to June 26, 2026</div>]]></content>
