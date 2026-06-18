@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-17T19:36:21.983Z</updated>
+    <updated>2026-06-18T09:53:55.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
                         <p>Jun 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> </p>
                         <p class="black">
                             <a href="/content/show/50-3971.html" title="Pattern Rigidity and Wild Flexibility for Fuchsian Groups" target="_blank">Pattern Rigidity and Wild Flexibility for Fuchsian Groups</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Jun 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> </p>
                         <p class="black">
                             <a href="/content/show/50-3972.html" title="Introduction to Veech Groups: Genus Two, Teichmüller Curves, and Symplectic Images" target="_blank">Introduction to Veech Groups: Genus Two, Teichmüller Curves, and Symplectic Images</a>
                         </p>
@@ -117,7 +117,7 @@
                         <p>Jun 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=136" title="Peking University AI for Math Exchange Workshop" target="_blank">Peking University AI for Math Exchange Workshop</a>
                         </p>
@@ -125,37 +125,37 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 Peking University Lectures on Applied Mathematics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
-        <updated>2026-05-16T18:13:27.823Z</updated>
+        <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 1]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3973.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3973.html"/>
+        <updated>2026-06-18T09:53:39.180Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Jul 06</p>
+                        <p>Jun 22</p>
                     </dt>
                                         <dd>
                         <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/70-3907.html" title="2026 Peking University Lectures on Applied Mathematics" target="_blank">2026 Peking University Lectures on Applied Mathematics</a>
+                            <a href="/content/show/70-3973.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 1" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 1</a>
                         </p>
-                        <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
+                        <p class="speaker">Speaker(s): Jingyin Huang (Ohio State Univ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
-        <updated>2026-05-19T19:26:22.380Z</updated>
+        <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/70-3974.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/70-3974.html"/>
+        <updated>2026-06-18T09:53:39.181Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Jul 23</p>
+                        <p>Jun 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                            <a href="/content/show/70-3974.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2</a>
                         </p>
-                        <p class="speaker"></p>
+                        <p class="speaker">Speaker(s): Jingyin Huang (Ohio State Univ...</p>
                     </dd>]]></content>
     </entry>
 </feed>
