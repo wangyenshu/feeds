@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-06-18T19:47:20.596Z</updated>
+    <updated>2026-06-19T09:59:38.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -43,43 +43,6 @@
 			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Percolation and Lattice Models of Statistical Physics (Columbia University)]]></title>
-        <id>https://mathinstitutes.org/events/1327/view/</id>
-        <link href="https://mathinstitutes.org/events/1327/view/"/>
-        <updated>2026-05-15T08:21:31.815Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1327/view/" target="_blank" rel="noopener">Percolation and Lattice Models of Statistical Physics (Columbia University)</a></h5>
-			<div class="event-info">SLMath - June 8, 2026 to June 19, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Percolation and Lattice Models of Statistical Physics (Columbia University)]]></title>
-        <id>https://mathinstitutes.org/events/1327/view/</id>
-        <link href="https://mathinstitutes.org/events/1327/view/"/>
-        <updated>2026-05-15T08:21:31.815Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1327/view/" target="_blank" rel="noopener">Percolation and Lattice Models of Statistical Physics (Columbia University)</a></h5>
-			<div class="event-info">SLMath - June 8, 2026 to June 19, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Percolation and Lattice Models of Statistical Physics (Columbia University)]]></title>
-        <id>https://mathinstitutes.org/events/1327/view/</id>
-        <link href="https://mathinstitutes.org/events/1327/view/"/>
-        <updated>2026-05-15T08:21:31.815Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1327/view/" target="_blank" rel="noopener">Percolation and Lattice Models of Statistical Physics (Columbia University)</a></h5>
-			<div class="event-info">SLMath - June 8, 2026 to June 19, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
         <id>https://mathinstitutes.org/events/1394/view/</id>
         <link href="https://mathinstitutes.org/events/1394/view/"/>
@@ -115,43 +78,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
 			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic and combinatorial structures in exactly solvable models]]></title>
-        <id>https://mathinstitutes.org/events/1338/view/</id>
-        <link href="https://mathinstitutes.org/events/1338/view/"/>
-        <updated>2026-05-22T08:36:47.814Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1338/view/" target="_blank" rel="noopener">Algebraic and combinatorial structures in exactly solvable models</a></h5>
-			<div class="event-info">AIM - June 15, 2026 to June 19, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic and combinatorial structures in exactly solvable models]]></title>
-        <id>https://mathinstitutes.org/events/1338/view/</id>
-        <link href="https://mathinstitutes.org/events/1338/view/"/>
-        <updated>2026-05-22T08:36:47.814Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1338/view/" target="_blank" rel="noopener">Algebraic and combinatorial structures in exactly solvable models</a></h5>
-			<div class="event-info">AIM - June 15, 2026 to June 19, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic and combinatorial structures in exactly solvable models]]></title>
-        <id>https://mathinstitutes.org/events/1338/view/</id>
-        <link href="https://mathinstitutes.org/events/1338/view/"/>
-        <updated>2026-05-22T08:36:47.814Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1338/view/" target="_blank" rel="noopener">Algebraic and combinatorial structures in exactly solvable models</a></h5>
-			<div class="event-info">AIM - June 15, 2026 to June 19, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Random Growth Models, Phase Separation and Hamilton-Jacobi PDE (UC Berkeley)]]></title>
@@ -265,78 +191,41 @@
 			<div class="event-info">IPAM - June 16, 2026 to August 6, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
-        <id>https://mathinstitutes.org/events/1331/view/</id>
-        <link href="https://mathinstitutes.org/events/1331/view/"/>
-        <updated>2026-06-12T09:42:23.452Z</updated>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
+        <id>https://mathinstitutes.org/events/1426/view/</id>
+        <link href="https://mathinstitutes.org/events/1426/view/"/>
+        <updated>2026-06-19T09:59:05.226Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
-			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
-        <id>https://mathinstitutes.org/events/1331/view/</id>
-        <link href="https://mathinstitutes.org/events/1331/view/"/>
-        <updated>2026-06-12T09:42:23.452Z</updated>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
+        <id>https://mathinstitutes.org/events/1426/view/</id>
+        <link href="https://mathinstitutes.org/events/1426/view/"/>
+        <updated>2026-06-19T09:59:05.228Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
-			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
-        <id>https://mathinstitutes.org/events/1331/view/</id>
-        <link href="https://mathinstitutes.org/events/1331/view/"/>
-        <updated>2026-06-12T09:42:23.452Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
-			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Horizons on Model Transportability and Data Integration]]></title>
-        <id>https://mathinstitutes.org/events/1158/view/</id>
-        <link href="https://mathinstitutes.org/events/1158/view/"/>
-        <updated>2026-06-18T09:53:21.960Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1158/view/" target="_blank" rel="noopener">New Horizons on Model Transportability and Data Integration</a></h5>
-			<div class="event-info">IMSI - June 22, 2026 to June 26, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Horizons on Model Transportability and Data Integration]]></title>
-        <id>https://mathinstitutes.org/events/1158/view/</id>
-        <link href="https://mathinstitutes.org/events/1158/view/"/>
-        <updated>2026-06-18T09:53:21.960Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1158/view/" target="_blank" rel="noopener">New Horizons on Model Transportability and Data Integration</a></h5>
-			<div class="event-info">IMSI - June 22, 2026 to June 26, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Horizons on Model Transportability and Data Integration]]></title>
-        <id>https://mathinstitutes.org/events/1158/view/</id>
-        <link href="https://mathinstitutes.org/events/1158/view/"/>
-        <updated>2026-06-18T09:53:21.960Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1158/view/" target="_blank" rel="noopener">New Horizons on Model Transportability and Data Integration</a></h5>
-			<div class="event-info">IMSI - June 22, 2026 to June 26, 2026</div>]]></content>
+        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
+        <id>https://mathinstitutes.org/events/1426/view/</id>
+        <link href="https://mathinstitutes.org/events/1426/view/"/>
+        <updated>2026-06-19T09:59:05.229Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathematics of Generative Models (SLMath)]]></title>
@@ -374,5 +263,116 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1332/view/" target="_blank" rel="noopener">Mathematics of Generative Models (SLMath)</a></h5>
 			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
+        <id>https://mathinstitutes.org/events/1331/view/</id>
+        <link href="https://mathinstitutes.org/events/1331/view/"/>
+        <updated>2026-06-12T09:42:23.452Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
+			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
+        <id>https://mathinstitutes.org/events/1331/view/</id>
+        <link href="https://mathinstitutes.org/events/1331/view/"/>
+        <updated>2026-06-12T09:42:23.452Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
+			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)]]></title>
+        <id>https://mathinstitutes.org/events/1331/view/</id>
+        <link href="https://mathinstitutes.org/events/1331/view/"/>
+        <updated>2026-06-12T09:42:23.452Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1331/view/" target="_blank" rel="noopener">SLMath-Oxford-OIST School: Analysis of Partial Differential Equations (Okinawa, Japan)</a></h5>
+			<div class="event-info">SLMath - June 22, 2026 to July 3, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Computation in Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1387/view/</id>
+        <link href="https://mathinstitutes.org/events/1387/view/"/>
+        <updated>2026-06-19T09:59:05.239Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1387/view/" target="_blank" rel="noopener">Machine Computation in Homotopy Theory</a></h5>
+			<div class="event-info">ICERM - June 22, 2026 to June 26, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Computation in Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1387/view/</id>
+        <link href="https://mathinstitutes.org/events/1387/view/"/>
+        <updated>2026-06-19T09:59:05.240Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1387/view/" target="_blank" rel="noopener">Machine Computation in Homotopy Theory</a></h5>
+			<div class="event-info">ICERM - June 22, 2026 to June 26, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Computation in Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1387/view/</id>
+        <link href="https://mathinstitutes.org/events/1387/view/"/>
+        <updated>2026-06-19T09:59:05.242Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1387/view/" target="_blank" rel="noopener">Machine Computation in Homotopy Theory</a></h5>
+			<div class="event-info">ICERM - June 22, 2026 to June 26, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.243Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.244Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.245Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>]]></content>
     </entry>
 </feed>
