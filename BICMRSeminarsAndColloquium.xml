@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-19T19:15:20.934Z</updated>
+    <updated>2026-06-20T08:32:50.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
                         <p>Jun 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/45-3943.html" title="First-Order Methods for Bilevel Optimization" target="_blank">First-Order Methods for Bilevel Optimization</a>
                         </p>
@@ -117,7 +117,7 @@
                         <p>Jun 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/70-3974.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2</a>
                         </p>
