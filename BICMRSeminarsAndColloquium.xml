@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-23T08:43:12.583Z</updated>
+    <updated>2026-06-23T19:27:39.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,40 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop on Lie Theory]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting-443467</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting-443467"/>
-        <updated>2026-06-22T11:13:48.142Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 22</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting-443467" title="Workshop on Lie Theory" target="_blank">Workshop on Lie Theory</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3974.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3974.html"/>
-        <updated>2026-06-18T09:53:39.181Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
-                        <p class="black">
-                            <a href="/content/show/70-3974.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 2</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Jingyin Huang (Ohio State Univ...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3975.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3975.html"/>
@@ -156,6 +122,40 @@
                             <a href="/content/show/70-3907.html" title="2026 Peking University Lectures on Applied Mathematics" target="_blank">2026 Peking University Lectures on Applied Mathematics</a>
                         </p>
                         <p class="speaker">Speaker(s): Jinchao Xu (King Abdullah Univ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
+        <updated>2026-06-23T19:27:22.405Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
+        <updated>2026-06-23T19:27:22.408Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Aug 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
+                        </p>
+                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
 </feed>
