@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-06-23T19:27:39.442Z</updated>
+    <updated>2026-06-24T08:39:51.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -22,6 +22,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
+        <updated>2026-06-15T11:29:55.134Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jun 25</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3730.htm" class="right text">
+        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
+        <div class="t-2">Upcoming talks： Time：Thur., 15:30 - 16:20, June 25, 2026Venue：C548, Shuangqing Complex Building ASpeaker: Swee Hong Chan (Rutgers) Title:Performing random walks without any randomnessAbstract: Can one emulate the simple random walk without actually doing anything random? This talk will be about a deterministic version of random walk called rotor walk, and we will measure its performance in e...</div>
+        <div class="t-3">Speaker：Swee Hong Chan (Rutgers)，Yanina Shkel (EPFL)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ADS seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
@@ -32,7 +48,7 @@
     </div>
     <a href="info/1053/3050.htm" class="right text">
         <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: TBDSpeaker: Laurent Baulie (Paris, LPTHE)Venue: Classroom B626, Shuangqing Complex Building ATime: 14:00 — 15:00, June 25 (Thursday)Abstract:TBD—————————————————————————————————————————————————————————————————Title: Moduli-dependent one-loop entropy of hyperbolic BPS black hole in AdS4Speaker: Imtak Jeon (Huzhou Normal Uni...</div>
+        <div class="t-2">Title: New Aspects of 3D Chern-Simons Theory and Axelrod-Singer ConstructionsSpeaker: Laurent Baulie (CNRS,  Sorbonne Université UNESCO Chair, Paris)Venue: Classroom B626, Shuangqing Complex Building ATime: 14:00 — 15:00, June 25 (Thursday)Abstract:This talk is about defining consistent and covariant quantum field theories associated with classical three-dimensional Chern-Simons theory, obtai...</div>
         <div class="t-3">Speaker：Laurent Baulie, Imtak Jeon</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
@@ -50,22 +66,6 @@
         <div class="t-1">Reduction to depth zero</div>
         <div class="t-2">时间：2026年6月24日，13：30——15:30地点：双清 A513简介：This is a study seminar aiming at understanding Dat-Fintzen's article "Parametrization and reduction to depth zero of Z[1/p]-blocks of tame p-adic groups." This week, we will study Section 2 and Section 3 of this article. The goal is to understand the reduction to depth zero map via fixing a compatible \kappa-system.References:1. Jean-Fra...</div>
         <div class="t-3">Speaker：崔沛仪</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMSC Probability Seminar 概率论讨论班]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3730.htm"/>
-        <updated>2026-06-15T11:29:55.134Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 18</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3730.htm" class="right text">
-        <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
-        <div class="t-2">Upcoming talks： Time：Thur., 16:00-17:00, June 18th 2026Venue：C548, Shuangqing Complex Building ASpeaker: Claudio Landim IMPATitle: A resolvent approach to metastabilityAbstract: Metastability is a physical phenomenon ubiquitous in first order phase transitions. A tentative of a precise description can be traced back, at least, to Maxwell at the end of the XIX century.In the mid-1980s, Cassan...</div>
-        <div class="t-3">Speaker：Claudio Landim IMPA</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>

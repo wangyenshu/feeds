@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-06-23T19:27:39.456Z</updated>
+    <updated>2026-06-24T08:39:51.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
     </div>
     <a href="info/1056/4010.htm" class="right text">
         <div class="t-1">Quantification of ergodicity for Hamilton–Jacobi equations in a dynamic random environment</div>
-        <div class="t-2">Abstract: Motivated by the tensionless KPZ equation (a model of stochastic growth), we consider quantitative large-time averages for Hamilton–Jacobi equations in a dynamic random environment that is stationary ergodic and has finite-range dependence in time. In this talk, we establish, up to slowly varying factors, convergence rates with exponent 1/2 for the large-time averages of both the sol...</div>
+        <div class="t-2">Abstract:Motivated by the tensionless KPZ equation (a model of stochastic growth), we consider quantitative large-time averages for Hamilton–Jacobi equations in a dynamic random environment that is stationary ergodic and has finite-range dependence in time. In this talk, we establish, up to slowly varying factors, convergence rates with exponent 1/2 for the large-time averages of both the solu...</div>
         <div class="t-3">Speaker：Prof. GUO Xiaoqin (郭小钦), University of Cincinnati</div>
         
     </a>]]></content>
