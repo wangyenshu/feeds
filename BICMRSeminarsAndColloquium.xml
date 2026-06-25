@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-24T19:10:55.413Z</updated>
+    <updated>2026-06-25T08:36:04.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -100,7 +100,7 @@
                         <p>Jun 25</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> </p>
                         <p class="black">
                             <a href="/content/show/70-3975.html" title="The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3" target="_blank">The K(\pi,1)-Conjecture for Artin Groups via Non-Positive Curvature 3</a>
                         </p>
