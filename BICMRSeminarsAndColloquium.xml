@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-27T08:10:25.158Z</updated>
+    <updated>2026-06-27T18:45:29.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
                         <p>Jun 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/18-3977.html" title="Rigidity and universality in the quasisymmetric geometry of limit sets" target="_blank">Rigidity and universality in the quasisymmetric geometry of limit sets</a>
                         </p>
