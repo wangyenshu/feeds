@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-06-29T19:21:40.777Z</updated>
+    <updated>2026-06-30T08:42:45.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
                         <p>Jun 30</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3977.html" title="Rigidity and universality in the quasisymmetric geometry of limit sets" target="_blank">Rigidity and universality in the quasisymmetric geometry of limit sets</a>
                         </p>
@@ -142,20 +142,20 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京大学“研究生教育创新计划” 生物统计和数据科学研究生及青年教师暑期班]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/70-3981.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/70-3981.html"/>
-        <updated>2026-06-26T08:39:47.122Z</updated>
+        <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
+        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
+        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
+        <updated>2026-06-30T08:42:27.630Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Jul 20</p>
+                        <p>Jul 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/70.html" title="Mini-Course" target="_blank">Mini-Course</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="/content/show/70-3981.html" title="北京大学“研究生教育创新计划” 生物统计和数据科学研究生及青年教师暑期班" target="_blank">北京大学“研究生教育创新计划” 生物统计和数据科学研究生及青年教师暑期班</a>
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
                         </p>
-                        <p class="speaker">Speaker(s): Rui Jiang (Tsinghua University...</p>
+                        <p class="speaker"></p>
                     </dd>]]></content>
     </entry>
 </feed>
