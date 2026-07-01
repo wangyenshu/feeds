@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-06-30T19:19:08.710Z</updated>
+    <updated>2026-07-01T08:59:53.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -66,7 +66,7 @@
         <div class="t-1">Reduction to depth zero</div>
         <div class="t-2">时间：2026年6月24日，13：30——15:30地点：双清 A513简介：This is a study seminar aiming at understanding Dat-Fintzen's article "Parametrization and reduction to depth zero of Z[1/p]-blocks of tame p-adic groups." This week, we will study Section 2 and Section 3 of this article. The goal is to understand the reduction to depth zero map via fixing a compatible \kappa-system.References:1. Jean-Fra...</div>
         <div class="t-3">Speaker：崔沛仪</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
