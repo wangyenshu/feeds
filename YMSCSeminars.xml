@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-07-01T19:18:47.644Z</updated>
+    <updated>2026-07-02T08:29:37.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
         <div class="t-2">Upcoming talks： Time：Thur., 15:30 - 16:20, June 25, 2026Venue：C548, Shuangqing Complex Building ASpeaker: Swee Hong Chan (Rutgers) Title:Performing random walks without any randomnessAbstract: Can one emulate the simple random walk without actually doing anything random? This talk will be about a deterministic version of random walk called rotor walk, and we will measure its performance in e...</div>
         <div class="t-3">Speaker：Swee Hong Chan (Rutgers)，Yanina Shkel (EPFL)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@
         <div class="t-1">ADS seminar</div>
         <div class="t-2">Title: New Aspects of 3D Chern-Simons Theory and Axelrod-Singer ConstructionsSpeaker: Laurent Baulie (CNRS,  Sorbonne Université UNESCO Chair, Paris)Venue: Classroom B626, Shuangqing Complex Building ATime: 14:00 — 15:00, June 25 (Thursday)Abstract:This talk is about defining consistent and covariant quantum field theories associated with classical three-dimensional Chern-Simons theory, obtai...</div>
         <div class="t-3">Speaker：Laurent Baulie, Imtak Jeon</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
