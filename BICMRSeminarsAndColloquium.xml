@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-07-06T09:36:15.597Z</updated>
+    <updated>2026-07-06T19:16:26.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PKU Algebra and Combinatorics Experience 2026]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=139</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=139"/>
-        <updated>2026-06-26T08:39:47.118Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 29</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=139" title="PKU Algebra and Combinatorics Experience 2026" target="_blank">PKU Algebra and Combinatorics Experience 2026</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026 Peking University Lectures on Applied Mathematics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/70-3907.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/70-3907.html"/>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133" title="2026 PKU Workshop on Optimization Theory and Methods" target="_blank">2026 PKU Workshop on Optimization Theory and Methods</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Summer School on Differential Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3857.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3857.html"/>
+        <updated>2026-07-06T19:16:08.538Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Aug 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3857.html" title="2026 Summer School on Differential Geometry" target="_blank">2026 Summer School on Differential Geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
