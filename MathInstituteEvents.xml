@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-07-10T08:48:51.232Z</updated>
+    <updated>2026-07-10T19:00:41.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -357,7 +357,7 @@
         <title type="html"><![CDATA[Moduli of Varieties]]></title>
         <id>https://mathinstitutes.org/events/1335/view/</id>
         <link href="https://mathinstitutes.org/events/1335/view/"/>
-        <updated>2026-07-10T08:48:13.240Z</updated>
+        <updated>2026-07-10T08:48:13.239Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -370,7 +370,7 @@
         <title type="html"><![CDATA[Moduli of Varieties]]></title>
         <id>https://mathinstitutes.org/events/1335/view/</id>
         <link href="https://mathinstitutes.org/events/1335/view/"/>
-        <updated>2026-07-10T08:48:13.241Z</updated>
+        <updated>2026-07-10T08:48:13.239Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1335/view/" target="_blank" rel="noopener">Moduli of Varieties</a></h5>
 			<div class="event-info">SLMath - July 20, 2026 to July 31, 2026</div>]]></content>
