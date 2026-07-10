@@ -2,43 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-07-09T19:08:44.677Z</updated>
+    <updated>2026-07-10T08:48:51.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[u-States and u-Gibbs Measures and Their Relation to Lyapunov Exponents]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-3976.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-3976.html"/>
-        <updated>2026-06-22T11:13:48.139Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 24</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-3976.html" title="u-States and u-Gibbs Measures and Their Relation to Lyapunov Exponents " target="_blank">u-States and u-Gibbs Measures and Their Relation to Lyapunov Exponents </a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhenghe Zhang (University of C...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expanding Peierls: Phase Transitions in Ising-type Models]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3979.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3979.html"/>
-        <updated>2026-06-24T08:39:33.460Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jun 26</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3979.html" title="Expanding Peierls: Phase Transitions in Ising-type Models" target="_blank">Expanding Peierls: Phase Transitions in Ising-type Models</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Joao Maia (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Rigidity and universality in the quasisymmetric geometry of limit sets]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3977.html</id>
@@ -66,7 +32,7 @@
                         <p>Jul 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/49-3985.html" title="Tubes, Reeb orbits, and symplectic Banach-Mazur distances" target="_blank">Tubes, Reeb orbits, and symplectic Banach-Mazur distances</a>
                         </p>
@@ -88,6 +54,40 @@
                             <a href="/content/show/44-3984.html" title="On Mazur's Dimension Conjecture for Global Deformation Rings" target="_blank">On Mazur's Dimension Conjecture for Global Deformation Rings</a>
                         </p>
                         <p class="speaker">Speaker(s): Xinyao Zhang (University of To...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generic Points On the Staircase and Irregularities of Uniform Distribution]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3986.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3986.html"/>
+        <updated>2026-07-10T08:48:32.639Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3986.html" title="Generic Points On the Staircase and Irregularities of Uniform Distribution" target="_blank">Generic Points On the Staircase and Irregularities of Uniform Distribution</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Dmitry Dolgopyat (University o...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measure Rigidity and Equidistribution of Fractal Measures On Homogeneous Spaces]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/82-3987.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/82-3987.html"/>
+        <updated>2026-07-10T08:48:32.640Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Jul 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/82-3987.html" title="Measure Rigidity and Equidistribution of Fractal Measures On Homogeneous Spaces" target="_blank">Measure Rigidity and Equidistribution of Fractal Measures On Homogeneous Spaces</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Osama Khalil (University of Il...</p>
                     </dd>]]></content>
     </entry>
     <entry>
