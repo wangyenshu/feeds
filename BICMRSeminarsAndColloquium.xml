@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-07-12T18:28:02.416Z</updated>
+    <updated>2026-07-13T08:33:02.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Jul 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> </p>
                         <p class="black">
                             <a href="/content/show/49-3985.html" title="Tubes, Reeb orbits, and symplectic Banach-Mazur distances" target="_blank">Tubes, Reeb orbits, and symplectic Banach-Mazur distances</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Jul 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-3988.html" title="New Lyapunov Frameworks for Solitary Wave Stability and Effective Dynamics" target="_blank">New Lyapunov Frameworks for Solitary Wave Stability and Effective Dynamics</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>Jul 13</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-3989.html" title="Equilibria and Stability of Plasma Models" target="_blank">Equilibria and Stability of Plasma Models</a>
                         </p>
