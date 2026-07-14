@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-07-13T18:56:29.391Z</updated>
+    <updated>2026-07-14T07:26:00.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <div class="t-1">The asymptotic Plateau problem: past, current progress and future problems</div>
         <div class="t-2">Abstract: The asymptotic Plateau problem is a set of problems in hyperbolic 3-space concerning the existence, multiplicity and applications of minimal surfaces asymptotic to a given Jordan curve on the sphere at infinity. I will address some past results, new progress, and open problems. This is based on joint work with Lowe and Seppi.Bio: Zeno Huang is currently a professor of mathematics at t...</div>
         <div class="t-3">Speaker：Zeno Huang （ City University of New York）</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
