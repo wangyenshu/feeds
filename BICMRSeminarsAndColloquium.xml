@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-07-14T07:26:00.410Z</updated>
+    <updated>2026-07-14T18:39:47.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -49,7 +49,7 @@
                         <p>Jul 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/44.html" title="Number Theory" target="_blank">Number Theory</a> </p>
                         <p class="black">
                             <a href="/content/show/44-3984.html" title="On Mazur's Dimension Conjecture for Global Deformation Rings" target="_blank">On Mazur's Dimension Conjecture for Global Deformation Rings</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Jul 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3986.html" title="Generic Points On the Staircase and Irregularities of Uniform Distribution" target="_blank">Generic Points On the Staircase and Irregularities of Uniform Distribution</a>
                         </p>
@@ -83,7 +83,7 @@
                         <p>Jul 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-3987.html" title="Measure Rigidity and Equidistribution of Fractal Measures On Homogeneous Spaces" target="_blank">Measure Rigidity and Equidistribution of Fractal Measures On Homogeneous Spaces</a>
                         </p>
@@ -100,7 +100,7 @@
                         <p>Jul 17</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/17-3990.html" title="A p-adic Gathering" target="_blank">A p-adic Gathering</a>
                         </p>
@@ -117,7 +117,7 @@
                         <p>Jul 17</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=138" title="2026 Peking Mathematical Journal Conference" target="_blank">2026 Peking Mathematical Journal Conference</a>
                         </p>
