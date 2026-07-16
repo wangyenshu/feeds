@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-07-16T07:37:06.419Z</updated>
+    <updated>2026-07-16T18:40:49.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Analysis & PDE Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/4022.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/4022.htm"/>
+        <updated>2026-07-03T18:48:18.663Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jul 20</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/4022.htm" class="right text">
+        <div class="t-1">Analysis &amp; PDE Seminar</div>
+        <div class="t-2">Upcoming Talk:                                                Title: Internal waves and circle homeomorphismsAbstract: Internal waves are gravity waves that propagate within density-stratified fluids and play a fundamental role in geophysical and astrophysical fluid dynamics. The spectral and evolution theories of internal waves are related to circle homeomorphisms, sometimes referred to as "ch...</div>
+        <div class="t-3">Speaker：王健 Jian Wang</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reduction to depth zero]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/4011.htm</id>
@@ -18,22 +34,6 @@
         <div class="t-1">Reduction to depth zero</div>
         <div class="t-2">时间：2026年7月8日，13：30——15:00地点：双清 C546简介：This is a study seminar aiming at understanding Dat-Fintzen's article "Parametrization and reduction to depth zero of Z[1/p]-blocks of tame p-adic groups." This week will be the last talk of this seminar. We will understand the key objects and the main results in Section 2 and Section 3.References:1. Jean-François Dat, Jessica Fintzen. Par...</div>
         <div class="t-3">Speaker：崔沛仪</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis & PDE Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/4022.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/4022.htm"/>
-        <updated>2026-07-03T18:48:18.663Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jul 07</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/4022.htm" class="right text">
-        <div class="t-1">Analysis &amp; PDE Seminar</div>
-        <div class="t-2">Upcoming Talk:                                                题目: Uniform observability for Schrödinger equations on arbitrary Riemannian covers of closed negatively curved surfaces主讲人:  龚禹霖 Gong Yulin (University of Bristol)时间 Time：1:30-3:00 pm, 2026/07/07地点 Venue：双清综合楼B626摘要: In this talk, we study observability for the Schrödinger equation on arbitrary Riemannian coverin...</div>
-        <div class="t-3">Speaker：Gong Yulin (University of Bristol)</div>
         
     </a>]]></content>
     </entry>
