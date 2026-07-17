@@ -2,46 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-07-16T18:40:49.145Z</updated>
+    <updated>2026-07-17T07:33:36.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Singapore]]></title>
-        <id>https://mathinstitutes.org/events/1424/view/</id>
-        <link href="https://mathinstitutes.org/events/1424/view/"/>
-        <updated>2026-05-08T07:10:41.993Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1424/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Singapore</a></h5>
-			<div class="event-info">IPAM - May 18, 2026 to July 17, 2026</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
         <id>https://mathinstitutes.org/events/1394/view/</id>
@@ -191,154 +154,6 @@
 			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynamical Systems for Machine Learning and AI (IBM Yorktown)]]></title>
-        <id>https://mathinstitutes.org/events/1333/view/</id>
-        <link href="https://mathinstitutes.org/events/1333/view/"/>
-        <updated>2026-06-26T08:39:28.634Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1333/view/" target="_blank" rel="noopener">Dynamical Systems for Machine Learning and AI (IBM Yorktown)</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Systems for Machine Learning and AI (IBM Yorktown)]]></title>
-        <id>https://mathinstitutes.org/events/1333/view/</id>
-        <link href="https://mathinstitutes.org/events/1333/view/"/>
-        <updated>2026-06-26T08:39:28.634Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1333/view/" target="_blank" rel="noopener">Dynamical Systems for Machine Learning and AI (IBM Yorktown)</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Systems for Machine Learning and AI (IBM Yorktown)]]></title>
-        <id>https://mathinstitutes.org/events/1333/view/</id>
-        <link href="https://mathinstitutes.org/events/1333/view/"/>
-        <updated>2026-06-26T08:39:28.634Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1333/view/" target="_blank" rel="noopener">Dynamical Systems for Machine Learning and AI (IBM Yorktown)</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singularities in Commutative Algebra Through Cohomological Methods]]></title>
-        <id>https://mathinstitutes.org/events/1334/view/</id>
-        <link href="https://mathinstitutes.org/events/1334/view/"/>
-        <updated>2026-07-02T08:29:03.739Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1334/view/" target="_blank" rel="noopener">Singularities in Commutative Algebra Through Cohomological Methods</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singularities in Commutative Algebra Through Cohomological Methods]]></title>
-        <id>https://mathinstitutes.org/events/1334/view/</id>
-        <link href="https://mathinstitutes.org/events/1334/view/"/>
-        <updated>2026-07-02T08:29:03.739Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1334/view/" target="_blank" rel="noopener">Singularities in Commutative Algebra Through Cohomological Methods</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singularities in Commutative Algebra Through Cohomological Methods]]></title>
-        <id>https://mathinstitutes.org/events/1334/view/</id>
-        <link href="https://mathinstitutes.org/events/1334/view/"/>
-        <updated>2026-07-02T08:29:03.739Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1334/view/" target="_blank" rel="noopener">Singularities in Commutative Algebra Through Cohomological Methods</a></h5>
-			<div class="event-info">SLMath - July 6, 2026 to July 17, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics of 3D Reconstruction]]></title>
-        <id>https://mathinstitutes.org/events/1392/view/</id>
-        <link href="https://mathinstitutes.org/events/1392/view/"/>
-        <updated>2026-07-03T18:47:51.481Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1392/view/" target="_blank" rel="noopener">Mathematics of 3D Reconstruction</a></h5>
-			<div class="event-info">ICERM - July 13, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics of 3D Reconstruction]]></title>
-        <id>https://mathinstitutes.org/events/1392/view/</id>
-        <link href="https://mathinstitutes.org/events/1392/view/"/>
-        <updated>2026-07-03T18:47:51.481Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1392/view/" target="_blank" rel="noopener">Mathematics of 3D Reconstruction</a></h5>
-			<div class="event-info">ICERM - July 13, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics of 3D Reconstruction]]></title>
-        <id>https://mathinstitutes.org/events/1392/view/</id>
-        <link href="https://mathinstitutes.org/events/1392/view/"/>
-        <updated>2026-07-03T18:47:51.481Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1392/view/" target="_blank" rel="noopener">Mathematics of 3D Reconstruction</a></h5>
-			<div class="event-info">ICERM - July 13, 2026 to July 17, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairness and foundations in machine learning]]></title>
-        <id>https://mathinstitutes.org/events/1339/view/</id>
-        <link href="https://mathinstitutes.org/events/1339/view/"/>
-        <updated>2026-07-03T18:47:51.478Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1339/view/" target="_blank" rel="noopener">Fairness and foundations in machine learning</a></h5>
-			<div class="event-info">AIM - July 13, 2026 to July 17, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairness and foundations in machine learning]]></title>
-        <id>https://mathinstitutes.org/events/1339/view/</id>
-        <link href="https://mathinstitutes.org/events/1339/view/"/>
-        <updated>2026-07-03T18:47:51.478Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1339/view/" target="_blank" rel="noopener">Fairness and foundations in machine learning</a></h5>
-			<div class="event-info">AIM - July 13, 2026 to July 17, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairness and foundations in machine learning]]></title>
-        <id>https://mathinstitutes.org/events/1339/view/</id>
-        <link href="https://mathinstitutes.org/events/1339/view/"/>
-        <updated>2026-07-03T18:47:51.478Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1339/view/" target="_blank" rel="noopener">Fairness and foundations in machine learning</a></h5>
-			<div class="event-info">AIM - July 13, 2026 to July 17, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moduli of Varieties]]></title>
         <id>https://mathinstitutes.org/events/1335/view/</id>
         <link href="https://mathinstitutes.org/events/1335/view/"/>
@@ -374,5 +189,213 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1335/view/" target="_blank" rel="noopener">Moduli of Varieties</a></h5>
 			<div class="event-info">SLMath - July 20, 2026 to July 31, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
+        <id>https://mathinstitutes.org/events/1341/view/</id>
+        <link href="https://mathinstitutes.org/events/1341/view/"/>
+        <updated>2026-07-17T07:32:58.878Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
+			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
+        <id>https://mathinstitutes.org/events/1341/view/</id>
+        <link href="https://mathinstitutes.org/events/1341/view/"/>
+        <updated>2026-07-17T07:32:58.880Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
+			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
+        <id>https://mathinstitutes.org/events/1341/view/</id>
+        <link href="https://mathinstitutes.org/events/1341/view/"/>
+        <updated>2026-07-17T07:32:58.881Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
+			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergies between Geometry, Probability, and Computation in High Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1398/view/</id>
+        <link href="https://mathinstitutes.org/events/1398/view/"/>
+        <updated>2026-07-17T07:32:58.882Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1398/view/" target="_blank" rel="noopener">Synergies between Geometry, Probability, and Computation in High Dimensions</a></h5>
+			<div class="event-info">ICERM - July 31, 2026 to August 2, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergies between Geometry, Probability, and Computation in High Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1398/view/</id>
+        <link href="https://mathinstitutes.org/events/1398/view/"/>
+        <updated>2026-07-17T07:32:58.886Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1398/view/" target="_blank" rel="noopener">Synergies between Geometry, Probability, and Computation in High Dimensions</a></h5>
+			<div class="event-info">ICERM - July 31, 2026 to August 2, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synergies between Geometry, Probability, and Computation in High Dimensions]]></title>
+        <id>https://mathinstitutes.org/events/1398/view/</id>
+        <link href="https://mathinstitutes.org/events/1398/view/"/>
+        <updated>2026-07-17T07:32:58.888Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1398/view/" target="_blank" rel="noopener">Synergies between Geometry, Probability, and Computation in High Dimensions</a></h5>
+			<div class="event-info">ICERM - July 31, 2026 to August 2, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial Differential Equations for Many Particles Systems]]></title>
+        <id>https://mathinstitutes.org/events/1382/view/</id>
+        <link href="https://mathinstitutes.org/events/1382/view/"/>
+        <updated>2026-07-17T07:32:58.889Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1382/view/" target="_blank" rel="noopener">Partial Differential Equations for Many Particles Systems</a></h5>
+			<div class="event-info">ICERM - August 3, 2026 to August 7, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial Differential Equations for Many Particles Systems]]></title>
+        <id>https://mathinstitutes.org/events/1382/view/</id>
+        <link href="https://mathinstitutes.org/events/1382/view/"/>
+        <updated>2026-07-17T07:32:58.890Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1382/view/" target="_blank" rel="noopener">Partial Differential Equations for Many Particles Systems</a></h5>
+			<div class="event-info">ICERM - August 3, 2026 to August 7, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partial Differential Equations for Many Particles Systems]]></title>
+        <id>https://mathinstitutes.org/events/1382/view/</id>
+        <link href="https://mathinstitutes.org/events/1382/view/"/>
+        <updated>2026-07-17T07:32:58.892Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1382/view/" target="_blank" rel="noopener">Partial Differential Equations for Many Particles Systems</a></h5>
+			<div class="event-info">ICERM - August 3, 2026 to August 7, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gibbsian line ensembles]]></title>
+        <id>https://mathinstitutes.org/events/1340/view/</id>
+        <link href="https://mathinstitutes.org/events/1340/view/"/>
+        <updated>2026-07-17T07:32:58.896Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1340/view/" target="_blank" rel="noopener">Gibbsian line ensembles</a></h5>
+			<div class="event-info">AIM - August 10, 2026 to August 14, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gibbsian line ensembles]]></title>
+        <id>https://mathinstitutes.org/events/1340/view/</id>
+        <link href="https://mathinstitutes.org/events/1340/view/"/>
+        <updated>2026-07-17T07:32:58.896Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1340/view/" target="_blank" rel="noopener">Gibbsian line ensembles</a></h5>
+			<div class="event-info">AIM - August 10, 2026 to August 14, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gibbsian line ensembles]]></title>
+        <id>https://mathinstitutes.org/events/1340/view/</id>
+        <link href="https://mathinstitutes.org/events/1340/view/"/>
+        <updated>2026-07-17T07:32:58.897Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1340/view/" target="_blank" rel="noopener">Gibbsian line ensembles</a></h5>
+			<div class="event-info">AIM - August 10, 2026 to August 14, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
+        <id>https://mathinstitutes.org/events/1297/view/</id>
+        <link href="https://mathinstitutes.org/events/1297/view/"/>
+        <updated>2026-07-17T07:32:58.898Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+							<div class="row">
+					<div class="col-12 col-md-8 col-lg-9 order-2 order-md-1">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1297/view/" target="_blank" rel="noopener">Representation Theory Under the Influence of Quantum Field Theory</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 5, 2026</div>
+
+								</div>
+					<div class="col-12 col-md-4 col-lg-3 order-1 order-md-2 d-flex justify-content-center align-items-center">
+						<img src="/uploads/2025/02/images/16660_event_1297.jpg" alt="Representation Theory Under the Influence of Quantum Field Theory Thumbnail Image" class="event-thumbnail img-fluid pb-3 pb-md-0">
+					</div>
+				</div>
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
+        <id>https://mathinstitutes.org/events/1297/view/</id>
+        <link href="https://mathinstitutes.org/events/1297/view/"/>
+        <updated>2026-07-17T07:32:58.900Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+							<div class="row">
+					<div class="col-12 col-md-8 col-lg-9 order-2 order-md-1">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1297/view/" target="_blank" rel="noopener">Representation Theory Under the Influence of Quantum Field Theory</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 5, 2026</div>
+
+								</div>
+					<div class="col-12 col-md-4 col-lg-3 order-1 order-md-2 d-flex justify-content-center align-items-center">
+						<img src="/uploads/2025/02/images/16660_event_1297.jpg" alt="Representation Theory Under the Influence of Quantum Field Theory Thumbnail Image" class="event-thumbnail img-fluid pb-3 pb-md-0">
+					</div>
+				</div>
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
+        <id>https://mathinstitutes.org/events/1297/view/</id>
+        <link href="https://mathinstitutes.org/events/1297/view/"/>
+        <updated>2026-07-17T07:32:58.901Z</updated>
+        <content type="html"><![CDATA[<div class="row">
+					<div class="col-12 col-md-8 col-lg-9 order-2 order-md-1">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1297/view/" target="_blank" rel="noopener">Representation Theory Under the Influence of Quantum Field Theory</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 5, 2026</div>
+
+								</div>
+					<div class="col-12 col-md-4 col-lg-3 order-1 order-md-2 d-flex justify-content-center align-items-center">
+						<img src="/uploads/2025/02/images/16660_event_1297.jpg" alt="Representation Theory Under the Influence of Quantum Field Theory Thumbnail Image" class="event-thumbnail img-fluid pb-3 pb-md-0">
+					</div>
+				</div>]]></content>
     </entry>
 </feed>
