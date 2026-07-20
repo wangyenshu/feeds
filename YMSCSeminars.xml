@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-07-19T18:28:15.968Z</updated>
+    <updated>2026-07-20T08:25:15.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Learning seminar on semistable Higgs bundles in positive characteristic]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/4028.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/4028.htm"/>
+        <updated>2026-07-20T08:25:06.700Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Jul 29</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/4028.htm" class="right text">
+        <div class="t-1">Learning seminar on semistable Higgs bundles in positive characteristic</div>
+        <div class="t-2">Abstract: In complex geometry, the nonabelian Hodge correspondence relates complex representations of the fundamental group of a smooth projective algebraic variety to semistable Higgs bundles with vanishing Chern classes. Its proof, however, relies essentially on analytic methods, including harmonic metrics and partial differential equations. In p-adic geometry, Faltings, Heuer, and others hav...</div>
+        <div class="t-3">Speaker：Heng Du (YMSC), Tongmu He (Princeton University), Daxin Xu (MCM)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analysis & PDE Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/4022.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">YMSC Probability Seminar 概率论讨论班</div>
         <div class="t-2">Upcoming talks： Time：Thur., 15:30 - 16:20, June 25, 2026Venue：C548, Shuangqing Complex Building ASpeaker: Swee Hong Chan (Rutgers) Title:Performing random walks without any randomnessAbstract: Can one emulate the simple random walk without actually doing anything random? This talk will be about a deterministic version of random walk called rotor walk, and we will measure its performance in e...</div>
         <div class="t-3">Speaker：Swee Hong Chan (Rutgers)，Yanina Shkel (EPFL)</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADS seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
-        <updated>2026-06-28T08:32:41.213Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 25</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3050.htm" class="right text">
-        <div class="t-1">ADS seminar</div>
-        <div class="t-2">Title: New Aspects of 3D Chern-Simons Theory and Axelrod-Singer ConstructionsSpeaker: Laurent Baulie (CNRS,  Sorbonne Université UNESCO Chair, Paris)Venue: Classroom B626, Shuangqing Complex Building ATime: 14:00 — 15:00, June 25 (Thursday)Abstract:This talk is about defining consistent and covariant quantum field theories associated with classical three-dimensional Chern-Simons theory, obtai...</div>
-        <div class="t-3">Speaker：Laurent Baulie, Imtak Jeon</div>
         
     </a>]]></content>
     </entry>
