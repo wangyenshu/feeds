@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-07-20T19:14:00.924Z</updated>
+    <updated>2026-07-21T18:50:08.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 Peking Mathematical Journal Conference]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=138</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=138"/>
-        <updated>2026-06-26T19:18:52.419Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jul 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=138" title="2026 Peking Mathematical Journal Conference" target="_blank">2026 Peking Mathematical Journal Conference</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026 PKU Workshop on Optimization Theory and Methods]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=133</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=133"/>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=135" title="Advances in Mathematical Fluid Dynamics 2026" target="_blank">Advances in Mathematical Fluid Dynamics 2026</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer School on Complex Analysis: Interplay of Dynamics, Geometry, and Probability]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-3983.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-3983.html"/>
+        <updated>2026-07-21T18:49:52.479Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-3983.html" title="Summer School on Complex Analysis: Interplay of Dynamics, Geometry, and Probability" target="_blank">Summer School on Complex Analysis: Interplay of Dynamics, Geometry, and Probability</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
