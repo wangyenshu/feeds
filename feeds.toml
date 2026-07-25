@@ -1,31 +1,3 @@
-[NankaiMathUndergradNews]
-title = "南开大学数学学院本科生教育消息"
-url = "https://math.nankai.edu.cn/"
-entrySelector = "#container-2 .mod2 .ml .post-23 .news_list li.news"
-titleSelector = ".news_title a:nth-of-type(2)"
-linkSelector = ".news_title a"
-
-[NankaiJWCNotices]
-title = "南开大学教务处通知"
-url = "https://jwc.nankai.edu.cn/"
-entrySelector = ".section1-list .item a"
-titleSelector = ".con:nth-of-type(2)"
-linkSelector = ".con:nth-of-type(1)"
-
-[ChernInstituteAcademicNews]
-title = "陈省身数学研究所 学术动态"
-url = "http://www.nim.nankai.edu.cn/xsbg/list.htm"
-entrySelector = ".col_news_list .wp_article_list .list_item"
-titleSelector = ".fields.pr_fields span:nth-of-type(2)"
-linkSelector = ".fields.pr_fields span:nth-of-type(2)"
-
-[ChernInstituteAcademicConferences]
-title = "陈省身数学研究所 学术会议"
-url = "http://www.nim.nankai.edu.cn/xshy/list.htm"
-entrySelector = ".col_news_list .wp_article_list .list_item"
-titleSelector = ".Article_Title a"
-linkSelector = ".Article_Title a"
-
 [ClayMathEvent]
 title = "Clay Mathematics Institute Events"
 url = "https://www.claymath.org/events/"
