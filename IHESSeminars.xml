@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-07-24T18:58:21.800Z</updated>
+    <updated>2026-07-25T07:33:39.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.960Z</updated>
+        <updated>2026-07-25T07:33:06.519Z</updated>
         <content type="html"><![CDATA[Monday 20 July 2026<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.960Z</updated>
+        <updated>2026-07-25T07:33:06.520Z</updated>
         <content type="html"><![CDATA[Friday 17 July 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -51,12 +51,12 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.960Z</updated>
+        <updated>2026-07-25T07:33:06.521Z</updated>
         <content type="html"><![CDATA[Thursday 16 July 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional ${mathbb Z}_N$ lattice gauge theory]]></title>
+        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional {mathbb Z}_N{mathbb Z}_N lattice gauge theory]]></title>
         <id>https://indico.math.cnrs.fr/event/16932/</id>
         <link href="https://indico.math.cnrs.fr/event/16932/"/>
         <updated>2026-07-06T19:15:55.839Z</updated>
@@ -64,7 +64,7 @@
 																		Séminaire de Physique Théorique									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional ${mathbb Z}_N$ lattice gauge theory</a>
+									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
 								</h3>
 								<p><strong> Jutho Haegeman</strong></p>]]></content>
     </entry>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.960Z</updated>
+        <updated>2026-07-25T07:33:06.525Z</updated>
         <content type="html"><![CDATA[Thursday 16 July 2026<br>
 								from 14:00 to 15:00]]></content>
     </entry>
@@ -93,7 +93,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.961Z</updated>
+        <updated>2026-07-25T07:33:06.525Z</updated>
         <content type="html"><![CDATA[Wednesday 08 July 2026<br>
 								from 11:00 to 12:30]]></content>
     </entry>
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[10]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.961Z</updated>
+        <updated>2026-07-25T07:33:06.526Z</updated>
         <content type="html"><![CDATA[Thursday 25 June 2026<br>
 								from 14:45 to 16:00]]></content>
     </entry>
@@ -135,7 +135,7 @@
         <title type="html"><![CDATA[12]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.964Z</updated>
+        <updated>2026-07-25T07:33:06.530Z</updated>
         <content type="html"><![CDATA[Thursday 18 June 2026<br>
 								from 11:00 to 12:30]]></content>
     </entry>
@@ -156,7 +156,7 @@
         <title type="html"><![CDATA[14]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.964Z</updated>
+        <updated>2026-07-25T07:33:06.531Z</updated>
         <content type="html"><![CDATA[Wednesday 17 June 2026<br>
 								from 14:30 to 16:00]]></content>
     </entry>
@@ -177,7 +177,7 @@
         <title type="html"><![CDATA[16]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.965Z</updated>
+        <updated>2026-07-25T07:33:06.532Z</updated>
         <content type="html"><![CDATA[Tuesday 16 June 2026<br>
 								from 15:00 to 16:00]]></content>
     </entry>
@@ -198,7 +198,7 @@
         <title type="html"><![CDATA[18]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.966Z</updated>
+        <updated>2026-07-25T07:33:06.534Z</updated>
         <content type="html"><![CDATA[Tuesday 16 June 2026<br>
 								from 13:30 to 14:30]]></content>
     </entry>
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[20]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.968Z</updated>
+        <updated>2026-07-25T07:33:06.535Z</updated>
         <content type="html"><![CDATA[Friday 29 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -235,7 +235,7 @@
         <title type="html"><![CDATA[22]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.969Z</updated>
+        <updated>2026-07-25T07:33:06.539Z</updated>
         <content type="html"><![CDATA[Thursday 28 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -251,7 +251,7 @@
         <title type="html"><![CDATA[24]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.972Z</updated>
+        <updated>2026-07-25T07:33:06.550Z</updated>
         <content type="html"><![CDATA[Wednesday 27 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -267,7 +267,7 @@
         <title type="html"><![CDATA[26]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.974Z</updated>
+        <updated>2026-07-25T07:33:06.552Z</updated>
         <content type="html"><![CDATA[Tuesday 26 May 2026 from 14:00]]></content>
     </entry>
     <entry>
@@ -283,7 +283,7 @@
         <title type="html"><![CDATA[28]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.974Z</updated>
+        <updated>2026-07-25T07:33:06.553Z</updated>
         <content type="html"><![CDATA[Tuesday 28 April 2026 from 11:00]]></content>
     </entry>
     <entry>
@@ -299,7 +299,7 @@
         <title type="html"><![CDATA[30]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.974Z</updated>
+        <updated>2026-07-25T07:33:06.555Z</updated>
         <content type="html"><![CDATA[Tuesday 21 April 2026 from 11:00]]></content>
     </entry>
     <entry>
@@ -315,7 +315,7 @@
         <title type="html"><![CDATA[32]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.975Z</updated>
+        <updated>2026-07-25T07:33:06.560Z</updated>
         <content type="html"><![CDATA[Tuesday 14 April 2026 from 11:00]]></content>
     </entry>
     <entry>
@@ -331,7 +331,7 @@
         <title type="html"><![CDATA[34]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.975Z</updated>
+        <updated>2026-07-25T07:33:06.560Z</updated>
         <content type="html"><![CDATA[Tuesday 07 April 2026 from 11:00]]></content>
     </entry>
     <entry>
@@ -347,7 +347,7 @@
         <title type="html"><![CDATA[36]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.977Z</updated>
+        <updated>2026-07-25T07:33:06.561Z</updated>
         <content type="html"><![CDATA[Friday 20 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -363,7 +363,7 @@
         <title type="html"><![CDATA[38]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.978Z</updated>
+        <updated>2026-07-25T07:33:06.561Z</updated>
         <content type="html"><![CDATA[Tuesday 17 February 2026 from 10:30]]></content>
     </entry>
     <entry>
@@ -379,7 +379,7 @@
         <title type="html"><![CDATA[40]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.979Z</updated>
+        <updated>2026-07-25T07:33:06.562Z</updated>
         <content type="html"><![CDATA[from Monday 31 to Friday 04 June 2027]]></content>
     </entry>
     <entry>
@@ -398,7 +398,7 @@
         <title type="html"><![CDATA[42]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.980Z</updated>
+        <updated>2026-07-25T07:33:06.565Z</updated>
         <content type="html"><![CDATA[from Monday 06 to Friday 17 July 2026]]></content>
     </entry>
     <entry>
@@ -416,7 +416,7 @@
         <title type="html"><![CDATA[44]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.981Z</updated>
+        <updated>2026-07-25T07:33:06.565Z</updated>
         <content type="html"><![CDATA[from Monday 01 to Tuesday 02 June 2026]]></content>
     </entry>
     <entry>
@@ -434,7 +434,7 @@
         <title type="html"><![CDATA[46]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.983Z</updated>
+        <updated>2026-07-25T07:33:06.566Z</updated>
         <content type="html"><![CDATA[on Thursday 28 May 2026<br>from 09:00 to 15:00]]></content>
     </entry>
     <entry>
@@ -452,7 +452,7 @@
         <title type="html"><![CDATA[48]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.984Z</updated>
+        <updated>2026-07-25T07:33:06.567Z</updated>
         <content type="html"><![CDATA[on Friday 03 April 2026<br>from 09:30 to 17:30]]></content>
     </entry>
     <entry>
@@ -470,7 +470,7 @@
         <title type="html"><![CDATA[50]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.984Z</updated>
+        <updated>2026-07-25T07:33:06.571Z</updated>
         <content type="html"><![CDATA[from Tuesday 24 to Thursday 26 March 2026]]></content>
     </entry>
     <entry>
@@ -488,7 +488,7 @@
         <title type="html"><![CDATA[52]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.986Z</updated>
+        <updated>2026-07-25T07:33:06.573Z</updated>
         <content type="html"><![CDATA[from Monday 09 to Thursday 12 March 2026]]></content>
     </entry>
     <entry>
@@ -506,7 +506,7 @@
         <title type="html"><![CDATA[54]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.987Z</updated>
+        <updated>2026-07-25T07:33:06.573Z</updated>
         <content type="html"><![CDATA[from Monday 12 to Friday 16 January 2026]]></content>
     </entry>
     <entry>
@@ -524,7 +524,7 @@
         <title type="html"><![CDATA[56]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.990Z</updated>
+        <updated>2026-07-25T07:33:06.573Z</updated>
         <content type="html"><![CDATA[from Wednesday 19 to Friday 21 November 2025]]></content>
     </entry>
     <entry>
@@ -542,7 +542,7 @@
         <title type="html"><![CDATA[58]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.991Z</updated>
+        <updated>2026-07-25T07:33:06.575Z</updated>
         <content type="html"><![CDATA[from Monday 27 to Friday 31 October 2025]]></content>
     </entry>
     <entry>
@@ -560,7 +560,7 @@
         <title type="html"><![CDATA[60]]></title>
         <id>https://www.ihes.fr/en/events/#seminars</id>
         <link href="https://www.ihes.fr/en/events/#seminars"/>
-        <updated>2026-07-24T18:57:50.997Z</updated>
+        <updated>2026-07-25T07:33:06.576Z</updated>
         <content type="html"><![CDATA[on Wednesday 15 October 2025<br>from 09:30 to 16:00]]></content>
     </entry>
     <entry>
