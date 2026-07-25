@@ -2,10 +2,6 @@
 # Description
 Adding RSS feeds for some math sites that do not support rss natively.
 # Feed List
-- https://wangyenshu.github.io/feeds/NankaiMathUndergradNews
-- https://wangyenshu.github.io/feeds/NankaiJWCNotices
-- https://wangyenshu.github.io/feeds/ChernInstituteAcademicNews
-- https://wangyenshu.github.io/feeds/ChernInstituteAcademicConferences
 - https://wangyenshu.github.io/feeds/ClayMathEvent
 - https://wangyenshu.github.io/feeds/CRMathActivities
 - https://wangyenshu.github.io/feeds/MathInstituteEvents
