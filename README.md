@@ -16,6 +16,10 @@ Adding RSS feeds for some math sites that do not support rss natively.
 - https://wangyenshu.github.io/feeds/ResearchSeminars
 - https://wangyenshu.github.io/feeds/SimonsFundingOpportunities
 - https://wangyenshu.github.io/feeds/AMSOpportunities
+- https://wangyenshu.github.io/feeds/MathProgramsGradEarlyCareer
+- https://wangyenshu.github.io/feeds/MathProgramsPrizesAwards
+- https://wangyenshu.github.io/feeds/MathProgramsFellowshipsGrants
+- https://wangyenshu.github.io/feeds/MathJobsPostdoctoral
 
 # Credit
 - https://github.com/Vinnl/feeds
