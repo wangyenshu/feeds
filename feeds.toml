@@ -95,3 +95,10 @@ url = "https://www.ams.org/opportunities"
 entrySelector = "div.opportunity-list-view"
 titleSelector = "h2 a.newWindow"
 linkSelector = "h2 a.newWindow"
+
+[MathProgramsGradEarlyCareer]
+title = "MathPrograms.Org — Graduate or Early Career Programs"
+url = "https://www.mathprograms.org/db?joblst-0-3---40-t--"
+entrySelector = "ol.sp5.ldt li"
+titleSelector = "span[aria-hidden='true']"
+linkSelector = "a[href^='/db/programs/']"
