@@ -102,3 +102,10 @@ url = "https://www.mathprograms.org/db?joblst-0-3---40-t--"
 entrySelector = "ol.sp5.ldt li"
 titleSelector = "span[aria-hidden='true']"
 linkSelector = "a[href^='/db/programs/']"
+
+[MathProgramsPrizesAwards]
+title = "MathPrograms.Org — Prizes and Awards"
+url = "https://www.mathprograms.org/db?joblst-0-4---40-t--"
+entrySelector = "ol.sp5.ldt li"
+titleSelector = "span[aria-hidden='true']"
+linkSelector = "a[href^='/db/programs/']"
