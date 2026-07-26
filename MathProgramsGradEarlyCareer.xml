@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-3---40-t--</id>
     <title>MathPrograms.Org — Graduate or Early Career Programs</title>
-    <updated>2026-07-26T05:37:16.163Z</updated>
+    <updated>2026-07-26T05:38:59.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -31,8 +31,6 @@
         <id>https://www.mathprograms.org/db/programs/1889</id>
         <link href="https://www.mathprograms.org/db/programs/1889"/>
         <updated>2026-07-26T05:22:05.646Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1889" id="k1889" aria-labelledby="k1889 j1889">NEXT26</a>] <span id="j1889" aria-hidden="true">MAA Project NExT - 2026</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/04/15 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/04/15 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/04/15 11:59PM">2026/04/16 03:59 AM UTC</span>, Graduate or early career program)</span><span id="jn1889"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/75/1889/apply"><span class="gray sml">ez</span>Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1889" id="k1889" aria-labelledby="k1889 j1889">NEXT26</a>] <span id="j1889" aria-hidden="true">MAA Project NExT - 2026</span>&nbsp;<span class="purplesml">(deadline 2026/04/15 11:59PM, Graduate or early career program)</span><span id="jn1889"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/75/1889/apply"><span class="gray sml">ez</span>Apply</a></span>]]></content>
     </entry>
 </feed>
