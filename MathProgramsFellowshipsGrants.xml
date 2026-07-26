@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.mathprograms.org/db?joblst-0-5---40-t--</id>
+    <title>MathPrograms.Org — Fellowships and Grants</title>
+    <updated>2026-07-26T05:37:16.149Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.mathprograms.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Joan and Joseph Birman Fellowship for the Advancement of Women Scholars]]></title>
+        <id>https://www.mathprograms.org/db/programs/1936</id>
+        <link href="https://www.mathprograms.org/db/programs/1936"/>
+        <updated>2026-07-26T05:37:12.685Z</updated>
+        <content type="html"><![CDATA[[<a href="/db/programs/1936" id="k1936" aria-labelledby="k1936 j1936">BIRMAN27</a>] <span id="j1936" aria-hidden="true">The Joan and Joseph Birman Fellowship for the Advancement of Women Scholars</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1936"></span> <span class="sml">&nbsp; <a href="https://ebus.ams.org/ebus/listings/manage.aspx?name=fellowship">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMS Centennial Fellowship]]></title>
+        <id>https://www.mathprograms.org/db/programs/1934</id>
+        <link href="https://www.mathprograms.org/db/programs/1934"/>
+        <updated>2026-07-26T05:37:12.701Z</updated>
+        <content type="html"><![CDATA[[<a href="/db/programs/1934" id="k1934" aria-labelledby="k1934 j1934">CENT27</a>] <span id="j1934" aria-hidden="true">AMS Centennial Fellowship</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1934"></span> <span class="sml">&nbsp; <a href="https://ebus.ams.org/ebus/listings/manage.aspx?name=fellowship">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claytor-Gilmer Fellowship]]></title>
+        <id>https://www.mathprograms.org/db/programs/1935</id>
+        <link href="https://www.mathprograms.org/db/programs/1935"/>
+        <updated>2026-07-26T05:37:12.701Z</updated>
+        <content type="html"><![CDATA[[<a href="/db/programs/1935" id="k1935" aria-labelledby="k1935 j1935">CLAYGIL27</a>] <span id="j1935" aria-hidden="true">Claytor-Gilmer Fellowship</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1935"></span> <span class="sml">&nbsp; <a href="https://ebus.ams.org/ebus/listings/manage.aspx?name=fellowship">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stefan Bergman Fellowship]]></title>
+        <id>https://www.mathprograms.org/db/programs/1933</id>
+        <link href="https://www.mathprograms.org/db/programs/1933"/>
+        <updated>2026-07-26T05:37:12.701Z</updated>
+        <content type="html"><![CDATA[[<a href="/db/programs/1933" id="k1933" aria-labelledby="k1933 j1933">STEFBERG27</a>] <span id="j1933" aria-hidden="true">Stefan Bergman Fellowship</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1933"></span> <span class="sml">&nbsp; <a href="https://ebus.ams.org/ebus/listings/manage.aspx?name=fellowship">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+</feed>
