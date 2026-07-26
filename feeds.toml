@@ -81,3 +81,10 @@ url = "https://researchseminars.org/"
 entrySelector = "tr.talk:not(.lasttime)"
 titleSelector = "td.talktitle a"
 linkSelector = "td.seriesname a"
+
+[SimonsFundingOpportunities]
+title = "Simons Foundation — Funding Opportunities"
+url = "https://www.simonsfoundation.org/funding-opportunities/"
+entrySelector = "article.m-post--tabular--programs"
+titleSelector = "h4.m-post__title a"
+linkSelector = "h4.m-post__title a"
