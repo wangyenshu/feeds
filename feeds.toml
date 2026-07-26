@@ -116,3 +116,10 @@ url = "https://www.mathprograms.org/db?joblst-0-5---40-t--"
 entrySelector = "ol.sp5.ldt li"
 titleSelector = "span[aria-hidden='true']"
 linkSelector = "a[href^='/db/programs/']"
+
+[MathJobsPostdoctoral]
+title = "MathJobs.Org — Postdoctoral"
+url = "https://www.mathjobs.org/jobs?joblst-0-3---40-t--"
+entrySelector = "ol.sp5.ldt li"
+titleSelector = "span[aria-hidden='true']"
+linkSelector = "a[href^='/jobs/list/']"
