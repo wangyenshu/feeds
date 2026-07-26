@@ -74,3 +74,10 @@ url = "https://ymsc.tsinghua.edu.cn/en/"
 entrySelector = ".main_box > .tzxs:nth-of-type(2) .tzxs_right .box.fix_ksd ul.list-data-wrap li.item"
 titleSelector = "a.right.text .t-1"
 linkSelector = "a.right.text"
+
+[ResearchSeminars]
+title = "researchseminars.org"
+url = "https://researchseminars.org/"
+entrySelector = "tr.talk:not(.lasttime)"
+titleSelector = "td.talktitle a"
+linkSelector = "td.seriesname a"
