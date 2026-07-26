@@ -88,3 +88,10 @@ url = "https://www.simonsfoundation.org/funding-opportunities/"
 entrySelector = "article.m-post--tabular--programs"
 titleSelector = "h4.m-post__title a"
 linkSelector = "h4.m-post__title a"
+
+[AMSOpportunities]
+title = "AMS Mathematical Opportunities"
+url = "https://www.ams.org/opportunities"
+entrySelector = "div.opportunity-list-view"
+titleSelector = "h2 a.newWindow"
+linkSelector = "h2 a.newWindow"
