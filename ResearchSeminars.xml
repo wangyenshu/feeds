@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-27T08:55:22.040Z</updated>
+    <updated>2026-07-27T18:56:49.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Quasi-particle bases of standard modules for affine Lie algebras]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Jul 27</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://sites.google.com/site/marijanabutorac1/curriculum-vitae">Marijana Butorac</a></td><td class="talktitle"><a title="Quasi-particle bases of standard modules for affine Lie algebras" knowl="talk/ENAAS/182">Quasi-particle bases of standard modules for affine Lie algebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the construction of foldings of branched covers along knots]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Jul 27</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Byeorhi Kim</td><td class="talktitle"><a title="On the construction of foldings of branched covers along knots" knowl="talk/Knotsandtopology/174">On the construction of foldings of branched covers along knots</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A proof of the p-adic Gross-Zagier theorem - Part II]]></title>
         <id>https://researchseminars.org/seminar/CarletonOttawaNT</id>
@@ -34,11 +20,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Jul 28</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://robmuth.com/">Rob Muth</a></td><td class="talktitle"><a title="Crystals and KLR representations in type $A_1^{(1)}$" knowl="talk/OISTRTS/79">Crystals and KLR representations in type <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>A</mi><mn>1</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></msubsup></mrow><annotation encoding="application/x-tex">A_1^{(1)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.31111em; vertical-align: -0.266308em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.0448em;"><span class="" style="top: -2.43369em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span class="" style="top: -3.2198em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mclose mtight">)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.266308em;"><span class=""></span></span></span></span></span></span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology]]></title>
         <id>https://researchseminars.org/seminar/Biocontrol</id>
         <link href="https://researchseminars.org/seminar/Biocontrol"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Jul 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">Samuel Schaffter</td><td class="talktitle"><a title="TBA" knowl="talk/Biocontrol/57">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Jul 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">Zoila Jurado and Samuel Schaffter</td><td class="talktitle"><a title="Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology" knowl="talk/Biocontrol/57">Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gelfand-Kirillov bound for GL_2]]></title>
@@ -48,11 +34,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/HCMCAlg">KIAS HCMC Algebra Seminar</a></td><td class="speaker">Reinier Sorgdrager</td><td class="talktitle"><a title="Gelfand-Kirillov bound for GL_2" knowl="talk/HCMCAlg/4">Gelfand-Kirillov bound for GL_2</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Toric Topology of the complex Grassmann manifolds G(n,2)]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Матвей Андреевич Сергеев</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/152">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Matvey A. Sergeev</td><td class="talktitle"><a title="Toric Topology of the complex Grassmann manifolds G(n,2)" knowl="talk/Mos-Bei-top-seminar/152">Toric Topology of the complex Grassmann manifolds G(n,2)</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Results of the Prosocial Ranking Challenge]]></title>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
         <updated>2026-07-26T05:01:56.516Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IAMP_seminars">One world IAMP mathematical physics seminar</a></td><td class="speaker"><a href="https://www.unige.ch/~panisr/home.html">Romain Panis</a></td><td class="talktitle"><a title="A random walk approach to high-dimensional critical phenomena" knowl="talk/IAMP_seminars/199">A random walk approach to high-dimensional critical phenomena</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
+        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
+        <updated>2026-07-26T05:01:56.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/79">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NYC-NCG</id>
+        <link href="https://researchseminars.org/seminar/NYC-NCG"/>
+        <updated>2026-07-26T05:01:56.522Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://liyuezhao.github.io/">Yuezhao Li</a></td><td class="talktitle"><a title="TBA" knowl="talk/NYC-NCG/224">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

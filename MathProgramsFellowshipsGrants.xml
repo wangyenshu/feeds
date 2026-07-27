@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-5---40-t--</id>
     <title>MathPrograms.Org — Fellowships and Grants</title>
-    <updated>2026-07-27T08:55:22.071Z</updated>
+    <updated>2026-07-27T18:56:49.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -32,5 +32,12 @@
         <link href="https://www.mathprograms.org/db/programs/1933"/>
         <updated>2026-07-26T05:37:12.701Z</updated>
         <content type="html"><![CDATA[[<a href="/db/programs/1933" id="k1933" aria-labelledby="k1933 j1933">STEFBERG27</a>] <span id="j1933" aria-hidden="true">Stefan Bergman Fellowship</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1933"></span> <span class="sml">&nbsp; <a href="https://ebus.ams.org/ebus/listings/manage.aspx?name=fellowship">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWM - Mathematics Travel Grants]]></title>
+        <id>https://www.mathprograms.org/db/programs/1938</id>
+        <link href="https://www.mathprograms.org/db/programs/1938"/>
+        <updated>2026-07-27T18:56:45.963Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathprograms.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/db/programs/1938" id="k1938" aria-labelledby="k1938 j1938">20263TRAVEL</a>] <span id="j1938" aria-hidden="true">AWM - Mathematics Travel Grants</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1938"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1938/apply">Apply</a></span>]]></content>
     </entry>
 </feed>
