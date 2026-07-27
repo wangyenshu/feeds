@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-26T18:33:16.381Z</updated>
+    <updated>2026-07-27T08:55:22.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-07-26T05:01:56.392Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Матвей Андреевич Сергеев</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/152">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Results of the Prosocial Ranking Challenge]]></title>
+        <id>https://researchseminars.org/seminar/Metagov</id>
+        <link href="https://researchseminars.org/seminar/Metagov"/>
+        <updated>2026-07-27T08:54:55.613Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Jonathan Stray</td><td class="talktitle"><a title="The Results of the Prosocial Ranking Challenge" knowl="talk/Metagov/292">The Results of the Prosocial Ranking Challenge</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Modelling ocean-driven melt beneath Antarctic ice shelves]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
         <updated>2026-07-26T05:01:56.516Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IAMP_seminars">One world IAMP mathematical physics seminar</a></td><td class="speaker"><a href="https://www.unige.ch/~panisr/home.html">Romain Panis</a></td><td class="talktitle"><a title="A random walk approach to high-dimensional critical phenomena" knowl="talk/IAMP_seminars/199">A random walk approach to high-dimensional critical phenomena</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
-        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
-        <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/79">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

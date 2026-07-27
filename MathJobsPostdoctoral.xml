@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-07-26T18:33:16.313Z</updated>
+    <updated>2026-07-27T08:55:22.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -244,13 +244,6 @@
         <content type="html"><![CDATA[[<a href="/jobs/list/28481" id="k28481" aria-labelledby="k28481 j28481">RIEHLPOSTDOC</a>] <span id="j28481" aria-hidden="true">Postdoctoral Fellow-  JHU Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/06/30 11:59PM, Postdoctoral)</span><span id="jn28481"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/JHU/28481/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior Research Associate – MARS / IceDice]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28557</id>
-        <link href="https://www.mathjobs.org/jobs/list/28557"/>
-        <updated>2026-07-26T05:37:15.606Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28557" id="k28557" aria-labelledby="k28557 j28557">SRA</a>] <span id="j28557" aria-hidden="true">Senior Research Associate – MARS / IceDice</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28557"></span>  <span class="sml">&nbsp; <a href="https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=0540-26">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postdoctoral Scholar]]></title>
         <id>https://www.mathjobs.org/jobs/list/28165</id>
         <link href="https://www.mathjobs.org/jobs/list/28165"/>
@@ -284,5 +277,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28420"/>
         <updated>2026-07-26T05:37:15.617Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28420" id="k28420" aria-labelledby="k28420 j28420">PDA1</a>] <span id="j28420" aria-hidden="true">Post-Doctoral Associate</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28420"></span>  <span class="sml">&nbsp; <a href="https://apply.interfolio.com/157854">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Research Associate, Biology]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28624</id>
+        <link href="https://www.mathjobs.org/jobs/list/28624"/>
+        <updated>2026-07-27T08:55:21.494Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28624" id="k28624" aria-labelledby="k28624 j28624">PRABIO27</a>] <span id="j28624" aria-hidden="true">Postdoctoral Research Associate, Biology</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28624"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NEU/28624/apply">Apply</a></span>]]></content>
     </entry>
 </feed>
