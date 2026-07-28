@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-28T08:00:20.110Z</updated>
+    <updated>2026-07-28T18:56:32.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology]]></title>
-        <id>https://researchseminars.org/seminar/Biocontrol</id>
-        <link href="https://researchseminars.org/seminar/Biocontrol"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Jul 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">Zoila Jurado and Samuel Schaffter</td><td class="talktitle"><a title="Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology" knowl="talk/Biocontrol/57">Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Gelfand-Kirillov bound for GL_2]]></title>
         <id>https://researchseminars.org/seminar/HCMCAlg</id>
@@ -62,6 +55,13 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/2153797?ui-citation-summary=true">Ahmed I. Abdalla</a></td><td class="talktitle"><a title="A Chaotic Form Factor in Topological Gravity" knowl="talk/EUPAC-TP/38">A Chaotic Form Factor in Topological Gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[London Learning Lean]]></title>
+        <id>https://researchseminars.org/seminar/LondonLearningLean</id>
+        <link href="https://researchseminars.org/seminar/LondonLearningLean"/>
+        <updated>2026-07-28T18:56:05.210Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/35">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Detecting loops of singular long knots with polynomial complexity]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 01</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Thomas Fiedler</td><td class="talktitle"><a title="Detecting loops of singular long knots with polynomial complexity" knowl="talk/knotgraphgroup/161">Detecting loops of singular long knots with polynomial complexity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Algebraic geometry over division rings]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Elad Paran</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/187">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Elad Paran</td><td class="talktitle"><a title="Algebraic geometry over division rings" knowl="talk/ENAAS/187">Algebraic geometry over division rings</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Detecting single gravitons with gravitational wave detectors]]></title>
