@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-27T18:56:49.521Z</updated>
+    <updated>2026-07-28T08:00:20.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[A proof of the p-adic Gross-Zagier theorem - Part II]]></title>
-        <id>https://researchseminars.org/seminar/CarletonOttawaNT</id>
-        <link href="https://researchseminars.org/seminar/CarletonOttawaNT"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Jul 27</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/CarletonOttawaNT">Carleton-Ottawa Number Theory seminar</a></td><td class="speaker">Peter Neamti</td><td class="talktitle"><a title="A proof of the p-adic Gross-Zagier theorem - Part II" knowl="talk/CarletonOttawaNT/77">A proof of the p-adic Gross-Zagier theorem - Part II</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystals and KLR representations in type A1(1)A_1^{(1)}A1(1)​]]></title>
-        <id>https://researchseminars.org/seminar/OISTRTS</id>
-        <link href="https://researchseminars.org/seminar/OISTRTS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Jul 28</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://robmuth.com/">Rob Muth</a></td><td class="talktitle"><a title="Crystals and KLR representations in type $A_1^{(1)}$" knowl="talk/OISTRTS/79">Crystals and KLR representations in type <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msubsup><mi>A</mi><mn>1</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></msubsup></mrow><annotation encoding="application/x-tex">A_1^{(1)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.31111em; vertical-align: -0.266308em;"></span><span class="mord"><span class="mord mathdefault">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.0448em;"><span class="" style="top: -2.43369em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span><span class="" style="top: -3.2198em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mtight">1</span><span class="mclose mtight">)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.266308em;"><span class=""></span></span></span></span></span></span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Towards interoperable modeling of toehold-mediated strand exchange circuits across DNA nanotechnology and engineering biology]]></title>
         <id>https://researchseminars.org/seminar/Biocontrol</id>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/NYC-NCG"/>
         <updated>2026-07-26T05:01:56.522Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://liyuezhao.github.io/">Yuezhao Li</a></td><td class="talktitle"><a title="TBA" knowl="talk/NYC-NCG/224">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/PHSeminar</id>
+        <link href="https://researchseminars.org/seminar/PHSeminar"/>
+        <updated>2026-07-26T05:01:56.460Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Thulasi Mylvaganam</td><td class="talktitle"><a title="TBA" knowl="talk/PHSeminar/41">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
+        <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
+        <updated>2026-07-26T05:01:56.466Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Dominik Trnka</td><td class="talktitle"><a title="TBA" knowl="talk/ToposInstituteColloquium/230">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
