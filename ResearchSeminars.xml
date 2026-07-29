@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-29T08:05:25.931Z</updated>
+    <updated>2026-07-29T18:33:22.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Gelfand-Kirillov bound for GL_2]]></title>
-        <id>https://researchseminars.org/seminar/HCMCAlg</id>
-        <link href="https://researchseminars.org/seminar/HCMCAlg"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC"><b>07:00</b></td><td class="seriesname"><a href="/seminar/HCMCAlg">KIAS HCMC Algebra Seminar</a></td><td class="speaker">Reinier Sorgdrager</td><td class="talktitle"><a title="Gelfand-Kirillov bound for GL_2" knowl="talk/HCMCAlg/4">Gelfand-Kirillov bound for GL_2</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toric Topology of the complex Grassmann manifolds G(n,2)]]></title>
-        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
-        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
-        <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC"><b>07:30</b></td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Matvey A. Sergeev</td><td class="talktitle"><a title="Toric Topology of the complex Grassmann manifolds G(n,2)" knowl="talk/Mos-Bei-top-seminar/152">Toric Topology of the complex Grassmann manifolds G(n,2)</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Results of the Prosocial Ranking Challenge]]></title>
-        <id>https://researchseminars.org/seminar/Metagov</id>
-        <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-27T08:54:55.613Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Jul 29</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Jonathan Stray</td><td class="talktitle"><a title="The Results of the Prosocial Ranking Challenge" knowl="talk/Metagov/292">The Results of the Prosocial Ranking Challenge</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Modelling ocean-driven melt beneath Antarctic ice shelves]]></title>
         <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
@@ -66,7 +45,7 @@
         <id>https://researchseminars.org/seminar/CompMath</id>
         <link href="https://researchseminars.org/seminar/CompMath"/>
         <updated>2026-07-29T08:05:04.879Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Ambar Sengupta</td><td class="talktitle"><a title="Diffeology: A gentle introduction" knowl="talk/CompMath/34">Diffeology: A gentle introduction</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Ambar Sengupta and Dion Mann</td><td class="talktitle"><a title="Diffeology: A gentle introduction" knowl="talk/CompMath/34">Diffeology: A gentle introduction</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Detecting loops of singular long knots with polynomial complexity]]></title>
@@ -423,7 +402,7 @@
         <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
         <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
         <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/AI-for-the-working-mathematician/4">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Harold Williams</td><td class="talktitle"><a title="TBA" knowl="talk/AI-for-the-working-mathematician/4">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +683,26 @@
         <link href="https://researchseminars.org/seminar/PHSeminar"/>
         <updated>2026-07-26T05:01:56.460Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Thulasi Mylvaganam</td><td class="talktitle"><a title="TBA" knowl="talk/PHSeminar/41">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
+        <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
+        <updated>2026-07-26T05:01:56.466Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Dominik Trnka</td><td class="talktitle"><a title="TBA" knowl="talk/ToposInstituteColloquium/230">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/OLS</id>
+        <link href="https://researchseminars.org/seminar/OLS"/>
+        <updated>2026-07-26T05:01:56.439Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Christine Eagles</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/213">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
+        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
+        <updated>2026-07-26T05:01:56.455Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/164">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
