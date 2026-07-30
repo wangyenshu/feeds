@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-07-29T18:33:22.468Z</updated>
+    <updated>2026-07-30T18:56:19.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -283,6 +283,6 @@
         <id>https://www.mathjobs.org/jobs/list/28624</id>
         <link href="https://www.mathjobs.org/jobs/list/28624"/>
         <updated>2026-07-27T08:55:21.494Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28624" id="k28624" aria-labelledby="k28624 j28624">PRABIO27</a>] <span id="j28624" aria-hidden="true">Postdoctoral Research Associate, Biology</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28624"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NEU/28624/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28624" id="k28624" aria-labelledby="k28624 j28624">PRABIO27</a>] <span id="j28624" aria-hidden="true">Postdoctoral Research Associate, Biology</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28624"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NEU/28624/apply">Apply</a></span>]]></content>
     </entry>
 </feed>
