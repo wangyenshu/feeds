@@ -2,46 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-07-30T18:56:19.868Z</updated>
+    <updated>2026-07-31T08:16:59.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer@ICERM 2026: Pure and Applied Mathematical Models]]></title>
-        <id>https://mathinstitutes.org/events/1394/view/</id>
-        <link href="https://mathinstitutes.org/events/1394/view/"/>
-        <updated>2026-05-16T18:13:07.725Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1394/view/" target="_blank" rel="noopener">Summer@ICERM 2026: Pure and Applied Mathematical Models</a></h5>
-			<div class="event-info">ICERM - June 8, 2026 to July 31, 2026</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai]]></title>
         <id>https://mathinstitutes.org/events/1425/view/</id>
@@ -78,43 +41,6 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1425/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Sendai</a></h5>
 			<div class="event-info">IPAM - June 16, 2026 to August 6, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
-        <id>https://mathinstitutes.org/events/1427/view/</id>
-        <link href="https://mathinstitutes.org/events/1427/view/"/>
-        <updated>2026-06-19T09:59:05.243Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
-        <id>https://mathinstitutes.org/events/1427/view/</id>
-        <link href="https://mathinstitutes.org/events/1427/view/"/>
-        <updated>2026-06-19T09:59:05.243Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
-        <id>https://mathinstitutes.org/events/1427/view/</id>
-        <link href="https://mathinstitutes.org/events/1427/view/"/>
-        <updated>2026-06-19T09:59:05.243Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
@@ -154,78 +80,41 @@
 			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moduli of Varieties]]></title>
-        <id>https://mathinstitutes.org/events/1335/view/</id>
-        <link href="https://mathinstitutes.org/events/1335/view/"/>
-        <updated>2026-07-10T08:48:13.239Z</updated>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.243Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1335/view/" target="_blank" rel="noopener">Moduli of Varieties</a></h5>
-			<div class="event-info">SLMath - July 20, 2026 to July 31, 2026</div>
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
 
 					</div>
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moduli of Varieties]]></title>
-        <id>https://mathinstitutes.org/events/1335/view/</id>
-        <link href="https://mathinstitutes.org/events/1335/view/"/>
-        <updated>2026-07-10T08:48:13.239Z</updated>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.243Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1335/view/" target="_blank" rel="noopener">Moduli of Varieties</a></h5>
-			<div class="event-info">SLMath - July 20, 2026 to July 31, 2026</div>
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moduli of Varieties]]></title>
-        <id>https://mathinstitutes.org/events/1335/view/</id>
-        <link href="https://mathinstitutes.org/events/1335/view/"/>
-        <updated>2026-07-10T08:48:13.239Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1335/view/" target="_blank" rel="noopener">Moduli of Varieties</a></h5>
-			<div class="event-info">SLMath - July 20, 2026 to July 31, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
-        <id>https://mathinstitutes.org/events/1341/view/</id>
-        <link href="https://mathinstitutes.org/events/1341/view/"/>
-        <updated>2026-07-17T07:32:58.878Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
-			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
-        <id>https://mathinstitutes.org/events/1341/view/</id>
-        <link href="https://mathinstitutes.org/events/1341/view/"/>
-        <updated>2026-07-17T07:32:58.878Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
-			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research experiences for undergraduate faculty]]></title>
-        <id>https://mathinstitutes.org/events/1341/view/</id>
-        <link href="https://mathinstitutes.org/events/1341/view/"/>
-        <updated>2026-07-17T07:32:58.878Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1341/view/" target="_blank" rel="noopener">Research experiences for undergraduate faculty</a></h5>
-			<div class="event-info">AIM - July 27, 2026 to July 31, 2026</div>]]></content>
+        <title type="html"><![CDATA[Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin]]></title>
+        <id>https://mathinstitutes.org/events/1427/view/</id>
+        <link href="https://mathinstitutes.org/events/1427/view/"/>
+        <updated>2026-06-19T09:59:05.243Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1427/view/" target="_blank" rel="noopener">Graduate Research in Industrial Projects for Students (GRIPS) 2026 – Berlin</a></h5>
+			<div class="event-info">IPAM - June 22, 2026 to August 14, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Synergies between Geometry, Probability, and Computation in High Dimensions]]></title>
@@ -339,6 +228,80 @@
 			<div class="event-info">AIM - August 10, 2026 to August 14, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
+        <id>https://mathinstitutes.org/events/1390/view/</id>
+        <link href="https://mathinstitutes.org/events/1390/view/"/>
+        <updated>2026-07-31T08:15:54.972Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
+			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
+        <id>https://mathinstitutes.org/events/1390/view/</id>
+        <link href="https://mathinstitutes.org/events/1390/view/"/>
+        <updated>2026-07-31T08:15:54.974Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
+			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
+        <id>https://mathinstitutes.org/events/1390/view/</id>
+        <link href="https://mathinstitutes.org/events/1390/view/"/>
+        <updated>2026-07-31T08:15:54.975Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
+			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-07-31T08:15:54.976Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-07-31T08:15:54.978Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-07-31T08:15:54.979Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://mathinstitutes.org/events/1297/view/</id>
         <link href="https://mathinstitutes.org/events/1297/view/"/>
@@ -397,5 +360,42 @@
 						<img src="/uploads/2025/02/images/16660_event_1297.jpg" alt="Representation Theory Under the Influence of Quantum Field Theory Thumbnail Image" class="event-thumbnail img-fluid pb-3 pb-md-0">
 					</div>
 				</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-07-31T08:15:54.985Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-07-31T08:15:54.986Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-07-31T08:15:54.987Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-07-30T18:56:19.901Z</updated>
+    <updated>2026-07-31T08:16:58.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.mathjobs.org/jobs/list/19866"/>
         <updated>2026-07-26T05:37:15.568Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/19866" id="k19866" aria-labelledby="k19866 j19866">POSTDOCTORATEHCMS2026</a>] <span id="j19866" aria-hidden="true">Postdoctoral Positions at Hua Loo-Keng Center for Mathematical Sciences</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn19866"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/AMSS/19866/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral Fellow]]></title>
-        <id>https://www.mathjobs.org/jobs/list/26936</id>
-        <link href="https://www.mathjobs.org/jobs/list/26936"/>
-        <updated>2026-07-26T05:37:15.570Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/26936" id="k26936" aria-labelledby="k26936 j26936">POSTDOC</a>] <span id="j26936" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn26936"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/1517/26936/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical foundations of approximation by (deep) neural networks]]></title>
@@ -213,7 +206,7 @@
         <id>https://www.mathjobs.org/jobs/list/28627</id>
         <link href="https://www.mathjobs.org/jobs/list/28627"/>
         <updated>2026-07-26T05:37:15.599Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28627" id="k28627" aria-labelledby="k28627 j28627">PNT</a>] <span id="j28627" aria-hidden="true">Postdoc in number theory</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28627"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/ISTA/28627/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28627" id="k28627" aria-labelledby="k28627 j28627">PNT</a>] <span id="j28627" aria-hidden="true">Postdoc in number theory</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28627"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/ISTA/28627/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Fellowship in Mathematics]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28624"/>
         <updated>2026-07-27T08:55:21.494Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28624" id="k28624" aria-labelledby="k28624 j28624">PRABIO27</a>] <span id="j28624" aria-hidden="true">Postdoctoral Research Associate, Biology</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28624"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NEU/28624/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Fellow]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28521</id>
+        <link href="https://www.mathjobs.org/jobs/list/28521"/>
+        <updated>2026-07-31T08:16:58.481Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28521" id="k28521" aria-labelledby="k28521 j28521">POSTDOC</a>] <span id="j28521" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28521"></span>  <span class="sml"></span>]]></content>
     </entry>
 </feed>

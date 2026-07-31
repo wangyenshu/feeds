@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-30T18:56:19.907Z</updated>
+    <updated>2026-07-31T08:16:59.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[A Chaotic Form Factor in Topological Gravity]]></title>
-        <id>https://researchseminars.org/seminar/EUPAC-TP</id>
-        <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
-        <updated>2026-07-26T05:01:56.398Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/2153797?ui-citation-summary=true">Ahmed I. Abdalla</a></td><td class="talktitle"><a title="A Chaotic Form Factor in Topological Gravity" knowl="talk/EUPAC-TP/38">A Chaotic Form Factor in Topological Gravity</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[London Learning Lean]]></title>
         <id>https://researchseminars.org/seminar/LondonLearningLean</id>
@@ -86,7 +79,7 @@
         <title type="html"><![CDATA[Counting polynomial solutions over finite fields and applications]]></title>
         <id>https://researchseminars.org/seminar/KyuDaiSem</id>
         <link href="https://researchseminars.org/seminar/KyuDaiSem"/>
-        <updated>2026-07-30T18:55:55.008Z</updated>
+        <updated>2026-07-30T18:55:55.002Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/KyuDaiSem">Kyushu University Algebra Seminar</a></td><td class="speaker">Francis Brown</td><td class="talktitle"><a title="Counting polynomial solutions over finite fields and applications" knowl="talk/KyuDaiSem/22">Counting polynomial solutions over finite fields and applications</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -121,7 +114,7 @@
         <title type="html"><![CDATA[Conflict Systems Zine Launch]]></title>
         <id>https://researchseminars.org/seminar/Metagov</id>
         <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-30T18:55:55.016Z</updated>
+        <updated>2026-07-30T18:55:55.007Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 12</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Media Economies Design Lab</td><td class="talktitle"><a title="Conflict Systems Zine Launch" knowl="talk/Metagov/294">Conflict Systems Zine Launch</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -198,7 +191,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
         <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.036Z</updated>
+        <updated>2026-07-30T18:55:55.010Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Beatrice Brienza</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/113">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -247,7 +240,7 @@
         <title type="html"><![CDATA[How to Exit to Community: A Cookbook for Blockchain Communities]]></title>
         <id>https://researchseminars.org/seminar/Metagov</id>
         <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-30T18:55:55.046Z</updated>
+        <updated>2026-07-30T18:55:55.007Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 26</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Tara Merk, Primavera de Fillippi, Danny Spitzberg, &amp; Nathan Schneider</td><td class="talktitle"><a title="How to Exit to Community: A Cookbook for Blockchain Communities" knowl="talk/Metagov/295">How to Exit to Community: A Cookbook for Blockchain Communities</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -338,7 +331,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
         <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.065Z</updated>
+        <updated>2026-07-30T18:55:55.010Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Darlan Ferreira de Oliveira</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/114">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -464,7 +457,7 @@
         <title type="html"><![CDATA[Nature-centric governance using The Interspecies Council]]></title>
         <id>https://researchseminars.org/seminar/Metagov</id>
         <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-30T18:55:55.091Z</updated>
+        <updated>2026-07-30T18:55:55.007Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker"><a href="https://www.phoebetickell.com/">Phoebe Tickell</a></td><td class="talktitle"><a title="Nature-centric governance using The Interspecies Council" knowl="talk/Metagov/296">Nature-centric governance using The Interspecies Council</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -513,7 +506,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
         <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.100Z</updated>
+        <updated>2026-07-30T18:55:55.010Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Marco Guaraco</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/115">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/221">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
+        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
+        <updated>2026-07-26T05:01:56.441Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Pengyu Liu</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/134">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
