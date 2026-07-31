@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-07-31T08:16:59.023Z</updated>
+    <updated>2026-07-31T18:53:57.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[London Learning Lean]]></title>
-        <id>https://researchseminars.org/seminar/LondonLearningLean</id>
-        <link href="https://researchseminars.org/seminar/LondonLearningLean"/>
-        <updated>2026-07-28T18:56:05.210Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/35">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffeology: A gentle introduction]]></title>
-        <id>https://researchseminars.org/seminar/CompMath</id>
-        <link href="https://researchseminars.org/seminar/CompMath"/>
-        <updated>2026-07-29T08:05:04.879Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Jul 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Ambar Sengupta and Dion Mann</td><td class="talktitle"><a title="Diffeology: A gentle introduction" knowl="talk/CompMath/34">Diffeology: A gentle introduction</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting loops of singular long knots with polynomial complexity]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Pengyu Liu</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/134">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
+        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
+        <updated>2026-07-26T05:01:56.455Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/163">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UCLAAnalysisSeminar</id>
+        <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
+        <updated>2026-07-31T18:53:32.795Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Siddharth Mulherkar</td><td class="talktitle"><a title="TBA" knowl="talk/UCLAAnalysisSeminar/262">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

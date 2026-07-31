@@ -2,38 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-07-31T08:16:58.995Z</updated>
+    <updated>2026-07-31T18:53:57.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
-    <entry>
-        <title type="html"><![CDATA[Synthetic Plant Biology]]></title>
-        <id>https://www.simonsfoundation.org/grant/synthetic-plant-biology/</id>
-        <link href="https://www.simonsfoundation.org/grant/synthetic-plant-biology/"/>
-        <updated>2026-07-26T05:10:17.760Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/synthetic-plant-biology/" class="m-post__block-link">
-                    Synthetic Plant Biology                </a>
-            </h4>
-            <div class="m-post__main">
-                The Synthetic Plant Biology program is intended to support research that applies engineering principles and techniques to advance our understanding of how plants function. These projects can tackle a variety of goals, including the development of sensors to study plant physiological responses, the engineering of plants capable of withstanding inhospitable environments, genetic modifications that reveal…            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Life Sciences | Plant Biology</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Junior Fellows of the Simons Society of Fellows]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/</id>
@@ -290,6 +261,35 @@
                 Investigators            </div>
             <span class="head">Status - </span>
             Applications Open October 1, 2026
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Plant Biology]]></title>
+        <id>https://www.simonsfoundation.org/grant/synthetic-plant-biology/</id>
+        <link href="https://www.simonsfoundation.org/grant/synthetic-plant-biology/"/>
+        <updated>2026-07-26T05:10:17.760Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/synthetic-plant-biology/" class="m-post__block-link">
+                    Synthetic Plant Biology                </a>
+            </h4>
+            <div class="m-post__main">
+                The Synthetic Plant Biology program is intended to support research that applies engineering principles and techniques to advance our understanding of how plants function. These projects can tackle a variety of goals, including the development of sensors to study plant physiological responses, the engineering of plants capable of withstanding inhospitable environments, genetic modifications that reveal…            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Life Sciences | Plant Biology</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Closed
                     </aside>
 
 
