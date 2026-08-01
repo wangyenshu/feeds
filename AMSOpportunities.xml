@@ -2,29 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ams.org/opportunities</id>
     <title>AMS Mathematical Opportunities</title>
-    <updated>2026-07-31T18:53:57.309Z</updated>
+    <updated>2026-08-01T07:42:53.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ams.org/images/Logo-Favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Summer 2026 at NYMC]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494388</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494388"/>
-        <updated>2026-07-26T05:10:26.934Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494388" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Summer 2026 at NYMC</a></h2>
-<p><span class="category"><span class="category category-8">Math Camps</span>, <span class="category category-9">Math Circles</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-1">Pre-college students and teachers</span></span><br>
-<span class="description">Hello Math Circle Families,
-<br>
-<br>We’re thrilled to invite you to the 2026 Summer Program at New York Math Circle—a dynamic journey into the world of mathematical discovery!
-<br>
-<br>Whether your student joins us in person at NYU or via our live online sessions, they will connect with a vibrant community of thinkers. This year, we’ve updated our format to provide an even more targeted, high-impact experience for every level.
-<br>
-<br>High School Summer Program (HSSP)
-<br>A deep dive for motivated high schoolers. … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494388" rel="1">[Read More]</a></span><br>
-<span class="sponsor_name"><a href="https://www.nymathcircle.org/">New York Math Circle</a></span><br>
-<span class="open_date">Date Posted: Feb 03, 2026</span><br>
-<span class="deadline_date">Deadline: Aug 01, 2026</span><br>
-</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AWESOMEMATH Summer Program]]></title>
         <id>https://www.ams.org/opportunities/view/listing?listing_id=494219</id>
@@ -173,6 +153,19 @@
 <br></span><br>
 <span class="sponsor_name"><a href="https://www.journals.elsevier.com/journal-of-complexity/awards/joseph-f-traub-young-researcher-award">Journal of Complexity, Elsevier</a></span><br>
 <span class="open_date">Date Posted: Sep 30, 2025</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AMR invites nominations for the Fred R. Cohen Prize]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494447</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494447"/>
+        <updated>2026-08-01T07:42:42.492Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494447" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>The AMR invites nominations for the Fred R. Cohen Prize</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">This prize honors the work of Fred R. Cohen, who made fundamental advances in a range of fields.  The award is granted every other year to a person who has made outstanding contributions in the fields of algebraic topology and homotopy theory.  Candidates from anywhere in the world are equally considered.   The prize includes a cash award of $5,000.  Nominations are due September 30, 2026.  More information including nominations instructions can be found here: … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494447" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://amathr.org/prizes/cohenprize/">The Association for Mathematical Research</a></span><br>
+<span class="open_date">Date Posted: May 26, 2026</span><br>
 <span class="deadline_date">Deadline: Sep 30, 2026</span><br>
 </p>]]></content>
     </entry>

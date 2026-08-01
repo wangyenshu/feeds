@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-07-31T18:53:57.332Z</updated>
+    <updated>2026-08-01T07:42:53.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -66,7 +66,9 @@
         <id>https://www.mathjobs.org/jobs/list/28587</id>
         <link href="https://www.mathjobs.org/jobs/list/28587"/>
         <updated>2026-07-26T05:37:15.567Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28587" id="k28587" aria-labelledby="k28587 j28587">AR</a>] <span id="j28587" aria-hidden="true">Investigador temporal ordinario (Associate Researcher level C)</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28587"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/CIMAT/28587/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28587" id="k28587" aria-labelledby="k28587 j28587">AR</a>] <span id="j28587" aria-hidden="true">Investigador temporal ordinario (Associate Researcher level C)</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/08/01 12:00AM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/08/01 12:00AM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/08/01 12:00AM">2026/08/01 04:00 AM UTC</span>, Postdoctoral)</span><span id="jn28587"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/CIMAT/28587/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Positions at Hua Loo-Keng Center for Mathematical Sciences]]></title>
@@ -131,7 +133,9 @@
         <id>https://www.mathjobs.org/jobs/list/28585</id>
         <link href="https://www.mathjobs.org/jobs/list/28585"/>
         <updated>2026-07-26T05:37:15.582Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28585" id="k28585" aria-labelledby="k28585 j28585">RA</a>] <span id="j28585" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28585"></span>  <span class="sml">&nbsp; <a href="https://obp.uni-goettingen.de/de-de/OBF/Index/76582">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28585" id="k28585" aria-labelledby="k28585 j28585">RA</a>] <span id="j28585" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28585"></span>  <span class="sml">&nbsp; <a href="https://obp.uni-goettingen.de/de-de/OBF/Index/76582">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in]]></title>
@@ -279,13 +283,6 @@
         <content type="html"><![CDATA[[<a href="/jobs/list/28563" id="k28563" aria-labelledby="k28563 j28563">POSTDOCFALL2027</a>] <span id="j28563" aria-hidden="true">Post Doctoral</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28563"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NMSU/28563/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Post-Doctoral Associate]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28420</id>
-        <link href="https://www.mathjobs.org/jobs/list/28420"/>
-        <updated>2026-07-26T05:37:15.617Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28420" id="k28420" aria-labelledby="k28420 j28420">PDA1</a>] <span id="j28420" aria-hidden="true">Post-Doctoral Associate</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28420"></span>  <span class="sml">&nbsp; <a href="https://apply.interfolio.com/157854">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postdoctoral Research Associate, Biology]]></title>
         <id>https://www.mathjobs.org/jobs/list/28624</id>
         <link href="https://www.mathjobs.org/jobs/list/28624"/>
@@ -298,5 +295,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28521"/>
         <updated>2026-07-31T08:16:58.481Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28521" id="k28521" aria-labelledby="k28521 j28521">POSTDOC</a>] <span id="j28521" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28521"></span>  <span class="sml"></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instructors in mathematics, BICMR, PKU]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28640</id>
+        <link href="https://www.mathjobs.org/jobs/list/28640"/>
+        <updated>2026-08-01T07:42:52.551Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28640" id="k28640" aria-labelledby="k28640 j28640">INSTRUCTOR1</a>] <span id="j28640" aria-hidden="true">Instructors in mathematics, BICMR, PKU</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28640"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28640/apply">Apply</a></span>]]></content>
     </entry>
 </feed>
