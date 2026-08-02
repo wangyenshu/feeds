@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-08-02T07:45:18.357Z</updated>
+    <updated>2026-08-02T18:30:36.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -60,15 +60,6 @@
         <link href="https://www.mathjobs.org/jobs/list/28090"/>
         <updated>2026-07-26T05:37:15.565Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28090" id="k28090" aria-labelledby="k28090 j28090">VAP26</a>] <span id="j28090" aria-hidden="true">Visiting Assistant Professor</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28090"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/Binghamton/28090/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigador temporal ordinario (Associate Researcher level C)]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28587</id>
-        <link href="https://www.mathjobs.org/jobs/list/28587"/>
-        <updated>2026-07-26T05:37:15.567Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28587" id="k28587" aria-labelledby="k28587 j28587">AR</a>] <span id="j28587" aria-hidden="true">Investigador temporal ordinario (Associate Researcher level C)</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/08/01 12:00AM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/08/01 12:00AM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/08/01 12:00AM">2026/08/01 04:00 AM UTC</span>, Postdoctoral)</span><span id="jn28587"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/CIMAT/28587/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Positions at Hua Loo-Keng Center for Mathematical Sciences]]></title>
@@ -302,5 +293,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28640"/>
         <updated>2026-08-01T07:42:52.551Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28640" id="k28640" aria-labelledby="k28640 j28640">INSTRUCTOR1</a>] <span id="j28640" aria-hidden="true">Instructors in mathematics, BICMR, PKU</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28640"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28640/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral positions (2 years)]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28639</id>
+        <link href="https://www.mathjobs.org/jobs/list/28639"/>
+        <updated>2026-08-02T18:30:35.727Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28639" id="k28639" aria-labelledby="k28639 j28639">POSTDOC4</a>] <span id="j28639" aria-hidden="true">Postdoctoral positions (2 years)</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28639"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28639/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

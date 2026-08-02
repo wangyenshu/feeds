@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-08-02T07:45:18.341Z</updated>
+    <updated>2026-08-02T18:30:36.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://mathinstitutes.org/events/1321/view/</id>
         <link href="https://mathinstitutes.org/events/1321/view/"/>
-        <updated>2026-08-02T07:44:11.355Z</updated>
+        <updated>2026-08-02T07:44:11.353Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://mathinstitutes.org/events/1321/view/</id>
         <link href="https://mathinstitutes.org/events/1321/view/"/>
-        <updated>2026-08-02T07:44:11.357Z</updated>
+        <updated>2026-08-02T07:44:11.353Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1321/view/" target="_blank" rel="noopener">Representation Theory Under the Influence of Quantum Field Theory</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>]]></content>
