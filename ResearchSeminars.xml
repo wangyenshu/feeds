@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-03T08:48:29.954Z</updated>
+    <updated>2026-08-03T19:07:01.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Algebraic geometry over division rings]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.openu.ac.il/en/personalsites/eladparan.aspx">Elad Paran</a></td><td class="talktitle"><a title="Algebraic geometry over division rings" knowl="talk/ENAAS/187">Algebraic geometry over division rings</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parity on based matrices]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="Parity on based matrices" knowl="talk/Knotsandtopology/175">Parity on based matrices</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting single gravitons with gravitational wave detectors]]></title>
         <id>https://researchseminars.org/seminar/3cqfs</id>
@@ -60,6 +46,13 @@
         <link href="https://researchseminars.org/seminar/KyuDaiSem"/>
         <updated>2026-07-30T18:55:55.002Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/KyuDaiSem">Kyushu University Algebra Seminar</a></td><td class="speaker">Francis Brown</td><td class="talktitle"><a title="Counting polynomial solutions over finite fields and applications" knowl="talk/KyuDaiSem/22">Counting polynomial solutions over finite fields and applications</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A potential method for logical gates via anyon permutations]]></title>
+        <id>https://researchseminars.org/seminar/MathPic</id>
+        <link href="https://researchseminars.org/seminar/MathPic"/>
+        <updated>2026-08-03T19:06:37.518Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/MathPic">Mathematical Picture Language Seminar</a></td><td class="speaker">Zijian Song</td><td class="talktitle"><a title="A potential method for logical gates via anyon permutations" knowl="talk/MathPic/153">A potential method for logical gates via anyon permutations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -536,6 +529,13 @@
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/77">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/harvard-mit-ag-seminar</id>
+        <link href="https://researchseminars.org/seminar/harvard-mit-ag-seminar"/>
+        <updated>2026-08-03T19:06:37.638Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/harvard-mit-ag-seminar">Harvard MIT Algebraic Geometry Seminar</a></td><td class="speaker">Sebastián Olano</td><td class="talktitle"><a title="TBA" knowl="talk/harvard-mit-ag-seminar/130">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The first moment of primitive cubic L-functions with fixed genus]]></title>
