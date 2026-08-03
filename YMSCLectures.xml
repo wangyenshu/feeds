@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-08-02T18:30:36.263Z</updated>
+    <updated>2026-08-03T08:48:29.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -18,7 +18,7 @@
         <div class="t-1">Rethinking the theoretical foundation of reinforcement learning</div>
         <div class="t-2">Abstract: Given two candidate functions, can we identify which one is the true value function of a large Markov decision process (MDP), given a "benign" dataset? Trivial as it might seem, a version of the question was open for 20+ years in reinforcement learning (RL), and the core difficulties are intimately related to the training instability of modern deep RL. In this talk, I will argue that ...</div>
         <div class="t-3">Speaker：Nan Jiang (University of Illinois at Urbana-Champaign)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>

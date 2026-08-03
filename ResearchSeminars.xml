@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-02T18:30:36.283Z</updated>
+    <updated>2026-08-03T08:48:29.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Semi-stability in the arithmetic quotients of loop groups]]></title>
-        <id>https://researchseminars.org/seminar/KyuDaiSem</id>
-        <link href="https://researchseminars.org/seminar/KyuDaiSem"/>
-        <updated>2026-07-30T18:55:55.002Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/KyuDaiSem">Kyushu University Algebra Seminar</a></td><td class="speaker">Manish Patnaik</td><td class="talktitle"><a title="Semi-stability in the arithmetic quotients of loop groups" knowl="talk/KyuDaiSem/23">Semi-stability in the arithmetic quotients of loop groups</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Algebraic geometry over division rings]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Elad Paran</td><td class="talktitle"><a title="Algebraic geometry over division rings" knowl="talk/ENAAS/187">Algebraic geometry over division rings</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 03</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.openu.ac.il/en/personalsites/eladparan.aspx">Elad Paran</a></td><td class="talktitle"><a title="Algebraic geometry over division rings" knowl="talk/ENAAS/187">Algebraic geometry over division rings</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parity on based matrices]]></title>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
         <updated>2026-07-31T18:53:32.795Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Siddharth Mulherkar</td><td class="talktitle"><a title="TBA" knowl="talk/UCLAAnalysisSeminar/262">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.ntnu.edu/employees/kristian.seip">Kristian Seip</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/205">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
