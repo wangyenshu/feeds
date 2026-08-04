@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-03T19:07:01.720Z</updated>
+    <updated>2026-08-04T08:02:00.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://researchseminars.org/seminar/3cqfs</id>
         <link href="https://researchseminars.org/seminar/3cqfs"/>
         <updated>2026-07-26T05:01:56.403Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 04</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/3cqfs">Tricontinental Quantum Fundamentals Seminar</a></td><td class="speaker"><a href="https://www.su.se/english/profiles/g/geto4665">Germain Tobar</a></td><td class="talktitle"><a title="Detecting single gravitons with gravitational wave detectors" knowl="talk/3cqfs/43">Detecting single gravitons with gravitational wave detectors</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 04</td><td class="time" title="UTC"><b>07:00</b></td><td class="seriesname"><a href="/seminar/3cqfs">Tricontinental Quantum Fundamentals Seminar</a></td><td class="speaker"><a href="https://www.su.se/english/profiles/g/geto4665">Germain Tobar</a></td><td class="talktitle"><a title="Detecting single gravitons with gravitational wave detectors" knowl="talk/3cqfs/43">Detecting single gravitons with gravitational wave detectors</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moment Estimates and Discrepancy for Sums of Square Roots Modulo One]]></title>
