@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-04T08:02:00.761Z</updated>
+    <updated>2026-08-04T19:07:58.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Detecting single gravitons with gravitational wave detectors]]></title>
-        <id>https://researchseminars.org/seminar/3cqfs</id>
-        <link href="https://researchseminars.org/seminar/3cqfs"/>
-        <updated>2026-07-26T05:01:56.403Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 04</td><td class="time" title="UTC"><b>07:00</b></td><td class="seriesname"><a href="/seminar/3cqfs">Tricontinental Quantum Fundamentals Seminar</a></td><td class="speaker"><a href="https://www.su.se/english/profiles/g/geto4665">Germain Tobar</a></td><td class="talktitle"><a title="Detecting single gravitons with gravitational wave detectors" knowl="talk/3cqfs/43">Detecting single gravitons with gravitational wave detectors</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Moment Estimates and Discrepancy for Sums of Square Roots Modulo One]]></title>
         <id>https://researchseminars.org/seminar/UNSW-NTSeminar</id>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
         <updated>2026-07-26T05:01:56.491Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.ntnu.edu/employees/kristian.seip">Kristian Seip</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/205">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ENAAS</id>
+        <link href="https://researchseminars.org/seminar/ENAAS"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Silvia Properzi</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/188">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

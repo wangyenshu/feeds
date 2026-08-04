@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-4---40-t--</id>
     <title>MathPrograms.Org — Prizes and Awards</title>
-    <updated>2026-08-04T08:02:00.754Z</updated>
+    <updated>2026-08-04T19:07:58.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -182,7 +182,7 @@
         <id>https://www.mathprograms.org/db/programs/1939</id>
         <link href="https://www.mathprograms.org/db/programs/1939"/>
         <updated>2026-08-02T07:45:12.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathprograms.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/db/programs/1939" id="k1939" aria-labelledby="k1939 j1939">2027SCHAFER</a>] <span id="j1939" aria-hidden="true">AWM ALICE T. SCHAFER MATHEMATICS PRIZE</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1939"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1939/apply">Nominate</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1939" id="k1939" aria-labelledby="k1939 j1939">2027SCHAFER</a>] <span id="j1939" aria-hidden="true">AWM ALICE T. SCHAFER MATHEMATICS PRIZE</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1939"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1939/apply">Nominate</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2028 AWM-AMS NOETHER LECTURE]]></title>
