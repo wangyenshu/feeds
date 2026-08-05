@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-08-04T19:07:58.912Z</updated>
+    <updated>2026-08-05T19:02:04.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
     <entry>
@@ -122,6 +122,35 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Solar Radiation Management]]></title>
+        <id>https://www.simonsfoundation.org/grant/solar-radiation-management/</id>
+        <link href="https://www.simonsfoundation.org/grant/solar-radiation-management/"/>
+        <updated>2026-07-26T05:10:17.815Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/solar-radiation-management/" class="m-post__block-link">
+                    Solar Radiation Management                </a>
+            </h4>
+            <div class="m-post__main">
+                The Simons Foundation has launched an international collaborative research program designed to fill fundamental scientific knowledge gaps relevant to Solar Radiation Management.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators, Other            </div>
+            <span class="head">Status - </span>
+            Open Award Start Date <span class="m-post__muted">August 1, 2027</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Simons Collaborations in Mathematics and the Physical Sciences]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/</id>
         <link href="https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/"/>
@@ -203,38 +232,6 @@
                 Investigators            </div>
             <span class="head">Status - </span>
             Rolling, <span class="m-post__muted"> LOI Submission Required.</span>
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solar Radiation Management]]></title>
-        <id>https://www.simonsfoundation.org/grant/solar-radiation-management/</id>
-        <link href="https://www.simonsfoundation.org/grant/solar-radiation-management/"/>
-        <updated>2026-07-26T05:10:17.815Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/solar-radiation-management/" class="m-post__block-link">
-                    Solar Radiation Management                </a>
-            </h4>
-            <div class="m-post__main">
-                The Simons Foundation has launched an international collaborative research program designed to fill fundamental scientific knowledge gaps relevant to Solar Radiation Management.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators, Other            </div>
-            <span class="head">Status - </span>
-            Closed
-                            <br>
-                <a href="https://www.simonsfoundation.org/grant/solar-radiation-management/?tab=awardees" class="a-muted">
-                    See 2025 Awardees                </a>
                     </aside>
 
 
