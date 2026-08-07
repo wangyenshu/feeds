@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-07T06:46:38.186Z</updated>
+    <updated>2026-08-07T18:11:58.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[A potential method for logical gates via anyon permutations]]></title>
-        <id>https://researchseminars.org/seminar/MathPic</id>
-        <link href="https://researchseminars.org/seminar/MathPic"/>
-        <updated>2026-08-03T19:06:37.518Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/MathPic">Mathematical Picture Language Seminar</a></td><td class="speaker">Zijian Song</td><td class="talktitle"><a title="A potential method for logical gates via anyon permutations" knowl="talk/MathPic/153">A potential method for logical gates via anyon permutations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
-        <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 07</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Adrian Andrada</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/112">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On generalisations of groups G_{n}^{k} for moduli spaces, braid groups, and algebraic geometry]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -118,11 +104,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/2782501">Jyotirmoy Barman</a></td><td class="talktitle"><a title="Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order" knowl="talk/EUPAC-TP/41">Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Barbara Giunti</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/130">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Barbara Giunti</td><td class="talktitle"><a title="Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence" knowl="talk/GEOTOP-A/130">Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -188,11 +174,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/36">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Introduction to Khovanov Homology]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/131">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Introduction to Khovanov Homology" knowl="talk/GEOTOP-A/131">Introduction to Khovanov Homology</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -205,7 +191,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-08-07T06:46:17.199Z</updated>
+        <updated>2026-08-07T06:46:17.169Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 29</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Elizabeth Denne</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/163">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
         <updated>2026-07-26T05:01:56.464Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="https://www.ms.uky.edu/~xsh228/">Fernando Xuancheng Shao</a></td><td class="talktitle"><a title="TBA" knowl="talk/NTWebSeminar/313">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
+        <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
+        <updated>2026-07-26T05:01:56.466Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Thierry Coquand</td><td class="talktitle"><a title="TBA" knowl="talk/ToposInstituteColloquium/224">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/OLS</id>
+        <link href="https://researchseminars.org/seminar/OLS"/>
+        <updated>2026-07-26T05:01:56.439Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/221">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
