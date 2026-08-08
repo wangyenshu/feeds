@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-07T18:11:58.987Z</updated>
+    <updated>2026-08-08T06:06:51.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -179,13 +179,6 @@
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Introduction to Khovanov Homology" knowl="talk/GEOTOP-A/131">Introduction to Khovanov Homology</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/158">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/221">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
+        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
+        <updated>2026-07-26T05:01:56.441Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Pengyu Liu</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/134">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
