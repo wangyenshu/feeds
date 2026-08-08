@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-08T06:06:51.550Z</updated>
+    <updated>2026-08-08T17:59:59.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[On generalisations of groups G_{n}^{k} for moduli spaces, braid groups, and algebraic geometry]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-08-07T06:46:17.169Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 08</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Vassily O. Manturov</td><td class="talktitle"><a title="On generalisations of groups G_{n}^{k} for moduli spaces, braid groups, and algebraic geometry" knowl="talk/knotgraphgroup/162">On generalisations of groups G_{n}^{k} for moduli spaces, braid groups, and algebraic geometry</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/MicroBiotechDBTL</id>
@@ -25,6 +18,13 @@
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 10</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://w3.impa.br/~jethro/index.html">Jethro van Ekeren</a></td><td class="talktitle"><a title="Conformal blocks for quasi-lisse vertex algebras" knowl="talk/ENAAS/184">Conformal blocks for quasi-lisse vertex algebras</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homotopy index polynomials for knotoids]]></title>
+        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
+        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 10</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="Homotopy index polynomials for knotoids" knowl="talk/Knotsandtopology/176">Homotopy index polynomials for knotoids</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://luc-ta.github.io/">Lực Ta</a></td><td class="talktitle"><a title="From affine algebraic racks to Leibniz algebras and Yang–Baxter operators" knowl="talk/ENAAS/190">From affine algebraic racks to Leibniz algebras and Yang–Baxter operators</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[On the classification of 2-dimensional analogues of 2-bridge knots]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 19</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Jumpei Yasuda</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/157">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 19</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Jumpei Yasuda</td><td class="talktitle"><a title="On the classification of 2-dimensional analogues of 2-bridge knots" knowl="talk/Mos-Bei-top-seminar/157">On the classification of 2-dimensional analogues of 2-bridge knots</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knots, Links, and Polynomial Bounds]]></title>
@@ -535,7 +535,7 @@
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/37">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker"><a href="https://people.math.harvard.edu/~achenjang/">Niven Achenjang</a></td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/37">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The first moment of primitive cubic L-functions with fixed genus]]></title>
