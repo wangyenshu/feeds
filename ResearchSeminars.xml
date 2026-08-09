@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-08T17:59:59.043Z</updated>
+    <updated>2026-08-09T18:00:17.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -181,11 +181,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Introduction to Khovanov Homology" knowl="talk/GEOTOP-A/131">Introduction to Khovanov Homology</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Crossing number and ribbonlength of folded ribbon knots]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
         <updated>2026-08-07T06:46:17.169Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 29</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Elizabeth Denne</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/163">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 29</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Elizabeth Denne</td><td class="talktitle"><a title="Crossing number and ribbonlength of folded ribbon knots" knowl="talk/knotgraphgroup/163">Crossing number and ribbonlength of folded ribbon knots</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
