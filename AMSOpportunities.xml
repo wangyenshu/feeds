@@ -2,22 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ams.org/opportunities</id>
     <title>AMS Mathematical Opportunities</title>
-    <updated>2026-08-09T18:00:17.842Z</updated>
+    <updated>2026-08-10T06:51:55.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ams.org/images/Logo-Favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[AWESOMEMATH Summer Program]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494219</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494219"/>
-        <updated>2026-08-09T18:00:07.638Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494219" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>AWESOMEMATH Summer Program</a></h2>
-<p><span class="category"><span class="category category-8">Math Camps</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-1">Pre-college students and teachers</span></span><br>
-<span class="description">The AwesomeMath Summer Program is an intensive three-week online program for gifted students from around the globe. It is designed for bright middle and high school students who wish to sharpen their problem-solving skills and further their mathematics education. Many of our participants seek to improve their performance on contests such as AMC10/12, AIME, or USA(J)MO.</span><br>
-<span class="sponsor_name"><a href="https://www.awesomemath.org/summer-program/overview/program-information/">Apply at AwesomeMath</a></span><br>
-<span class="open_date">Date Posted: Jan 01, 2026</span><br>
-<span class="deadline_date">Deadline: Aug 10, 2026</span><br>
-</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[SMRI International Visitor Program - 2026 Round 2 - Applications close Tuesday 11 Aug 2026, 11:59pm AEST]]></title>
         <id>https://www.ams.org/opportunities/view/listing?listing_id=494468</id>
@@ -157,6 +144,19 @@
 <p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
 <span class="description">This prize honors the work of Fred R. Cohen, who made fundamental advances in a range of fields.  The award is granted every other year to a person who has made outstanding contributions in the fields of algebraic topology and homotopy theory.  Candidates from anywhere in the world are equally considered.   The prize includes a cash award of $5,000.  Nominations are due September 30, 2026.  More information including nominations instructions can be found here: … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494447" rel="1">[Read More]</a></span><br>
 <span class="sponsor_name"><a href="https://amathr.org/prizes/cohenprize/">The Association for Mathematical Research</a></span><br>
+<span class="open_date">Date Posted: May 26, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AMR invites nominations for the Prize in the Mathematics of Artificial Intelligence:]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494448</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494448"/>
+        <updated>2026-08-10T06:51:44.679Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494448" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>The AMR invites nominations for the Prize in the Mathematics of Artificial Intelligence:</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The Association for Mathematical Research will be awarding the third annual Prize in the Mathematics of Artificial Intelligence in 2026. The prize is awarded for research performed in the last 10 years in mathematics relevant to Artificial Intelligence and Machine Learning, or in AI research relevant to mathematics.  The prize includes a cash award of $50,000. Nominations are due September 30, 2026.   More information including nomination instructions can be found here: … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494448" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://amathr.org/prizes/aiprize/">The Association for Mathematical Research</a></span><br>
 <span class="open_date">Date Posted: May 26, 2026</span><br>
 <span class="deadline_date">Deadline: Sep 30, 2026</span><br>
 </p>]]></content>
