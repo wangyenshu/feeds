@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-10T06:51:55.447Z</updated>
+    <updated>2026-08-12T18:26:53.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/MicroBiotechDBTL</id>
-        <link href="https://researchseminars.org/seminar/MicroBiotechDBTL"/>
-        <updated>2026-07-26T05:01:56.425Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 10</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MicroBiotechDBTL">Seminar on Microbial Biotechnology: Developing the Conceptual Framework of the DBTL Cycle</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/MicroBiotechDBTL/10">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conformal blocks for quasi-lisse vertex algebras]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 10</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://w3.impa.br/~jethro/index.html">Jethro van Ekeren</a></td><td class="talktitle"><a title="Conformal blocks for quasi-lisse vertex algebras" knowl="talk/ENAAS/184">Conformal blocks for quasi-lisse vertex algebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homotopy index polynomials for knotoids]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 10</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="Homotopy index polynomials for knotoids" knowl="talk/Knotsandtopology/176">Homotopy index polynomials for knotoids</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
-        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
-        <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 12</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Hiroki Mizuno</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/148">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conflict Systems Zine Launch]]></title>
-        <id>https://researchseminars.org/seminar/Metagov</id>
-        <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-30T18:55:55.007Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 12</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Media Economies Design Lab</td><td class="talktitle"><a title="Conflict Systems Zine Launch" knowl="talk/Metagov/294">Conflict Systems Zine Launch</a></td><td class="subscribe"></td>]]></content>
+        <title type="html"><![CDATA[M23 is a Galois group over the rationals]]></title>
+        <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
+        <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
+        <updated>2026-08-12T18:26:30.773Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 13</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">John Voight</td><td class="talktitle"><a title="M23 is a Galois group over the rationals" knowl="talk/CompAlgSemMagma/27">M23 is a Galois group over the rationals</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 5:Quantum State Transformations]]></title>
@@ -53,6 +25,13 @@
         <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
         <updated>2026-07-26T05:01:56.398Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 14</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3114966">Ung Nguyen</a></td><td class="talktitle"><a title="Revisiting the k-theorem with the ANEC" knowl="talk/EUPAC-TP/40">Revisiting the k-theorem with the ANEC</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanning Trees and Fair Voting Maps]]></title>
+        <id>https://researchseminars.org/seminar/CompMath</id>
+        <link href="https://researchseminars.org/seminar/CompMath"/>
+        <updated>2026-08-12T18:26:30.779Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Kris Tapp</td><td class="talktitle"><a title="Spanning Trees and Fair Voting Maps" knowl="talk/CompMath/35">Spanning Trees and Fair Voting Maps</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coverings of Complete Graphs by Small Cliques and Applications]]></title>
@@ -133,10 +112,24 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ENAAS</id>
+        <link href="https://researchseminars.org/seminar/ENAAS"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Alexander Zheglov</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/205">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Николай Юрьевич Ероховец</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/171">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isomorphisms of graded semiconnected algebras]]></title>
+        <id>https://researchseminars.org/seminar/OISTRTS</id>
+        <link href="https://researchseminars.org/seminar/OISTRTS"/>
+        <updated>2026-08-12T18:26:30.794Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84">Isomorphisms of graded semiconnected algebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -192,7 +185,7 @@
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Veronika Pedić</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/194">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Shuai Hou</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/206">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -251,11 +244,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 03</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Cecilia Higgins</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/211">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Xia Kelin</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/132">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Kelin Xia</td><td class="talktitle"><a title="Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning" knowl="talk/GEOTOP-A/132">Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -269,7 +262,7 @@
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/159">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Eleftherios Chatzitheodoridis</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/159">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -388,7 +381,7 @@
         <id>https://researchseminars.org/seminar/NTBU</id>
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/52">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Mohamed Moakher</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/52">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -396,13 +389,6 @@
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">David Berger</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/136">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
-        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
-        <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/76">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -581,6 +567,20 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/SFUQNTAG</id>
+        <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
+        <updated>2026-08-12T18:26:30.889Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/SFUQNTAG">SFU NT-AG seminar</a></td><td class="speaker">Jim Bryan</td><td class="talktitle"><a title="TBA" knowl="talk/SFUQNTAG/170">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Algebra for Tensors in Field Theory]]></title>
+        <id>https://researchseminars.org/seminar/EUPAC-TP</id>
+        <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
+        <updated>2026-07-26T05:01:56.398Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
@@ -599,6 +599,13 @@
         <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
         <updated>2026-07-26T05:01:56.475Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On structural properties of Novikov algebras]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/221">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
-        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
-        <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Pengyu Liu</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/134">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
