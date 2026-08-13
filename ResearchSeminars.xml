@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-12T18:26:53.465Z</updated>
+    <updated>2026-08-13T06:57:24.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[M23 is a Galois group over the rationals]]></title>
-        <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
-        <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
-        <updated>2026-08-12T18:26:30.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 13</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">John Voight</td><td class="talktitle"><a title="M23 is a Galois group over the rationals" knowl="talk/CompAlgSemMagma/27">M23 is a Galois group over the rationals</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 5:Quantum State Transformations]]></title>
-        <id>https://researchseminars.org/seminar/QRB</id>
-        <link href="https://researchseminars.org/seminar/QRB"/>
-        <updated>2026-07-26T05:01:56.394Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 13</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Taehyeong Kim</td><td class="talktitle"><a title="Chapter 5:Quantum State Transformations" knowl="talk/QRB/7">Chapter 5:Quantum State Transformations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Revisiting the k-theorem with the ANEC]]></title>
         <id>https://researchseminars.org/seminar/EUPAC-TP</id>
@@ -67,6 +53,13 @@
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
         <updated>2026-07-26T05:01:56.417Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">--</td><td class="talktitle"><a title="TBA" knowl="talk/RSES_school_seminar/307">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Magma: computation, experimentation and new mathematics]]></title>
+        <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
+        <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
+        <updated>2026-08-12T18:26:30.773Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Don Taylor</td><td class="talktitle"><a title="Introduction to Magma: computation, experimentation and new mathematics" knowl="talk/CompAlgSemMagma/28">Introduction to Magma: computation, experimentation and new mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -416,7 +409,7 @@
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
         <updated>2026-07-26T05:01:56.417Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">--</td><td class="talktitle"><a title="TBA" knowl="talk/RSES_school_seminar/310">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Chengxin Jiang (RSES)</td><td class="talktitle"><a title="TBA" knowl="talk/RSES_school_seminar/310">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/221">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/SFUQNTAG</id>
+        <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
+        <updated>2026-08-12T18:26:30.889Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/SFUQNTAG">SFU NT-AG seminar</a></td><td class="speaker">Karl Schwede</td><td class="talktitle"><a title="TBA" knowl="talk/SFUQNTAG/171">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
