@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-13T06:57:24.330Z</updated>
+    <updated>2026-08-15T05:51:43.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
-        <title type="html"><![CDATA[Revisiting the k-theorem with the ANEC]]></title>
-        <id>https://researchseminars.org/seminar/EUPAC-TP</id>
-        <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
-        <updated>2026-07-26T05:01:56.398Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 14</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3114966">Ung Nguyen</a></td><td class="talktitle"><a title="Revisiting the k-theorem with the ANEC" knowl="talk/EUPAC-TP/40">Revisiting the k-theorem with the ANEC</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spanning Trees and Fair Voting Maps]]></title>
-        <id>https://researchseminars.org/seminar/CompMath</id>
-        <link href="https://researchseminars.org/seminar/CompMath"/>
-        <updated>2026-08-12T18:26:30.779Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Kris Tapp</td><td class="talktitle"><a title="Spanning Trees and Fair Voting Maps" knowl="talk/CompMath/35">Spanning Trees and Fair Voting Maps</a></td><td class="subscribe"></td>]]></content>
+        <title type="html"><![CDATA[Knots and Amusement]]></title>
+        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
+        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
+        <updated>2026-08-07T06:46:17.169Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 15</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Yangzhou Liu</td><td class="talktitle"><a title="Knots and Amusement" knowl="talk/knotgraphgroup/164">Knots and Amusement</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coverings of Complete Graphs by Small Cliques and Applications]]></title>
@@ -83,11 +76,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Barbara Giunti</td><td class="talktitle"><a title="Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence" knowl="talk/GEOTOP-A/130">Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Hermitian curvature flow and HKT geometry]]></title>
         <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
         <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
         <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Beatrice Brienza</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/113">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Beatrice Brienza</td><td class="talktitle"><a title="Hermitian curvature flow and HKT geometry" knowl="talk/AmSurAmSulGeometry/113">Hermitian curvature flow and HKT geometry</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shared hierarchical representations explain temporal correspondence between brain activity and deep neural networks]]></title>
@@ -195,11 +188,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 01</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Organizational meeting</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/34">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.]]></title>
         <id>https://researchseminars.org/seminar/PHSeminar</id>
         <link href="https://researchseminars.org/seminar/PHSeminar"/>
         <updated>2026-07-26T05:01:56.460Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Sebastian Schöps</td><td class="talktitle"><a title="TBA" knowl="talk/PHSeminar/40">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Sebastian Schöps</td><td class="talktitle"><a title="Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits." knowl="talk/PHSeminar/40">Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -312,6 +305,13 @@
         <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
         <updated>2026-07-26T05:01:56.482Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Jen Smith</td><td class="talktitle"><a title="Research publishing policy and open access workflows" knowl="talk/mathseminarsnuig/167">Research publishing policy and open access workflows</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gbgphd</id>
+        <link href="https://researchseminars.org/seminar/gbgphd"/>
+        <updated>2026-08-15T05:51:23.188Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Joseph Löfving</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/57">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>

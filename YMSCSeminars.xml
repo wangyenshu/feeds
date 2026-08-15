@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-08-13T06:57:24.325Z</updated>
+    <updated>2026-08-15T05:51:43.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -66,7 +66,7 @@
         <div class="t-1">代数讨论班</div>
         <div class="t-2">Title: AI for moduli of differentials时间和地点：2026年8月7日，周五下午1:30-2:30，教室双清c654主讲人：陈大卫，波士顿学院邀请人：邱宇Abstract: Differentials on Riemann surfaces correspond to translation surfaces with cone points, where the zero orders of differentials determine the cone angles of translation surfaces. Affine transformation acts on translation surfaces and preserves the zero type...</div>
         <div class="t-3">Speaker：陈大卫，波士顿学院</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>

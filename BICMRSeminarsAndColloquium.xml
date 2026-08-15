@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-08-13T06:57:24.335Z</updated>
+    <updated>2026-08-15T05:51:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -100,7 +100,7 @@
                         <p>Aug 17</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=135" title="Advances in Mathematical Fluid Dynamics 2026" target="_blank">Advances in Mathematical Fluid Dynamics 2026</a>
                         </p>
@@ -108,7 +108,7 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[the Second China-Uzbekistan Conference on Complex Analysis]]></title>
+        <title type="html"><![CDATA[The Second Sino-Uzbek Conference on Complex Analysis]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=140</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=140"/>
         <updated>2026-08-12T18:26:08.317Z</updated>
@@ -119,7 +119,7 @@
                                         <dd>
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
                         <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=140" title="the Second China-Uzbekistan Conference on Complex Analysis" target="_blank">the Second China-Uzbekistan Conference on Complex Analysis</a>
+                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=140" title="The Second Sino-Uzbek Conference on Complex Analysis" target="_blank">The Second Sino-Uzbek Conference on Complex Analysis</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>

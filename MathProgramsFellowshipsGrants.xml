@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-5---40-t--</id>
     <title>MathPrograms.Org — Fellowships and Grants</title>
-    <updated>2026-08-13T06:57:24.353Z</updated>
+    <updated>2026-08-15T05:51:43.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -39,5 +39,12 @@
         <link href="https://www.mathprograms.org/db/programs/1938"/>
         <updated>2026-08-08T17:59:55.869Z</updated>
         <content type="html"><![CDATA[[<a href="/db/programs/1938" id="k1938" aria-labelledby="k1938 j1938">20263TRAVEL</a>] <span id="j1938" aria-hidden="true">AWM - Mathematics Travel Grants</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1938"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1938/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruth I Michler Memorial Prize]]></title>
+        <id>https://www.mathprograms.org/db/programs/1946</id>
+        <link href="https://www.mathprograms.org/db/programs/1946"/>
+        <updated>2026-08-15T05:51:39.550Z</updated>
+        <content type="html"><![CDATA[[<a href="/db/programs/1946" id="k1946" aria-labelledby="k1946 j1946">MICHLER2728</a>] <span id="j1946" aria-hidden="true">Ruth I Michler Memorial Prize</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1946"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1946/apply">Nominate</a></span>]]></content>
     </entry>
 </feed>
