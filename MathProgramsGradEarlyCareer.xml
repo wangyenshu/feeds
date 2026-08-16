@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-3---40-t--</id>
     <title>MathPrograms.Org — Graduate or Early Career Programs</title>
-    <updated>2026-08-15T05:51:43.025Z</updated>
+    <updated>2026-08-16T05:54:26.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Poster Presentations at the AWM-JMM Workshop]]></title>
-        <id>https://www.mathprograms.org/db/programs/1924</id>
-        <link href="https://www.mathprograms.org/db/programs/1924"/>
-        <updated>2026-07-26T05:22:05.644Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1924" id="k1924" aria-labelledby="k1924 j1924">JMM27POSTER</a>] <span id="j1924" aria-hidden="true">Poster Presentations at the AWM-JMM Workshop</span>&nbsp;<span class="purplesml">(Graduate or early career program)</span><span id="jn1924"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1924/apply">Apply</a></span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[PCMI Research Topic Proposal]]></title>
         <id>https://www.mathprograms.org/db/programs/1925</id>

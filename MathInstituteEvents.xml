@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-08-15T05:51:43.026Z</updated>
+    <updated>2026-08-16T05:54:26.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Geometric properties of Hilbert schemes]]></title>
         <id>https://mathinstitutes.org/events/1342/view/</id>
         <link href="https://mathinstitutes.org/events/1342/view/"/>
-        <updated>2026-08-15T05:50:43.285Z</updated>
+        <updated>2026-08-15T05:50:43.284Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Geometric properties of Hilbert schemes]]></title>
         <id>https://mathinstitutes.org/events/1342/view/</id>
         <link href="https://mathinstitutes.org/events/1342/view/"/>
-        <updated>2026-08-15T05:50:43.285Z</updated>
+        <updated>2026-08-15T05:50:43.284Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1342/view/" target="_blank" rel="noopener">Geometric properties of Hilbert schemes</a></h5>
 			<div class="event-info">AIM - August 24, 2026 to August 28, 2026</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Research Collaboration Workshop in Contact and Symplectic Geometry/Topology]]></title>
         <id>https://mathinstitutes.org/events/1428/view/</id>
         <link href="https://mathinstitutes.org/events/1428/view/"/>
-        <updated>2026-08-15T05:50:43.288Z</updated>
+        <updated>2026-08-15T05:50:43.287Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Research Collaboration Workshop in Contact and Symplectic Geometry/Topology]]></title>
         <id>https://mathinstitutes.org/events/1428/view/</id>
         <link href="https://mathinstitutes.org/events/1428/view/"/>
-        <updated>2026-08-15T05:50:43.290Z</updated>
+        <updated>2026-08-15T05:50:43.287Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1428/view/" target="_blank" rel="noopener">Research Collaboration Workshop in Contact and Symplectic Geometry/Topology</a></h5>
 			<div class="event-info">IPAM - August 24, 2026 to August 28, 2026</div>]]></content>
