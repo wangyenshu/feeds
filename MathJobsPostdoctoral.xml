@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-08-16T17:45:39.256Z</updated>
+    <updated>2026-08-17T17:56:31.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.mathjobs.org/jobs/list/26950"/>
         <updated>2026-07-26T05:37:15.558Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/26950" id="k26950" aria-labelledby="k26950 j26950">PD</a>] <span id="j26950" aria-hidden="true">3-year Postdoctoral Positions</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn26950"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/IoMAS/26950/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral Fellowships in Ordered Combinatorics]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28329</id>
-        <link href="https://www.mathjobs.org/jobs/list/28329"/>
-        <updated>2026-07-26T05:37:15.561Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28329" id="k28329" aria-labelledby="k28329 j28329">PDOC</a>] <span id="j28329" aria-hidden="true">Postdoctoral Fellowships in Ordered Combinatorics</span>&nbsp;<span class="purplesml">(deadline 2026/08/15 11:59PM, Postdoctoral)</span><span id="jn28329"></span>  <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoc in algebraic topology]]></title>
@@ -284,5 +277,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28639"/>
         <updated>2026-08-15T05:51:42.562Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28639" id="k28639" aria-labelledby="k28639 j28639">POSTDOC4</a>] <span id="j28639" aria-hidden="true">Postdoctoral positions (2 years)</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28639"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28639/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSTDOC 5]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28644</id>
+        <link href="https://www.mathjobs.org/jobs/list/28644"/>
+        <updated>2026-08-17T17:56:31.367Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28644" id="k28644" aria-labelledby="k28644 j28644">POSTDOC8</a>] <span id="j28644" aria-hidden="true">POSTDOC 5</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28644"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28644/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

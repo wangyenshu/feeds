@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-16T17:45:39.264Z</updated>
+    <updated>2026-08-17T17:56:31.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Coverings of Complete Graphs by Small Cliques and Applications]]></title>
-        <id>https://researchseminars.org/seminar/cam</id>
-        <link href="https://researchseminars.org/seminar/cam"/>
-        <updated>2026-07-26T05:01:56.433Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 17</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/cam">CAM seminar</a></td><td class="speaker">Yifan Zhang</td><td class="talktitle"><a title="Coverings of Complete Graphs by Small Cliques and Applications" knowl="talk/cam/105">Coverings of Complete Graphs by Small Cliques and Applications</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From affine algebraic racks to Leibniz algebras and Yang–Baxter operators]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://luc-ta.github.io/">Lực Ta</a></td><td class="talktitle"><a title="From affine algebraic racks to Leibniz algebras and Yang–Baxter operators" knowl="talk/ENAAS/190">From affine algebraic racks to Leibniz algebras and Yang–Baxter operators</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the classification of 2-dimensional analogues of 2-bridge knots]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
@@ -41,11 +27,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Don Taylor</td><td class="talktitle"><a title="Introduction to Magma: computation, experimentation and new mathematics" knowl="talk/CompAlgSemMagma/28">Introduction to Magma: computation, experimentation and new mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[On Quantum Ramsey Theory]]></title>
         <id>https://researchseminars.org/seminar/OLS</id>
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Jose Mijares</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/212">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Jose Mijares</td><td class="talktitle"><a title="On Quantum Ramsey Theory" knowl="talk/OLS/212">On Quantum Ramsey Theory</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order]]></title>
@@ -265,11 +251,11 @@
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 29</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Elizabeth Denne</td><td class="talktitle"><a title="Crossing number and ribbonlength of folded ribbon knots" knowl="talk/knotgraphgroup/163">Crossing number and ribbonlength of folded ribbon knots</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Averaging Lie bialgebras]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Shuai Hou</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/206">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.researchgate.net/profile/Shuai-Hou-7">Shuai Hou</a></td><td class="talktitle"><a title="Averaging Lie bialgebras" knowl="talk/ENAAS/206">Averaging Lie bialgebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -301,6 +287,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UtahRTNT</id>
+        <link href="https://researchseminars.org/seminar/UtahRTNT"/>
+        <updated>2026-08-17T17:56:08.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="TBA" knowl="talk/UtahRTNT/17">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
         <updated>2026-07-26T05:01:56.417Z</updated>
@@ -328,11 +321,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 03</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Kris Brown</td><td class="talktitle"><a title="TBA" knowl="talk/ToposInstituteColloquium/226">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Spectral theory and descriptive combinatorics for Borel pmp graphs]]></title>
         <id>https://researchseminars.org/seminar/OLS</id>
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 03</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Cecilia Higgins</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/211">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 03</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Cecilia Higgins</td><td class="talktitle"><a title="Spectral theory and descriptive combinatorics for Borel pmp graphs" knowl="talk/OLS/211">Spectral theory and descriptive combinatorics for Borel pmp graphs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning]]></title>
@@ -412,11 +405,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Jen Smith</td><td class="talktitle"><a title="Research publishing policy and open access workflows" knowl="talk/mathseminarsnuig/167">Research publishing policy and open access workflows</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Tullenvarvet, the Half-Barathon]]></title>
         <id>https://researchseminars.org/seminar/gbgphd</id>
         <link href="https://researchseminars.org/seminar/gbgphd"/>
         <updated>2026-08-15T05:51:23.188Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Joseph Löfving</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/57">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Joseph Löfving</td><td class="talktitle"><a title="Tullenvarvet, the Half-Barathon" knowl="talk/gbgphd/57">Tullenvarvet, the Half-Barathon</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-07-26T05:01:56.442Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
+        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
+        <updated>2026-08-17T17:56:08.581Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
