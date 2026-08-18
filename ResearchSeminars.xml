@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-17T17:56:31.913Z</updated>
+    <updated>2026-08-18T05:55:55.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/cam">CAM seminar</a></td><td class="speaker">We are in MVL15</td><td class="talktitle"><a title="TBA" knowl="talk/cam/106">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Theory of normal forms of differential operators and some of its applications]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Alexander Zheglov</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/205">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://dfgm.math.msu.su/people/zheglov/English/AlexanderZheglov.html">Alexander Zheglov</a></td><td class="talktitle"><a title="Theory of normal forms of differential operators and some of its applications" knowl="talk/ENAAS/205">Theory of normal forms of differential operators and some of its applications</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -195,11 +195,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">06:15</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="The Ward construction, examples and reductions" knowl="talk/Twistor2026/2">The Ward construction, examples and reductions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Sato-theoretic construction of the ASDYM hierarchy and the Ward conjecture]]></title>
         <id>https://researchseminars.org/seminar/Twistor2026</id>
         <link href="https://researchseminars.org/seminar/Twistor2026"/>
         <updated>2026-08-16T05:54:06.523Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Shangshuai Li</td><td class="talktitle"><a title="TBA" knowl="talk/Twistor2026/3">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Shangshuai Li</td><td class="talktitle"><a title="Sato-theoretic construction of the ASDYM hierarchy and the Ward conjecture" knowl="talk/Twistor2026/3">Sato-theoretic construction of the ASDYM hierarchy and the Ward conjecture</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -289,7 +289,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/UtahRTNT</id>
         <link href="https://researchseminars.org/seminar/UtahRTNT"/>
-        <updated>2026-08-17T17:56:08.491Z</updated>
+        <updated>2026-08-18T05:55:32.498Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="TBA" knowl="talk/UtahRTNT/17">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -587,13 +587,6 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heisenberg SICs, Stark Units and Weil Representations]]></title>
-        <id>https://researchseminars.org/seminar/SheffieldNumberTheory</id>
-        <link href="https://researchseminars.org/seminar/SheffieldNumberTheory"/>
-        <updated>2026-07-26T05:01:56.515Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/60">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From Hubbard to Heisenberg at Half Filling]]></title>
         <id>https://researchseminars.org/seminar/IAMP_seminars</id>
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
@@ -702,7 +695,14 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
         <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
-        <updated>2026-08-17T17:56:08.581Z</updated>
+        <updated>2026-08-18T05:55:32.588Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
