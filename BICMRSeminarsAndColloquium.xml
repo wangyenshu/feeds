@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-08-19T06:01:23.636Z</updated>
+    <updated>2026-08-19T17:51:27.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -117,7 +117,7 @@
                         <p>Aug 19</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=141" title="Workshop on Analysis and Probability" target="_blank">Workshop on Analysis and Probability</a>
                         </p>

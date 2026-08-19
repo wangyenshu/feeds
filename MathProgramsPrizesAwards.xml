@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-4---40-t--</id>
     <title>MathPrograms.Org — Prizes and Awards</title>
-    <updated>2026-08-19T06:01:23.645Z</updated>
+    <updated>2026-08-19T17:51:27.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -59,7 +59,9 @@
         <id>https://www.mathprograms.org/db/programs/1884</id>
         <link href="https://www.mathprograms.org/db/programs/1884"/>
         <updated>2026-07-26T05:23:28.562Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1884" id="k1884" aria-labelledby="k1884 j1884">ISAACS27</a>] <span id="j1884" aria-hidden="true">I. Martin Isaacs Prize for Excellence in Mathematical Writing</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1884"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1884" id="k1884" aria-labelledby="k1884 j1884">ISAACS27</a>] <span id="j1884" aria-hidden="true">I. Martin Isaacs Prize for Excellence in Mathematical Writing</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1884"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JPBM Communications Award]]></title>
@@ -73,56 +75,72 @@
         <id>https://www.mathprograms.org/db/programs/1929</id>
         <link href="https://www.mathprograms.org/db/programs/1929"/>
         <updated>2026-07-26T05:23:28.565Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1929" id="k1929" aria-labelledby="k1929 j1929">LIE27</a>] <span id="j1929" aria-hidden="true">George Lusztig Thesis Prize in Lie Theory</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1929"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1929" id="k1929" aria-labelledby="k1929 j1929">LIE27</a>] <span id="j1929" aria-hidden="true">George Lusztig Thesis Prize in Lie Theory</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1929"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Milestone Prize for Foundational Work in Formal Verification]]></title>
         <id>https://www.mathprograms.org/db/programs/1916</id>
         <link href="https://www.mathprograms.org/db/programs/1916"/>
         <updated>2026-07-26T05:23:28.566Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1916" id="k1916" aria-labelledby="k1916 j1916">MILESTONE27</a>] <span id="j1916" aria-hidden="true">Milestone Prize for Foundational Work in Formal Verification</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1916"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1916" id="k1916" aria-labelledby="k1916 j1916">MILESTONE27</a>] <span id="j1916" aria-hidden="true">Milestone Prize for Foundational Work in Formal Verification</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1916"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics]]></title>
         <id>https://www.mathprograms.org/db/programs/1888</id>
         <link href="https://www.mathprograms.org/db/programs/1888"/>
         <updated>2026-07-26T05:23:28.568Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1888" id="k1888" aria-labelledby="k1888 j1888">MORAWETZ27</a>] <span id="j1888" aria-hidden="true">AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1888"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1888" id="k1888" aria-labelledby="k1888 j1888">MORAWETZ27</a>] <span id="j1888" aria-hidden="true">AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1888"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student]]></title>
         <id>https://www.mathprograms.org/db/programs/1895</id>
         <link href="https://www.mathprograms.org/db/programs/1895"/>
         <updated>2026-07-26T05:23:28.569Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1895" id="k1895" aria-labelledby="k1895 j1895">MORGAN27</a>] <span id="j1895" aria-hidden="true">Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1895"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1895" id="k1895" aria-labelledby="k1895 j1895">MORGAN27</a>] <span id="j1895" aria-hidden="true">Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1895"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ruth Lyttle Satter Prize in Mathematics]]></title>
         <id>https://www.mathprograms.org/db/programs/1896</id>
         <link href="https://www.mathprograms.org/db/programs/1896"/>
         <updated>2026-07-26T05:23:28.570Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1896" id="k1896" aria-labelledby="k1896 j1896">SATTER27</a>] <span id="j1896" aria-hidden="true">Ruth Lyttle Satter Prize in Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1896"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1896" id="k1896" aria-labelledby="k1896 j1896">SATTER27</a>] <span id="j1896" aria-hidden="true">Ruth Lyttle Satter Prize in Mathematics</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1896"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elias M. Stein Prize for New Perspectives in Analysis]]></title>
         <id>https://www.mathprograms.org/db/programs/1900</id>
         <link href="https://www.mathprograms.org/db/programs/1900"/>
         <updated>2026-07-26T05:23:28.577Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1900" id="k1900" aria-labelledby="k1900 j1900">STEINANALYSIS27</a>] <span id="j1900" aria-hidden="true">Elias M. Stein Prize for New Perspectives in Analysis</span>&nbsp;<span class="purplesml">(deadline 2026/06/30 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1900"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1900" id="k1900" aria-labelledby="k1900 j1900">STEINANALYSIS27</a>] <span id="j1900" aria-hidden="true">Elias M. Stein Prize for New Perspectives in Analysis</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/06/30 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/06/30 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/30 11:59PM">2026/07/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1900"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[George Lusztig Thesis Prize in Algebra]]></title>
         <id>https://www.mathprograms.org/db/programs/1930</id>
         <link href="https://www.mathprograms.org/db/programs/1930"/>
         <updated>2026-07-26T05:23:28.578Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1930" id="k1930" aria-labelledby="k1930 j1930">THESISALGEBRA27</a>] <span id="j1930" aria-hidden="true">George Lusztig Thesis Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1930"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1930" id="k1930" aria-labelledby="k1930 j1930">THESISALGEBRA27</a>] <span id="j1930" aria-hidden="true">George Lusztig Thesis Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1930"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Albert Leon Whiteman Memorial Prize]]></title>
         <id>https://www.mathprograms.org/db/programs/1886</id>
         <link href="https://www.mathprograms.org/db/programs/1886"/>
         <updated>2026-07-26T05:23:28.580Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1886" id="k1886" aria-labelledby="k1886 j1886">WHITEMAN27</a>] <span id="j1886" aria-hidden="true">Albert Leon Whiteman Memorial Prize</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1886"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1886" id="k1886" aria-labelledby="k1886 j1886">WHITEMAN27</a>] <span id="j1886" aria-hidden="true">Albert Leon Whiteman Memorial Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1886"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWM Dissertation Prize]]></title>

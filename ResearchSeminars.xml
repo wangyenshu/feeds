@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-19T06:01:23.641Z</updated>
+    <updated>2026-08-19T17:51:27.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[On the classification of 2-dimensional analogues of 2-bridge knots]]></title>
-        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
-        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
-        <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 19</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Jumpei Yasuda</td><td class="talktitle"><a title="On the classification of 2-dimensional analogues of 2-bridge knots" knowl="talk/Mos-Bei-top-seminar/157">On the classification of 2-dimensional analogues of 2-bridge knots</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knots, Links, and Polynomial Bounds]]></title>
-        <id>https://researchseminars.org/seminar/th21</id>
-        <link href="https://researchseminars.org/seminar/th21"/>
-        <updated>2026-07-26T05:01:56.436Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 19</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/th21">Theorems of the 21st Century Seminar</a></td><td class="speaker"><a href="https://www.maths.ox.ac.uk/people/marc.lackenby">Marc Lackenby</a></td><td class="talktitle"><a title="Knots, Links, and Polynomial Bounds" knowl="talk/th21/8">Knots, Links, and Polynomial Bounds</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Magma: computation, experimentation and new mathematics]]></title>
         <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
@@ -451,7 +437,7 @@
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/160">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Tangli Ge</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/160">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -618,7 +604,7 @@
         <title type="html"><![CDATA[A New Math Sequence for First Year Engineering Students at the University of Michigan]]></title>
         <id>https://researchseminars.org/seminar/ESME</id>
         <link href="https://researchseminars.org/seminar/ESME"/>
-        <updated>2026-08-19T06:01:01.829Z</updated>
+        <updated>2026-08-19T06:01:01.778Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/ESME">Online Seminar On Undergraduate Mathematics Education</a></td><td class="speaker">Karen Smith</td><td class="talktitle"><a title="A New Math Sequence for First Year Engineering Students at the University of Michigan" knowl="talk/ESME/68">A New Math Sequence for First Year Engineering Students at the University of Michigan</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
         <updated>2026-07-26T05:01:56.398Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
+        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
+        <updated>2026-07-26T05:01:56.455Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/162">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
+        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
+        <updated>2026-07-26T05:01:56.442Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
