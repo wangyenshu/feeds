@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-08-18T05:55:55.768Z</updated>
+    <updated>2026-08-19T06:01:23.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -153,6 +153,20 @@
         <content type="html"><![CDATA[[<a href="/jobs/list/28518" id="k28518" aria-labelledby="k28518 j28518">POSTDOCTORALPOSITIONS</a>] <span id="j28518" aria-hidden="true">Postdoctoral Positions in AI for Science and Scientific Computing</span>&nbsp;<span class="purplesml">(deadline 2026/06/12 11:59PM, Postdoctoral)</span><span id="jn28518"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/3748/28518/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Postdoctoral Fellow]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28738</id>
+        <link href="https://www.mathjobs.org/jobs/list/28738"/>
+        <updated>2026-08-19T06:01:23.087Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28738" id="k28738" aria-labelledby="k28738 j28738">POSTDOC</a>] <span id="j28738" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28738"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/HarvardCMSA/28738/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benjamin Peirce Fellow in Mathematics]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28739</id>
+        <link href="https://www.mathjobs.org/jobs/list/28739"/>
+        <updated>2026-08-19T06:01:23.088Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28739" id="k28739" aria-labelledby="k28739 j28739">BPFELLOW20272028</a>] <span id="j28739" aria-hidden="true">Benjamin Peirce Fellow in Mathematics</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28739"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/Harvard/28739/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Postdoctoral Position]]></title>
         <id>https://www.mathjobs.org/jobs/list/28300</id>
         <link href="https://www.mathjobs.org/jobs/list/28300"/>
@@ -270,19 +284,5 @@
         <link href="https://www.mathjobs.org/jobs/list/28640"/>
         <updated>2026-08-15T05:51:42.561Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28640" id="k28640" aria-labelledby="k28640 j28640">INSTRUCTOR1</a>] <span id="j28640" aria-hidden="true">Instructors in mathematics, BICMR, PKU</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28640"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28640/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral positions (2 years)]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28639</id>
-        <link href="https://www.mathjobs.org/jobs/list/28639"/>
-        <updated>2026-08-15T05:51:42.562Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28639" id="k28639" aria-labelledby="k28639 j28639">POSTDOC4</a>] <span id="j28639" aria-hidden="true">Postdoctoral positions (2 years)</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28639"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28639/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POSTDOC 5]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28644</id>
-        <link href="https://www.mathjobs.org/jobs/list/28644"/>
-        <updated>2026-08-18T05:55:55.197Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28644" id="k28644" aria-labelledby="k28644 j28644">POSTDOC8</a>] <span id="j28644" aria-hidden="true">POSTDOC 5</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28644"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/PKU/28644/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

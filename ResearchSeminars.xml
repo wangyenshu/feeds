@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-18T05:55:55.765Z</updated>
+    <updated>2026-08-19T06:01:23.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -370,6 +370,13 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Holiday</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/64">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
+        <id>https://researchseminars.org/seminar/ESME</id>
+        <link href="https://researchseminars.org/seminar/ESME"/>
+        <updated>2026-08-19T06:01:01.778Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/ESME">Online Seminar On Undergraduate Mathematics Education</a></td><td class="speaker">James Tanton</td><td class="talktitle"><a title="Fractions Are Hard! A Mathematical Overview of a Troublesome Topic" knowl="talk/ESME/67">Fractions Are Hard! A Mathematical Overview of a Troublesome Topic</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
@@ -518,6 +525,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Postech-PMI-NT</id>
+        <link href="https://researchseminars.org/seminar/Postech-PMI-NT"/>
+        <updated>2026-08-19T06:01:01.809Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Hyuk Jun Kweon</td><td class="talktitle"><a title="TBA" knowl="talk/Postech-PMI-NT/18">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/NTWebSeminar</id>
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
         <updated>2026-07-26T05:01:56.464Z</updated>
@@ -587,11 +601,25 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Planar frequency and the structure of area-minimizing currents: a new framework]]></title>
+        <id>https://researchseminars.org/seminar/NCTS-GMT</id>
+        <link href="https://researchseminars.org/seminar/NCTS-GMT"/>
+        <updated>2026-08-19T06:01:01.826Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/NCTS-GMT">NCTS international Geometric Measure Theory seminar</a></td><td class="speaker">Neshan Wickramasekera</td><td class="talktitle"><a title="Planar frequency and the structure of area-minimizing currents: a new framework" knowl="talk/NCTS-GMT/38">Planar frequency and the structure of area-minimizing currents: a new framework</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Hubbard to Heisenberg at Half Filling]]></title>
         <id>https://researchseminars.org/seminar/IAMP_seminars</id>
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
         <updated>2026-07-26T05:01:56.516Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IAMP_seminars">One world IAMP mathematical physics seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/tadahiromiyaosite/">Tadahiro Miyao</a></td><td class="talktitle"><a title="From Hubbard to Heisenberg at Half Filling" knowl="talk/IAMP_seminars/198">From Hubbard to Heisenberg at Half Filling</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Math Sequence for First Year Engineering Students at the University of Michigan]]></title>
+        <id>https://researchseminars.org/seminar/ESME</id>
+        <link href="https://researchseminars.org/seminar/ESME"/>
+        <updated>2026-08-19T06:01:01.829Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/ESME">Online Seminar On Undergraduate Mathematics Education</a></td><td class="speaker">Karen Smith</td><td class="talktitle"><a title="A New Math Sequence for First Year Engineering Students at the University of Michigan" knowl="talk/ESME/68">A New Math Sequence for First Year Engineering Students at the University of Michigan</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -676,33 +704,5 @@
         <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
         <updated>2026-07-26T05:01:56.398Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/162">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
-        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
-        <updated>2026-08-18T05:55:32.588Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
-        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
-        <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
