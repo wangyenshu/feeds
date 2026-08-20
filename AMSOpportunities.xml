@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ams.org/opportunities</id>
     <title>AMS Mathematical Opportunities</title>
-    <updated>2026-08-19T17:51:27.348Z</updated>
+    <updated>2026-08-20T05:57:37.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ams.org/images/Logo-Favicon.png</icon>
     <entry>
@@ -105,7 +105,7 @@
 <span class="description">Program Information:
 <br>1) Distinguished Scholars: Fellowships are open to faculty (Assistant Professor or higher academic rank) for four months (one academic semester).
 <br>Benefits include:
-<br>• Stipend: \$6,000-\$7,000 per month (4 months)
+<br>• Stipend: <span>$</span>6,000-<span>$</span>7,000 per month (4 months)
 <br>• Reimbursement of airfare expenses for Fulbright fellows (and spouses)
 <br>• Partial reimbursement of children’s education expenses and fees
 <br> 

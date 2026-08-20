@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-08-19T17:51:27.361Z</updated>
+    <updated>2026-08-20T05:57:37.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -42,7 +42,7 @@
 							</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional ${mathbb Z}_N$ lattice gauge theory]]></title>
+        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional {mathbb Z}_N{mathbb Z}_N lattice gauge theory]]></title>
         <id>https://indico.math.cnrs.fr/event/16932/</id>
         <link href="https://indico.math.cnrs.fr/event/16932/"/>
         <updated>2026-07-06T19:16:00.579Z</updated>
@@ -54,7 +54,7 @@
 																		Séminaire de Physique Théorique									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional ${mathbb Z}_N$ lattice gauge theory</a>
+									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
 								</h3>
 								<p><strong> Jutho Haegeman</strong></p>
 							</td>]]></content>

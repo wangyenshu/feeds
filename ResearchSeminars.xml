@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-19T17:51:27.365Z</updated>
+    <updated>2026-08-20T05:57:37.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
         <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
         <updated>2026-08-12T18:26:30.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Don Taylor</td><td class="talktitle"><a title="Introduction to Magma: computation, experimentation and new mathematics" knowl="talk/CompAlgSemMagma/28">Introduction to Magma: computation, experimentation and new mathematics</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC"><b>05:00</b></td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Don Taylor</td><td class="talktitle"><a title="Introduction to Magma: computation, experimentation and new mathematics" knowl="talk/CompAlgSemMagma/28">Introduction to Magma: computation, experimentation and new mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On Quantum Ramsey Theory]]></title>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/36">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why build categorical models?]]></title>
+        <id>https://researchseminars.org/seminar/CompMath</id>
+        <link href="https://researchseminars.org/seminar/CompMath"/>
+        <updated>2026-08-20T05:57:20.181Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Tim Hosgood</td><td class="talktitle"><a title="Why build categorical models?" knowl="talk/CompMath/36">Why build categorical models?</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introduction to Khovanov Homology]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
@@ -244,11 +251,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.researchgate.net/profile/Shuai-Hou-7">Shuai Hou</a></td><td class="talktitle"><a title="Averaging Lie bialgebras" knowl="talk/ENAAS/206">Averaging Lie bialgebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Classes of extensions of commutative algebraic groups]]></title>
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 01</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://db.faculty.wmi.amu.edu.pl/">Dorota Blinkiewicz</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/74">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 01</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://db.faculty.wmi.amu.edu.pl/">Dorota Blinkiewicz</a></td><td class="talktitle"><a title="Classes of extensions of commutative algebraic groups" knowl="talk/gc-arithmetic-geometry/74">Classes of extensions of commutative algebraic groups</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -497,6 +504,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/HarvardNT</id>
+        <link href="https://researchseminars.org/seminar/HarvardNT"/>
+        <updated>2026-08-20T05:57:20.222Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/160">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
         <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
         <updated>2026-07-26T05:01:56.481Z</updated>
@@ -538,11 +552,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Duarte Maia Nascimento</td><td class="talktitle"><a title="Escaping Tennenbaum's Theorem" knowl="talk/OLS/217">Escaping Tennenbaum's Theorem</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Geometry-Aware Neural Networks for Geometric Analysis]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Tancredi Schettini Gherardini</td><td class="talktitle"><a title="TBA" knowl="talk/GEOTOP-A/133">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Tancredi Schettini Gherardini</td><td class="talktitle"><a title="Geometry-Aware Neural Networks for Geometric Analysis" knowl="talk/GEOTOP-A/133">Geometry-Aware Neural Networks for Geometric Analysis</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -644,6 +658,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/HarvardNT</id>
+        <link href="https://researchseminars.org/seminar/HarvardNT"/>
+        <updated>2026-08-20T05:57:20.249Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/161">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/NYC-NCG</id>
         <link href="https://researchseminars.org/seminar/NYC-NCG"/>
         <updated>2026-07-26T05:01:56.522Z</updated>
@@ -683,26 +704,5 @@
         <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
         <updated>2026-08-12T18:26:30.889Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/SFUQNTAG">SFU NT-AG seminar</a></td><td class="speaker">Jim Bryan</td><td class="talktitle"><a title="TBA" knowl="talk/SFUQNTAG/170">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Algebra for Tensors in Field Theory]]></title>
-        <id>https://researchseminars.org/seminar/EUPAC-TP</id>
-        <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
-        <updated>2026-07-26T05:01:56.398Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/162">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
