@@ -2,46 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-08-20T17:57:13.031Z</updated>
+    <updated>2026-08-21T05:58:44.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
-        <id>https://mathinstitutes.org/events/1426/view/</id>
-        <link href="https://mathinstitutes.org/events/1426/view/"/>
-        <updated>2026-08-12T18:25:46.353Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
-        <id>https://mathinstitutes.org/events/1426/view/</id>
-        <link href="https://mathinstitutes.org/events/1426/view/"/>
-        <updated>2026-08-12T18:25:46.353Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles]]></title>
-        <id>https://mathinstitutes.org/events/1426/view/</id>
-        <link href="https://mathinstitutes.org/events/1426/view/"/>
-        <updated>2026-08-12T18:25:46.353Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1426/view/" target="_blank" rel="noopener">Research in Industrial Projects for Students (RIPS) 2026 – Los Angeles</a></h5>
-			<div class="event-info">IPAM - June 22, 2026 to August 21, 2026</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://mathinstitutes.org/events/1297/view/</id>
@@ -103,52 +66,15 @@
 				</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
-        <id>https://mathinstitutes.org/events/1390/view/</id>
-        <link href="https://mathinstitutes.org/events/1390/view/"/>
-        <updated>2026-08-12T18:25:46.364Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
-			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
-        <id>https://mathinstitutes.org/events/1390/view/</id>
-        <link href="https://mathinstitutes.org/events/1390/view/"/>
-        <updated>2026-08-12T18:25:46.364Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
-			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Higher Category Theory with Computers]]></title>
-        <id>https://mathinstitutes.org/events/1390/view/</id>
-        <link href="https://mathinstitutes.org/events/1390/view/"/>
-        <updated>2026-08-12T18:25:46.364Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1390/view/" target="_blank" rel="noopener">Teaching Higher Category Theory with Computers</a></h5>
-			<div class="event-info">ICERM - August 17, 2026 to August 21, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1322/view/</id>
-        <link href="https://mathinstitutes.org/events/1322/view/"/>
-        <updated>2026-08-12T18:25:46.360Z</updated>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-08-12T18:25:46.368Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
 
 					</div>
@@ -156,24 +82,24 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1322/view/</id>
-        <link href="https://mathinstitutes.org/events/1322/view/"/>
-        <updated>2026-08-12T18:25:46.360Z</updated>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-08-12T18:25:46.368Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1322/view/</id>
-        <link href="https://mathinstitutes.org/events/1322/view/"/>
-        <updated>2026-08-12T18:25:46.360Z</updated>
+        <id>https://mathinstitutes.org/events/1298/view/</id>
+        <link href="https://mathinstitutes.org/events/1298/view/"/>
+        <updated>2026-08-12T18:25:46.368Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>]]></content>
     </entry>
     <entry>
@@ -215,14 +141,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1298/view/</id>
-        <link href="https://mathinstitutes.org/events/1298/view/"/>
-        <updated>2026-08-12T18:25:46.368Z</updated>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-08-12T18:25:46.360Z</updated>
         <content type="html"><![CDATA[<div class="card mb-4">
 		<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
 
 					</div>
@@ -230,99 +156,25 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1298/view/</id>
-        <link href="https://mathinstitutes.org/events/1298/view/"/>
-        <updated>2026-08-12T18:25:46.368Z</updated>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-08-12T18:25:46.360Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>
 
 					</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
-        <id>https://mathinstitutes.org/events/1298/view/</id>
-        <link href="https://mathinstitutes.org/events/1298/view/"/>
-        <updated>2026-08-12T18:25:46.368Z</updated>
+        <id>https://mathinstitutes.org/events/1322/view/</id>
+        <link href="https://mathinstitutes.org/events/1322/view/"/>
+        <updated>2026-08-12T18:25:46.360Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1298/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1322/view/" target="_blank" rel="noopener">Motivic Homotopy Theory: Connections and Applications</a></h5>
 			<div class="event-info">SLMath - August 17, 2026 to December 18, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1350/view/</id>
-        <link href="https://mathinstitutes.org/events/1350/view/"/>
-        <updated>2026-08-12T18:25:46.382Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1350/view/" target="_blank" rel="noopener">Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 19, 2026 to August 21, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1350/view/</id>
-        <link href="https://mathinstitutes.org/events/1350/view/"/>
-        <updated>2026-08-12T18:25:46.382Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1350/view/" target="_blank" rel="noopener">Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 19, 2026 to August 21, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1350/view/</id>
-        <link href="https://mathinstitutes.org/events/1350/view/"/>
-        <updated>2026-08-12T18:25:46.382Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1350/view/" target="_blank" rel="noopener">Pathways Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 19, 2026 to August 21, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1351/view/</id>
-        <link href="https://mathinstitutes.org/events/1351/view/"/>
-        <updated>2026-08-12T18:25:46.387Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1351/view/</id>
-        <link href="https://mathinstitutes.org/events/1351/view/"/>
-        <updated>2026-08-12T18:25:46.387Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
-        <id>https://mathinstitutes.org/events/1351/view/</id>
-        <link href="https://mathinstitutes.org/events/1351/view/"/>
-        <updated>2026-08-12T18:25:46.387Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
-			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research Collaboration Workshop in Contact and Symplectic Geometry/Topology]]></title>
@@ -362,6 +214,43 @@
 			<div class="event-info">IPAM - August 24, 2026 to August 28, 2026</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1351/view/</id>
+        <link href="https://mathinstitutes.org/events/1351/view/"/>
+        <updated>2026-08-12T18:25:46.387Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
+			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1351/view/</id>
+        <link href="https://mathinstitutes.org/events/1351/view/"/>
+        <updated>2026-08-12T18:25:46.387Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
+			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory & Motivic Homotopy Theory]]></title>
+        <id>https://mathinstitutes.org/events/1351/view/</id>
+        <link href="https://mathinstitutes.org/events/1351/view/"/>
+        <updated>2026-08-12T18:25:46.387Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1351/view/" target="_blank" rel="noopener">Introductory Workshop: Representation Theory Under the Influence of Quantum Field Theory &amp; Motivic Homotopy Theory</a></h5>
+			<div class="event-info">SLMath - August 24, 2026 to August 28, 2026</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geometric properties of Hilbert schemes]]></title>
         <id>https://mathinstitutes.org/events/1342/view/</id>
         <link href="https://mathinstitutes.org/events/1342/view/"/>
@@ -397,5 +286,116 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1342/view/" target="_blank" rel="noopener">Geometric properties of Hilbert schemes</a></h5>
 			<div class="event-info">AIM - August 24, 2026 to August 28, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of Interpretability]]></title>
+        <id>https://mathinstitutes.org/events/1483/view/</id>
+        <link href="https://mathinstitutes.org/events/1483/view/"/>
+        <updated>2026-08-21T05:57:37.738Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1483/view/" target="_blank" rel="noopener">Foundations of Interpretability</a></h5>
+			<div class="event-info">IPAM - August 31, 2026 to September 4, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of Interpretability]]></title>
+        <id>https://mathinstitutes.org/events/1483/view/</id>
+        <link href="https://mathinstitutes.org/events/1483/view/"/>
+        <updated>2026-08-21T05:57:37.740Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1483/view/" target="_blank" rel="noopener">Foundations of Interpretability</a></h5>
+			<div class="event-info">IPAM - August 31, 2026 to September 4, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations of Interpretability]]></title>
+        <id>https://mathinstitutes.org/events/1483/view/</id>
+        <link href="https://mathinstitutes.org/events/1483/view/"/>
+        <updated>2026-08-21T05:57:37.742Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1483/view/" target="_blank" rel="noopener">Foundations of Interpretability</a></h5>
+			<div class="event-info">IPAM - August 31, 2026 to September 4, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computations on K3 Surfaces and Related Varieties]]></title>
+        <id>https://mathinstitutes.org/events/1365/view/</id>
+        <link href="https://mathinstitutes.org/events/1365/view/"/>
+        <updated>2026-08-21T05:57:37.743Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1365/view/" target="_blank" rel="noopener">Computations on K3 Surfaces and Related Varieties</a></h5>
+			<div class="event-info">ICERM - September 9, 2026 to December 11, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computations on K3 Surfaces and Related Varieties]]></title>
+        <id>https://mathinstitutes.org/events/1365/view/</id>
+        <link href="https://mathinstitutes.org/events/1365/view/"/>
+        <updated>2026-08-21T05:57:37.744Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1365/view/" target="_blank" rel="noopener">Computations on K3 Surfaces and Related Varieties</a></h5>
+			<div class="event-info">ICERM - September 9, 2026 to December 11, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computations on K3 Surfaces and Related Varieties]]></title>
+        <id>https://mathinstitutes.org/events/1365/view/</id>
+        <link href="https://mathinstitutes.org/events/1365/view/"/>
+        <updated>2026-08-21T05:57:37.746Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1365/view/" target="_blank" rel="noopener">Computations on K3 Surfaces and Related Varieties</a></h5>
+			<div class="event-info">ICERM - September 9, 2026 to December 11, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
+        <id>https://mathinstitutes.org/events/1401/view/</id>
+        <link href="https://mathinstitutes.org/events/1401/view/"/>
+        <updated>2026-08-21T05:57:37.747Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
+			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
+        <id>https://mathinstitutes.org/events/1401/view/</id>
+        <link href="https://mathinstitutes.org/events/1401/view/"/>
+        <updated>2026-08-21T05:57:37.748Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
+			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
+        <id>https://mathinstitutes.org/events/1401/view/</id>
+        <link href="https://mathinstitutes.org/events/1401/view/"/>
+        <updated>2026-08-21T05:57:37.750Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
+			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>]]></content>
     </entry>
 </feed>

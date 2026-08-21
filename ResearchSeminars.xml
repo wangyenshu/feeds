@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-20T17:57:13.046Z</updated>
+    <updated>2026-08-21T05:58:44.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[On Quantum Ramsey Theory]]></title>
-        <id>https://researchseminars.org/seminar/OLS</id>
-        <link href="https://researchseminars.org/seminar/OLS"/>
-        <updated>2026-07-26T05:01:56.439Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 20</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Jose Mijares</td><td class="talktitle"><a title="On Quantum Ramsey Theory" knowl="talk/OLS/212">On Quantum Ramsey Theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order]]></title>
         <id>https://researchseminars.org/seminar/EUPAC-TP</id>
@@ -165,6 +158,13 @@
         <link href="https://researchseminars.org/seminar/Twistor2026"/>
         <updated>2026-08-16T05:54:06.523Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">04:30</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="The self-duality equations, Lax pairs, and the classification of reductions." knowl="talk/Twistor2026/1">The self-duality equations, Lax pairs, and the classification of reductions.</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magma Office Hours]]></title>
+        <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
+        <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
+        <updated>2026-08-21T05:58:20.734Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">John Voight</td><td class="talktitle"><a title="Magma Office Hours" knowl="talk/CompAlgSemMagma/29">Magma Office Hours</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Ward construction, examples and reductions]]></title>
