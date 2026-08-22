@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-08-21T05:58:44.337Z</updated>
+    <updated>2026-08-22T17:46:36.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -132,6 +132,24 @@
 							</td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Life, Structure and Cognition (LSC) 2026: Breakpoints across Biological Systems]]></title>
+        <id>https://indico.math.cnrs.fr/event/16616/</id>
+        <link href="https://indico.math.cnrs.fr/event/16616/"/>
+        <updated>2026-08-22T17:45:48.559Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 22 June 2026<br>
+								from 09:00 to 19:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Biologie									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/16616/" target="_blank">Life, Structure and Cognition (LSC) 2026: Breakpoints across Biological Systems</a>
+								</h3>
+								<p><strong> </strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CFT and QFT from the Fuzzy Sphere]]></title>
         <id>https://indico.math.cnrs.fr/event/16865/</id>
         <link href="https://indico.math.cnrs.fr/event/16865/"/>
@@ -201,24 +219,6 @@
 									<a href="https://indico.math.cnrs.fr/event/16624/" target="_blank">Boundary Vorticity Estimate for Navier-Stokes and Control of Layer Separation at the Inviscid Limit</a>
 								</h3>
 								<p><strong> Alexis Vasseur</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interior and Boundary Unique Continuation]]></title>
-        <id>https://indico.math.cnrs.fr/event/16623/</id>
-        <link href="https://indico.math.cnrs.fr/event/16623/"/>
-        <updated>2026-05-23T07:54:58.556Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Tuesday 16 June 2026<br>
-								from 13:30 to 14:30							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire Laurent Schwartz									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16623/" target="_blank">Interior and Boundary Unique Continuation</a>
-								</h3>
-								<p><strong> Carlos Kenig</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -332,6 +332,22 @@
 							</a></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Korea-France Joint Workshop on String Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/16694/</id>
+        <link href="https://indico.math.cnrs.fr/event/16694/"/>
+        <updated>2026-08-22T17:45:48.579Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								from Tuesday 15 to Friday 18 September 2026							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/16694/" target="_blank">Korea-France Joint Workshop on String Theory</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+								
+								<div class="full">
+																	</div> -->
+							</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[French-Japanese Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
         <id>https://indico.math.cnrs.fr/event/15993/</id>
         <link href="https://indico.math.cnrs.fr/event/15993/"/>
@@ -357,6 +373,23 @@
 								from Monday 06 to Friday 17 July 2026							</td>
 							<td class="Agenda-sujet">
 								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15597/" target="_blank">2026 IHES Summer School – Cosmological Correlators</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->
+
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life, Structure and Cognition (LSC) 2026: Breakpoints across Biological Systems]]></title>
+        <id>https://indico.math.cnrs.fr/event/16616/</id>
+        <link href="https://indico.math.cnrs.fr/event/16616/"/>
+        <updated>2026-08-22T17:45:48.582Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+
+								from Monday 22 to Thursday 25 June 2026							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/16616/" target="_blank">Life, Structure and Cognition (LSC) 2026: Breakpoints across Biological Systems</a></h3>
 
 								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
 																<div class="full">
@@ -493,23 +526,6 @@
 								from Monday 27 to Friday 31 October 2025							</td>
 							<td class="Agenda-sujet">
 								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14073/" target="_blank">New Structures and Techniques in p-adic Geometry</a></h3>
-
-								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
-																<div class="full">
-																	</div> -->
-
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13e séminaire ITZYKSON]]></title>
-        <id>https://indico.math.cnrs.fr/event/14934/</id>
-        <link href="https://indico.math.cnrs.fr/event/14934/"/>
-        <updated>2026-01-11T17:42:14.933Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-
-								on Wednesday 15 October 2025<br>from 09:30 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14934/" target="_blank">13e séminaire ITZYKSON</a></h3>
 
 								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
 																<div class="full">

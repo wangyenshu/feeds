@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-21T05:58:44.346Z</updated>
+    <updated>2026-08-22T17:46:36.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order]]></title>
-        <id>https://researchseminars.org/seminar/EUPAC-TP</id>
-        <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
-        <updated>2026-07-26T05:01:56.398Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/2782501">Jyotirmoy Barman</a></td><td class="talktitle"><a title="Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order" knowl="talk/EUPAC-TP/41">Instanton-Induced Closed-String Amplitudes in Minimal Superstring Theory at Subleading Order</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence]]></title>
-        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
-        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
-        <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Barbara Giunti</td><td class="talktitle"><a title="Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence" knowl="talk/GEOTOP-A/130">Canopies: A Generalization of Vines and Vineyards for Parameterized Persistence</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermitian curvature flow and HKT geometry]]></title>
-        <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
-        <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 21</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Beatrice Brienza</td><td class="talktitle"><a title="Hermitian curvature flow and HKT geometry" knowl="talk/AmSurAmSulGeometry/113">Hermitian curvature flow and HKT geometry</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Apllications of Homotopy Algebras in String Field Theory 1]]></title>
         <id>https://researchseminars.org/seminar/Homotopy2026</id>
@@ -202,11 +181,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">06:15</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Kanehisa Takasaki</td><td class="talktitle"><a title="Direct linearization and Sato Grassmannian" knowl="talk/Twistor2026/5">Direct linearization and Sato Grassmannian</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[From AKNS-SDYM hierarchy to Painleve equations]]></title>
         <id>https://researchseminars.org/seminar/Twistor2026</id>
         <link href="https://researchseminars.org/seminar/Twistor2026"/>
         <updated>2026-08-16T05:54:06.523Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Saburo Kakei</td><td class="talktitle"><a title="TBA" knowl="talk/Twistor2026/6">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Saburo Kakei</td><td class="talktitle"><a title="From AKNS-SDYM hierarchy to Painleve equations" knowl="talk/Twistor2026/6">From AKNS-SDYM hierarchy to Painleve equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[London Learning Lean]]></title>
@@ -235,6 +214,20 @@
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
         <updated>2026-08-07T06:46:17.169Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Aug 29</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Elizabeth Denne</td><td class="talktitle"><a title="Crossing number and ribbonlength of folded ribbon knots" knowl="talk/knotgraphgroup/163">Crossing number and ribbonlength of folded ribbon knots</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twistors for Gravitational instantons]]></title>
+        <id>https://researchseminars.org/seminar/nmps</id>
+        <link href="https://researchseminars.org/seminar/nmps"/>
+        <updated>2026-08-22T17:46:16.024Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">05:45</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Twistors for Gravitational instantons" knowl="talk/nmps/14">Twistors for Gravitational instantons</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestial Holography and the S-algebra]]></title>
+        <id>https://researchseminars.org/seminar/nmps</id>
+        <link href="https://researchseminars.org/seminar/nmps"/>
+        <updated>2026-08-22T17:46:16.025Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Celestial Holography and the S-algebra" knowl="talk/nmps/15">Celestial Holography and the S-algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Averaging Lie bialgebras]]></title>
@@ -504,13 +497,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
-        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
-        <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Harold Williams</td><td class="talktitle"><a title="TBA" knowl="talk/AI-for-the-working-mathematician/4">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
         <updated>2026-07-26T05:01:56.417Z</updated>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/EUPAC-TP"/>
         <updated>2026-07-26T05:01:56.398Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
+        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
+        <updated>2026-07-26T05:01:56.455Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/162">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
+        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
+        <updated>2026-07-26T05:01:56.442Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

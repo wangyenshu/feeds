@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-08-21T05:58:44.352Z</updated>
+    <updated>2026-08-22T17:46:36.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -306,7 +306,7 @@
         <title type="html"><![CDATA[Foundations of Interpretability]]></title>
         <id>https://mathinstitutes.org/events/1483/view/</id>
         <link href="https://mathinstitutes.org/events/1483/view/"/>
-        <updated>2026-08-21T05:57:37.740Z</updated>
+        <updated>2026-08-21T05:57:37.738Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
@@ -319,7 +319,7 @@
         <title type="html"><![CDATA[Foundations of Interpretability]]></title>
         <id>https://mathinstitutes.org/events/1483/view/</id>
         <link href="https://mathinstitutes.org/events/1483/view/"/>
-        <updated>2026-08-21T05:57:37.742Z</updated>
+        <updated>2026-08-21T05:57:37.738Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1483/view/" target="_blank" rel="noopener">Foundations of Interpretability</a></h5>
 			<div class="event-info">IPAM - August 31, 2026 to September 4, 2026</div>]]></content>
@@ -343,7 +343,7 @@
         <title type="html"><![CDATA[Computations on K3 Surfaces and Related Varieties]]></title>
         <id>https://mathinstitutes.org/events/1365/view/</id>
         <link href="https://mathinstitutes.org/events/1365/view/"/>
-        <updated>2026-08-21T05:57:37.744Z</updated>
+        <updated>2026-08-21T05:57:37.743Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -356,7 +356,7 @@
         <title type="html"><![CDATA[Computations on K3 Surfaces and Related Varieties]]></title>
         <id>https://mathinstitutes.org/events/1365/view/</id>
         <link href="https://mathinstitutes.org/events/1365/view/"/>
-        <updated>2026-08-21T05:57:37.746Z</updated>
+        <updated>2026-08-21T05:57:37.743Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1365/view/" target="_blank" rel="noopener">Computations on K3 Surfaces and Related Varieties</a></h5>
 			<div class="event-info">ICERM - September 9, 2026 to December 11, 2026</div>]]></content>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
         <id>https://mathinstitutes.org/events/1401/view/</id>
         <link href="https://mathinstitutes.org/events/1401/view/"/>
-        <updated>2026-08-21T05:57:37.748Z</updated>
+        <updated>2026-08-21T05:57:37.747Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
         <id>https://mathinstitutes.org/events/1401/view/</id>
         <link href="https://mathinstitutes.org/events/1401/view/"/>
-        <updated>2026-08-21T05:57:37.750Z</updated>
+        <updated>2026-08-21T05:57:37.747Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
 			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>]]></content>
