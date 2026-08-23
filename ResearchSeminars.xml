@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-22T17:46:36.875Z</updated>
+    <updated>2026-08-23T05:55:33.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -226,7 +226,7 @@
         <title type="html"><![CDATA[Celestial Holography and the S-algebra]]></title>
         <id>https://researchseminars.org/seminar/nmps</id>
         <link href="https://researchseminars.org/seminar/nmps"/>
-        <updated>2026-08-22T17:46:16.025Z</updated>
+        <updated>2026-08-22T17:46:16.024Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Celestial Holography and the S-algebra" knowl="talk/nmps/15">Celestial Holography and the S-algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -493,7 +493,7 @@
         <id>https://researchseminars.org/seminar/HarvardNT</id>
         <link href="https://researchseminars.org/seminar/HarvardNT"/>
         <updated>2026-08-20T05:57:20.222Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/160">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a></td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/160">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
