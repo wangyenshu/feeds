@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-08-23T17:46:26.051Z</updated>
+    <updated>2026-08-24T17:58:23.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Equilibria and Stability of Plasma Models]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3989.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3989.html"/>
-        <updated>2026-07-11T18:26:24.890Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jul 13</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/46-3989.html" title="Equilibria and Stability of Plasma Models" target="_blank">Equilibria and Stability of Plasma Models</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Zhiyuan Zhang (Northeastern Un...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On Mazur's Dimension Conjecture for Global Deformation Rings]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/44-3984.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/47-3991.html" title="Hochschild Homology and the Detection of Smoothness" target="_blank">Hochschild Homology and the Detection of Smoothness</a>
                         </p>
                         <p class="speaker">Speaker(s): Yu Shen (Florida State Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khovanov Homology, Exotic Planes, and Geometric Structures on Them]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-3994.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-3994.html"/>
+        <updated>2026-08-24T17:57:39.828Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Aug 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-3994.html" title="Khovanov Homology, Exotic Planes, and Geometric Structures on Them" target="_blank">Khovanov Homology, Exotic Planes, and Geometric Structures on Them</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yikai Teng (Rutgers University...</p>
                     </dd>]]></content>
     </entry>
     <entry>

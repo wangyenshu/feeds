@@ -2,58 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-23T17:46:26.064Z</updated>
+    <updated>2026-08-24T17:58:23.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Apllications of Homotopy Algebras in String Field Theory 1]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Ivo Sachs</td><td class="talktitle"><a title="Apllications of Homotopy Algebras in String Field Theory 1" knowl="talk/Homotopy2026/1">Apllications of Homotopy Algebras in String Field Theory 1</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The large N limit of correlation functions from homotopy algebras]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Yuji Okawa</td><td class="talktitle"><a title="The large N limit of correlation functions from homotopy algebras" knowl="talk/Homotopy2026/2">The large N limit of correlation functions from homotopy algebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher connections and higher Chern-Simons theory]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Christian Saemann</td><td class="talktitle"><a title="Higher connections and higher Chern-Simons theory" knowl="talk/Homotopy2026/3">Higher connections and higher Chern-Simons theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shared hierarchical representations explain temporal correspondence between brain activity and deep neural networks]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker"><a href="https://giomarraffini.github.io/">Giovanni Marraffini</a></td><td class="talktitle"><a title="Shared hierarchical representations explain temporal correspondence between brain activity and deep neural networks" knowl="talk/TropicalmathandML/45">Shared hierarchical representations explain temporal correspondence between brain activity and deep neural networks</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/cam</id>
-        <link href="https://researchseminars.org/seminar/cam"/>
-        <updated>2026-07-26T05:01:56.433Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/cam">CAM seminar</a></td><td class="speaker">We are in MVL15</td><td class="talktitle"><a title="TBA" knowl="talk/cam/106">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theory of normal forms of differential operators and some of its applications]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://dfgm.math.msu.su/people/zheglov/English/AlexanderZheglov.html">Alexander Zheglov</a></td><td class="talktitle"><a title="Theory of normal forms of differential operators and some of its applications" knowl="talk/ENAAS/205">Theory of normal forms of differential operators and some of its applications</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 24</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Николай Юрьевич Ероховец</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/171">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Apllications of Homotopy Algebras in String Field Theory 2]]></title>
         <id>https://researchseminars.org/seminar/Homotopy2026</id>
@@ -90,11 +41,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Alexander Schenkel</td><td class="talktitle"><a title="Homological algebra of integrable field theories in two and higher dimensions" knowl="talk/Homotopy2026/7">Homological algebra of integrable field theories in two and higher dimensions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[How biological systems can achieve control without global information]]></title>
         <id>https://researchseminars.org/seminar/Biocontrol</id>
         <link href="https://researchseminars.org/seminar/Biocontrol"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/Biocontrol/58">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">Carlos Floyd</td><td class="talktitle"><a title="How biological systems can achieve control without global information" knowl="talk/Biocontrol/58">How biological systems can achieve control without global information</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A consistent light-cone-gauge superstring field theory]]></title>
@@ -230,6 +181,13 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Celestial Holography and the S-algebra" knowl="talk/nmps/15">Celestial Holography and the S-algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CheMLFlow: A proposal to stop AI agents from mixing up all the code]]></title>
+        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
+        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
+        <updated>2026-07-26T05:01:56.442Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Eric Dolores</td><td class="talktitle"><a title="CheMLFlow: A proposal to stop AI agents from mixing up all the code" knowl="talk/TropicalmathandML/51">CheMLFlow: A proposal to stop AI agents from mixing up all the code</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Averaging Lie bialgebras]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
@@ -328,11 +286,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Eleftherios Chatzitheodoridis</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/159">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Birth and Death Curves in Topological Data Analysis]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Thomas Brüstle</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/44">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Thomas Brüstle</td><td class="talktitle"><a title="Birth and Death Curves in Topological Data Analysis" knowl="talk/TropicalmathandML/44">Birth and Death Curves in Topological Data Analysis</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -412,11 +370,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/BFSOneWorld">Joint SIAM-BFS Mathematical Finance Online Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/BFSOneWorld/81">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[From Differential Linear Logic to functional analysis and back]]></title>
         <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
         <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
         <updated>2026-07-26T05:01:56.466Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Marie Kerjean</td><td class="talktitle"><a title="TBA" knowl="talk/ToposInstituteColloquium/222">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Marie Kerjean</td><td class="talktitle"><a title="From Differential Linear Logic to functional analysis and back" knowl="talk/ToposInstituteColloquium/222">From Differential Linear Logic to functional analysis and back</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -692,11 +650,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Calabi-Yau Orbifolds over Finite Fields]]></title>
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/162">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Marco Aldi</td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +662,47 @@
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-07-26T05:01:56.442Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
+        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
+        <updated>2026-08-24T17:58:01.789Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On structural properties of Novikov algebras]]></title>
+        <id>https://researchseminars.org/seminar/ENAAS</id>
+        <link href="https://researchseminars.org/seminar/ENAAS"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://math.univ-cotedazur.fr/u/patras/">Frédéric Patras</a></td><td class="talktitle"><a title="On structural properties of Novikov algebras" knowl="talk/ENAAS/196">On structural properties of Novikov algebras</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NTBU</id>
+        <link href="https://researchseminars.org/seminar/NTBU"/>
+        <updated>2026-08-05T19:01:40.170Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/54">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heisenberg SICs, Stark Units and Weil Representations]]></title>
+        <id>https://researchseminars.org/seminar/SheffieldNumberTheory</id>
+        <link href="https://researchseminars.org/seminar/SheffieldNumberTheory"/>
+        <updated>2026-08-24T17:58:01.795Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/61">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NonLocalOperators</id>
+        <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
+        <updated>2026-07-26T05:01:56.495Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
