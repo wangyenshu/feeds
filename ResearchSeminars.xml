@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-25T05:58:33.954Z</updated>
+    <updated>2026-08-25T17:56:30.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
-        <title type="html"><![CDATA[Localization of effective action in homtopy algebraic superstring field theory]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC"><b>05:00</b></td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Xianghang Zhang</td><td class="talktitle"><a title="Localization of effective action in homtopy algebraic superstring field theory" knowl="talk/Homotopy2026/5">Localization of effective action in homtopy algebraic superstring field theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finite Gauge Symmetry and Cyclicity in L_\infty Algebras: An Application to 4d Chern-Simons Theory]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Jojiro Totsuka</td><td class="talktitle"><a title="Finite Gauge Symmetry and Cyclicity in L_\infty Algebras: An Application to 4d Chern-Simons Theory" knowl="talk/Homotopy2026/6">Finite Gauge Symmetry and Cyclicity in L_\infty Algebras: An Application to 4d Chern-Simons Theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isomorphisms of graded semiconnected algebras]]></title>
-        <id>https://researchseminars.org/seminar/OISTRTS</id>
-        <link href="https://researchseminars.org/seminar/OISTRTS"/>
-        <updated>2026-08-12T18:26:30.794Z</updated>
-        <content type="html"><![CDATA[<td class="weekday rescheduled">Tue</td><td class="monthdate rescheduled">Aug 25</td><td class="time rescheduled" title="UTC">06:30</td><td class="seriesname rescheduled"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker rescheduled"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84" style="text-decoration: line-through;font-style: italic;">Isomorphisms of graded semiconnected algebras</a> (rescheduled)</td><td></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homological algebra of integrable field theories in two and higher dimensions]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Alexander Schenkel</td><td class="talktitle"><a title="Homological algebra of integrable field theories in two and higher dimensions" knowl="talk/Homotopy2026/7">Homological algebra of integrable field theories in two and higher dimensions</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How biological systems can achieve control without global information]]></title>
-        <id>https://researchseminars.org/seminar/Biocontrol</id>
-        <link href="https://researchseminars.org/seminar/Biocontrol"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/Biocontrol">Seminar on Biological Control Systems</a></td><td class="speaker">Carlos Floyd</td><td class="talktitle"><a title="How biological systems can achieve control without global information" knowl="talk/Biocontrol/58">How biological systems can achieve control without global information</a></td><td class="subscribe"></td>]]></content>
+        <title type="html"><![CDATA[Mean-field derivation of the space-homogeneous Landau equation via BBGKY hierarchy method]]></title>
+        <id>https://researchseminars.org/seminar/AppliedMath</id>
+        <link href="https://researchseminars.org/seminar/AppliedMath"/>
+        <updated>2026-08-25T17:56:09.786Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/AppliedMath">SFU Mathematics of Computation, Application and Data ("MOCAD") Seminar</a></td><td class="speaker">Shuchen Guo</td><td class="talktitle"><a title="Mean-field derivation of the space-homogeneous Landau equation via BBGKY hierarchy method" knowl="talk/AppliedMath/95">Mean-field derivation of the space-homogeneous Landau equation via BBGKY hierarchy method</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A consistent light-cone-gauge superstring field theory]]></title>
@@ -62,11 +34,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 26</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Hiroaki Matsunaga</td><td class="talktitle"><a title="Canonical Commutation relations, RLL relations, and the Yang-Baxter equation within the Batalin-Vilkovisky formalism" knowl="talk/Homotopy2026/10">Canonical Commutation relations, RLL relations, and the Yang-Baxter equation within the Batalin-Vilkovisky formalism</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[S-Equivalence of Band-Twisted Genus One Knot]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-07-26T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 26</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Jun Wang</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/156">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Aug 26</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Jun Wang</td><td class="talktitle"><a title="S-Equivalence of Band-Twisted Genus One Knot" knowl="talk/Mos-Bei-top-seminar/156">S-Equivalence of Band-Twisted Genus One Knot</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Exit to Community: A Cookbook for Blockchain Communities]]></title>
@@ -704,5 +676,33 @@
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
+        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
+        <updated>2026-07-26T05:01:56.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/FCNTS</id>
+        <link href="https://researchseminars.org/seminar/FCNTS"/>
+        <updated>2026-08-05T19:01:40.150Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gbgstats</id>
+        <link href="https://researchseminars.org/seminar/gbgstats"/>
+        <updated>2026-08-25T17:56:09.933Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker">JJ Zhu</td><td class="talktitle"><a title="TBA" knowl="talk/gbgstats/127">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/HarvardNT</id>
+        <link href="https://researchseminars.org/seminar/HarvardNT"/>
+        <updated>2026-08-20T05:57:20.222Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/162">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
