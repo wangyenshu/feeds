@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-24T17:58:23.601Z</updated>
+    <updated>2026-08-25T05:58:33.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Apllications of Homotopy Algebras in String Field Theory 2]]></title>
-        <id>https://researchseminars.org/seminar/Homotopy2026</id>
-        <link href="https://researchseminars.org/seminar/Homotopy2026"/>
-        <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Ivo Sachs</td><td class="talktitle"><a title="Apllications of Homotopy Algebras in String Field Theory 2" knowl="talk/Homotopy2026/4">Apllications of Homotopy Algebras in String Field Theory 2</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Localization of effective action in homtopy algebraic superstring field theory]]></title>
         <id>https://researchseminars.org/seminar/Homotopy2026</id>
         <link href="https://researchseminars.org/seminar/Homotopy2026"/>
         <updated>2026-08-16T05:54:06.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Xianghang Zhang</td><td class="talktitle"><a title="Localization of effective action in homtopy algebraic superstring field theory" knowl="talk/Homotopy2026/5">Localization of effective action in homtopy algebraic superstring field theory</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC"><b>05:00</b></td><td class="seriesname"><a href="/seminar/Homotopy2026">Homotopy Algebraic Formulation of SFT, QFT and IFT</a></td><td class="speaker">Xianghang Zhang</td><td class="talktitle"><a title="Localization of effective action in homtopy algebraic superstring field theory" knowl="talk/Homotopy2026/5">Localization of effective action in homtopy algebraic superstring field theory</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finite Gauge Symmetry and Cyclicity in L_\infty Algebras: An Application to 4d Chern-Simons Theory]]></title>
@@ -31,7 +24,7 @@
         <id>https://researchseminars.org/seminar/OISTRTS</id>
         <link href="https://researchseminars.org/seminar/OISTRTS"/>
         <updated>2026-08-12T18:26:30.794Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Aug 25</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84">Isomorphisms of graded semiconnected algebras</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday rescheduled">Tue</td><td class="monthdate rescheduled">Aug 25</td><td class="time rescheduled" title="UTC">06:30</td><td class="seriesname rescheduled"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker rescheduled"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84" style="text-decoration: line-through;font-style: italic;">Isomorphisms of graded semiconnected algebras</a> (rescheduled)</td><td></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Homological algebra of integrable field theories in two and higher dimensions]]></title>
@@ -130,6 +123,13 @@
         <link href="https://researchseminars.org/seminar/Twistor2026"/>
         <updated>2026-08-16T05:54:06.523Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">06:15</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Kanehisa Takasaki</td><td class="talktitle"><a title="Direct linearization and Sato Grassmannian" knowl="talk/Twistor2026/5">Direct linearization and Sato Grassmannian</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isomorphisms of graded semiconnected algebras]]></title>
+        <id>https://researchseminars.org/seminar/OISTRTS</id>
+        <link href="https://researchseminars.org/seminar/OISTRTS"/>
+        <updated>2026-08-12T18:26:30.794Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84">Isomorphisms of graded semiconnected algebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From AKNS-SDYM hierarchy to Painleve equations]]></title>
@@ -279,11 +279,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Darlan Ferreira de Oliveira</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/114">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Betti numbers of nilmanifolds associated with path graphs]]></title>
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Eleftherios Chatzitheodoridis</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/159">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/eleftherioschatzitheodoridis/home">Eleftherios Chatzitheodoridis</a></td><td class="talktitle"><a title="Betti numbers of nilmanifolds associated with path graphs" knowl="talk/vcugeomandtop/159">Betti numbers of nilmanifolds associated with path graphs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Birth and Death Curves in Topological Data Analysis]]></title>
@@ -538,11 +538,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Planar frequency and the structure of area-minimizing currents: a new framework]]></title>
+        <title type="html"><![CDATA[Planar frequency, asymptotic structure and local topology of area-minimizing currents]]></title>
         <id>https://researchseminars.org/seminar/NCTS-GMT</id>
         <link href="https://researchseminars.org/seminar/NCTS-GMT"/>
         <updated>2026-08-19T06:01:01.826Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/NCTS-GMT">NCTS international Geometric Measure Theory seminar</a></td><td class="speaker">Neshan Wickramasekera</td><td class="talktitle"><a title="Planar frequency and the structure of area-minimizing currents: a new framework" knowl="talk/NCTS-GMT/38">Planar frequency and the structure of area-minimizing currents: a new framework</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/NCTS-GMT">NCTS international Geometric Measure Theory seminar</a></td><td class="speaker">Neshan Wickramasekera</td><td class="talktitle"><a title="Planar frequency, asymptotic structure and local topology of area-minimizing currents" knowl="talk/NCTS-GMT/38">Planar frequency, asymptotic structure and local topology of area-minimizing currents</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From Hubbard to Heisenberg at Half Filling]]></title>
