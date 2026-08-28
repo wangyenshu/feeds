@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-27T16:40:10.633Z</updated>
+    <updated>2026-08-28T01:37:24.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Zariski Topological Reconstruction Theorems via Model Theory]]></title>
-        <id>https://researchseminars.org/seminar/OLS</id>
-        <link href="https://researchseminars.org/seminar/OLS"/>
-        <updated>2026-07-26T05:01:56.439Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Aug 27</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Ben Castle</td><td class="talktitle"><a title="Zariski Topological Reconstruction Theorems via Model Theory" knowl="talk/OLS/218">Zariski Topological Reconstruction Theorems via Model Theory</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Action, Hamiltonians and reduction to 4d Chern-Simons for Hitchin's equations]]></title>
         <id>https://researchseminars.org/seminar/Twistor2026</id>
@@ -209,6 +202,13 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Holiday</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/64">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From discrete representation to continuous representations]]></title>
+        <id>https://researchseminars.org/seminar/OISTRTS</id>
+        <link href="https://researchseminars.org/seminar/OISTRTS"/>
+        <updated>2026-08-12T18:26:30.794Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://daisierock.codeberg.page/math.html">Daisie Job Rock</a></td><td class="talktitle"><a title="From discrete representation to continuous representations" knowl="talk/OISTRTS/85">From discrete representation to continuous representations</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
         <id>https://researchseminars.org/seminar/ESME</id>
         <link href="https://researchseminars.org/seminar/ESME"/>
@@ -233,7 +233,7 @@
         <title type="html"><![CDATA[Illuminating the strong-field regime of gravity]]></title>
         <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
-        <updated>2026-08-27T16:39:49.290Z</updated>
+        <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Hector Okada Da Silva</td><td class="talktitle"><a title="Illuminating the strong-field regime of gravity" knowl="talk/UMissPhysAstroColloq/3">Illuminating the strong-field regime of gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -265,11 +265,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Joseph Löfving</td><td class="talktitle"><a title="Tullenvarvet, the Half-Barathon" knowl="talk/gbgphd/57">Tullenvarvet, the Half-Barathon</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The arithmetic of differential equations]]></title>
         <id>https://researchseminars.org/seminar/NTWebSeminar</id>
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
         <updated>2026-07-26T05:01:56.464Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="https://www.daniellitt.com/">Daniel Litt</a></td><td class="talktitle"><a title="TBA" knowl="talk/NTWebSeminar/316">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="https://www.daniellitt.com/">Daniel Litt</a></td><td class="talktitle"><a title="The arithmetic of differential equations" knowl="talk/NTWebSeminar/316">The arithmetic of differential equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -359,7 +359,7 @@
         <title type="html"><![CDATA[Using light to open doors for next-generation thermoelectrics and chemical imaging techniques]]></title>
         <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
-        <updated>2026-08-27T16:39:49.312Z</updated>
+        <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Sriparna Bhattacharya</td><td class="talktitle"><a title="Using light to open doors for next-generation thermoelectrics and chemical imaging techniques" knowl="talk/UMissPhysAstroColloq/4">Using light to open doors for next-generation thermoelectrics and chemical imaging techniques</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -534,7 +534,7 @@
         <title type="html"><![CDATA[Electron Pairing and Fractionalization in the Age of AI and Quantum Computing]]></title>
         <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
-        <updated>2026-08-27T16:39:49.338Z</updated>
+        <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Yang Zhang</td><td class="talktitle"><a title="Electron Pairing and Fractionalization in the Age of AI and Quantum Computing" knowl="talk/UMissPhysAstroColloq/5">Electron Pairing and Fractionalization in the Age of AI and Quantum Computing</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -555,7 +555,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/GDEq</id>
         <link href="https://researchseminars.org/seminar/GDEq"/>
-        <updated>2026-08-27T16:39:49.342Z</updated>
+        <updated>2026-08-27T16:39:49.314Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker">Oleg Morozov</td><td class="talktitle"><a title="TBA" knowl="talk/GDEq/159">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -667,7 +667,7 @@
         <title type="html"><![CDATA[Robust interpolation inequalities via Chebyshev-type integral inequalities]]></title>
         <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
         <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
-        <updated>2026-08-27T16:39:49.360Z</updated>
+        <updated>2026-08-27T16:39:49.309Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://www.b-tu.de/fg-analysis/team/mitarbeiter/guy-fabrice-foghem-gounoue#c427995">Guy Foghem</a></td><td class="talktitle"><a title="Robust interpolation inequalities via Chebyshev-type integral inequalities" knowl="talk/Nonlinear_Analysis_Seminar/90">Robust interpolation inequalities via Chebyshev-type integral inequalities</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
