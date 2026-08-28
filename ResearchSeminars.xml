@@ -2,58 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-28T01:37:24.456Z</updated>
+    <updated>2026-08-28T17:38:06.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Action, Hamiltonians and reduction to 4d Chern-Simons for Hitchin's equations]]></title>
-        <id>https://researchseminars.org/seminar/Twistor2026</id>
-        <link href="https://researchseminars.org/seminar/Twistor2026"/>
-        <updated>2026-08-16T05:54:06.523Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">04:30</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Action, Hamiltonians and reduction to 4d Chern-Simons for Hitchin's equations" knowl="talk/Twistor2026/4">Action, Hamiltonians and reduction to 4d Chern-Simons for Hitchin's equations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct linearization and Sato Grassmannian]]></title>
-        <id>https://researchseminars.org/seminar/Twistor2026</id>
-        <link href="https://researchseminars.org/seminar/Twistor2026"/>
-        <updated>2026-08-16T05:54:06.523Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">06:15</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Kanehisa Takasaki</td><td class="talktitle"><a title="Direct linearization and Sato Grassmannian" knowl="talk/Twistor2026/5">Direct linearization and Sato Grassmannian</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isomorphisms of graded semiconnected algebras]]></title>
-        <id>https://researchseminars.org/seminar/OISTRTS</id>
-        <link href="https://researchseminars.org/seminar/OISTRTS"/>
-        <updated>2026-08-12T18:26:30.794Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">06:30</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://db.ipmu.jp/member/personal/8062en.html">Darius Dramburg</a></td><td class="talktitle"><a title="Isomorphisms of graded semiconnected algebras" knowl="talk/OISTRTS/84">Isomorphisms of graded semiconnected algebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From AKNS-SDYM hierarchy to Painleve equations]]></title>
-        <id>https://researchseminars.org/seminar/Twistor2026</id>
-        <link href="https://researchseminars.org/seminar/Twistor2026"/>
-        <updated>2026-08-16T05:54:06.523Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">07:45</td><td class="seriesname"><a href="/seminar/Twistor2026">Integrability, Self-Duality, and Twistor Theory</a></td><td class="speaker">Saburo Kakei</td><td class="talktitle"><a title="From AKNS-SDYM hierarchy to Painleve equations" knowl="talk/Twistor2026/6">From AKNS-SDYM hierarchy to Painleve equations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London Learning Lean]]></title>
-        <id>https://researchseminars.org/seminar/LondonLearningLean</id>
-        <link href="https://researchseminars.org/seminar/LondonLearningLean"/>
-        <updated>2026-08-05T19:01:40.143Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/36">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why build categorical models?]]></title>
-        <id>https://researchseminars.org/seminar/CompMath</id>
-        <link href="https://researchseminars.org/seminar/CompMath"/>
-        <updated>2026-08-20T05:57:20.181Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Tim Hosgood</td><td class="talktitle"><a title="Why build categorical models?" knowl="talk/CompMath/36">Why build categorical models?</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Khovanov Homology]]></title>
-        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
-        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
-        <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Aug 28</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Introduction to Khovanov Homology" knowl="talk/GEOTOP-A/131">Introduction to Khovanov Homology</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Crossing number and ribbonlength of folded ribbon knots]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -90,6 +41,13 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.researchgate.net/profile/Shuai-Hou-7">Shuai Hou</a></td><td class="talktitle"><a title="Averaging Lie bialgebras" knowl="talk/ENAAS/206">Averaging Lie bialgebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
+        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Seongjeong Kim</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/179">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Classes of extensions of commutative algebraic groups]]></title>
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
@@ -116,6 +74,13 @@
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-07-26T05:01:56.392Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Valeriy Bardakov</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/158">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilient GNSS in Challenging and Contested Environments]]></title>
+        <id>https://researchseminars.org/seminar/IEEECSS_TCSP</id>
+        <link href="https://researchseminars.org/seminar/IEEECSS_TCSP"/>
+        <updated>2026-08-28T17:37:44.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Miguel Gomez-Lopez</td><td class="talktitle"><a title="Resilient GNSS in Challenging and Contested Environments" knowl="talk/IEEECSS_TCSP/12">Resilient GNSS in Challenging and Contested Environments</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.]]></title>
@@ -196,6 +161,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
+        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/180">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/NTBU</id>
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
@@ -206,7 +178,7 @@
         <id>https://researchseminars.org/seminar/OISTRTS</id>
         <link href="https://researchseminars.org/seminar/OISTRTS"/>
         <updated>2026-08-12T18:26:30.794Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://daisierock.codeberg.page/math.html">Daisie Job Rock</a></td><td class="talktitle"><a title="From discrete representation to continuous representations" knowl="talk/OISTRTS/85">From discrete representation to continuous representations</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://daisierock.codeberg.page/math.html">Daisie Rock</a></td><td class="talktitle"><a title="From discrete representation to continuous representations" knowl="talk/OISTRTS/85">From discrete representation to continuous representations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
@@ -237,11 +209,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Hector Okada Da Silva</td><td class="talktitle"><a title="Illuminating the strong-field regime of gravity" knowl="talk/UMissPhysAstroColloq/3">Illuminating the strong-field regime of gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[From integer polynomials to complex and hypercomplex manifolds]]></title>
         <id>https://researchseminars.org/seminar/VSGS</id>
         <link href="https://researchseminars.org/seminar/VSGS"/>
         <updated>2026-07-26T05:01:56.479Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/VSGS">Virtual seminar on geometry with symmetries</a></td><td class="speaker">Adrián Andrada</td><td class="talktitle"><a title="TBA" knowl="talk/VSGS/138">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/VSGS">Virtual seminar on geometry with symmetries</a></td><td class="speaker">Adrián Andrada</td><td class="talktitle"><a title="From integer polynomials to complex and hypercomplex manifolds" knowl="talk/VSGS/138">From integer polynomials to complex and hypercomplex manifolds</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -361,6 +333,13 @@
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
         <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Sriparna Bhattacharya</td><td class="talktitle"><a title="Using light to open doors for next-generation thermoelectrics and chemical imaging techniques" knowl="talk/UMissPhysAstroColloq/4">Using light to open doors for next-generation thermoelectrics and chemical imaging techniques</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Bubble Isoperimetric Problems]]></title>
+        <id>https://researchseminars.org/seminar/th21</id>
+        <link href="https://researchseminars.org/seminar/th21"/>
+        <updated>2026-08-28T17:37:44.896Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/th21">Theorems of the 21st Century Seminar</a></td><td class="speaker"><a href="https://emilman.net.technion.ac.il/">Emanuel Milman</a></td><td class="talktitle"><a title="Multi-Bubble Isoperimetric Problems" knowl="talk/th21/9">Multi-Bubble Isoperimetric Problems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nature-centric governance using The Interspecies Council]]></title>
@@ -563,7 +542,7 @@
         <id>https://researchseminars.org/seminar/HarvardNT</id>
         <link href="https://researchseminars.org/seminar/HarvardNT"/>
         <updated>2026-08-20T05:57:20.222Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/161">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://www.math.harvard.edu/people/vamulapalli-samira/">Sameera Vemulapalli</a></td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/161">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +683,33 @@
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
+        <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
+        <updated>2026-08-27T16:39:49.277Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/UMissPhysAstroColloq/6">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gbgstats</id>
+        <link href="https://researchseminars.org/seminar/gbgstats"/>
+        <updated>2026-08-28T17:37:44.995Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker">JJ Zhu</td><td class="talktitle"><a title="TBA" knowl="talk/gbgstats/127">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Lagrangian densities and 3D integrable systems]]></title>
+        <id>https://researchseminars.org/seminar/GDEq</id>
+        <link href="https://researchseminars.org/seminar/GDEq"/>
+        <updated>2026-08-27T16:39:49.314Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker">Maxim Pavlov</td><td class="talktitle"><a title="Local Lagrangian densities and 3D integrable systems" knowl="talk/GDEq/158">Local Lagrangian densities and 3D integrable systems</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/HarvardNT</id>
+        <link href="https://researchseminars.org/seminar/HarvardNT"/>
+        <updated>2026-08-20T05:57:20.222Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://mathweb.tifr.res.in/~eghate/">Eknath Ghate</a></td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/162">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-08-28T01:37:24.409Z</updated>
+    <updated>2026-08-28T17:38:06.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Hochschild Homology and the Detection of Smoothness]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3991.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3991.html"/>
-        <updated>2026-07-18T07:14:35.779Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Jul 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3991.html" title="Hochschild Homology and the Detection of Smoothness" target="_blank">Hochschild Homology and the Detection of Smoothness</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yu Shen (Florida State Univers...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Khovanov Homology, Exotic Planes, and Geometric Structures on Them]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-3994.html</id>
@@ -32,11 +15,28 @@
                         <p>Aug 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-3994.html" title="Khovanov Homology, Exotic Planes, and Geometric Structures on Them" target="_blank">Khovanov Homology, Exotic Planes, and Geometric Structures on Them</a>
                         </p>
                         <p class="speaker">Speaker(s): Yikai Teng (Rutgers University...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Mean-Field Limits via Multiscale Mollification Metrics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/83-3998.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/83-3998.html"/>
+        <updated>2026-08-28T17:37:16.875Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 02</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/83.html" title="Analysis Research Interaction Team" target="_blank">Analysis Research Interaction Team</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/83-3998.html" title="Singular Mean-Field Limits via Multiscale Mollification Metrics" target="_blank">Singular Mean-Field Limits via Multiscale Mollification Metrics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Quoc Hung Nguyen (AMSS, CAS)</p>
                     </dd>]]></content>
     </entry>
     <entry>
