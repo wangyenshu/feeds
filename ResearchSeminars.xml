@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-29T19:56:07.877Z</updated>
+    <updated>2026-08-30T10:37:00.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://researchseminars.org/seminar/PHSeminar"/>
         <updated>2026-07-26T05:01:56.460Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Sebastian Schöps</td><td class="talktitle"><a title="Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits." knowl="talk/PHSeminar/40">Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-08-30T10:36:39.627Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dr. Igor Mandel (NJ, USA)</td><td class="talktitle"><a title="Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices" knowl="talk/AMIS/10">Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -695,14 +702,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/vantage</id>
         <link href="https://researchseminars.org/seminar/vantage"/>
-        <updated>2026-08-29T19:55:46.283Z</updated>
+        <updated>2026-08-29T19:55:46.167Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
-        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
-        <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
