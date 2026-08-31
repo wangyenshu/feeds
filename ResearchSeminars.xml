@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-30T10:37:00.153Z</updated>
+    <updated>2026-08-31T11:45:56.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Twistors for Gravitational instantons]]></title>
-        <id>https://researchseminars.org/seminar/nmps</id>
-        <link href="https://researchseminars.org/seminar/nmps"/>
-        <updated>2026-08-22T17:46:16.024Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">05:45</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Twistors for Gravitational instantons" knowl="talk/nmps/14">Twistors for Gravitational instantons</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestial Holography and the S-algebra]]></title>
-        <id>https://researchseminars.org/seminar/nmps</id>
-        <link href="https://researchseminars.org/seminar/nmps"/>
-        <updated>2026-08-22T17:46:16.024Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/nmps">Nagoya Math-Phys Seminar</a></td><td class="speaker">Lionel Mason</td><td class="talktitle"><a title="Celestial Holography and the S-algebra" knowl="talk/nmps/15">Celestial Holography and the S-algebra</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CheMLFlow: A proposal to stop AI agents from mixing up all the code]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Eric Dolores</td><td class="talktitle"><a title="CheMLFlow: A proposal to stop AI agents from mixing up all the code" knowl="talk/TropicalmathandML/51">CheMLFlow: A proposal to stop AI agents from mixing up all the code</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Averaging Lie bialgebras]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
@@ -34,11 +13,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.researchgate.net/profile/Shuai-Hou-7">Shuai Hou</a></td><td class="talktitle"><a title="Averaging Lie bialgebras" knowl="talk/ENAAS/206">Averaging Lie bialgebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Essential Diagrams of Knots in Sg×S1S_g \times S^1Sg​×S1]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Seongjeong Kim</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/179">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Seongjeong Kim</td><td class="talktitle"><a title="Essential Diagrams of Knots in $S_g \times S^1$" knowl="talk/Knotsandtopology/179">Essential Diagrams of Knots in <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>S</mi><mi>g</mi></msub><mo>×</mo><msup><mi>S</mi><mn>1</mn></msup></mrow><annotation encoding="application/x-tex">S_g \times S^1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.969438em; vertical-align: -0.286108em;"></span><span class="mord"><span style="margin-right: 0.05764em;" class="mord mathdefault">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.151392em;"><span class="" style="top: -2.55em; margin-left: -0.05764em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span style="margin-right: 0.03588em;" class="mord mathdefault mtight">g</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.286108em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.814108em; vertical-align: 0em;"></span><span class="mord"><span style="margin-right: 0.05764em;" class="mord mathdefault">S</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.814108em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Classes of extensions of commutative algebraic groups]]></title>
@@ -60,6 +39,13 @@
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
         <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 01</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Bianca Dittrich</td><td class="talktitle"><a title="From space-time atoms to gravitational waves" knowl="talk/UMissPhysAstroColloq/2">From space-time atoms to gravitational waves</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variants of Raimi's Theorem]]></title>
+        <id>https://researchseminars.org/seminar/XidianCombinatoricsSeminar</id>
+        <link href="https://researchseminars.org/seminar/XidianCombinatoricsSeminar"/>
+        <updated>2026-08-31T11:45:35.581Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/XidianCombinatoricsSeminar">Xidian University Seminar on Combinatorics and Applications</a></td><td class="speaker">Norbert Hegyvari</td><td class="talktitle"><a title="Variants of Raimi's Theorem" knowl="talk/XidianCombinatoricsSeminar/1">Variants of Raimi's Theorem</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -153,6 +139,13 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/eleftherioschatzitheodoridis/home">Eleftherios Chatzitheodoridis</a></td><td class="talktitle"><a title="Betti numbers of nilmanifolds associated with path graphs" knowl="talk/vcugeomandtop/159">Betti numbers of nilmanifolds associated with path graphs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
+        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
+        <updated>2026-08-31T11:45:35.600Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 05</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Александр Веденин</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/166">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Birth and Death Curves in Topological Data Analysis]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
@@ -160,11 +153,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Thomas Brüstle</td><td class="talktitle"><a title="Birth and Death Curves in Topological Data Analysis" knowl="talk/TropicalmathandML/44">Birth and Death Curves in Topological Data Analysis</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Nested Pre-Lie Operads and Infinitesimal Hopf Algebras]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker">Yannic Vargas</td><td class="talktitle"><a title="TBA" knowl="talk/ENAAS/189">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.cunef.edu/en/faculty-and-research/vargas-lozada-yannic/">Yannic Vargas</a></td><td class="talktitle"><a title="Nested Pre-Lie Operads and Infinitesimal Hopf Algebras" knowl="talk/ENAAS/189">Nested Pre-Lie Operads and Infinitesimal Hopf Algebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -343,6 +336,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Geolis</id>
+        <link href="https://researchseminars.org/seminar/Geolis"/>
+        <updated>2026-08-31T11:45:35.640Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker"><a href="https://math.tecnico.ulisboa.pt/faculty/professor.php?who=mmoreira">Miguel Moreira</a></td><td class="talktitle"><a title="TBA" knowl="talk/Geolis/183">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
@@ -486,7 +486,7 @@
         <id>https://researchseminars.org/seminar/NTBU</id>
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Daishi Kiyohara</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Planar frequency, asymptotic normal forms, and local topology of area-minimizing currents.]]></title>
@@ -594,11 +594,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Lachlan Dodd</td><td class="talktitle"><a title="Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission" knowl="talk/RSES_HDR_seminar/41">Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics]]></title>
         <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
         <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
         <updated>2026-07-26T05:01:56.482Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Peter Mulligan</td><td class="talktitle"><a title="TBA" knowl="talk/mathseminarsnuig/171">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Peter Mulligan</td><td class="talktitle"><a title="The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics" knowl="talk/mathseminarsnuig/171">The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>

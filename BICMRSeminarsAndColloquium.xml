@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-08-30T10:37:00.155Z</updated>
+    <updated>2026-08-31T11:45:56.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Khovanov Homology, Exotic Planes, and Geometric Structures on Them]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-3994.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-3994.html"/>
-        <updated>2026-08-24T17:57:39.828Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 28</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-3994.html" title="Khovanov Homology, Exotic Planes, and Geometric Structures on Them" target="_blank">Khovanov Homology, Exotic Planes, and Geometric Structures on Them</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yikai Teng (Rutgers University...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Singular Mean-Field Limits via Multiscale Mollification Metrics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/83-3998.html</id>
@@ -40,6 +23,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Splitting Brauer Classes by Genus One Curves]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-3999.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-3999.html"/>
+        <updated>2026-08-31T11:45:11.822Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 03</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-3999.html" title="Splitting Brauer Classes by Genus One Curves" target="_blank">Splitting Brauer Classes by Genus One Curves</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Federico Scavia (CNRS, Univers...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rigidity in geometry and dynamics]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/18-3996.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/18-3996.html"/>
@@ -49,7 +49,7 @@
                         <p>Sep 03</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/18-3996.html" title="Rigidity in geometry and dynamics" target="_blank">Rigidity in geometry and dynamics</a>
                         </p>
@@ -117,7 +117,7 @@
                         <p>Aug 31</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=140" title="The Second Sino-Uzbek Conference on Complex Analysis" target="_blank">The Second Sino-Uzbek Conference on Complex Analysis</a>
                         </p>
@@ -134,7 +134,7 @@
                         <p>Sep 03</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/17-3983.html" title="Summer School on Complex Analysis: Interplay of Dynamics, Geometry, and Probability" target="_blank">Summer School on Complex Analysis: Interplay of Dynamics, Geometry, and Probability</a>
                         </p>
