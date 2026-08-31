@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-31T11:45:56.059Z</updated>
+    <updated>2026-08-31T22:00:51.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Averaging Lie bialgebras]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.researchgate.net/profile/Shuai-Hou-7">Shuai Hou</a></td><td class="talktitle"><a title="Averaging Lie bialgebras" knowl="talk/ENAAS/206">Averaging Lie bialgebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential Diagrams of Knots in Sg×S1S_g \times S^1Sg​×S1]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Aug 31</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Seongjeong Kim</td><td class="talktitle"><a title="Essential Diagrams of Knots in $S_g \times S^1$" knowl="talk/Knotsandtopology/179">Essential Diagrams of Knots in <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>S</mi><mi>g</mi></msub><mo>×</mo><msup><mi>S</mi><mn>1</mn></msup></mrow><annotation encoding="application/x-tex">S_g \times S^1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.969438em; vertical-align: -0.286108em;"></span><span class="mord"><span style="margin-right: 0.05764em;" class="mord mathdefault">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.151392em;"><span class="" style="top: -2.55em; margin-left: -0.05764em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span style="margin-right: 0.03588em;" class="mord mathdefault mtight">g</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.286108em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.814108em; vertical-align: 0em;"></span><span class="mord"><span style="margin-right: 0.05764em;" class="mord mathdefault">S</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.814108em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Classes of extensions of commutative algebraic groups]]></title>
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
@@ -76,11 +62,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dr. Igor Mandel (NJ, USA)</td><td class="talktitle"><a title="Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices" knowl="talk/AMIS/10">Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The dimension theory of perfectoid spaces: an update.]]></title>
         <id>https://researchseminars.org/seminar/UtahRTNT</id>
         <link href="https://researchseminars.org/seminar/UtahRTNT"/>
         <updated>2026-08-18T05:55:32.498Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="TBA" knowl="talk/UtahRTNT/17">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="The dimension theory of perfectoid spaces: an update." knowl="talk/UtahRTNT/17">The dimension theory of perfectoid spaces: an update.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 5:Quantum State Transformations]]></title>
@@ -279,6 +265,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Hannah Hoganson</td><td class="talktitle"><a title="TBA" knowl="talk/OLS/219">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mathematics and Mentoring: A Framework]]></title>
+        <id>https://researchseminars.org/seminar/CompMath</id>
+        <link href="https://researchseminars.org/seminar/CompMath"/>
+        <updated>2026-08-31T22:00:30.101Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Aris Winger</td><td class="talktitle"><a title="Mathematics and Mentoring: A Framework" knowl="talk/CompMath/37">Mathematics and Mentoring: A Framework</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
@@ -326,6 +319,13 @@
         <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
         <updated>2026-08-27T16:39:49.309Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Prashant Athavale</td><td class="talktitle"><a title="TBA" knowl="talk/Nonlinear_Analysis_Seminar/89">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobham’s theorem for Gaussian numerations]]></title>
+        <id>https://researchseminars.org/seminar/CombinatoricsOnWords</id>
+        <link href="https://researchseminars.org/seminar/CombinatoricsOnWords"/>
+        <updated>2026-08-31T22:00:30.113Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Reem Yassawi</td><td class="talktitle"><a title="Cobham’s theorem for Gaussian numerations" knowl="talk/CombinatoricsOnWords/141">Cobham’s theorem for Gaussian numerations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>

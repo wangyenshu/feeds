@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-08-31T11:45:56.058Z</updated>
+    <updated>2026-08-31T22:00:51.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -265,6 +265,13 @@
         <content type="html"><![CDATA[[<a href="/jobs/list/28627" id="k28627" aria-labelledby="k28627 j28627">PNT</a>] <span id="j28627" aria-hidden="true">Postdoc in number theory</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28627"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/ISTA/28627/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Postdoctoral Fellowship in Mathematics]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28575</id>
+        <link href="https://www.mathjobs.org/jobs/list/28575"/>
+        <updated>2026-08-31T22:00:51.241Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28575" id="k28575" aria-labelledby="k28575 j28575">PDFM</a>] <span id="j28575" aria-hidden="true">Postdoctoral Fellowship in Mathematics</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28575"></span>  <span class="sml">&nbsp; <a href="https://candidaturas.impa.br/eventos/562/inscricao">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nuclear Technology Applications and Impacts Postdoctoral Fellow]]></title>
         <id>https://www.mathjobs.org/jobs/list/28327</id>
         <link href="https://www.mathjobs.org/jobs/list/28327"/>
@@ -291,12 +298,5 @@
         <link href="https://www.mathjobs.org/jobs/list/28742"/>
         <updated>2026-08-19T17:51:26.806Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28742" id="k28742" aria-labelledby="k28742 j28742">PD</a>] <span id="j28742" aria-hidden="true">NCTS Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28742"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NCTSMATH/28742/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post Doctoral]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28563</id>
-        <link href="https://www.mathjobs.org/jobs/list/28563"/>
-        <updated>2026-08-31T11:45:55.547Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28563" id="k28563" aria-labelledby="k28563 j28563">POSTDOCFALL2027</a>] <span id="j28563" aria-hidden="true">Post Doctoral</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28563"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/NMSU/28563/apply">Apply</a></span>]]></content>
     </entry>
 </feed>
