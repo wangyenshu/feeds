@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-08-31T22:00:51.737Z</updated>
+    <updated>2026-09-01T10:22:00.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -57,6 +57,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17063/" target="_blank">TBA</a>
 								</h3>
 								<p><strong> Jean-Philippe Burelle</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions]]></title>
+        <id>https://indico.math.cnrs.fr/event/17103/</id>
+        <link href="https://indico.math.cnrs.fr/event/17103/"/>
+        <updated>2026-09-01T10:21:03.625Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Tuesday 06 October 2026<br>
+								from 14:45 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17103/" target="_blank">On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions</a>
+								</h3>
+								<p><strong> Bernardo Zan</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -238,6 +256,54 @@
 								</h3>
 								<p><strong> Alexis Vasseur</strong></p>
 							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories]]></title>
+        <id>https://indico.math.cnrs.fr/event/17105/</id>
+        <link href="https://indico.math.cnrs.fr/event/17105/"/>
+        <updated>2026-09-01T10:21:03.640Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 19 October 2026 from 14:30							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/17105/" target="_blank">Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories</a></h3><a href="https://indico.math.cnrs.fr/event/17105/" target="_blank">
+										<p><strong>  Yin-Chen He</strong></p>
+							</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories]]></title>
+        <id>https://indico.math.cnrs.fr/event/17106/</id>
+        <link href="https://indico.math.cnrs.fr/event/17106/"/>
+        <updated>2026-09-01T10:21:03.643Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 21 October 2026 from 14:30							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/17106/" target="_blank">Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories</a></h3><a href="https://indico.math.cnrs.fr/event/17106/" target="_blank">
+										<p><strong>  Yin-Chen He</strong></p>
+							</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories]]></title>
+        <id>https://indico.math.cnrs.fr/event/17107/</id>
+        <link href="https://indico.math.cnrs.fr/event/17107/"/>
+        <updated>2026-09-01T10:21:03.644Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 26 October 2026 from 14:30							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/17107/" target="_blank">Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories</a></h3><a href="https://indico.math.cnrs.fr/event/17107/" target="_blank">
+										<p><strong>  Yin-Chen He</strong></p>
+							</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories]]></title>
+        <id>https://indico.math.cnrs.fr/event/17108/</id>
+        <link href="https://indico.math.cnrs.fr/event/17108/"/>
+        <updated>2026-09-01T10:21:03.645Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 28 October 2026 from 14:30							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/17108/" target="_blank">Fuzzy Sphere Meets CFT: 3D Ising, Fermions and Gauge Theories</a></h3><a href="https://indico.math.cnrs.fr/event/17108/" target="_blank">
+										<p><strong>  Yin-Chen He</strong></p>
+							</a></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Classification of Initial Data for Global Dynamics of Nonlinear Dispersive Equations]]></title>

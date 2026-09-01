@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-08-31T22:00:51.767Z</updated>
+    <updated>2026-09-01T10:22:00.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://daisierock.codeberg.page/math.html">Daisie Rock</a></td><td class="talktitle"><a title="From discrete representation to continuous representations" knowl="talk/OISTRTS/85">From discrete representation to continuous representations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Polynomial Regression under a Mixture of Classical and Berkson Errors]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Oleksandr Liubimov</td><td class="talktitle"><a title="Polynomial Regression under a Mixture of Classical and Berkson Errors" knowl="talk/MalliavinCalculus/173">Polynomial Regression under a Mixture of Classical and Berkson Errors</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
         <id>https://researchseminars.org/seminar/ESME</id>
         <link href="https://researchseminars.org/seminar/ESME"/>
@@ -314,11 +321,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Mohamed Moakher</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/52">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging]]></title>
         <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
         <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
         <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Prashant Athavale</td><td class="talktitle"><a title="TBA" knowl="talk/Nonlinear_Analysis_Seminar/89">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://webspace.clarkson.edu/~pathaval/">Prashant Athavale</a></td><td class="talktitle"><a title="Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging" knowl="talk/Nonlinear_Analysis_Seminar/89">Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cobham’s theorem for Gaussian numerations]]></title>
@@ -340,6 +347,13 @@
         <link href="https://researchseminars.org/seminar/Geolis"/>
         <updated>2026-08-31T11:45:35.640Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker"><a href="https://math.tecnico.ulisboa.pt/faculty/professor.php?who=mmoreira">Miguel Moreira</a></td><td class="talktitle"><a title="TBA" knowl="talk/Geolis/183">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joint Points of the Images of Independent Markov Processes under Smooth Deterministic Transformations]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.879Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Alexey Rudenko</td><td class="talktitle"><a title="Joint Points of the Images of Independent Markov Processes under Smooth Deterministic Transformations" knowl="talk/MalliavinCalculus/174">Joint Points of the Images of Independent Markov Processes under Smooth Deterministic Transformations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -384,11 +398,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a></td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/160">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[When Is Big Data Enough: Where Should We Put Our Next Seismic Station?]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
         <updated>2026-07-26T05:01:56.417Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Chengxin Jiang (RSES)</td><td class="talktitle"><a title="TBA" knowl="talk/RSES_school_seminar/310">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Chengxin Jiang (RSES)</td><td class="talktitle"><a title="When Is Big Data Enough: Where Should We Put Our Next Seismic Station?" knowl="talk/RSES_school_seminar/310">When Is Big Data Enough: Where Should We Put Our Next Seismic Station?</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -405,11 +419,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Eric Dolores</td><td class="talktitle"><a title="Chapter 6: Quantum versions of classical computations" knowl="talk/QRB/10">Chapter 6: Quantum versions of classical computations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids]]></title>
         <id>https://researchseminars.org/seminar/Postech-PMI-NT</id>
         <link href="https://researchseminars.org/seminar/Postech-PMI-NT"/>
         <updated>2026-08-19T06:01:01.809Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Hyuk Jun Kweon</td><td class="talktitle"><a title="TBA" knowl="talk/Postech-PMI-NT/18">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Hyuk Jun Kweon</td><td class="talktitle"><a title="A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids" knowl="talk/Postech-PMI-NT/18">A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -508,6 +522,13 @@
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
         <updated>2026-07-26T05:01:56.516Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IAMP_seminars">One world IAMP mathematical physics seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/tadahiromiyaosite/">Tadahiro Miyao</a></td><td class="talktitle"><a title="From Hubbard to Heisenberg at Half Filling" knowl="talk/IAMP_seminars/198">From Hubbard to Heisenberg at Half Filling</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotic Stability for Stochastic Flows with Interaction]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.915Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Andrey Dorogovtsev</td><td class="talktitle"><a title="Asymptotic Stability for Stochastic Flows with Interaction" knowl="talk/MalliavinCalculus/175">Asymptotic Stability for Stochastic Flows with Interaction</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New Math Sequence for First Year Engineering Students at the University of Michigan]]></title>
@@ -683,26 +704,5 @@
         <link href="https://researchseminars.org/seminar/SheffieldNumberTheory"/>
         <updated>2026-08-24T17:58:01.795Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/61">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/NonLocalOperators</id>
-        <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
-        <updated>2026-07-26T05:01:56.495Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/IsogenyClub</id>
-        <link href="https://researchseminars.org/seminar/IsogenyClub"/>
-        <updated>2026-08-27T16:39:49.363Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Special Edition</td><td class="talktitle"><a title="TBA" knowl="talk/IsogenyClub/49">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/vantage</id>
-        <link href="https://researchseminars.org/seminar/vantage"/>
-        <updated>2026-08-29T19:55:46.167Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
