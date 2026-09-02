@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-5---40-t--</id>
     <title>MathPrograms.Org — Fellowships and Grants</title>
-    <updated>2026-09-01T10:22:00.590Z</updated>
+    <updated>2026-09-02T09:50:11.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -52,6 +52,6 @@
         <id>https://www.mathprograms.org/db/programs/1954</id>
         <link href="https://www.mathprograms.org/db/programs/1954"/>
         <updated>2026-08-27T16:40:06.534Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathprograms.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/db/programs/1954" id="k1954" aria-labelledby="k1954 j1954">RMSA1</a>] <span id="j1954" aria-hidden="true">Rising Mathematics Scholars Award</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1954"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/UCLA/1954/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1954" id="k1954" aria-labelledby="k1954 j1954">RMSA1</a>] <span id="j1954" aria-hidden="true">Rising Mathematics Scholars Award</span>&nbsp;<span class="purplesml">(Fellowship or grant)</span><span id="jn1954"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/UCLA/1954/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

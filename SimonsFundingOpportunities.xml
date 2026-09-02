@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-09-01T10:22:00.596Z</updated>
+    <updated>2026-09-02T09:50:11.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
     <entry>
@@ -174,6 +174,35 @@
                 Investigators            </div>
             <span class="head">Status - </span>
             Open LOI Deadline:<br><span style="color:#666">12 p.m. (noon) Eastern Time,</span> <span class="m-post__muted">October 29, 2026</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utilizing the Full Power of Empire AI Request for Applications]]></title>
+        <id>https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/</id>
+        <link href="https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/"/>
+        <updated>2026-09-02T09:49:52.455Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/" class="m-post__block-link">
+                    Utilizing the Full Power of Empire AI Request for Applications                </a>
+            </h4>
+            <div class="m-post__main">
+                The Simons Foundation intends to support cutting-edge mathematics and basic science research, drawing on the advanced computational power of the Empire AI.Toward this goal, SF plans to initiate a new program to fund six to 12 proposals through a competitive open call to the Empire AI research community.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Simons Foundation</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Open Application Open  <span class="m-post__muted">September 1, 2026</span>
                     </aside>
 
 
