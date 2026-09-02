@@ -2,36 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-02T09:50:11.795Z</updated>
+    <updated>2026-09-02T20:00:59.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Resilient GNSS in Challenging and Contested Environments]]></title>
-        <id>https://researchseminars.org/seminar/IEEECSS_TCSP</id>
-        <link href="https://researchseminars.org/seminar/IEEECSS_TCSP"/>
-        <updated>2026-08-28T17:37:44.835Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Miguel Gomez-Lopez</td><td class="talktitle"><a title="Resilient GNSS in Challenging and Contested Environments" knowl="talk/IEEECSS_TCSP/12">Resilient GNSS in Challenging and Contested Environments</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.]]></title>
-        <id>https://researchseminars.org/seminar/PHSeminar</id>
-        <link href="https://researchseminars.org/seminar/PHSeminar"/>
-        <updated>2026-07-26T05:01:56.460Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Sebastian Schöps</td><td class="talktitle"><a title="Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits." knowl="talk/PHSeminar/40">Structural Analysis of Coupled Electromagnetic Fields and Electric Circuits.</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices]]></title>
-        <id>https://researchseminars.org/seminar/AMIS</id>
-        <link href="https://researchseminars.org/seminar/AMIS"/>
-        <updated>2026-08-30T10:36:39.627Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dr. Igor Mandel (NJ, USA)</td><td class="talktitle"><a title="Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices" knowl="talk/AMIS/10">Human vs. Computational Aesthetic Evaluation in Statistical Models of Art Prices</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The dimension theory of perfectoid spaces: an update.]]></title>
         <id>https://researchseminars.org/seminar/UtahRTNT</id>
         <link href="https://researchseminars.org/seminar/UtahRTNT"/>
         <updated>2026-08-18T05:55:32.498Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="The dimension theory of perfectoid spaces: an update." knowl="talk/UtahRTNT/17">The dimension theory of perfectoid spaces: an update.</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 02</td><td class="time" title="UTC"><b>20:00</b></td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jack J. Garzella</td><td class="talktitle"><a title="The dimension theory of perfectoid spaces: an update." knowl="talk/UtahRTNT/17">The dimension theory of perfectoid spaces: an update.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 5:Quantum State Transformations]]></title>
@@ -73,7 +52,7 @@
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
         <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Kelin Xia</td><td class="talktitle"><a title="Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning" knowl="talk/GEOTOP-A/132">Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Kelin Xia</td><td class="talktitle"><a title="Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning" knowl="talk/GEOTOP-A/132">Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -174,11 +153,18 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/VSGS">Virtual seminar on geometry with symmetries</a></td><td class="speaker">Adrián Andrada</td><td class="talktitle"><a title="From integer polynomials to complex and hypercomplex manifolds" knowl="talk/VSGS/138">From integer polynomials to complex and hypercomplex manifolds</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The Network First Manifesto]]></title>
+        <id>https://researchseminars.org/seminar/Metagov</id>
+        <link href="https://researchseminars.org/seminar/Metagov"/>
+        <updated>2026-07-30T18:55:55.007Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Francisco Marin</td><td class="talktitle"><a title="The Network First Manifesto" knowl="talk/Metagov/298">The Network First Manifesto</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with LLMs to do high quality math]]></title>
         <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
         <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
         <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Daniel Litt</td><td class="talktitle"><a title="TBA" knowl="talk/AI-for-the-working-mathematician/1">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Daniel Litt</td><td class="talktitle"><a title="Working with LLMs to do high quality math" knowl="talk/AI-for-the-working-mathematician/1">Working with LLMs to do high quality math</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 6: Quantum versions of classical computations]]></title>
@@ -335,6 +321,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Sriparna Bhattacharya</td><td class="talktitle"><a title="Using light to open doors for next-generation thermoelectrics and chemical imaging techniques" knowl="talk/UMissPhysAstroColloq/4">Using light to open doors for next-generation thermoelectrics and chemical imaging techniques</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trustworthy Algorithms for Sustainable Future Mobility]]></title>
+        <id>https://researchseminars.org/seminar/IEEECSS_TCSP</id>
+        <link href="https://researchseminars.org/seminar/IEEECSS_TCSP"/>
+        <updated>2026-08-28T17:37:44.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Chih-Yuan Chiu</td><td class="talktitle"><a title="Trustworthy Algorithms for Sustainable Future Mobility" knowl="talk/IEEECSS_TCSP/13">Trustworthy Algorithms for Sustainable Future Mobility</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multi-Bubble Isoperimetric Problems]]></title>
         <id>https://researchseminars.org/seminar/th21</id>
         <link href="https://researchseminars.org/seminar/th21"/>
@@ -391,11 +384,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Hyuk Jun Kweon</td><td class="talktitle"><a title="A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids" knowl="talk/Postech-PMI-NT/18">A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics]]></title>
         <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
         <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
         <updated>2026-07-26T05:01:56.482Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Kirsten Pfeiffer</td><td class="talktitle"><a title="TBA" knowl="talk/mathseminarsnuig/170">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Kirsten Pfeiffer</td><td class="talktitle"><a title="“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics" knowl="talk/mathseminarsnuig/170">“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -548,7 +541,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/MITNT</id>
         <link href="https://researchseminars.org/seminar/MITNT"/>
-        <updated>2026-09-02T09:49:48.788Z</updated>
+        <updated>2026-09-02T09:49:48.738Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/MITNT/142">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -653,7 +646,7 @@
         <title type="html"><![CDATA[Non-abelian Hodge Theoretic aspects of TQFT]]></title>
         <id>https://researchseminars.org/seminar/CIRGET</id>
         <link href="https://researchseminars.org/seminar/CIRGET"/>
-        <updated>2026-09-02T09:49:48.812Z</updated>
+        <updated>2026-09-02T09:49:48.758Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Philippe Eyssidieux</td><td class="talktitle"><a title="Non-abelian Hodge Theoretic aspects of TQFT" knowl="talk/CIRGET/168">Non-abelian Hodge Theoretic aspects of TQFT</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
         <updated>2026-08-27T16:39:49.309Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://www.b-tu.de/fg-analysis/team/mitarbeiter/guy-fabrice-foghem-gounoue#c427995">Guy Foghem</a></td><td class="talktitle"><a title="Robust interpolation inequalities via Chebyshev-type integral inequalities" knowl="talk/Nonlinear_Analysis_Seminar/90">Robust interpolation inequalities via Chebyshev-type integral inequalities</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heisenberg SICs, Stark Units and Weil Representations]]></title>
+        <id>https://researchseminars.org/seminar/SheffieldNumberTheory</id>
+        <link href="https://researchseminars.org/seminar/SheffieldNumberTheory"/>
+        <updated>2026-09-02T20:00:37.512Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/61">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
