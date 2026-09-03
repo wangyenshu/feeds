@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-02T20:00:59.019Z</updated>
+    <updated>2026-09-03T20:02:58.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -114,7 +114,7 @@
 							</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional ${mathbb Z}_N$ lattice gauge theory]]></title>
+        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional {mathbb Z}_N{mathbb Z}_N lattice gauge theory]]></title>
         <id>https://indico.math.cnrs.fr/event/16932/</id>
         <link href="https://indico.math.cnrs.fr/event/16932/"/>
         <updated>2026-07-06T19:15:55.839Z</updated>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-3---40-t--</id>
     <title>MathPrograms.Org — Graduate or Early Career Programs</title>
-    <updated>2026-09-02T20:00:59.176Z</updated>
+    <updated>2026-09-03T20:02:58.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.mathprograms.org/db/programs/1955</id>
         <link href="https://www.mathprograms.org/db/programs/1955"/>
         <updated>2026-09-02T09:50:02.512Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathprograms.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/db/programs/1955" id="k1955" aria-labelledby="k1955 j1955">GSTG27</a>] <span id="j1955" aria-hidden="true">Graduate Student Travel Grants to 2027 JMM</span>&nbsp;<span class="purplesml">(Graduate or early career program)</span><span id="jn1955"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AMS/1955/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1955" id="k1955" aria-labelledby="k1955 j1955">GSTG27</a>] <span id="j1955" aria-hidden="true">Graduate Student Travel Grants to 2027 JMM</span>&nbsp;<span class="purplesml">(Graduate or early career program)</span><span id="jn1955"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AMS/1955/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PCMI Research Topic Proposal]]></title>
