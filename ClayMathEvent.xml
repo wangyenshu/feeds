@@ -2,58 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2026-09-03T20:02:58.433Z</updated>
+    <updated>2026-09-04T19:48:19.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[16th ALGA: Commutative Algebra and Algebraic Geometry]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.485Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="675" height="1200" src="https://www.claymath.org/wp-content/uploads/2025/10/16th-ALGA-outubro-675x1200-1.jpg" class="attachment-4224 size-4224 wp-post-image" alt="16th ALGA poster" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2025/10/16th-ALGA-outubro-675x1200-1.jpg 675w, https://www.claymath.org/wp-content/uploads/2025/10/16th-ALGA-outubro-675x1200-1-169x300.jpg 169w, https://www.claymath.org/wp-content/uploads/2025/10/16th-ALGA-outubro-675x1200-1-576x1024.jpg 576w" sizes="(max-width: 675px) 100vw, 675px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      31 August - 4 September 2026    </span>
-    <h3>16th ALGA: Commutative Algebra and Algebraic Geometry</h3>
-   <p> IMPA, Rio de Janeiro</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trends in Differential and Complex Geometry: a celebration of Nigel Hitchin’s 80th birthday]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.486Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-  <div class="cmi-event">A CMI event</div>
-
-  
-  <img width="1280" height="859" src="https://www.claymath.org/wp-content/uploads/2025/10/unnamed-1.png" class="attachment-4369 size-4369 wp-post-image" alt="Hitchin" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2025/10/unnamed-1.png 1280w, https://www.claymath.org/wp-content/uploads/2025/10/unnamed-1-300x201.png 300w, https://www.claymath.org/wp-content/uploads/2025/10/unnamed-1-1024x687.png 1024w, https://www.claymath.org/wp-content/uploads/2025/10/unnamed-1-768x515.png 768w" sizes="(max-width: 1280px) 100vw, 1280px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      31 August - 4 September 2026    </span>
-    <h3>Trends in Differential and Complex Geometry: a celebration of Nigel Hitchin’s 80th birthday</h3>
-   <p> University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Fibrations in Group Theory and Topology]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.494Z</updated>
+        <updated>2026-09-04T19:47:02.688Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="350" height="275" src="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg" class="attachment-4389 size-4389 wp-post-image" alt="" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-28-300x236.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
+  <img width="350" height="275" src="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg" class="attachment-4389 size-4389 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-28-300x236.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -68,7 +28,7 @@
         <title type="html"><![CDATA[Early Career Number Theorists in South-Eastern Europe (ECNTSEE)]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.494Z</updated>
+        <updated>2026-09-04T19:47:02.688Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -87,7 +47,7 @@
         <title type="html"><![CDATA[2026 Clay Research Conference and Workshops]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.496Z</updated>
+        <updated>2026-09-04T19:47:02.691Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -108,7 +68,7 @@
         <title type="html"><![CDATA[Multi-valued Harmonicity]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.496Z</updated>
+        <updated>2026-09-04T19:47:02.692Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -129,7 +89,7 @@
         <title type="html"><![CDATA[The Birch and Swinnerton-Dyer Conjecture and Related Problems: Recent Results]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.497Z</updated>
+        <updated>2026-09-04T19:47:02.694Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -150,7 +110,7 @@
         <title type="html"><![CDATA[Telescopic Homotopy Theory and Algebraic K-theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.499Z</updated>
+        <updated>2026-09-04T19:47:02.696Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -171,7 +131,7 @@
         <title type="html"><![CDATA[39th British Topology Meeting]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.500Z</updated>
+        <updated>2026-09-04T19:47:02.699Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -190,7 +150,7 @@
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.502Z</updated>
+        <updated>2026-09-04T19:47:02.700Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -209,7 +169,7 @@
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.503Z</updated>
+        <updated>2026-09-04T19:47:02.706Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -228,7 +188,7 @@
         <title type="html"><![CDATA[Recent Advances in Low-dimensional Topology]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.505Z</updated>
+        <updated>2026-09-04T19:47:02.707Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -247,7 +207,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.506Z</updated>
+        <updated>2026-09-04T19:47:02.709Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -266,7 +226,7 @@
         <title type="html"><![CDATA[French-Japanese Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.507Z</updated>
+        <updated>2026-09-04T19:47:02.710Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -285,7 +245,7 @@
         <title type="html"><![CDATA[Algebraic Geometry, Automorphic Forms, Number Theory and Geometric Representation Theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.509Z</updated>
+        <updated>2026-09-04T19:47:02.711Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -304,7 +264,7 @@
         <title type="html"><![CDATA[New Perspectives in Low-dimensional Topology]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-03T20:01:32.510Z</updated>
+        <updated>2026-09-04T19:47:02.712Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -315,6 +275,46 @@
       14 - 18  June 2027    </span>
     <h3>New Perspectives in Low-dimensional Topology</h3>
    <p> Princeton University</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-09-04T19:47:02.714Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img src="/wp-content/themes/clay/images/fallback-event-image.jpg" alt="default event image">
+
+  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      13 - 18  June 2027    </span>
+    <h3>New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications</h3>
+   <p> Institute of Mathematics, University of Granada</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flat Surfaces in Skye]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-09-04T19:47:02.715Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1600" height="1081" src="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg" class="attachment-4118 size-4118 wp-post-image" alt="Isle of Skye" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg 1600w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-300x203.jpg 300w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1024x692.jpg 1024w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-768x519.jpg 768w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1536x1038.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      13 - 19  June 2027    </span>
+    <h3>Flat Surfaces in Skye</h3>
+   <p> Sabhal Mòr Ostaig, Isle of Skye</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>

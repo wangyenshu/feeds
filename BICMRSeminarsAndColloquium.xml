@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-03T20:02:58.439Z</updated>
+    <updated>2026-09-04T19:48:19.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -57,6 +57,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On the Geometry of Large Sets]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-4003.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-4003.html"/>
+        <updated>2026-09-04T19:47:33.326Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 09</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-4003.html" title="On the Geometry of Large Sets" target="_blank">On the Geometry of Large Sets</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Antoine Song (California Insti...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/45-4000.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/45-4000.html"/>
@@ -71,23 +88,6 @@
                             <a href="/content/show/45-4000.html" title="High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions" target="_blank">High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions</a>
                         </p>
                         <p class="speaker">Speaker(s): Fan Chen (Massachusetts Instit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2D Euler Steady States and Semi-Linear Elliptic Equation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/46-3995.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/46-3995.html"/>
-        <updated>2026-09-02T20:00:14.832Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 14</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/46-3995.html" title="2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;" target="_blank">2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Yupei Huang (Imperial College ...</p>
                     </dd>]]></content>
     </entry>
     <entry>

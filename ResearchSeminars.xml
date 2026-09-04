@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-03T20:02:58.463Z</updated>
+    <updated>2026-09-04T19:48:20.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning]]></title>
-        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
-        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
-        <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Kelin Xia</td><td class="talktitle"><a title="Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning" knowl="talk/GEOTOP-A/132">Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
-        <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Darlan Ferreira de Oliveira</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/114">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Betti numbers of nilmanifolds associated with path graphs]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 04</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/eleftherioschatzitheodoridis/home">Eleftherios Chatzitheodoridis</a></td><td class="talktitle"><a title="Betti numbers of nilmanifolds associated with path graphs" knowl="talk/vcugeomandtop/159">Betti numbers of nilmanifolds associated with path graphs</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Fast converging Chernoff approximations to the solution of the Cauchy problem for a parabolic equation on the real line.]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -74,6 +53,13 @@
         <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
         <updated>2026-09-01T10:21:31.835Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Oleksandr Liubimov</td><td class="talktitle"><a title="Polynomial Regression under a Mixture of Classical and Berkson Errors" knowl="talk/MalliavinCalculus/173">Polynomial Regression under a Mixture of Classical and Berkson Errors</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Well-posedness for Dispersive PDE with Combined Nonlinearities]]></title>
+        <id>https://researchseminars.org/seminar/PotomacPDE</id>
+        <link href="https://researchseminars.org/seminar/PotomacPDE"/>
+        <updated>2026-09-04T19:47:58.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://alex-d-rod.github.io">Alex D. Rodriguez</a></td><td class="talktitle"><a title="Well-posedness for Dispersive PDE with Combined Nonlinearities" knowl="talk/PotomacPDE/21">Well-posedness for Dispersive PDE with Combined Nonlinearities</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
@@ -256,6 +242,13 @@
         <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
         <updated>2026-09-01T10:21:31.835Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Alexey Rudenko</td><td class="talktitle"><a title="Joint Points of the Images of Independent Markov Processes under Smooth Deterministic Transformations" knowl="talk/MalliavinCalculus/174">Joint Points of the Images of Independent Markov Processes under Smooth Deterministic Transformations</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/PotomacPDE</id>
+        <link href="https://researchseminars.org/seminar/PotomacPDE"/>
+        <updated>2026-09-04T19:47:58.498Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://willkwon-math.kr">Hyunwoo Kwon</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/22">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -461,6 +454,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/OWNS">One World Numeration seminar</a></td><td class="speaker">Dorsa Hatefi</td><td class="talktitle"><a title="Hausdorff dimension of differences of badly approximable sets" knowl="talk/OWNS/170">Hausdorff dimension of differences of badly approximable sets</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
+        <id>https://researchseminars.org/seminar/courses_ipht</id>
+        <link href="https://researchseminars.org/seminar/courses_ipht"/>
+        <updated>2026-09-04T19:47:58.539Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">12:15</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/41">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Hubbard to Heisenberg at Half Filling]]></title>
         <id>https://researchseminars.org/seminar/IAMP_seminars</id>
         <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
@@ -473,6 +473,13 @@
         <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
         <updated>2026-09-01T10:21:31.835Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Andrey Dorogovtsev</td><td class="talktitle"><a title="Asymptotic Stability for Stochastic Flows with Interaction" knowl="talk/MalliavinCalculus/175">Asymptotic Stability for Stochastic Flows with Interaction</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/PotomacPDE</id>
+        <link href="https://researchseminars.org/seminar/PotomacPDE"/>
+        <updated>2026-09-04T19:47:58.543Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://math.wvu.edu/~adtudorascu/">Adrian Tudorascu</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/23">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New Math Sequence for First Year Engineering Students at the University of Michigan]]></title>
@@ -608,6 +615,13 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/EUPAC-TP">Europe and Pacific Theoretical Physics</a></td><td class="speaker"><a href="https://inspirehep.net/authors/3147765">Jesse Woods</a></td><td class="talktitle"><a title="Computer Algebra for Tensors in Field Theory" knowl="talk/EUPAC-TP/36">Computer Algebra for Tensors in Field Theory</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
+        <id>https://researchseminars.org/seminar/courses_ipht</id>
+        <link href="https://researchseminars.org/seminar/courses_ipht"/>
+        <updated>2026-09-04T19:47:58.573Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/42">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Non-abelian Hodge Theoretic aspects of TQFT]]></title>
         <id>https://researchseminars.org/seminar/CIRGET</id>
         <link href="https://researchseminars.org/seminar/CIRGET"/>
@@ -634,6 +648,13 @@
         <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
         <updated>2026-08-24T17:58:01.789Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
+        <id>https://researchseminars.org/seminar/courses_ipht</id>
+        <link href="https://researchseminars.org/seminar/courses_ipht"/>
+        <updated>2026-09-04T19:47:58.580Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:15</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/43">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -683,26 +704,5 @@
         <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
         <updated>2026-09-01T10:21:31.835Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Georgii Ryabov</td><td class="talktitle"><a title="Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph" knowl="talk/MalliavinCalculus/176">Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/IsogenyClub</id>
-        <link href="https://researchseminars.org/seminar/IsogenyClub"/>
-        <updated>2026-09-03T20:02:27.085Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Special Edition</td><td class="talktitle"><a title="TBA" knowl="talk/IsogenyClub/49">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/vantage</id>
-        <link href="https://researchseminars.org/seminar/vantage"/>
-        <updated>2026-08-29T19:55:46.167Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
-        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
-        <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
