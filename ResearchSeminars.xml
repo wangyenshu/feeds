@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-04T19:48:20.040Z</updated>
+    <updated>2026-09-05T09:13:54.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Hector Okada da Silva</td><td class="talktitle"><a title="Illuminating the strong-field regime of gravity" knowl="talk/UMissPhysAstroColloq/3">Illuminating the strong-field regime of gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Arctan-Tan-G Family of Distributions: Properties and Applications]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-09-05T09:13:37.437Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Dr. Yevhen Turchyn</td><td class="talktitle"><a title="The Arctan-Tan-G Family of Distributions: Properties and Applications" knowl="talk/AMIS/11">The Arctan-Tan-G Family of Distributions: Properties and Applications</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From integer polynomials to complex and hypercomplex manifolds]]></title>
         <id>https://researchseminars.org/seminar/VSGS</id>
         <link href="https://researchseminars.org/seminar/VSGS"/>
@@ -167,11 +174,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Aris Winger</td><td class="talktitle"><a title="Mathematics and Mentoring: A Framework" knowl="talk/CompMath/37">Mathematics and Mentoring: A Framework</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Uniformity of quadratic points on algebraic curves]]></title>
         <id>https://researchseminars.org/seminar/vcugeomandtop</id>
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Tangli Ge</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/160">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Tangli Ge</td><td class="talktitle"><a title="Uniformity of quadratic points on algebraic curves" knowl="talk/vcugeomandtop/160">Uniformity of quadratic points on algebraic curves</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loop equations characterize random matrix statistics]]></title>
@@ -247,7 +254,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/PotomacPDE</id>
         <link href="https://researchseminars.org/seminar/PotomacPDE"/>
-        <updated>2026-09-04T19:47:58.498Z</updated>
+        <updated>2026-09-04T19:47:58.458Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://willkwon-math.kr">Hyunwoo Kwon</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/22">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -430,7 +437,7 @@
         <id>https://researchseminars.org/seminar/UFV-math-stats</id>
         <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
         <updated>2026-09-02T09:49:48.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker">Tariq Nuruddin</td><td class="talktitle"><a title="Scott Topology and DCPOs" knowl="talk/UFV-math-stats/30">Scott Topology and DCPOs</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.ufv.ca/math/contact-us/faculty/nuruddin-tariq.htm">Tariq Nuruddin</a></td><td class="talktitle"><a title="Scott Topology and DCPOs" knowl="talk/UFV-math-stats/30">Scott Topology and DCPOs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Planar frequency, asymptotic normal forms, and local topology of area-minimizing currents.]]></title>
@@ -478,7 +485,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/PotomacPDE</id>
         <link href="https://researchseminars.org/seminar/PotomacPDE"/>
-        <updated>2026-09-04T19:47:58.543Z</updated>
+        <updated>2026-09-04T19:47:58.458Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://math.wvu.edu/~adtudorascu/">Adrian Tudorascu</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/23">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -618,7 +625,7 @@
         <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
         <id>https://researchseminars.org/seminar/courses_ipht</id>
         <link href="https://researchseminars.org/seminar/courses_ipht"/>
-        <updated>2026-09-04T19:47:58.573Z</updated>
+        <updated>2026-09-04T19:47:58.539Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/42">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -653,7 +660,7 @@
         <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
         <id>https://researchseminars.org/seminar/courses_ipht</id>
         <link href="https://researchseminars.org/seminar/courses_ipht"/>
-        <updated>2026-09-04T19:47:58.580Z</updated>
+        <updated>2026-09-04T19:47:58.539Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:15</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/43">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph]]></title>
-        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
-        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
-        <updated>2026-09-01T10:21:31.835Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Georgii Ryabov</td><td class="talktitle"><a title="Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph" knowl="talk/MalliavinCalculus/176">Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
