@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-05T09:13:54.456Z</updated>
+    <updated>2026-09-05T19:16:16.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Fast converging Chernoff approximations to the solution of the Cauchy problem for a parabolic equation on the real line.]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-08-31T11:45:35.600Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 05</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Александр Веденин</td><td class="talktitle"><a title="Fast converging Chernoff approximations to the solution of the Cauchy problem for a parabolic equation on the real line." knowl="talk/knotgraphgroup/166">Fast converging Chernoff approximations to the solution of the Cauchy problem for a parabolic equation on the real line.</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Birth and Death Curves in Topological Data Analysis]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Georgii Ryabov</td><td class="talktitle"><a title="Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph" knowl="talk/MalliavinCalculus/176">Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
