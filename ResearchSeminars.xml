@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-05T19:16:16.051Z</updated>
+    <updated>2026-09-06T09:36:24.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.cunef.edu/en/faculty-and-research/vargas-lozada-yannic/">Yannic Vargas</a></td><td class="talktitle"><a title="Nested Pre-Lie Operads and Infinitesimal Hopf Algebras" knowl="talk/ENAAS/189">Nested Pre-Lie Operads and Infinitesimal Hopf Algebras</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Multicrossing homology and secant classes]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/180">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Igor M. Nikonov</td><td class="talktitle"><a title="Multicrossing homology and secant classes" knowl="talk/Knotsandtopology/180">Multicrossing homology and secant classes</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
