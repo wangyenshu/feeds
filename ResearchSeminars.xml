@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-06T19:25:17.497Z</updated>
+    <updated>2026-09-07T10:38:48.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Birth and Death Curves in Topological Data Analysis]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 07</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Thomas Brüstle</td><td class="talktitle"><a title="Birth and Death Curves in Topological Data Analysis" knowl="talk/TropicalmathandML/44">Birth and Death Curves in Topological Data Analysis</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Nested Pre-Lie Operads and Infinitesimal Hopf Algebras]]></title>
         <id>https://researchseminars.org/seminar/ENAAS</id>
@@ -81,6 +74,13 @@
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
         <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Hector Okada da Silva</td><td class="talktitle"><a title="Illuminating the strong-field regime of gravity" knowl="talk/UMissPhysAstroColloq/3">Illuminating the strong-field regime of gravity</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning]]></title>
+        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
+        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
+        <updated>2026-09-07T10:38:26.144Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Kelin Xia</td><td class="talktitle"><a title="Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning" knowl="talk/Mos-Bei-top-seminar/159">Mathematical AI for Molecular Sciences: from topological data analysis to topological deep learning</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Arctan-Tan-G Family of Distributions: Properties and Applications]]></title>
@@ -172,6 +172,13 @@
         <link href="https://researchseminars.org/seminar/NYNTS"/>
         <updated>2026-09-06T19:25:00.155Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Sidon sets with Delta-separated sumsets" knowl="talk/NYNTS/1">Sidon sets with Delta-separated sumsets</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kronecker-Weber theorem]]></title>
+        <id>https://researchseminars.org/seminar/STAGE</id>
+        <link href="https://researchseminars.org/seminar/STAGE"/>
+        <updated>2026-09-07T10:38:26.173Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Ari Krishna</td><td class="talktitle"><a title="The Kronecker-Weber theorem" knowl="talk/STAGE/160">The Kronecker-Weber theorem</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathematics and Mentoring: A Framework]]></title>
@@ -272,6 +279,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://willkwon-math.kr">Hyunwoo Kwon</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/22">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Studying equivariant structures using transfer systems and Rubin functors]]></title>
+        <id>https://researchseminars.org/seminar/DiagramCategories</id>
+        <link href="https://researchseminars.org/seminar/DiagramCategories"/>
+        <updated>2026-09-07T10:38:26.195Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/DiagramCategories">Diagram categories in homotopy theory</a></td><td class="speaker"><a href="https://www.danikavanniel.com/">Danika Van Niel</a></td><td class="talktitle"><a title="Studying equivariant structures using transfer systems and Rubin functors" knowl="talk/DiagramCategories/5">Studying equivariant structures using transfer systems and Rubin functors</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
@@ -328,18 +342,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker"><a href="https://eps.leeds.ac.uk/maths/staff/4063/professor-alexander-mikhailov">Alexander Mikhailov</a></td><td class="talktitle"><a title="TBA" knowl="talk/GDEq/157">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The Mathieu group M23M_{23}M23​ is a Galois group over Q\mathbb{Q}Q]]></title>
         <id>https://researchseminars.org/seminar/HarvardNT</id>
         <link href="https://researchseminars.org/seminar/HarvardNT"/>
         <updated>2026-08-20T05:57:20.222Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a></td><td class="talktitle"><a title="TBA" knowl="talk/HarvardNT/160">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Is Big Data Enough: Where Should We Put Our Next Seismic Station?]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-07-26T05:01:56.417Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Chengxin Jiang (RSES)</td><td class="talktitle"><a title="When Is Big Data Enough: Where Should We Put Our Next Seismic Station?" knowl="talk/RSES_school_seminar/310">When Is Big Data Enough: Where Should We Put Our Next Seismic Station?</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a></td><td class="talktitle"><a title="The Mathieu group $M_{23}$ is a Galois group over $\mathbb{Q}$" knowl="talk/HarvardNT/160">The Mathieu group <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>M</mi><mn>23</mn></msub></mrow><annotation encoding="application/x-tex">M_{23}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.83333em; vertical-align: -0.15em;"></span><span class="mord"><span style="margin-right: 0.10903em;" class="mord mathdefault">M</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.301108em;"><span class="" style="top: -2.55em; margin-left: -0.10903em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mtight">3</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.15em;"><span class=""></span></span></span></span></span></span></span></span></span></span> is a Galois group over <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="double-struck">Q</mi></mrow><annotation encoding="application/x-tex">\mathbb{Q}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.85556em; vertical-align: -0.16667em;"></span><span class="mord"><span class="mord mathbb">Q</span></span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -371,6 +378,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gbgphd</id>
+        <link href="https://researchseminars.org/seminar/gbgphd"/>
+        <updated>2026-08-15T05:51:23.188Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Henrik Häggström</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/61">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/NTWebSeminar</id>
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
         <updated>2026-07-26T05:01:56.464Z</updated>
@@ -394,8 +408,15 @@
         <title type="html"><![CDATA[B_h-sets and perturbations in normed vector spaces]]></title>
         <id>https://researchseminars.org/seminar/NYNTS</id>
         <link href="https://researchseminars.org/seminar/NYNTS"/>
-        <updated>2026-09-06T19:25:00.191Z</updated>
+        <updated>2026-09-06T19:25:00.155Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="B_h-sets and perturbations in normed vector spaces" knowl="talk/NYNTS/2">B_h-sets and perturbations in normed vector spaces</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex multiplication]]></title>
+        <id>https://researchseminars.org/seminar/STAGE</id>
+        <link href="https://researchseminars.org/seminar/STAGE"/>
+        <updated>2026-09-07T10:38:26.220Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Wonjae Suh</td><td class="talktitle"><a title="Complex multiplication" knowl="talk/STAGE/161">Complex multiplication</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -424,6 +445,13 @@
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">available</td><td class="talktitle"><a title="TBA" knowl="talk/vcugeomandtop/161">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
+        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
+        <updated>2026-09-06T19:25:00.159Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 19</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Aninda Banerjee</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/168">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Signs in objective linear algebra]]></title>
@@ -473,6 +501,13 @@
         <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
         <updated>2026-07-26T05:01:56.393Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Naiga Sembatya</td><td class="talktitle"><a title="Understanding the Makuutu Regolith-Hosted Rare Earth Deposit: Genesis, Adsorption Controls and Resource Implications." knowl="talk/RSES_HDR_seminar/43">Understanding the Makuutu Regolith-Hosted Rare Earth Deposit: Genesis, Adsorption Controls and Resource Implications.</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
+        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
+        <updated>2026-08-27T16:39:49.309Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Chun Ho Lau</td><td class="talktitle"><a title="TBA" knowl="talk/Nonlinear_Analysis_Seminar/93">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hausdorff dimension of differences of badly approximable sets]]></title>
@@ -630,6 +665,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/STAGE</id>
+        <link href="https://researchseminars.org/seminar/STAGE"/>
+        <updated>2026-09-07T10:38:26.270Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/STAGE/162">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/SFUQNTAG</id>
         <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
         <updated>2026-08-12T18:26:30.889Z</updated>
@@ -662,47 +704,5 @@
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Marco Aldi</td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
-        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
-        <updated>2026-08-24T17:58:01.789Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrared divergences in gauge theories and gravity]]></title>
-        <id>https://researchseminars.org/seminar/courses_ipht</id>
-        <link href="https://researchseminars.org/seminar/courses_ipht"/>
-        <updated>2026-09-04T19:47:58.539Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:15</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/43">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
-        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
-        <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On structural properties of Novikov algebras]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://math.univ-cotedazur.fr/u/patras/">Frédéric Patras</a></td><td class="talktitle"><a title="On structural properties of Novikov algebras" knowl="talk/ENAAS/196">On structural properties of Novikov algebras</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A global Hartl–Pink curve]]></title>
-        <id>https://researchseminars.org/seminar/NTBU</id>
-        <link href="https://researchseminars.org/seminar/NTBU"/>
-        <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~sdlh/">Daniel Li-Huerta</a></td><td class="talktitle"><a title="A global Hartl–Pink curve" knowl="talk/NTBU/54">A global Hartl–Pink curve</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
