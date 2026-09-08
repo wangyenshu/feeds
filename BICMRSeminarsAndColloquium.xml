@@ -2,77 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-08T09:57:42.039Z</updated>
+    <updated>2026-09-08T20:06:42.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Bottleneck Effects and Harmonic-Type Velocity Bounds for Periodic Quantum Walks]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-4006.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-4006.html"/>
-        <updated>2026-09-07T10:37:27.509Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
-                        <p class="black">
-                            <a href="/content/show/82-4006.html" title="Bottleneck Effects and Harmonic-Type Velocity Bounds for Periodic Quantum Walks" target="_blank">Bottleneck Effects and Harmonic-Type Velocity Bounds for Periodic Quantum Walks</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Darren C. Ong (Xiamen Universi...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry of random tilings via complex structures and the Beltrami equation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-3997.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-3997.html"/>
-        <updated>2026-08-27T16:39:29.632Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
-                        <p class="black">
-                            <a href="/content/show/18-3997.html" title="Geometry of random tilings via complex structures and the Beltrami equation" target="_blank">Geometry of random tilings via complex structures and the Beltrami equation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Kari Astala (University of Hel...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Essential Range of a Random Walk Driven by an Inhomogeneous Markov Chain]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-4001.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-4001.html"/>
-        <updated>2026-09-03T20:02:04.786Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-4001.html" title="The Essential Range of a Random Walk Driven by an Inhomogeneous Markov Chain" target="_blank">The Essential Range of a Random Walk Driven by an Inhomogeneous Markov Chain</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Omri Sarig (Weizmann Institute...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pair Correlations in Dynamical Systems]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/82-4002.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/82-4002.html"/>
-        <updated>2026-09-03T20:02:04.788Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/82-4002.html" title="Pair Correlations in Dynamical Systems" target="_blank">Pair Correlations in Dynamical Systems</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Mike Todd (University of St. A...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the Geometry of Large Sets]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-4003.html</id>
@@ -88,6 +20,74 @@
                             <a href="/content/show/43-4003.html" title="On the Geometry of Large Sets" target="_blank">On the Geometry of Large Sets</a>
                         </p>
                         <p class="speaker">Speaker(s): Antoine Song (California Insti...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative analytic stable regularity]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/93-4005.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/93-4005.html"/>
+        <updated>2026-09-08T20:05:44.771Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 10</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/93-4005.html" title="Quantitative analytic stable regularity" target="_blank">Quantitative analytic stable regularity</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Gabriel Conant (University of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cup Product Issues in the Mapping Cone Morse Theory]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-4007.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-4007.html"/>
+        <updated>2026-09-08T20:05:44.773Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 11</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-4007.html" title="Cup Product Issues in the Mapping Cone Morse Theory" target="_blank">Cup Product Issues in the Mapping Cone Morse Theory</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Hao Zhuang (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/45-4000.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/45-4000.html"/>
+        <updated>2026-09-08T20:05:44.774Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/45-4000.html" title="High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions" target="_blank">High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Fan Chen (Massachusetts Instit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Groups with Flexible Geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/50-4004.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/50-4004.html"/>
+        <updated>2026-09-08T20:05:44.775Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/50-4004.html" title="On Groups with Flexible Geometry" target="_blank">On Groups with Flexible Geometry</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Eduard Schesler (Karlsruhe Ins...</p>
                     </dd>]]></content>
     </entry>
     <entry>

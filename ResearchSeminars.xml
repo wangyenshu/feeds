@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-08T09:57:42.075Z</updated>
+    <updated>2026-09-08T20:06:42.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Polynomial Regression under a Mixture of Classical and Berkson Errors]]></title>
-        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
-        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
-        <updated>2026-09-01T10:21:31.835Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Oleksandr Liubimov</td><td class="talktitle"><a title="Polynomial Regression under a Mixture of Classical and Berkson Errors" knowl="talk/MalliavinCalculus/173">Polynomial Regression under a Mixture of Classical and Berkson Errors</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Well-posedness for Dispersive PDE with Combined Nonlinearities]]></title>
-        <id>https://researchseminars.org/seminar/PotomacPDE</id>
-        <link href="https://researchseminars.org/seminar/PotomacPDE"/>
-        <updated>2026-09-04T19:47:58.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://alex-d-rod.github.io">Alex D. Rodriguez</a></td><td class="talktitle"><a title="Well-posedness for Dispersive PDE with Combined Nonlinearities" knowl="talk/PotomacPDE/21">Well-posedness for Dispersive PDE with Combined Nonlinearities</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractions Are Hard! A Mathematical Overview of a Troublesome Topic]]></title>
-        <id>https://researchseminars.org/seminar/ESME</id>
-        <link href="https://researchseminars.org/seminar/ESME"/>
-        <updated>2026-08-19T06:01:01.778Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/ESME">Online Seminar On Undergraduate Mathematics Education</a></td><td class="speaker">James Tanton</td><td class="talktitle"><a title="Fractions Are Hard! A Mathematical Overview of a Troublesome Topic" knowl="talk/ESME/67">Fractions Are Hard! A Mathematical Overview of a Troublesome Topic</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What examples should we ask AI for?]]></title>
-        <id>https://researchseminars.org/seminar/vantage</id>
-        <link href="https://researchseminars.org/seminar/vantage"/>
-        <updated>2026-08-29T19:55:46.167Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="https://williamsawin.com/">Will Sawin</a></td><td class="talktitle"><a title="What examples should we ask AI for?" knowl="talk/vantage/128">What examples should we ask AI for?</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/35">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 08</td><td class="time" title="UTC"><b>20:00</b></td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">No Seminar</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/35">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Illuminating the strong-field regime of gravity]]></title>
@@ -184,21 +156,21 @@
         <title type="html"><![CDATA[Critical minerals research presentation 2]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.907Z</updated>
+        <updated>2026-09-08T09:57:19.905Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">00:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Marthe Klöcking (University of Münster)</td><td class="talktitle"><a title="Critical minerals research presentation 2" knowl="talk/RSES_school_seminar/319">Critical minerals research presentation 2</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Critical minerals research presentation 3]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.908Z</updated>
+        <updated>2026-09-08T09:57:19.905Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">01:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Charles D. Beard (Utrecht University)</td><td class="talktitle"><a title="Critical minerals research presentation 3" knowl="talk/RSES_school_seminar/320">Critical minerals research presentation 3</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Critical minerals research presentation 4]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.910Z</updated>
+        <updated>2026-09-08T09:57:19.905Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">01:55</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Daniel Viete (Johns Hopkins University)</td><td class="talktitle"><a title="Critical minerals research presentation 4" knowl="talk/RSES_school_seminar/321">Critical minerals research presentation 4</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -297,7 +269,7 @@
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/36">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker"><a href="https://www.umass.edu/mathematics-statistics/about/directory/zichao-lin">Dean Lin</a></td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/36">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Using light to open doors for next-generation thermoelectrics and chemical imaging techniques]]></title>
@@ -433,11 +405,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Wonjae Suh</td><td class="talktitle"><a title="Complex multiplication" knowl="talk/STAGE/161">Complex multiplication</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Basics of the Bach flow]]></title>
         <id>https://researchseminars.org/seminar/CIRGET</id>
         <link href="https://researchseminars.org/seminar/CIRGET"/>
         <updated>2026-09-02T09:49:48.758Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Eric Bahuaud</td><td class="talktitle"><a title="TBA" knowl="talk/CIRGET/167">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Eric Bahuaud</td><td class="talktitle"><a title="Basics of the Bach flow" knowl="talk/CIRGET/167">Basics of the Bach flow</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Geometry-Aware Neural Networks for Geometric Analysis]]></title>
@@ -704,5 +676,33 @@
         <link href="https://researchseminars.org/seminar/courses_ipht"/>
         <updated>2026-09-04T19:47:58.539Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/42">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-abelian Hodge Theoretic aspects of TQFT]]></title>
+        <id>https://researchseminars.org/seminar/CIRGET</id>
+        <link href="https://researchseminars.org/seminar/CIRGET"/>
+        <updated>2026-09-02T09:49:48.758Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Philippe Eyssidieux</td><td class="talktitle"><a title="Non-abelian Hodge Theoretic aspects of TQFT" knowl="talk/CIRGET/168">Non-abelian Hodge Theoretic aspects of TQFT</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calabi-Yau Orbifolds over Finite Fields]]></title>
+        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
+        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
+        <updated>2026-07-26T05:01:56.455Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://maldi2.github.io/">Marco Aldi</a></td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
+        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
+        <updated>2026-07-26T05:01:56.442Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
+        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
+        <updated>2026-09-08T20:06:05.943Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/shunsuke-kano">Shunsuke Kano</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/228">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
