@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-07T10:38:48.092Z</updated>
+    <updated>2026-09-08T09:57:42.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Sep 08</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/82.html" title="Dynamical Systems" target="_blank">Dynamical Systems</a> </p>
                         <p class="black">
                             <a href="/content/show/82-4006.html" title="Bottleneck Effects and Harmonic-Type Velocity Bounds for Periodic Quantum Walks" target="_blank">Bottleneck Effects and Harmonic-Type Velocity Bounds for Periodic Quantum Walks</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Sep 08</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> </p>
                         <p class="black">
                             <a href="/content/show/18-3997.html" title="Geometry of random tilings via complex structures and the Beltrami equation" target="_blank">Geometry of random tilings via complex structures and the Beltrami equation</a>
                         </p>
@@ -91,23 +91,6 @@
                     </dd>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workshop on Analysis and Probability]]></title>
-        <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=141</id>
-        <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=141"/>
-        <updated>2026-08-22T17:45:56.767Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Aug 19</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
-                        <p class="black">
-                            <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=141" title="Workshop on Analysis and Probability" target="_blank">Workshop on Analysis and Probability</a>
-                        </p>
-                        <p class="speaker"></p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Second Sino-Uzbek Conference on Complex Analysis]]></title>
         <id>http://conference.bicmr.pku.edu.cn/meeting/index?id=140</id>
         <link href="http://conference.bicmr.pku.edu.cn/meeting/index?id=140"/>
@@ -154,6 +137,23 @@
                         <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> </p>
                         <p class="black">
                             <a href="http://conference.bicmr.pku.edu.cn/meeting/index?id=132" title="1st Italy-China Mathematical Bilateral Meeting" target="_blank">1st Italy-China Mathematical Bilateral Meeting</a>
+                        </p>
+                        <p class="speaker"></p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arithmetic Geometry: where number theory meets geometry]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/17-4008.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/17-4008.html"/>
+        <updated>2026-09-08T09:56:57.260Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/17.html" title="Conference" target="_blank">Conference</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/17-4008.html" title="Arithmetic Geometry: where number theory meets geometry" target="_blank">Arithmetic Geometry: where number theory meets geometry</a>
                         </p>
                         <p class="speaker"></p>
                     </dd>]]></content>
