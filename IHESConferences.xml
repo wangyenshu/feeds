@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-08T20:06:42.920Z</updated>
+    <updated>2026-09-09T19:58:01.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The Messy Story of Crossing Dispersion Relations]]></title>
         <id>https://indico.math.cnrs.fr/event/17253/</id>
         <link href="https://indico.math.cnrs.fr/event/17253/"/>
         <updated>2026-09-04T19:47:24.884Z</updated>
@@ -18,9 +18,27 @@
 																		Séminaire de Physique Théorique									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17253/" target="_blank">TBA</a>
+									<a href="https://indico.math.cnrs.fr/event/17253/" target="_blank">The Messy Story of Crossing Dispersion Relations</a>
 								</h3>
 								<p><strong> Andrea Guerrieri</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for Math: From Group Theory to Discrete Holography]]></title>
+        <id>https://indico.math.cnrs.fr/event/17291/</id>
+        <link href="https://indico.math.cnrs.fr/event/17291/"/>
+        <updated>2026-09-09T19:57:11.024Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 14 September 2026<br>
+								from 14:00 to 15:30							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17291/" target="_blank">AI for Math: From Group Theory to Discrete Holography</a>
+								</h3>
+								<p><strong> Fedor Levkovich-Maslyuk</strong></p>
 							</td>]]></content>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-09-08T20:06:42.925Z</updated>
+    <updated>2026-09-09T19:58:01.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -38,6 +38,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Algebraic Geometry Seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2568.htm"/>
+        <updated>2026-09-09T19:57:29.292Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 11</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/2568.htm" class="right text">
+        <div class="t-1">Algebraic Geometry Seminar</div>
+        <div class="t-2">组织者 Organizer: Caucher Birkar时间 Time: 每周五 Every Friday 15:30-16:30</div>
+        <div class="t-3">Speaker： Zili Zhang (Tongji University)  </div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[代数讨论班]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2935.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/2935.htm"/>
@@ -67,22 +83,6 @@
         <div class="t-2">Title: Fusion actions and categorical orbifold theoryAbstract: I will discuss our recent investigation into the generalized symmetries of condensable algebras in modular tensor categories. The mian results inculde Schur-Weyl duality, Galois correspondence and  categorical orbifold theory. This is a joint work with Siu-Hung Ng， Li Ren and Feng Xu.</div>
         <div class="t-3">Speaker：Chongying Dong, University of California, Santa Cruz</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math+ML+X Seminar Series]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3101.htm"/>
-        <updated>2026-08-12T18:26:16.813Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Aug 28</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3101.htm" class="right text">
-        <div class="t-1">Math+ML+X Seminar Series</div>
-        <div class="t-2">Are you interested in the intersection of Mathematics, Machine Learning, and real-world applications? Join us for a seminar this Fall 2026 that will explore recent advancements in these fields, including practical applications and emerging techniques.Speaker: Tsz Ching Chow  (Lehigh University)Title:  Convergent Bregman Plug-and-Play with Difference-of-Convex Algorithm for Nonconvex Imaging Pro...</div>
-        <div class="t-3">Speaker：Tsz Ching Chow (Lehigh University)</div>
-        
     </a>]]></content>
     </entry>
 </feed>
