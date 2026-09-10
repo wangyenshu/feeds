@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-10T09:58:36.561Z</updated>
+    <updated>2026-09-10T19:57:35.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Quantitative analytic stable regularity]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-4005.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-4005.html"/>
-        <updated>2026-09-08T20:05:44.771Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 10</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-4005.html" title="Quantitative analytic stable regularity" target="_blank">Quantitative analytic stable regularity</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Gabriel Conant (University of ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cup Product Issues in the Mapping Cone Morse Theory]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-4007.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/46-3995.html" title="2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;" target="_blank">2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;</a>
                         </p>
                         <p class="speaker">Speaker(s): Yupei Huang (Imperial College ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gårding Polynomials and Applications in PDEs and Combinatorics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-4009.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-4009.html"/>
+        <updated>2026-09-10T19:56:53.804Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-4009.html" title="Gårding Polynomials and Applications in PDEs and Combinatorics" target="_blank">Gårding Polynomials and Applications in PDEs and Combinatorics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Biao Ma (East China Normal Uni...</p>
                     </dd>]]></content>
     </entry>
     <entry>

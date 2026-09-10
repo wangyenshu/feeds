@@ -2,64 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-10T09:58:36.557Z</updated>
+    <updated>2026-09-10T19:57:35.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Organizational meeting]]></title>
-        <id>https://researchseminars.org/seminar/fran</id>
-        <link href="https://researchseminars.org/seminar/fran"/>
-        <updated>2026-09-06T19:25:00.149Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">12:30</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=170&amp;lang=en">Mykola Pratsiovytyi</a></td><td class="talktitle"><a title="Organizational meeting" knowl="talk/fran/83">Organizational meeting</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research publishing policy and open access workflows]]></title>
-        <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
-        <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
-        <updated>2026-07-26T05:01:56.482Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Jen Smith</td><td class="talktitle"><a title="Research publishing policy and open access workflows" knowl="talk/mathseminarsnuig/167">Research publishing policy and open access workflows</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tullenvarvet, the Half-Barathon]]></title>
-        <id>https://researchseminars.org/seminar/gbgphd</id>
-        <link href="https://researchseminars.org/seminar/gbgphd"/>
-        <updated>2026-08-15T05:51:23.188Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Joseph Löfving</td><td class="talktitle"><a title="Tullenvarvet, the Half-Barathon" knowl="talk/gbgphd/57">Tullenvarvet, the Half-Barathon</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The arithmetic of differential equations]]></title>
-        <id>https://researchseminars.org/seminar/NTWebSeminar</id>
-        <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
-        <updated>2026-07-26T05:01:56.464Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="https://www.daniellitt.com/">Daniel Litt</a></td><td class="talktitle"><a title="The arithmetic of differential equations" knowl="talk/NTWebSeminar/316">The arithmetic of differential equations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/BFSOneWorld</id>
-        <link href="https://researchseminars.org/seminar/BFSOneWorld"/>
-        <updated>2026-07-26T05:01:56.485Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/BFSOneWorld">Joint SIAM-BFS Mathematical Finance Online Seminar</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/BFSOneWorld/81">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Differential Linear Logic to functional analysis and back]]></title>
-        <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
-        <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
-        <updated>2026-07-26T05:01:56.466Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/ToposInstituteColloquium">Topos Institute Colloquium</a></td><td class="speaker">Marie Kerjean</td><td class="talktitle"><a title="From Differential Linear Logic to functional analysis and back" knowl="talk/ToposInstituteColloquium/222">From Differential Linear Logic to functional analysis and back</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Countable Ordinals to Infinite Hamming Cubes]]></title>
-        <id>https://researchseminars.org/seminar/OLS</id>
-        <link href="https://researchseminars.org/seminar/OLS"/>
-        <updated>2026-07-26T05:01:56.439Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Hannah Hoganson</td><td class="talktitle"><a title="From Countable Ordinals to Infinite Hamming Cubes" knowl="talk/OLS/219">From Countable Ordinals to Infinite Hamming Cubes</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Sidon sets with Delta-separated sumsets]]></title>
         <id>https://researchseminars.org/seminar/NYNTS</id>
         <link href="https://researchseminars.org/seminar/NYNTS"/>
         <updated>2026-09-06T19:25:00.155Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Sidon sets with Delta-separated sumsets" knowl="talk/NYNTS/1">Sidon sets with Delta-separated sumsets</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC"><b>19:00</b></td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Sidon sets with Delta-separated sumsets" knowl="talk/NYNTS/1">Sidon sets with Delta-separated sumsets</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Kronecker-Weber theorem]]></title>
@@ -328,11 +279,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Henrik Häggström</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/61">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Circle coverings driven by arithmetic sequences]]></title>
         <id>https://researchseminars.org/seminar/NTWebSeminar</id>
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
         <updated>2026-07-26T05:01:56.464Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="http://shubin.link/">Andrei Shubin</a></td><td class="talktitle"><a title="TBA" knowl="talk/NTWebSeminar/311">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="http://shubin.link/">Andrei Shubin</a></td><td class="talktitle"><a title="Circle coverings driven by arithmetic sequences" knowl="talk/NTWebSeminar/311">Circle coverings driven by arithmetic sequences</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Accessible model theory]]></title>
@@ -412,11 +363,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Joachim Kock</td><td class="talktitle"><a title="Signs in objective linear algebra" knowl="talk/TropicalmathandML/47">Signs in objective linear algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[LSI via OMT and curvature]]></title>
         <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
         <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
         <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.math.unibe.ch/ueber_uns/personen/prof_dr_balogh_zoltn/index_ger.html">Zoltán Balogh</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/206">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.math.unibe.ch/ueber_uns/personen/prof_dr_balogh_zoltn/index_ger.html">Zoltán Balogh</a></td><td class="talktitle"><a title="LSI via OMT and curvature" knowl="talk/GeomInequAndPDEs/206">LSI via OMT and curvature</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Graph complexes via Brauer categories and Koszul complexes]]></title>
@@ -704,5 +655,54 @@
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~sdlh/">Daniel Li-Huerta</a></td><td class="talktitle"><a title="A global Hartl–Pink curve" knowl="talk/NTBU/54">A global Hartl–Pink curve</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust interpolation inequalities via Chebyshev-type integral inequalities]]></title>
+        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
+        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
+        <updated>2026-08-27T16:39:49.309Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://www.b-tu.de/fg-analysis/team/mitarbeiter/guy-fabrice-foghem-gounoue#c427995">Guy Foghem</a></td><td class="talktitle"><a title="Robust interpolation inequalities via Chebyshev-type integral inequalities" knowl="talk/Nonlinear_Analysis_Seminar/90">Robust interpolation inequalities via Chebyshev-type integral inequalities</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heisenberg SICs, Stark Units and Weil Representations]]></title>
+        <id>https://researchseminars.org/seminar/SheffieldNumberTheory</id>
+        <link href="https://researchseminars.org/seminar/SheffieldNumberTheory"/>
+        <updated>2026-09-10T19:57:16.574Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/61">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NonLocalOperators</id>
+        <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
+        <updated>2026-07-26T05:01:56.495Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Georgii Ryabov</td><td class="talktitle"><a title="Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph" knowl="talk/MalliavinCalculus/176">Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/IsogenyClub</id>
+        <link href="https://researchseminars.org/seminar/IsogenyClub"/>
+        <updated>2026-09-10T19:57:16.578Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Special Edition</td><td class="talktitle"><a title="TBA" knowl="talk/IsogenyClub/49">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/vantage</id>
+        <link href="https://researchseminars.org/seminar/vantage"/>
+        <updated>2026-09-10T19:57:16.580Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/AI-CoNT</id>
+        <link href="https://researchseminars.org/seminar/AI-CoNT"/>
+        <updated>2026-09-08T09:57:19.935Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
