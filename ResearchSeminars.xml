@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-09T19:58:01.737Z</updated>
+    <updated>2026-09-10T09:58:36.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Working with LLMs to do high quality math]]></title>
-        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
-        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
-        <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 09</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Daniel Litt</td><td class="talktitle"><a title="Working with LLMs to do high quality math" knowl="talk/AI-for-the-working-mathematician/1">Working with LLMs to do high quality math</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 6: Quantum versions of classical computations]]></title>
-        <id>https://researchseminars.org/seminar/QRB</id>
-        <link href="https://researchseminars.org/seminar/QRB"/>
-        <updated>2026-07-26T05:01:56.394Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Eric Dolores</td><td class="talktitle"><a title="Chapter 6: Quantum versions of classical computations" knowl="talk/QRB/9">Chapter 6: Quantum versions of classical computations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Organizational meeting]]></title>
         <id>https://researchseminars.org/seminar/fran</id>
@@ -230,11 +216,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/DiagramCategories">Diagram categories in homotopy theory</a></td><td class="speaker"><a href="https://www.danikavanniel.com/">Danika Van Niel</a></td><td class="talktitle"><a title="Studying equivariant structures using transfer systems and Rubin functors" knowl="talk/DiagramCategories/5">Studying equivariant structures using transfer systems and Rubin functors</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[On Iwasawa μ\muμ-invariants for Selmer groups over Z2\mathbb{Z}_2Z2​-extensions]]></title>
         <id>https://researchseminars.org/seminar/FCNTS</id>
         <link href="https://researchseminars.org/seminar/FCNTS"/>
         <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker"><a href="https://www.umass.edu/mathematics-statistics/about/directory/zichao-lin">Dean Lin</a></td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/36">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker"><a href="https://www.umass.edu/mathematics-statistics/about/directory/zichao-lin">Dean Lin</a></td><td class="talktitle"><a title="On Iwasawa $\mu$-invariants for Selmer groups over $\mathbb{Z}_2$-extensions" knowl="talk/FCNTS/36">On Iwasawa <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span></span>-invariants for Selmer groups over <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi mathvariant="double-struck">Z</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">\mathbb{Z}_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.83889em; vertical-align: -0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathbb">Z</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.301108em;"><span class="" style="top: -2.55em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.15em;"><span class=""></span></span></span></span></span></span></span></span></span></span>-extensions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Using light to open doors for next-generation thermoelectrics and chemical imaging techniques]]></title>
@@ -244,11 +230,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Sriparna Bhattacharya</td><td class="talktitle"><a title="Using light to open doors for next-generation thermoelectrics and chemical imaging techniques" knowl="talk/UMissPhysAstroColloq/4">Using light to open doors for next-generation thermoelectrics and chemical imaging techniques</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[p-adic Siegel disks on K3 surfaces]]></title>
         <id>https://researchseminars.org/seminar/MITNT</id>
         <link href="https://researchseminars.org/seminar/MITNT"/>
         <updated>2026-09-02T09:49:48.738Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:45</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker">Benjamin Church</td><td class="talktitle"><a title="TBA" knowl="talk/MITNT/141">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:45</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker"><a href="https://web.stanford.edu/~bvchurch/about/">Benjamin Church</a></td><td class="talktitle"><a title="p-adic Siegel disks on K3 surfaces" knowl="talk/MITNT/141">p-adic Siegel disks on K3 surfaces</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aspects of Integrability in Billiards]]></title>
@@ -256,6 +242,13 @@
         <link href="https://researchseminars.org/seminar/AUTH-HEP-TH"/>
         <updated>2026-09-03T20:02:26.998Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">09:00</td><td class="seriesname"><a href="/seminar/AUTH-HEP-TH">AUTH HEP-TH Seminars</a></td><td class="speaker">Christoforos Christoforidis</td><td class="talktitle"><a title="Aspects of Integrability in Billiards" knowl="talk/AUTH-HEP-TH/46">Aspects of Integrability in Billiards</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arctan-Tan-G Family of Distributions: Properties and Applications]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-09-10T09:58:15.735Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Dr. Ievhen Turchyn</td><td class="talktitle"><a title="The Arctan-Tan-G Family of Distributions: Properties and Applications" knowl="talk/AMIS/12">The Arctan-Tan-G Family of Distributions: Properties and Applications</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trustworthy Algorithms for Sustainable Future Mobility]]></title>
@@ -300,11 +293,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Ray Li</td><td class="talktitle"><a title="TBA" knowl="talk/UtahRTNT/22">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Endomorphisms of Jacobians]]></title>
         <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
         <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
         <updated>2026-08-21T05:58:20.734Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Jeroen Sijsling</td><td class="talktitle"><a title="TBA" knowl="talk/CompAlgSemMagma/30">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Jeroen Sijsling</td><td class="talktitle"><a title="Endomorphisms of Jacobians" knowl="talk/CompAlgSemMagma/30">Endomorphisms of Jacobians</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 6: Quantum versions of classical computations]]></title>
@@ -639,7 +632,7 @@
         <title type="html"><![CDATA[Deux applications algorithmiques des opérateurs de Hecke des groupes finis]]></title>
         <id>https://researchseminars.org/seminar/GAATI</id>
         <link href="https://researchseminars.org/seminar/GAATI"/>
-        <updated>2026-09-09T19:57:42.725Z</updated>
+        <updated>2026-09-09T19:57:42.664Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/GAATI">Séminaire&nbsp;GAATI</a></td><td class="speaker">Fabrice Etienne</td><td class="talktitle"><a title="Deux applications algorithmiques des opérateurs de Hecke des groupes finis" knowl="talk/GAATI/21">Deux applications algorithmiques des opérateurs de Hecke des groupes finis</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://math.univ-cotedazur.fr/u/patras/">Frédéric Patras</a></td><td class="talktitle"><a title="On structural properties of Novikov algebras" knowl="talk/ENAAS/196">On structural properties of Novikov algebras</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A global Hartl–Pink curve]]></title>
+        <id>https://researchseminars.org/seminar/NTBU</id>
+        <link href="https://researchseminars.org/seminar/NTBU"/>
+        <updated>2026-08-05T19:01:40.170Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://math.mit.edu/~sdlh/">Daniel Li-Huerta</a></td><td class="talktitle"><a title="A global Hartl–Pink curve" knowl="talk/NTBU/54">A global Hartl–Pink curve</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
