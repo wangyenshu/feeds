@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-10T19:57:35.430Z</updated>
+    <updated>2026-09-11T03:40:43.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Sidon sets with Delta-separated sumsets]]></title>
-        <id>https://researchseminars.org/seminar/NYNTS</id>
-        <link href="https://researchseminars.org/seminar/NYNTS"/>
-        <updated>2026-09-06T19:25:00.155Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC"><b>19:00</b></td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Sidon sets with Delta-separated sumsets" knowl="talk/NYNTS/1">Sidon sets with Delta-separated sumsets</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kronecker-Weber theorem]]></title>
-        <id>https://researchseminars.org/seminar/STAGE</id>
-        <link href="https://researchseminars.org/seminar/STAGE"/>
-        <updated>2026-09-07T10:38:26.173Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Ari Krishna</td><td class="talktitle"><a title="The Kronecker-Weber theorem" knowl="talk/STAGE/160">The Kronecker-Weber theorem</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematics and Mentoring: A Framework]]></title>
         <id>https://researchseminars.org/seminar/CompMath</id>
@@ -90,11 +76,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="http://scholar.uoa.gr/mmaliak/biocv">Mihalis Maliakas</a></td><td class="talktitle"><a title="The action of the symmetric group on the multilinear component of the free Filippov algebra" knowl="talk/ENAAS/195">The action of the symmetric group on the multilinear component of the free Filippov algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[On the structure of geodesic orbit Riemannian manifolds.]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Юрий Геннадьевич Никоноров</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/177">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Юрий Геннадьевич Никоноров</td><td class="talktitle"><a title="On the structure of geodesic orbit Riemannian manifolds." knowl="talk/Knotsandtopology/177">On the structure of geodesic orbit Riemannian manifolds.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The trianguline variety for reductive groups]]></title>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/AI-CoNT"/>
         <updated>2026-09-08T09:57:19.935Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
+        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
+        <updated>2026-07-26T05:01:56.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/FCNTS</id>
+        <link href="https://researchseminars.org/seminar/FCNTS"/>
+        <updated>2026-08-05T19:01:40.150Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

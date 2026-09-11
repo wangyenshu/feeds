@@ -2,37 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.claymath.org/events/</id>
     <title>Clay Mathematics Institute Events</title>
-    <updated>2026-09-10T19:57:35.403Z</updated>
+    <updated>2026-09-11T03:40:43.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.claymath.org/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Fibrations in Group Theory and Topology]]></title>
-        <id>https://www.claymath.org/events/</id>
-        <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.117Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="350" height="275" src="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg" class="attachment-4389 size-4389 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-28-300x236.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      7 - 11  September 2026    </span>
-    <h3>Fibrations in Group Theory and Topology</h3>
-   <p> University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Early Career Number Theorists in South-Eastern Europe (ECNTSEE)]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.118Z</updated>
+        <updated>2026-09-11T03:39:27.304Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="600" height="900" src="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png" class="attachment-4385 size-4385 wp-post-image" alt="Limassol, Cyprus" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png 600w, https://www.claymath.org/wp-content/uploads/2026/02/unnamed-200x300.png 200w" sizes="(max-width: 600px) 100vw, 600px">  </div>
+  <img width="600" height="900" src="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png" class="attachment-4385 size-4385 wp-post-image" alt="Limassol, Cyprus" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png 600w, https://www.claymath.org/wp-content/uploads/2026/02/unnamed-200x300.png 200w" sizes="(max-width: 600px) 100vw, 600px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -47,7 +28,7 @@
         <title type="html"><![CDATA[2026 Clay Research Conference and Workshops]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.121Z</updated>
+        <updated>2026-09-11T03:39:27.305Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -68,7 +49,7 @@
         <title type="html"><![CDATA[Multi-valued Harmonicity]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.122Z</updated>
+        <updated>2026-09-11T03:39:27.306Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -89,7 +70,7 @@
         <title type="html"><![CDATA[The Birch and Swinnerton-Dyer Conjecture and Related Problems: Recent Results]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.124Z</updated>
+        <updated>2026-09-11T03:39:27.308Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -110,7 +91,7 @@
         <title type="html"><![CDATA[Telescopic Homotopy Theory and Algebraic K-theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.126Z</updated>
+        <updated>2026-09-11T03:39:27.309Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -131,7 +112,7 @@
         <title type="html"><![CDATA[39th British Topology Meeting]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.129Z</updated>
+        <updated>2026-09-11T03:39:27.312Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -150,7 +131,7 @@
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.131Z</updated>
+        <updated>2026-09-11T03:39:27.314Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -169,7 +150,7 @@
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.133Z</updated>
+        <updated>2026-09-11T03:39:27.316Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -188,7 +169,7 @@
         <title type="html"><![CDATA[NZMRI 2027: Combinatorics,  Probability and Symmetry]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.135Z</updated>
+        <updated>2026-09-11T03:39:27.318Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -207,7 +188,7 @@
         <title type="html"><![CDATA[Recent Advances in Low-dimensional Topology]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.136Z</updated>
+        <updated>2026-09-11T03:39:27.319Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -226,7 +207,7 @@
         <title type="html"><![CDATA[Arizona Winter School]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.139Z</updated>
+        <updated>2026-09-11T03:39:27.324Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -245,7 +226,7 @@
         <title type="html"><![CDATA[French-Japanese Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.141Z</updated>
+        <updated>2026-09-11T03:39:27.326Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -264,7 +245,7 @@
         <title type="html"><![CDATA[Algebraic Geometry, Automorphic Forms, Number Theory and Geometric Representation Theory]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.142Z</updated>
+        <updated>2026-09-11T03:39:27.327Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -283,7 +264,7 @@
         <title type="html"><![CDATA[New Perspectives in Low-dimensional Topology]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.144Z</updated>
+        <updated>2026-09-11T03:39:27.329Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -302,7 +283,7 @@
         <title type="html"><![CDATA[New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications]]></title>
         <id>https://www.claymath.org/events/</id>
         <link href="https://www.claymath.org/events/"/>
-        <updated>2026-09-10T19:56:26.146Z</updated>
+        <updated>2026-09-11T03:39:27.333Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -315,6 +296,25 @@
       13 - 18  June 2027    </span>
     <h3>New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications</h3>
    <p> Institute of Mathematics, University of Granada</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flat Surfaces in Skye]]></title>
+        <id>https://www.claymath.org/events/</id>
+        <link href="https://www.claymath.org/events/"/>
+        <updated>2026-09-11T03:39:27.335Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1600" height="1081" src="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg" class="attachment-4118 size-4118 wp-post-image" alt="Isle of Skye" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg 1600w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-300x203.jpg 300w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1024x692.jpg 1024w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-768x519.jpg 768w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1536x1038.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      13 - 19  June 2027    </span>
+    <h3>Flat Surfaces in Skye</h3>
+   <p> Sabhal Mòr Ostaig, Isle of Skye</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>

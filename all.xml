@@ -2,36 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-10T19:57:35.445Z</updated>
+    <updated>2026-09-11T03:40:43.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Fibrations in Group Theory and Topology (Clay Mathematics Institute Events)]]></title>
-        <id>https://wangyenshu.github.io/feeds/all.xml</id>
-        <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.117Z</updated>
-        <content type="html"><![CDATA[<div class="image-block">
-
-
-  <img width="350" height="275" src="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg" class="attachment-4389 size-4389 wp-post-image" alt="" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2022/05/image-28.jpeg 350w, https://www.claymath.org/wp-content/uploads/2022/05/image-28-300x236.jpeg 300w" sizes="(max-width: 350px) 100vw, 350px">  </div>
-  <div class="text-block"> 
-    
-    <span class="meta-tag">
-      7 - 11  September 2026    </span>
-    <h3>Fibrations in Group Theory and Topology</h3>
-   <p> University of Oxford</p>
-
-    <div class="tile-link">Read more</div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Early Career Number Theorists in South-Eastern Europe (ECNTSEE) (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.118Z</updated>
+        <updated>2026-09-11T03:39:27.304Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
-  <img width="600" height="900" src="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png" class="attachment-4385 size-4385 wp-post-image" alt="Limassol, Cyprus" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png 600w, https://www.claymath.org/wp-content/uploads/2026/02/unnamed-200x300.png 200w" sizes="(max-width: 600px) 100vw, 600px">  </div>
+  <img width="600" height="900" src="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png" class="attachment-4385 size-4385 wp-post-image" alt="Limassol, Cyprus" large="" decoding="async" fetchpriority="high" srcset="https://www.claymath.org/wp-content/uploads/2026/02/unnamed.png 600w, https://www.claymath.org/wp-content/uploads/2026/02/unnamed-200x300.png 200w" sizes="(max-width: 600px) 100vw, 600px">  </div>
   <div class="text-block"> 
     
     <span class="meta-tag">
@@ -46,7 +27,7 @@
         <title type="html"><![CDATA[2026 Clay Research Conference and Workshops (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.121Z</updated>
+        <updated>2026-09-11T03:39:27.305Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -67,7 +48,7 @@
         <title type="html"><![CDATA[Multi-valued Harmonicity (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.122Z</updated>
+        <updated>2026-09-11T03:39:27.306Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -88,7 +69,7 @@
         <title type="html"><![CDATA[The Birch and Swinnerton-Dyer Conjecture and Related Problems: Recent Results (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.124Z</updated>
+        <updated>2026-09-11T03:39:27.308Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -109,7 +90,7 @@
         <title type="html"><![CDATA[Telescopic Homotopy Theory and Algebraic K-theory (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.126Z</updated>
+        <updated>2026-09-11T03:39:27.309Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
   <div class="cmi-event">A CMI event</div>
@@ -130,7 +111,7 @@
         <title type="html"><![CDATA[39th British Topology Meeting (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.129Z</updated>
+        <updated>2026-09-11T03:39:27.312Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -149,7 +130,7 @@
         <title type="html"><![CDATA[Representation Theory Under the Influence of Quantum Field Theory (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.131Z</updated>
+        <updated>2026-09-11T03:39:27.314Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -168,7 +149,7 @@
         <title type="html"><![CDATA[Motivic Homotopy Theory: Connections and Applications (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.133Z</updated>
+        <updated>2026-09-11T03:39:27.316Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -187,7 +168,7 @@
         <title type="html"><![CDATA[NZMRI 2027: Combinatorics,  Probability and Symmetry (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.135Z</updated>
+        <updated>2026-09-11T03:39:27.318Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -206,7 +187,7 @@
         <title type="html"><![CDATA[Recent Advances in Low-dimensional Topology (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.136Z</updated>
+        <updated>2026-09-11T03:39:27.319Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -225,7 +206,7 @@
         <title type="html"><![CDATA[Arizona Winter School (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.139Z</updated>
+        <updated>2026-09-11T03:39:27.324Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -244,7 +225,7 @@
         <title type="html"><![CDATA[French-Japanese Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.141Z</updated>
+        <updated>2026-09-11T03:39:27.326Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -263,7 +244,7 @@
         <title type="html"><![CDATA[Algebraic Geometry, Automorphic Forms, Number Theory and Geometric Representation Theory (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.142Z</updated>
+        <updated>2026-09-11T03:39:27.327Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -282,7 +263,7 @@
         <title type="html"><![CDATA[New Perspectives in Low-dimensional Topology (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.144Z</updated>
+        <updated>2026-09-11T03:39:27.329Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -301,7 +282,7 @@
         <title type="html"><![CDATA[New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications (Clay Mathematics Institute Events)]]></title>
         <id>https://wangyenshu.github.io/feeds/all.xml</id>
         <link href="https://wangyenshu.github.io/feeds/all.xml"/>
-        <updated>2026-09-10T19:56:26.146Z</updated>
+        <updated>2026-09-11T03:39:27.333Z</updated>
         <content type="html"><![CDATA[<div class="image-block">
 
 
@@ -314,6 +295,25 @@
       13 - 18  June 2027    </span>
     <h3>New Methods in Finsler Geometry: Indefinite Structures, Metric-Symplectic Techniques and Applications</h3>
    <p> Institute of Mathematics, University of Granada</p>
+
+    <div class="tile-link">Read more</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flat Surfaces in Skye (Clay Mathematics Institute Events)]]></title>
+        <id>https://wangyenshu.github.io/feeds/all.xml</id>
+        <link href="https://wangyenshu.github.io/feeds/all.xml"/>
+        <updated>2026-09-11T03:39:27.335Z</updated>
+        <content type="html"><![CDATA[<div class="image-block">
+
+
+  <img width="1600" height="1081" src="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg" class="attachment-4118 size-4118 wp-post-image" alt="Isle of Skye" large="" decoding="async" srcset="https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01.jpg 1600w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-300x203.jpg 300w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1024x692.jpg 1024w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-768x519.jpg 768w, https://www.claymath.org/wp-content/uploads/2024/11/The_Red_Cuillin_Isle_of_Skye_Scotland_01-1536x1038.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">  </div>
+  <div class="text-block"> 
+    
+    <span class="meta-tag">
+      13 - 19  June 2027    </span>
+    <h3>Flat Surfaces in Skye</h3>
+   <p> Sabhal Mòr Ostaig, Isle of Skye</p>
 
     <div class="tile-link">Read more</div>
 </div>]]></content>
@@ -3030,6 +3030,22 @@
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[基础与应用数学青年论坛 (YMSC Conferences)]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/4071.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/4071.htm"/>
+        <updated>2026-09-11T03:40:12.632Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 26</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1060/4071.htm" class="right text">
+        <div class="t-1">基础与应用数学青年论坛</div>
+        <div class="t-2"></div>
+        <div class="t-3">Organizer：清华大学丘成桐数学科学中心</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quantum Information in Quantum Gravity 2026 (QIQG 2026) (YMSC Conferences)]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3533.htm</id>
         <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3533.htm"/>
@@ -3060,36 +3076,6 @@
         <div class="t-3">Organizer：Gabriel Arenas-Henriquez, YMSC, Tsinghua University</div>
         
     </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2nd AI4Science Beijing Meet-up—Learned PDEs! (YMSC Conferences)]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3981.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3981.htm"/>
-        <updated>2026-05-26T08:50:15.179Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 14</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1060/3981.htm" class="right text">
-        <div class="t-1">The 2nd AI4Science Beijing Meet-up—Learned PDEs!</div>
-        <div class="t-2">The 2nd AI4Science Beijing Meet-up—Learned PDEs!We are thrilled to announce the 2nd AI4Science Beijing Meet-up — returning on  2026. Confimed Date June 14th, 2026!A huge thank you to everyone who made last year’s inaugural meet-up unforgettable.The reception was overwhelming: we had to close registration only a few days after opening. Many of you couldn’t get a spot — and we heard you.This...</div>
-        <div class="t-3">Organizer：</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sidon sets with Delta-separated sumsets (researchseminars.org)]]></title>
-        <id>https://researchseminars.org/seminar/NYNTS</id>
-        <link href="https://researchseminars.org/seminar/NYNTS"/>
-        <updated>2026-09-06T19:25:00.155Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC"><b>19:00</b></td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Sidon sets with Delta-separated sumsets" knowl="talk/NYNTS/1">Sidon sets with Delta-separated sumsets</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kronecker-Weber theorem (researchseminars.org)]]></title>
-        <id>https://researchseminars.org/seminar/STAGE</id>
-        <link href="https://researchseminars.org/seminar/STAGE"/>
-        <updated>2026-09-07T10:38:26.173Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 10</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Ari Krishna</td><td class="talktitle"><a title="The Kronecker-Weber theorem" knowl="talk/STAGE/160">The Kronecker-Weber theorem</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mathematics and Mentoring: A Framework (researchseminars.org)]]></title>
@@ -3162,11 +3148,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="http://scholar.uoa.gr/mmaliak/biocv">Mihalis Maliakas</a></td><td class="talktitle"><a title="The action of the symmetric group on the multilinear component of the free Filippov algebra" knowl="talk/ENAAS/195">The action of the symmetric group on the multilinear component of the free Filippov algebra</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA (researchseminars.org)]]></title>
+        <title type="html"><![CDATA[On the structure of geodesic orbit Riemannian manifolds. (researchseminars.org)]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Юрий Геннадьевич Никоноров</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/177">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Юрий Геннадьевич Никоноров</td><td class="talktitle"><a title="On the structure of geodesic orbit Riemannian manifolds." knowl="talk/Knotsandtopology/177">On the structure of geodesic orbit Riemannian manifolds.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The trianguline variety for reductive groups (researchseminars.org)]]></title>
@@ -3778,6 +3764,20 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TBA (researchseminars.org)]]></title>
+        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
+        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
+        <updated>2026-07-26T05:01:56.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA (researchseminars.org)]]></title>
+        <id>https://researchseminars.org/seminar/FCNTS</id>
+        <link href="https://researchseminars.org/seminar/FCNTS"/>
+        <updated>2026-08-05T19:01:40.150Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Junior Fellows of the Simons Society of Fellows (Simons Foundation — Funding Opportunities)]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/</id>
         <link href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/"/>
@@ -3800,7 +3800,7 @@
                 <span class="head">Career Stage - </span>
                 Postdoc/Early Career            </div>
             <span class="head">Status - </span>
-            Open Nomination Deadline: <br><span style="color:#666">12 p.m. (noon) Eastern time,</span> <span class="m-post__muted">September 10, 2026</span>
+            Closed
                     </aside>
 
 
@@ -5401,6 +5401,168 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fulbright Fellowships: Opportunities for Mathematics Scholars, Postdocs and Graduate Students in Israel. (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494451</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494451"/>
+        <updated>2026-09-11T03:40:28.527Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494451" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Fulbright Fellowships: Opportunities for Mathematics Scholars, Postdocs and Graduate Students in Israel.</a></h2>
+<p><span class="category"><span class="category category-1">Fellowships</span>, <span class="category category-2">Grants</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-3">Graduate students</span>, <span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">Program Information:
+<br>1) Distinguished Scholars: Fellowships are open to faculty (Assistant Professor or higher academic rank) for four months (one academic semester).
+<br>Benefits include:
+<br>• Stipend: \$6,000-\$7,000 per month (4 months)
+<br>• Reimbursement of airfare expenses for Fulbright fellows (and spouses)
+<br>• Partial reimbursement of children’s education expenses and fees
+<br> 
+<br>2)  Postdoctoral Scholars: Fellowships are open to postdoctoral scholars to support research programs in Israel for up … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494451" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.fulbright.org.il/">Fulbright Israel</a></span><br>
+<span class="open_date">Date Posted: Jun 15, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 15, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AMR invites nominations for the Fred R. Cohen Prize (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494447</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494447"/>
+        <updated>2026-09-11T03:40:28.529Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494447" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>The AMR invites nominations for the Fred R. Cohen Prize</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">This prize honors the work of Fred R. Cohen, who made fundamental advances in a range of fields.  The award is granted every other year to a person who has made outstanding contributions in the fields of algebraic topology and homotopy theory.  Candidates from anywhere in the world are equally considered.   The prize includes a cash award of $5,000.  Nominations are due September 30, 2026.  More information including nominations instructions can be found here: … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494447" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://amathr.org/prizes/cohenprize/">The Association for Mathematical Research</a></span><br>
+<span class="open_date">Date Posted: May 26, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AMR invites nominations for the Prize in the Mathematics of Artificial Intelligence: (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494448</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494448"/>
+        <updated>2026-09-11T03:40:28.530Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494448" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>The AMR invites nominations for the Prize in the Mathematics of Artificial Intelligence:</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The Association for Mathematical Research will be awarding the third annual Prize in the Mathematics of Artificial Intelligence in 2026. The prize is awarded for research performed in the last 10 years in mathematics relevant to Artificial Intelligence and Machine Learning, or in AI research relevant to mathematics.  The prize includes a cash award of $50,000. Nominations are due September 30, 2026.   More information including nomination instructions can be found here: … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494448" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://amathr.org/prizes/aiprize/">The Association for Mathematical Research</a></span><br>
+<span class="open_date">Date Posted: May 26, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply for the Claytor-Gilmer Fellowship (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494461</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494461"/>
+        <updated>2026-09-11T03:40:28.531Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494461" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Apply for the Claytor-Gilmer Fellowship</a></h2>
+<p><span class="category"><span class="category category-6">Calls for Applications</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The AMS established the Claytor-Gilmer Fellowship to further excellence in mathematics research and to advance the participation and success of Black mathematicians in the research community. One award will be made for the 2027–2028 academic year in the amount of US$75,000. AMS membership also will be offered to the recipient for the duration of the fellowship.
+<br>
+<br>In recognition of the historical contributions of Dr. William S. Claytor and Dr. Gloria Ford Gilmer, the fellowship seeks to … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494461" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.ams.org/programs/ams-fellowships/claytor-gilmer">Apply at American Mathematical Society</a></span><br>
+<span class="open_date">Date Posted: Jul 15, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply for the Joan and Joseph Birman Fellowship for the Advancement of Women Scholars (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494463</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494463"/>
+        <updated>2026-09-11T03:40:28.533Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494463" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Apply for the Joan and Joseph Birman Fellowship for the Advancement of Women Scholars</a></h2>
+<p><span class="category"><span class="category category-6">Calls for Applications</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The Joan and Joseph Birman Fellowship for the Advancement of Women Scholars is a midcareer research fellowship specially designed for the mathematics community with the goal of advancing the participation and success of women in mathematics. This program is made possible by a generous gift from Joan and Joseph Birman. One award will be made for the 2027–2028 academic year in the amount of US$75,000. AMS membership also will be offered to the recipient for the duration of the Fellowship.
+<br>
+<br>The … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494463" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.ams.org/grants-awards/ams-fellowships/Birman-fellow">American Mathematical Society</a></span><br>
+<span class="open_date">Date Posted: Jul 15, 2026</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply at Joseph F. Traub Information-Based-Complexity Young Researcher Award (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494477</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494477"/>
+        <updated>2026-09-11T03:40:28.535Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494477" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Apply at Joseph F. Traub Information-Based-Complexity Young Researcher Award</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">This annual award (deadline: September 30) is for significant 
+<br>contributions to information-based complexity by a young researcher
+<br>below their 35th birthday. 
+<br>
+<br>The prize consists of $1000 and a plaque and will be awarded 
+<br>at a suitable location. 
+<br>
+<br>The award committee consists of the winners of the recent 3 years 
+<br>and the editors Henryk Wozniakowski and Erich Novak. 
+<br>Nominations can be sent to erich.novak@uni-jena.de. 
+<br></span><br>
+<span class="sponsor_name"><a href="https://www.journals.elsevier.com/journal-of-complexity/awards/joseph-f-traub-young-researcher-award">Journal of Complexity, Elsevier</a></span><br>
+<span class="open_date">Date Posted: Sep 30, 2025</span><br>
+<span class="deadline_date">Deadline: Sep 30, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a Radcliffe Fellow (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494467</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494467"/>
+        <updated>2026-09-11T03:40:28.537Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494467" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Become a Radcliffe Fellow</a></h2>
+<p><span class="category"><span class="category category-1">Fellowships</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">Applications for the 2027-2028 Fellowship | Harvard Radcliffe Institute  
+<br>
+<br>A fellowship year at Harvard Radcliffe Institute is an opportunity for scientists to step away from usual routines and dive deeply into a project in a uniquely interdisciplinary and creative community. Radcliffe supports engaged scholarship, through which fellows develop new tools and methods, communicate their research to new audiences, and shed light on our past and present.  
+<br>
+<br>Fellowship Program Details:
+<br>- … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494467" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.radcliffe.harvard.edu/radcliffe-fellowship/the-fellowship-experience">Harvard Radcliffe Institute</a></span><br>
+<span class="open_date">Date Posted: Jul 14, 2026</span><br>
+<span class="deadline_date">Deadline: Oct 01, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028 (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494487</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494487"/>
+        <updated>2026-09-11T03:40:28.538Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494487" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028</a></h2>
+<p><span class="category"><span class="category category-4">Calls for Proposals</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028
+<br>
+<br>The Banff International Research Station (BIRS), the Pacific Institute for the Mathematical Sciences (PIMS), and the Simons Laufer Mathematical Sciences Institute (SLMath, formerly MSRI) invite proposals to organize a joint graduate summer school to be held in Summer 2028 at University of British Columbia, Okanagan Campus (UBC-O).
+<br>
+<br>This is the first joint summer school of its kind among the three institutes, … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494487" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://proposals.birs.ca/">Simons Laufer Mathematical Sciences Institute (SLMath) / MSRI</a></span><br>
+<span class="open_date">Date Posted: Aug 06, 2026</span><br>
+<span class="deadline_date">Deadline: Oct 01, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apply for the Centennial Fellowship (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494462</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494462"/>
+        <updated>2026-09-11T03:40:28.540Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494462" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Apply for the Centennial Fellowship</a></h2>
+<p><span class="category"><span class="category category-1">Fellowships</span>, <span class="category category-6">Calls for Applications</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The AMS Centennial Research Fellowship Program makes awards annually to outstanding mathematicians to help further their careers in research.
+<br>
+<br>The primary selection criterion for the Centennial Fellowship is the excellence of the candidate's research. Preference will be given to candidates who have not had extensive fellowship support in the past. Recipients may not hold the Centennial Fellowship concurrently with another research fellowship such as a Sloan or NSF Post-doctoral fellowship. A … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494462" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="http://www.ams.org/programs/ams-fellowships/centennial-fellow/emp-centflyer">Apply at American Mathematical Society</a></span><br>
+<span class="open_date">Date Posted: Jul 16, 2026</span><br>
+<span class="deadline_date">Deadline: Oct 06, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for Nominations for Clay Research Fellowships (AMS Mathematical Opportunities)]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494453</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494453"/>
+        <updated>2026-09-11T03:40:28.541Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494453" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Call for Nominations for Clay Research Fellowships</a></h2>
+<p><span class="category"><span class="category category-1">Fellowships</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">The Clay Mathematics Institute solicits nominations annually for Clay Research Fellowships.  Clay Research Fellows are selected for their research achievements and their potential to become leaders in research mathematics. All are recent PhD's, and many are selected as they complete their thesis work.  Each Fellowship will normally last until the holder is five years beyond the award of their doctoral degree. Fellows are employed by the Clay Mathematics Institute, which is a U.S. charitable … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494453" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.claymath.org/fellowship-nominations/">Clay Mathematics Institute</a></span><br>
+<span class="open_date">Date Posted: Aug 01, 2026</span><br>
+<span class="deadline_date">Deadline: Oct 15, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Graduate Student Travel Grants to 2027 JMM (MathPrograms.Org — Graduate or Early Career Programs)]]></title>
         <id>https://www.mathprograms.org/db/programs/1955</id>
         <link href="https://www.mathprograms.org/db/programs/1955"/>
@@ -5419,72 +5581,56 @@
         <id>https://www.mathprograms.org/db/programs/1890</id>
         <link href="https://www.mathprograms.org/db/programs/1890"/>
         <updated>2026-07-26T05:23:28.551Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1890" id="k1890" aria-labelledby="k1890 j1890">BABUSKA27</a>] <span id="j1890" aria-hidden="true">The Ivo and Renata Babuška Thesis Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/30 11:59PM">2026/07/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1890"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1890" id="k1890" aria-labelledby="k1890 j1890">BABUSKA27</a>] <span id="j1890" aria-hidden="true">The Ivo and Renata Babuška Thesis Prize</span>&nbsp;<span class="purplesml">(deadline 2026/06/30 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1890"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bertrand Russell Prize (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1885</id>
         <link href="https://www.mathprograms.org/db/programs/1885"/>
         <updated>2026-07-26T05:23:28.552Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1885" id="k1885" aria-labelledby="k1885 j1885">BERTRAND27</a>] <span id="j1885" aria-hidden="true">Bertrand Russell Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1885"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1885" id="k1885" aria-labelledby="k1885 j1885">BERTRAND27</a>] <span id="j1885" aria-hidden="true">Bertrand Russell Prize</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1885"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cole Prize in Algebra (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1882</id>
         <link href="https://www.mathprograms.org/db/programs/1882"/>
         <updated>2026-07-26T05:23:28.554Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1882" id="k1882" aria-labelledby="k1882 j1882">COLEALG27</a>] <span id="j1882" aria-hidden="true">Cole Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1882"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1882" id="k1882" aria-labelledby="k1882 j1882">COLEALG27</a>] <span id="j1882" aria-hidden="true">Cole Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1882"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mary P. Dolciani Prize in Excellence in Research (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1880</id>
         <link href="https://www.mathprograms.org/db/programs/1880"/>
         <updated>2026-07-26T05:23:28.557Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1880" id="k1880" aria-labelledby="k1880 j1880">DOLCIANI27</a>] <span id="j1880" aria-hidden="true">Mary P. Dolciani Prize in Excellence in Research</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1880"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1880" id="k1880" aria-labelledby="k1880 j1880">DOLCIANI27</a>] <span id="j1880" aria-hidden="true">Mary P. Dolciani Prize in Excellence in Research</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1880"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Award for an Exemplary Program or Achievement in a Mathematics Department (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1892</id>
         <link href="https://www.mathprograms.org/db/programs/1892"/>
         <updated>2026-07-26T05:23:28.558Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1892" id="k1892" aria-labelledby="k1892 j1892">EXEMPLARY27</a>] <span id="j1892" aria-hidden="true">Award for an Exemplary Program or Achievement in a Mathematics Department</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1892"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1892" id="k1892" aria-labelledby="k1892 j1892">EXEMPLARY27</a>] <span id="j1892" aria-hidden="true">Award for an Exemplary Program or Achievement in a Mathematics Department</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1892"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ulf Grenander Prize in Stochastic Theory and Modeling (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1883</id>
         <link href="https://www.mathprograms.org/db/programs/1883"/>
         <updated>2026-07-26T05:23:28.559Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1883" id="k1883" aria-labelledby="k1883 j1883">GRENANDER27</a>] <span id="j1883" aria-hidden="true">Ulf Grenander Prize in Stochastic Theory and Modeling</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1883"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1883" id="k1883" aria-labelledby="k1883 j1883">GRENANDER27</a>] <span id="j1883" aria-hidden="true">Ulf Grenander Prize in Stochastic Theory and Modeling</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1883"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Award for Impact on the Teaching and Learning of Mathematics (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1893</id>
         <link href="https://www.mathprograms.org/db/programs/1893"/>
         <updated>2026-07-26T05:23:28.560Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1893" id="k1893" aria-labelledby="k1893 j1893">IMPACT27</a>] <span id="j1893" aria-hidden="true">Award for Impact on the Teaching and Learning of Mathematics</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1893"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1893" id="k1893" aria-labelledby="k1893 j1893">IMPACT27</a>] <span id="j1893" aria-hidden="true">Award for Impact on the Teaching and Learning of Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1893"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I. Martin Isaacs Prize for Excellence in Mathematical Writing (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1884</id>
         <link href="https://www.mathprograms.org/db/programs/1884"/>
         <updated>2026-07-26T05:23:28.562Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1884" id="k1884" aria-labelledby="k1884 j1884">ISAACS27</a>] <span id="j1884" aria-hidden="true">I. Martin Isaacs Prize for Excellence in Mathematical Writing</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1884"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1884" id="k1884" aria-labelledby="k1884 j1884">ISAACS27</a>] <span id="j1884" aria-hidden="true">I. Martin Isaacs Prize for Excellence in Mathematical Writing</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1884"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JPBM Communications Award (MathPrograms.Org — Prizes and Awards)]]></title>
@@ -5498,72 +5644,56 @@
         <id>https://www.mathprograms.org/db/programs/1929</id>
         <link href="https://www.mathprograms.org/db/programs/1929"/>
         <updated>2026-07-26T05:23:28.565Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1929" id="k1929" aria-labelledby="k1929 j1929">LIE27</a>] <span id="j1929" aria-hidden="true">George Lusztig Thesis Prize in Lie Theory</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1929"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1929" id="k1929" aria-labelledby="k1929 j1929">LIE27</a>] <span id="j1929" aria-hidden="true">George Lusztig Thesis Prize in Lie Theory</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1929"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Milestone Prize for Foundational Work in Formal Verification (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1916</id>
         <link href="https://www.mathprograms.org/db/programs/1916"/>
         <updated>2026-07-26T05:23:28.566Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1916" id="k1916" aria-labelledby="k1916 j1916">MILESTONE27</a>] <span id="j1916" aria-hidden="true">Milestone Prize for Foundational Work in Formal Verification</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1916"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1916" id="k1916" aria-labelledby="k1916 j1916">MILESTONE27</a>] <span id="j1916" aria-hidden="true">Milestone Prize for Foundational Work in Formal Verification</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1916"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1888</id>
         <link href="https://www.mathprograms.org/db/programs/1888"/>
         <updated>2026-07-26T05:23:28.568Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1888" id="k1888" aria-labelledby="k1888 j1888">MORAWETZ27</a>] <span id="j1888" aria-hidden="true">AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1888"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1888" id="k1888" aria-labelledby="k1888 j1888">MORAWETZ27</a>] <span id="j1888" aria-hidden="true">AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1888"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1895</id>
         <link href="https://www.mathprograms.org/db/programs/1895"/>
         <updated>2026-07-26T05:23:28.569Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1895" id="k1895" aria-labelledby="k1895 j1895">MORGAN27</a>] <span id="j1895" aria-hidden="true">Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1895"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1895" id="k1895" aria-labelledby="k1895 j1895">MORGAN27</a>] <span id="j1895" aria-hidden="true">Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1895"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ruth Lyttle Satter Prize in Mathematics (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1896</id>
         <link href="https://www.mathprograms.org/db/programs/1896"/>
         <updated>2026-07-26T05:23:28.570Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1896" id="k1896" aria-labelledby="k1896 j1896">SATTER27</a>] <span id="j1896" aria-hidden="true">Ruth Lyttle Satter Prize in Mathematics</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1896"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1896" id="k1896" aria-labelledby="k1896 j1896">SATTER27</a>] <span id="j1896" aria-hidden="true">Ruth Lyttle Satter Prize in Mathematics</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1896"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elias M. Stein Prize for New Perspectives in Analysis (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1900</id>
         <link href="https://www.mathprograms.org/db/programs/1900"/>
         <updated>2026-07-26T05:23:28.577Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1900" id="k1900" aria-labelledby="k1900 j1900">STEINANALYSIS27</a>] <span id="j1900" aria-hidden="true">Elias M. Stein Prize for New Perspectives in Analysis</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/30 11:59PM">2026/07/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1900"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1900" id="k1900" aria-labelledby="k1900 j1900">STEINANALYSIS27</a>] <span id="j1900" aria-hidden="true">Elias M. Stein Prize for New Perspectives in Analysis</span>&nbsp;<span class="purplesml">(deadline 2026/06/30 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1900"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[George Lusztig Thesis Prize in Algebra (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1930</id>
         <link href="https://www.mathprograms.org/db/programs/1930"/>
         <updated>2026-07-26T05:23:28.578Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1930" id="k1930" aria-labelledby="k1930 j1930">THESISALGEBRA27</a>] <span id="j1930" aria-hidden="true">George Lusztig Thesis Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1930"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1930" id="k1930" aria-labelledby="k1930 j1930">THESISALGEBRA27</a>] <span id="j1930" aria-hidden="true">George Lusztig Thesis Prize in Algebra</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1930"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Albert Leon Whiteman Memorial Prize (MathPrograms.Org — Prizes and Awards)]]></title>
         <id>https://www.mathprograms.org/db/programs/1886</id>
         <link href="https://www.mathprograms.org/db/programs/1886"/>
         <updated>2026-07-26T05:23:28.580Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1886" id="k1886" aria-labelledby="k1886 j1886">WHITEMAN27</a>] <span id="j1886" aria-hidden="true">Albert Leon Whiteman Memorial Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1886"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1886" id="k1886" aria-labelledby="k1886 j1886">WHITEMAN27</a>] <span id="j1886" aria-hidden="true">Albert Leon Whiteman Memorial Prize</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1886"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWM Dissertation Prize (MathPrograms.Org — Prizes and Awards)]]></title>
@@ -5759,9 +5889,7 @@
         <id>https://www.mathjobs.org/jobs/list/28549</id>
         <link href="https://www.mathjobs.org/jobs/list/28549"/>
         <updated>2026-07-26T05:37:15.572Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28549" id="k28549" aria-labelledby="k28549 j28549">MATHFOUNDAPP</a>] <span id="j28549" aria-hidden="true">Mathematical foundations of approximation by (deep) neural networks</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/08/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/08/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/08/31 11:59PM">2026/09/01 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28549"></span>  <span class="sml">&nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHE0OvIRGRdl-X2bfrlGcTn3mL9D6M8IdbbMYKWT3H0f3LaA/viewform">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28549" id="k28549" aria-labelledby="k28549 j28549">MATHFOUNDAPP</a>] <span id="j28549" aria-hidden="true">Mathematical foundations of approximation by (deep) neural networks</span>&nbsp;<span class="purplesml">(deadline 2026/08/31 11:59PM, Postdoctoral)</span><span id="jn28549"></span>  <span class="sml">&nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHE0OvIRGRdl-X2bfrlGcTn3mL9D6M8IdbbMYKWT3H0f3LaA/viewform">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fields Postdoctoral Fellowship - Complex and Algebraic Dynamics in One Dimension (MathJobs.Org — Postdoctoral)]]></title>
@@ -5803,27 +5931,21 @@
         <id>https://www.mathjobs.org/jobs/list/28339</id>
         <link href="https://www.mathjobs.org/jobs/list/28339"/>
         <updated>2026-07-26T05:37:15.581Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28339" id="k28339" aria-labelledby="k28339 j28339">ASSISTANT1</a>] <span id="j28339" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/22 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/22 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/22 11:59PM">2026/05/23 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28339"></span>  <span class="sml">&nbsp; <a href="https://www.uni-goettingen.de/en/644546.html?details=76444">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28339" id="k28339" aria-labelledby="k28339 j28339">ASSISTANT1</a>] <span id="j28339" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(deadline 2026/05/22 11:59PM, Postdoctoral)</span><span id="jn28339"></span>  <span class="sml">&nbsp; <a href="https://www.uni-goettingen.de/en/644546.html?details=76444">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research Assistant (MathJobs.Org — Postdoctoral)]]></title>
         <id>https://www.mathjobs.org/jobs/list/28585</id>
         <link href="https://www.mathjobs.org/jobs/list/28585"/>
         <updated>2026-07-26T05:37:15.582Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28585" id="k28585" aria-labelledby="k28585 j28585">RA</a>] <span id="j28585" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/07/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/07/31 11:59PM">2026/08/01 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28585"></span>  <span class="sml">&nbsp; <a href="https://obp.uni-goettingen.de/de-de/OBF/Index/76582">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28585" id="k28585" aria-labelledby="k28585 j28585">RA</a>] <span id="j28585" aria-hidden="true">Research Assistant</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM, Postdoctoral)</span><span id="jn28585"></span>  <span class="sml">&nbsp; <a href="https://obp.uni-goettingen.de/de-de/OBF/Index/76582">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wissenschaftliche/r Mitarbeiter/in (MathJobs.Org — Postdoctoral)]]></title>
         <id>https://www.mathjobs.org/jobs/list/28312</id>
         <link href="https://www.mathjobs.org/jobs/list/28312"/>
         <updated>2026-07-26T05:37:15.584Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28312" id="k28312" aria-labelledby="k28312 j28312">WISSMA</a>] <span id="j28312" aria-hidden="true">Wissenschaftliche/r Mitarbeiter/in</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/04/24 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/04/24 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/04/24 11:59PM">2026/04/25 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28312"></span>  <span class="sml">&nbsp; <a href="https://www.uni-goettingen.de/de/644546.html?details=76407">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28312" id="k28312" aria-labelledby="k28312 j28312">WISSMA</a>] <span id="j28312" aria-hidden="true">Wissenschaftliche/r Mitarbeiter/in</span>&nbsp;<span class="purplesml">(deadline 2026/04/24 11:59PM, Postdoctoral)</span><span id="jn28312"></span>  <span class="sml">&nbsp; <a href="https://www.uni-goettingen.de/de/644546.html?details=76407">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Post-doc (MathJobs.Org — Postdoctoral)]]></title>
@@ -5837,9 +5959,7 @@
         <id>https://www.mathjobs.org/jobs/list/28518</id>
         <link href="https://www.mathjobs.org/jobs/list/28518"/>
         <updated>2026-07-26T05:37:15.587Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28518" id="k28518" aria-labelledby="k28518 j28518">POSTDOCTORALPOSITIONS</a>] <span id="j28518" aria-hidden="true">Postdoctoral Positions in AI for Science and Scientific Computing</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/06/12 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/06/12 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/12 11:59PM">2026/06/13 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn28518"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/3748/28518/apply">Apply</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28518" id="k28518" aria-labelledby="k28518 j28518">POSTDOCTORALPOSITIONS</a>] <span id="j28518" aria-hidden="true">Postdoctoral Positions in AI for Science and Scientific Computing</span>&nbsp;<span class="purplesml">(deadline 2026/06/12 11:59PM, Postdoctoral)</span><span id="jn28518"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/3748/28518/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Fellow (MathJobs.Org — Postdoctoral)]]></title>
@@ -5895,9 +6015,7 @@
         <id>https://www.mathjobs.org/jobs/list/27632</id>
         <link href="https://www.mathjobs.org/jobs/list/27632"/>
         <updated>2026-07-26T05:37:15.591Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/27632" id="k27632" aria-labelledby="k27632 j27632">PDRMT2026</a>] <span id="j27632" aria-hidden="true">Postdoctoral Research Associate</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/30 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/30 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/30 11:59PM">2026/05/31 03:59 AM UTC</span>, Postdoctoral)</span><span id="jn27632"></span>  <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/27632" id="k27632" aria-labelledby="k27632 j27632">PDRMT2026</a>] <span id="j27632" aria-hidden="true">Postdoctoral Research Associate</span>&nbsp;<span class="purplesml">(deadline 2026/05/30 11:59PM, Postdoctoral)</span><span id="jn27632"></span>  <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research fellow (m/f/d) in the field of algebraic geometry (MathJobs.Org — Postdoctoral)]]></title>
@@ -5918,9 +6036,7 @@
         <id>https://www.mathjobs.org/jobs/list/28384</id>
         <link href="https://www.mathjobs.org/jobs/list/28384"/>
         <updated>2026-07-26T05:37:15.595Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28384" id="k28384" aria-labelledby="k28384 j28384">ECOPRO2</a>] <span id="j28384" aria-hidden="true">Research Fellowships at the Extremal Combinatorics and Probability Group (ECOPRO)</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/06/10 03:00AM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/06/10 03:00AM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/10 03:00AM">2026/06/10 07:00 AM UTC</span>, Postdoctoral)</span><span id="jn28384"></span>  <span class="sml">&nbsp; <a href="https://ibs.re.kr/prog/recruit/eng/sub04_01/view.do?pageIndex=1&amp;searchCondition=&amp;searchKeyword=&amp;idx=2104">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28384" id="k28384" aria-labelledby="k28384 j28384">ECOPRO2</a>] <span id="j28384" aria-hidden="true">Research Fellowships at the Extremal Combinatorics and Probability Group (ECOPRO)</span>&nbsp;<span class="purplesml">(deadline 2026/06/10 03:00AM, Postdoctoral)</span><span id="jn28384"></span>  <span class="sml">&nbsp; <a href="https://ibs.re.kr/prog/recruit/eng/sub04_01/view.do?pageIndex=1&amp;searchCondition=&amp;searchKeyword=&amp;idx=2104">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Positions at the Institute for Math & AI, Wuhan (IMAI) (MathJobs.Org — Postdoctoral)]]></title>
@@ -5949,5 +6065,49 @@
         <link href="https://www.mathjobs.org/jobs/list/28575"/>
         <updated>2026-08-31T22:00:51.241Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28575" id="k28575" aria-labelledby="k28575 j28575">PDFM</a>] <span id="j28575" aria-hidden="true">Postdoctoral Fellowship in Mathematics</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28575"></span>  <span class="sml">&nbsp; <a href="https://candidaturas.impa.br/eventos/562/inscricao">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To be announced (The AHGT Seminar)]]></title>
+        <id>https://ahgt.math.cnrs.fr/seminar/2026/12/07/Yamaguchi_Lean-CFT.html</id>
+        <link href="https://ahgt.math.cnrs.fr/seminar/2026/12/07/Yamaguchi_Lean-CFT.html"/>
+        <updated>2026-09-11T03:40:42.867Z</updated>
+        <content type="html"><![CDATA[<th scope="row" style="width:120px !important;text-align:right;padding-right:20px;">Dec 7, 2026<br> <span style="font-weight:normal;font-style:italic;">JP: 16:30<br>FR: 08:30 </span></th>
+                    <td>
+                        <i><a href="/seminar/2026/12/07/Yamaguchi_Lean-CFT.html">To be announced</a></i>.<br>
+                        <a href="https://n-yamaguchi-0729.github.io/homepage-en.html">Yamaguchi Naganori</a>, Tokyo Denki University, JP.
+                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To be announced (The AHGT Seminar)]]></title>
+        <id>https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_TBA.html</id>
+        <link href="https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_TBA.html"/>
+        <updated>2026-09-11T03:40:42.868Z</updated>
+        <content type="html"><![CDATA[<th scope="row" style="width:120px !important;text-align:right;padding-right:20px;">Oct 5, 2026<br> <span style="font-weight:normal;font-style:italic;">JP: 15:30<br>FR: 08:30 </span></th>
+                    <td>
+                        <i><a href="/seminar/2026/10/05/Ishii_TBA.html">To be announced</a></i>.<br>
+                        <a href="https://sishii1214.github.io/">Ishii shun</a>, RIMS Kyoto University, JP.
+                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mathieu group M23 is a Galois group over Q (The AHGT Seminar)]]></title>
+        <id>https://ahgt.math.cnrs.fr/seminar/2026/09/14/Pries-Huang_M23-RIGTv.html</id>
+        <link href="https://ahgt.math.cnrs.fr/seminar/2026/09/14/Pries-Huang_M23-RIGTv.html"/>
+        <updated>2026-09-11T03:40:42.870Z</updated>
+        <content type="html"><![CDATA[<th scope="row" style="width:120px !important;text-align:right;padding-right:20px;">Sep 14, 2026<br> <span style="font-weight:normal;font-style:italic;">JP: 21:00<br>FR: 14:00 </span></th>
+                    <td>
+                        <i><a href="/seminar/2026/09/14/Pries-Huang_M23-RIGTv.html">The Mathieu group M23 is a Galois group over Q</a></i>.<br>
+                        <a href="https://www.math.colostate.edu/~pries/">Rachel Pries and Xiaoyu Huang</a>, Colorado State University, US and Temple University, US.
+                    </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On algebraic geometry over division rings (The AHGT Seminar)]]></title>
+        <id>https://ahgt.math.cnrs.fr/seminar/2026/07/13/Paran_AG_div.html</id>
+        <link href="https://ahgt.math.cnrs.fr/seminar/2026/07/13/Paran_AG_div.html"/>
+        <updated>2026-09-11T03:40:42.872Z</updated>
+        <content type="html"><![CDATA[<th scope="row" style="width:120px !important;text-align:right;padding-right:20px;">Jul 13, 2026<br> <span style="font-weight:normal;font-style:italic;">JP: 15:30<br>FR: 08:30 </span></th>
+                    <td>
+                        <i><a href="/seminar/2026/07/13/Paran_AG_div.html">On algebraic geometry over division rings</a></i>.<br>
+                        <a href="https://www.openu.ac.il/en/personalsites/eladparan.aspx">Elad Paran</a>, Open University of Israel, IL.
+                    </td>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-09-10T19:57:35.434Z</updated>
+    <updated>2026-09-11T03:40:43.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[基础与应用数学青年论坛]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/4071.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/4071.htm"/>
+        <updated>2026-09-11T03:40:12.632Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 26</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1060/4071.htm" class="right text">
+        <div class="t-1">基础与应用数学青年论坛</div>
+        <div class="t-2"></div>
+        <div class="t-3">Organizer：清华大学丘成桐数学科学中心</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Information in Quantum Gravity 2026 (QIQG 2026)]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3533.htm</id>
@@ -34,22 +50,6 @@
         <div class="t-1">Recent Developments in Gravity and Holography</div>
         <div class="t-2">Date: June 25–26, 2026 Venue: Shuangqing Building, Yau Mathematical Sciences Center, Tsinghua University Organiser: Gabriel Arenas-Henriquez, YMSC, Tsinghua UniversityThe aim of the workshop is to bring together researchers working on recent developments in gravitational physics, holography, AdS/CFT, black holes, and related aspects of mathematical physics. The programme will consist of invite...</div>
         <div class="t-3">Organizer：Gabriel Arenas-Henriquez, YMSC, Tsinghua University</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2nd AI4Science Beijing Meet-up—Learned PDEs!]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1060/3981.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1060/3981.htm"/>
-        <updated>2026-05-26T08:50:15.179Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 14</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1060/3981.htm" class="right text">
-        <div class="t-1">The 2nd AI4Science Beijing Meet-up—Learned PDEs!</div>
-        <div class="t-2">The 2nd AI4Science Beijing Meet-up—Learned PDEs!We are thrilled to announce the 2nd AI4Science Beijing Meet-up — returning on  2026. Confimed Date June 14th, 2026!A huge thank you to everyone who made last year’s inaugural meet-up unforgettable.The reception was overwhelming: we had to close registration only a few days after opening. Many of you couldn’t get a spot — and we heard you.This...</div>
-        <div class="t-3">Organizer：</div>
         
     </a>]]></content>
     </entry>
