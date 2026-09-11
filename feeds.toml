@@ -123,3 +123,10 @@ url = "https://www.mathjobs.org/jobs?joblst-0-3---40-t--"
 entrySelector = "ol.sp5.ldt li"
 titleSelector = "span[aria-hidden='true']"
 linkSelector = "a[href^='/jobs/list/']"
+
+[AHGTSeminar]
+title = "The AHGT Seminar"
+url = "https://ahgt.math.cnrs.fr/seminar/index.html"
+entrySelector = "div.news tr"
+titleSelector = "td i a"
+linkSelector = "td i a"
