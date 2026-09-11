@@ -2,38 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-09-11T09:56:33.252Z</updated>
+    <updated>2026-09-11T19:56:57.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
-    <entry>
-        <title type="html"><![CDATA[Junior Fellows of the Simons Society of Fellows]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/"/>
-        <updated>2026-07-26T05:10:17.760Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/" class="m-post__block-link">
-                    Junior Fellows of the Simons Society of Fellows                </a>
-            </h4>
-            <div class="m-post__main">
-                Junior Fellows are outstanding young scientists who receive support from the foundation for up to 3 years to conduct independent research at an NYC educational institution. The foundation requires Junior Fellows to attend weekly lectures and dinners at the foundation during the academic year, as well as an annual conference and a 4-day weekend retreat.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Simons Society of Fellows | Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Postdoc/Early Career            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Simons Symposia]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-symposia-program/</id>
@@ -319,6 +290,35 @@
                 Investigators            </div>
             <span class="head">Status - </span>
             Applications Open October 1, 2026
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junior Fellows of the Simons Society of Fellows]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/"/>
+        <updated>2026-07-26T05:10:17.760Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/" class="m-post__block-link">
+                    Junior Fellows of the Simons Society of Fellows                </a>
+            </h4>
+            <div class="m-post__main">
+                Junior Fellows are outstanding young scientists who receive support from the foundation for up to 3 years to conduct independent research at an NYC educational institution. The foundation requires Junior Fellows to attend weekly lectures and dinners at the foundation during the academic year, as well as an annual conference and a 4-day weekend retreat.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Simons Society of Fellows | Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Postdoc/Early Career            </div>
+            <span class="head">Status - </span>
+            Closed
                     </aside>
 
 

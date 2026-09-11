@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-11T09:56:33.087Z</updated>
+    <updated>2026-09-11T19:56:57.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Mathematics and Mentoring: A Framework]]></title>
-        <id>https://researchseminars.org/seminar/CompMath</id>
-        <link href="https://researchseminars.org/seminar/CompMath"/>
-        <updated>2026-08-31T22:00:30.101Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Aris Winger</td><td class="talktitle"><a title="Mathematics and Mentoring: A Framework" knowl="talk/CompMath/37">Mathematics and Mentoring: A Framework</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniformity of quadratic points on algebraic curves]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 11</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker">Tangli Ge</td><td class="talktitle"><a title="Uniformity of quadratic points on algebraic curves" knowl="talk/vcugeomandtop/160">Uniformity of quadratic points on algebraic curves</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Выделение классов групп уравнениями]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -249,6 +235,27 @@
         <link href="https://researchseminars.org/seminar/Postech-PMI-NT"/>
         <updated>2026-08-19T06:01:01.809Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Hyuk Jun Kweon</td><td class="talktitle"><a title="A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids" knowl="talk/Postech-PMI-NT/18">A Uniform Construction of Cohomology Theories of Varieties via Fundamental Groupoids</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Ph.D. student's report on the 3rd year]]></title>
+        <id>https://researchseminars.org/seminar/fran</id>
+        <link href="https://researchseminars.org/seminar/fran"/>
+        <updated>2026-09-11T19:56:30.998Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">12:30</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=531&amp;lang=en">Valentyna Nazarchuk</a></td><td class="talktitle"><a title="A Ph.D. student's report on the 3rd year" knowl="talk/fran/84">A Ph.D. student's report on the 3rd year</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Ph.D. student's report on the 2nd year]]></title>
+        <id>https://researchseminars.org/seminar/fran</id>
+        <link href="https://researchseminars.org/seminar/fran"/>
+        <updated>2026-09-11T19:56:31.000Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=555&amp;lang=en">Oleh Vynnyshyn</a></td><td class="talktitle"><a title="A Ph.D. student's report on the 2nd year" knowl="talk/fran/85">A Ph.D. student's report on the 2nd year</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Ph.D. student's report on the 1st year]]></title>
+        <id>https://researchseminars.org/seminar/fran</id>
+        <link href="https://researchseminars.org/seminar/fran"/>
+        <updated>2026-09-11T19:56:31.001Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">13:30</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=573&amp;lang=en">Olena Nikorak</a></td><td class="talktitle"><a title="A Ph.D. student's report on the 1st year" knowl="talk/fran/86">A Ph.D. student's report on the 1st year</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/AI-CoNT"/>
         <updated>2026-09-08T09:57:19.935Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
-        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
-        <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
