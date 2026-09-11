@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-11T03:40:51.432Z</updated>
+    <updated>2026-09-11T09:56:33.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -657,6 +657,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/SheffieldNumberTheory">Sheffield Number Theory Seminar</a></td><td class="speaker">David Solomon</td><td class="talktitle"><a title="Heisenberg SICs, Stark Units and Weil Representations" knowl="talk/SheffieldNumberTheory/61">Heisenberg SICs, Stark Units and Weil Representations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Palindromic length in free groups and Catalan expressions]]></title>
+        <id>https://researchseminars.org/seminar/CombinatoricsOnWords</id>
+        <link href="https://researchseminars.org/seminar/CombinatoricsOnWords"/>
+        <updated>2026-08-31T22:00:30.113Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Anna Frid</td><td class="talktitle"><a title="Palindromic length in free groups and Catalan expressions" knowl="talk/CombinatoricsOnWords/148">Palindromic length in free groups and Catalan expressions</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/NonLocalOperators</id>
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/FCNTS</id>
-        <link href="https://researchseminars.org/seminar/FCNTS"/>
-        <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

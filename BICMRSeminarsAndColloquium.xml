@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-11T03:40:51.407Z</updated>
+    <updated>2026-09-11T09:56:33.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Sep 11</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-4007.html" title="Cup Product Issues in the Mapping Cone Morse Theory" target="_blank">Cup Product Issues in the Mapping Cone Morse Theory</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Sep 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/45-4000.html" title="High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions" target="_blank">High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions</a>
                         </p>
@@ -49,7 +49,7 @@
                         <p>Sep 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/50.html" title="Topology" target="_blank">Topology</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/50-4004.html" title="On Groups with Flexible Geometry" target="_blank">On Groups with Flexible Geometry</a>
                         </p>
@@ -66,7 +66,7 @@
                         <p>Sep 14</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
                         <p class="black">
                             <a href="/content/show/46-3995.html" title="2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;" target="_blank">2D Euler Steady States and Semi-Linear Elliptic Equation&nbsp;</a>
                         </p>
