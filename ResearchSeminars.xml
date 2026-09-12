@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-12T09:31:34.764Z</updated>
+    <updated>2026-09-12T19:34:30.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Выделение классов групп уравнениями]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-09-06T19:25:00.159Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 12</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Антон А. Клячко</td><td class="talktitle"><a title="Выделение классов групп уравнениями" knowl="talk/knotgraphgroup/167">Выделение классов групп уравнениями</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Critical minerals research presentation 1]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
@@ -279,6 +272,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="http://shubin.link/">Andrei Shubin</a></td><td class="talktitle"><a title="Circle coverings driven by arithmetic sequences" knowl="talk/NTWebSeminar/311">Circle coverings driven by arithmetic sequences</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On a defect numbers of the Dirichlet problem for a properly elliptic equation in the space of continuous functions]]></title>
+        <id>https://researchseminars.org/seminar/SeminaronAnalysis</id>
+        <link href="https://researchseminars.org/seminar/SeminaronAnalysis"/>
+        <updated>2026-09-12T19:34:05.099Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/SeminaronAnalysis">Seminar on Analysis, Differential Equations and Mathematical Physics</a></td><td class="speaker">Babayan Armenar</td><td class="talktitle"><a title="On a defect numbers of the Dirichlet problem for a properly elliptic equation in the space of continuous functions" knowl="talk/SeminaronAnalysis/135">On a defect numbers of the Dirichlet problem for a properly elliptic equation in the space of continuous functions</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Accessible model theory]]></title>
         <id>https://researchseminars.org/seminar/ToposInstituteColloquium</id>
         <link href="https://researchseminars.org/seminar/ToposInstituteColloquium"/>
@@ -312,13 +312,6 @@
         <link href="https://researchseminars.org/seminar/GAATI"/>
         <updated>2026-09-09T19:57:42.664Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/GAATI">Séminaire&nbsp;GAATI</a></td><td class="speaker">Peter Patzt</td><td class="talktitle"><a title="The asymptotics of moments of quadratic L-functions over function fields" knowl="talk/GAATI/20">The asymptotics of moments of quadratic L-functions over function fields</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basics of the Bach flow]]></title>
-        <id>https://researchseminars.org/seminar/CIRGET</id>
-        <link href="https://researchseminars.org/seminar/CIRGET"/>
-        <updated>2026-09-02T09:49:48.758Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Eric Bahuaud</td><td class="talktitle"><a title="Basics of the Bach flow" knowl="talk/CIRGET/167">Basics of the Bach flow</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Geometry-Aware Neural Networks for Geometric Analysis]]></title>
@@ -461,11 +454,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://yoonjookim.github.io/">Yoon-Joo Kim</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/77">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Filtrations on Local Cohomology and Injectivity Theorems]]></title>
         <id>https://researchseminars.org/seminar/harvard-mit-ag-seminar</id>
         <link href="https://researchseminars.org/seminar/harvard-mit-ag-seminar"/>
         <updated>2026-08-03T19:06:37.638Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/harvard-mit-ag-seminar">Harvard MIT Algebraic Geometry Seminar</a></td><td class="speaker">Sebastián Olano</td><td class="talktitle"><a title="TBA" knowl="talk/harvard-mit-ag-seminar/130">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/harvard-mit-ag-seminar">Harvard MIT Algebraic Geometry Seminar</a></td><td class="speaker">Sebastián Olano</td><td class="talktitle"><a title="Filtrations on Local Cohomology and Injectivity Theorems" knowl="talk/harvard-mit-ag-seminar/130">Filtrations on Local Cohomology and Injectivity Theorems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -636,11 +629,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">12:15</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Gregory Korchemsky</td><td class="talktitle"><a title="Infrared divergences in gauge theories and gravity" knowl="talk/courses_ipht/43">Infrared divergences in gauge theories and gravity</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Nonlinear Fokker–Planck–Kolmogorov equations and their probabilistic counterparts]]></title>
         <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
         <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
         <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/207">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585&amp;lang=en">Michael Röckner</a></td><td class="talktitle"><a title="Nonlinear Fokker–Planck–Kolmogorov equations and their probabilistic counterparts" knowl="talk/GeomInequAndPDEs/207">Nonlinear Fokker–Planck–Kolmogorov equations and their probabilistic counterparts</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On structural properties of Novikov algebras]]></title>
@@ -704,5 +697,12 @@
         <link href="https://researchseminars.org/seminar/vantage"/>
         <updated>2026-09-10T19:57:16.580Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/AI-CoNT</id>
+        <link href="https://researchseminars.org/seminar/AI-CoNT"/>
+        <updated>2026-09-08T09:57:19.935Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
