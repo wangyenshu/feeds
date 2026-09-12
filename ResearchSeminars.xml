@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-11T19:56:57.057Z</updated>
+    <updated>2026-09-12T09:31:34.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -247,14 +247,14 @@
         <title type="html"><![CDATA[A Ph.D. student's report on the 2nd year]]></title>
         <id>https://researchseminars.org/seminar/fran</id>
         <link href="https://researchseminars.org/seminar/fran"/>
-        <updated>2026-09-11T19:56:31.000Z</updated>
+        <updated>2026-09-11T19:56:30.998Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=555&amp;lang=en">Oleh Vynnyshyn</a></td><td class="talktitle"><a title="A Ph.D. student's report on the 2nd year" knowl="talk/fran/85">A Ph.D. student's report on the 2nd year</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Ph.D. student's report on the 1st year]]></title>
         <id>https://researchseminars.org/seminar/fran</id>
         <link href="https://researchseminars.org/seminar/fran"/>
-        <updated>2026-09-11T19:56:31.001Z</updated>
+        <updated>2026-09-11T19:56:30.998Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">13:30</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=573&amp;lang=en">Olena Nikorak</a></td><td class="talktitle"><a title="A Ph.D. student's report on the 1st year" knowl="talk/fran/86">A Ph.D. student's report on the 1st year</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -368,6 +368,13 @@
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://math.univ-angers.fr/~powell/">Geoffrey Powell</a></td><td class="talktitle"><a title="Graph complexes via Brauer categories and Koszul complexes" knowl="talk/ENAAS/176">Graph complexes via Brauer categories and Koszul complexes</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова]]></title>
+        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
+        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Ольга Витальевна Починка</td><td class="talktitle"><a title="Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова" knowl="talk/Knotsandtopology/181">Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/vantage"/>
         <updated>2026-09-10T19:57:16.580Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/AI-CoNT</id>
-        <link href="https://researchseminars.org/seminar/AI-CoNT"/>
-        <updated>2026-09-08T09:57:19.935Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
