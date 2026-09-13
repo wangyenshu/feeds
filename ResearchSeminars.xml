@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-13T10:30:32.981Z</updated>
+    <updated>2026-09-13T19:40:09.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -615,11 +615,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://maldi2.github.io/">Marco Aldi</a></td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Realisations of posets and Koszul complexes]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-07-26T05:01:56.442Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/46">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="Realisations of posets and Koszul complexes" knowl="talk/TropicalmathandML/46">Realisations of posets and Koszul complexes</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
