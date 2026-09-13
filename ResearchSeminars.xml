@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-12T19:34:30.259Z</updated>
+    <updated>2026-09-13T10:30:32.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -314,6 +314,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/GAATI">Séminaire&nbsp;GAATI</a></td><td class="speaker">Peter Patzt</td><td class="talktitle"><a title="The asymptotics of moments of quadratic L-functions over function fields" knowl="talk/GAATI/20">The asymptotics of moments of quadratic L-functions over function fields</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Towards large Fukaya category: case of tori]]></title>
+        <id>https://researchseminars.org/seminar/M-seminar</id>
+        <link href="https://researchseminars.org/seminar/M-seminar"/>
+        <updated>2026-09-13T10:30:09.802Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/M-seminar">M-seminar</a></td><td class="speaker">Maxim Kontsevich</td><td class="talktitle"><a title="Towards large Fukaya category: case of tori" knowl="talk/M-seminar/208">Towards large Fukaya category: case of tori</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geometry-Aware Neural Networks for Geometric Analysis]]></title>
         <id>https://researchseminars.org/seminar/GEOTOP-A</id>
         <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
@@ -321,11 +328,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Tancredi Schettini Gherardini</td><td class="talktitle"><a title="Geometry-Aware Neural Networks for Geometric Analysis" knowl="talk/GEOTOP-A/133">Geometry-Aware Neural Networks for Geometric Analysis</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Computational minimal surfaces and the algorithms that find them]]></title>
         <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
         <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
         <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Marco Guaraco</td><td class="talktitle"><a title="TBA" knowl="talk/AmSurAmSulGeometry/115">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Marco Guaraco</td><td class="talktitle"><a title="Computational minimal surfaces and the algorithms that find them" knowl="talk/AmSurAmSulGeometry/115">Computational minimal surfaces and the algorithms that find them</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/vantage"/>
         <updated>2026-09-10T19:57:16.580Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/AI-CoNT</id>
-        <link href="https://researchseminars.org/seminar/AI-CoNT"/>
-        <updated>2026-09-08T09:57:19.935Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
