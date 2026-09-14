@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-09-14T10:54:44.326Z</updated>
+    <updated>2026-09-14T21:02:27.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
     <entry>
@@ -296,6 +296,35 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Travel Support for Mathematicians]]></title>
+        <id>https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/</id>
+        <link href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/"/>
+        <updated>2026-07-26T05:10:17.784Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/" class="m-post__block-link">
+                    Travel Support for Mathematicians                </a>
+            </h4>
+            <div class="m-post__main">
+                The MPS division invites applications for its Travel Support for Mathematicians program, which is intended to stimulate collaboration in the field primarily through the funding of travel and related expenditures.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Closed
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Junior Fellows of the Simons Society of Fellows]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/</id>
         <link href="https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/"/>
@@ -578,35 +607,6 @@
             <div>
                 <span class="head">Career Stage - </span>
                 Graduate Students            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travel Support for Mathematicians]]></title>
-        <id>https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/</id>
-        <link href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/"/>
-        <updated>2026-07-26T05:10:17.784Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/" class="m-post__block-link">
-                    Travel Support for Mathematicians                </a>
-            </h4>
-            <div class="m-post__main">
-                The MPS division invites applications for its Travel Support for Mathematicians program, which is intended to stimulate collaboration in the field primarily through the funding of travel and related expenditures.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
             <span class="head">Status - </span>
             Closed
                     </aside>
