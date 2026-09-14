@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-13T19:40:09.022Z</updated>
+    <updated>2026-09-14T10:54:44.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Critical minerals research presentation 1]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.905Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sun</td><td class="monthdate">Sep 13</td><td class="time" title="UTC">23:15</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Mark Hoggard (RSES)</td><td class="talktitle"><a title="Critical minerals research presentation 1" knowl="talk/RSES_school_seminar/318">Critical minerals research presentation 1</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical minerals research presentation 2]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.905Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">00:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Marthe Klöcking (University of Münster)</td><td class="talktitle"><a title="Critical minerals research presentation 2" knowl="talk/RSES_school_seminar/319">Critical minerals research presentation 2</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical minerals research presentation 3]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.905Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">01:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Charles D. Beard (Utrecht University)</td><td class="talktitle"><a title="Critical minerals research presentation 3" knowl="talk/RSES_school_seminar/320">Critical minerals research presentation 3</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical minerals research presentation 4]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-08T09:57:19.905Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">01:55</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Daniel Viete (Johns Hopkins University)</td><td class="talktitle"><a title="Critical minerals research presentation 4" knowl="talk/RSES_school_seminar/321">Critical minerals research presentation 4</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Loop equations characterize random matrix statistics]]></title>
         <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
@@ -41,11 +13,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://math.nyu.edu/people/profiles/BOURGADE_Paul.html">Paul Bourgade</a></td><td class="talktitle"><a title="Loop equations characterize random matrix statistics" knowl="talk/GeomInequAndPDEs/204">Loop equations characterize random matrix statistics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML4SD: An Active Learning Framework for Boosting DBTL Cycles in Strain Design]]></title>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/MicroBiotechDBTL</id>
         <link href="https://researchseminars.org/seminar/MicroBiotechDBTL"/>
         <updated>2026-07-26T05:01:56.425Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MicroBiotechDBTL">Seminar on Microbial Biotechnology: Developing the Conceptual Framework of the DBTL Cycle</a></td><td class="speaker">Alvaro Gargantilla Becerra</td><td class="talktitle"><a title="ML4SD: An Active Learning Framework for Boosting DBTL Cycles in Strain Design" knowl="talk/MicroBiotechDBTL/11">ML4SD: An Active Learning Framework for Boosting DBTL Cycles in Strain Design</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MicroBiotechDBTL">Seminar on Microbial Biotechnology: Developing the Conceptual Framework of the DBTL Cycle</a></td><td class="speaker">Postponed</td><td class="talktitle"><a title="TBA" knowl="talk/MicroBiotechDBTL/11">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The action of the symmetric group on the multilinear component of the free Filippov algebra]]></title>
@@ -69,13 +41,6 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://sites.pitt.edu/~mom224/">Mohamed Moakher</a></td><td class="talktitle"><a title="The trianguline variety for reductive groups" knowl="talk/NTBU/52">The trianguline variety for reductive groups</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging]]></title>
-        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
-        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
-        <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://webspace.clarkson.edu/~pathaval/">Prashant Athavale</a></td><td class="talktitle"><a title="Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging" knowl="talk/Nonlinear_Analysis_Seminar/89">Star-Norm Bounds and Total Variation Flow, with Applications to Crystallographic Imaging</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cobham’s theorem for Gaussian numerations]]></title>
         <id>https://researchseminars.org/seminar/CombinatoricsOnWords</id>
         <link href="https://researchseminars.org/seminar/CombinatoricsOnWords"/>
@@ -83,11 +48,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Reem Yassawi</td><td class="talktitle"><a title="Cobham’s theorem for Gaussian numerations" knowl="talk/CombinatoricsOnWords/141">Cobham’s theorem for Gaussian numerations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Quasi-infinitely divisible distributions]]></title>
         <id>https://researchseminars.org/seminar/NonLocalOperators</id>
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">David Berger</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/136">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">David Berger</td><td class="talktitle"><a title="Quasi-infinitely divisible distributions" knowl="talk/NonLocalOperators/136">Quasi-infinitely divisible distributions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Optimal Bucket Set Construction for Multi-scalar Multiplication with Endomorphisms]]></title>
@@ -158,6 +123,13 @@
         <link href="https://researchseminars.org/seminar/AUTH-HEP-TH"/>
         <updated>2026-09-03T20:02:26.998Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">09:00</td><td class="seriesname"><a href="/seminar/AUTH-HEP-TH">AUTH HEP-TH Seminars</a></td><td class="speaker">Christoforos Christoforidis</td><td class="talktitle"><a title="Aspects of Integrability in Billiards" knowl="talk/AUTH-HEP-TH/46">Aspects of Integrability in Billiards</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistics Reading Group: Residuals and diagnostics for multinomial regression models]]></title>
+        <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
+        <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
+        <updated>2026-07-26T05:01:56.482Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Bruce Craig</td><td class="talktitle"><a title="Statistics Reading Group: Residuals and diagnostics for multinomial regression models" knowl="talk/mathseminarsnuig/173">Statistics Reading Group: Residuals and diagnostics for multinomial regression models</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Arctan-Tan-G Family of Distributions: Properties and Applications]]></title>
@@ -258,11 +230,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Kirsten Pfeiffer</td><td class="talktitle"><a title="“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics" knowl="talk/mathseminarsnuig/170">“It’s Like a Teacher”: Students’ Reflective Use of Generative AI in First-Year University Mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The ABC of Simulation-Based Inference]]></title>
         <id>https://researchseminars.org/seminar/gbgphd</id>
         <link href="https://researchseminars.org/seminar/gbgphd"/>
         <updated>2026-08-15T05:51:23.188Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Henrik Häggström</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/61">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 17</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Henrik Häggström</td><td class="talktitle"><a title="The ABC of Simulation-Based Inference" knowl="talk/gbgphd/61">The ABC of Simulation-Based Inference</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Circle coverings driven by arithmetic sequences]]></title>
@@ -704,5 +676,33 @@
         <link href="https://researchseminars.org/seminar/vantage"/>
         <updated>2026-09-10T19:57:16.580Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/AI-CoNT</id>
+        <link href="https://researchseminars.org/seminar/AI-CoNT"/>
+        <updated>2026-09-08T09:57:19.935Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker">Matilde Lalín</td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
+        <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
+        <updated>2026-07-26T05:01:56.458Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/FCNTS</id>
+        <link href="https://researchseminars.org/seminar/FCNTS"/>
+        <updated>2026-08-05T19:01:40.150Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker">Marius Leonhardt</td><td class="talktitle"><a title="TBA" knowl="talk/FCNTS/38">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/MITNT</id>
+        <link href="https://researchseminars.org/seminar/MITNT"/>
+        <updated>2026-09-02T09:49:48.738Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker"><a href="https://havarddj.github.io/">Håvard Damm-Johnsen</a></td><td class="talktitle"><a title="TBA" knowl="talk/MITNT/143">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
