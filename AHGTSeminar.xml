@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahgt.math.cnrs.fr/seminar/index.html</id>
     <title>The AHGT Seminar</title>
-    <updated>2026-09-14T21:02:27.309Z</updated>
+    <updated>2026-09-15T20:23:02.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ahgt.math.cnrs.fr/seminar/favicon.ico</icon>
     <entry>
@@ -17,14 +17,14 @@
                     </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To be announced]]></title>
-        <id>https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_TBA.html</id>
-        <link href="https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_TBA.html"/>
-        <updated>2026-09-11T03:40:50.883Z</updated>
+        <title type="html"><![CDATA[On the integral structure of Galois Lie algebras]]></title>
+        <id>https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_GaloisLie.html</id>
+        <link href="https://ahgt.math.cnrs.fr/seminar/2026/10/05/Ishii_GaloisLie.html"/>
+        <updated>2026-09-15T20:23:02.335Z</updated>
         <content type="html"><![CDATA[<th scope="row" style="width:120px !important;text-align:right;padding-right:20px;">Oct 5, 2026<br> <span style="font-weight:normal;font-style:italic;">JP: 15:30<br>FR: 08:30 </span></th>
                     <td>
-                        <i><a href="/seminar/2026/10/05/Ishii_TBA.html">To be announced</a></i>.<br>
-                        <a href="https://sishii1214.github.io/">Ishii shun</a>, RIMS Kyoto University, JP.
+                        <i><a href="/seminar/2026/10/05/Ishii_GaloisLie.html">On the integral structure of Galois Lie algebras</a></i>.<br>
+                        <a href="https://sishii1214.github.io/">Ishii Shun</a>, RIMS Kyoto University, JP.
                     </td>]]></content>
     </entry>
     <entry>

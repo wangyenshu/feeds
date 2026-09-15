@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-14T21:02:27.418Z</updated>
+    <updated>2026-09-15T20:23:03.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -42,7 +42,7 @@
 							</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Origami Tori]]></title>
         <id>https://indico.math.cnrs.fr/event/17062/</id>
         <link href="https://indico.math.cnrs.fr/event/17062/"/>
         <updated>2026-08-20T17:56:19.594Z</updated>
@@ -54,7 +54,7 @@
 																		Séminaire Géométrie et groupes discrets									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17062/" target="_blank">TBA</a>
+									<a href="https://indico.math.cnrs.fr/event/17062/" target="_blank">Origami Tori</a>
 								</h3>
 								<p><strong> Richard Schwartz</strong></p>
 							</td>]]></content>
@@ -93,6 +93,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17103/" target="_blank">On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions</a>
 								</h3>
 								<p><strong> Bernardo Zan</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On “Siegel Domains” in p-adic Period Spaces]]></title>
+        <id>https://indico.math.cnrs.fr/event/17331/</id>
+        <link href="https://indico.math.cnrs.fr/event/17331/"/>
+        <updated>2026-09-15T20:22:07.322Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Thursday 08 October 2026<br>
+								from 11:00 to 12:30							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17331/" target="_blank">On “Siegel Domains” in p-adic Period Spaces</a>
+								</h3>
+								<p><strong> Yoichi Mieda</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
