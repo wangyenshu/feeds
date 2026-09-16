@@ -2,51 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-15T20:23:02.951Z</updated>
+    <updated>2026-09-16T10:11:31.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Studying equivariant structures using transfer systems and Rubin functors]]></title>
-        <id>https://researchseminars.org/seminar/DiagramCategories</id>
-        <link href="https://researchseminars.org/seminar/DiagramCategories"/>
-        <updated>2026-09-07T10:38:26.195Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC"><b>20:00</b></td><td class="seriesname"><a href="/seminar/DiagramCategories">Diagram categories in homotopy theory</a></td><td class="speaker"><a href="https://www.danikavanniel.com/">Danika Van Niel</a></td><td class="talktitle"><a title="Studying equivariant structures using transfer systems and Rubin functors" knowl="talk/DiagramCategories/5">Studying equivariant structures using transfer systems and Rubin functors</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Iwasawa μ\muμ-invariants for Selmer groups over Z2\mathbb{Z}_2Z2​-extensions]]></title>
-        <id>https://researchseminars.org/seminar/FCNTS</id>
-        <link href="https://researchseminars.org/seminar/FCNTS"/>
-        <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC"><b>20:00</b></td><td class="seriesname"><a href="/seminar/FCNTS">Pioneer Valley Number Theory Seminar</a></td><td class="speaker"><a href="https://www.umass.edu/mathematics-statistics/about/directory/zichao-lin">Dean Lin</a></td><td class="talktitle"><a title="On Iwasawa $\mu$-invariants for Selmer groups over $\mathbb{Z}_2$-extensions" knowl="talk/FCNTS/36">On Iwasawa <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span></span>-invariants for Selmer groups over <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi mathvariant="double-struck">Z</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">\mathbb{Z}_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.83889em; vertical-align: -0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathbb">Z</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.301108em;"><span class="" style="top: -2.55em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.15em;"><span class=""></span></span></span></span></span></span></span></span></span></span>-extensions</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using light to open doors for next-generation thermoelectrics and chemical imaging techniques]]></title>
-        <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
-        <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
-        <updated>2026-08-27T16:39:49.277Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Sriparna Bhattacharya</td><td class="talktitle"><a title="Using light to open doors for next-generation thermoelectrics and chemical imaging techniques" knowl="talk/UMissPhysAstroColloq/4">Using light to open doors for next-generation thermoelectrics and chemical imaging techniques</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[p-adic Siegel disks on K3 surfaces]]></title>
-        <id>https://researchseminars.org/seminar/MITNT</id>
-        <link href="https://researchseminars.org/seminar/MITNT"/>
-        <updated>2026-09-02T09:49:48.738Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 15</td><td class="time" title="UTC">21:45</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker"><a href="https://web.stanford.edu/~bvchurch/about/">Benjamin Church</a></td><td class="talktitle"><a title="p-adic Siegel disks on K3 surfaces" knowl="talk/MITNT/141">p-adic Siegel disks on K3 surfaces</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The nontrivial kernel of Manturov-Nikonov map from classical braids to virtual braids]]></title>
-        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
-        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
-        <updated>2026-09-15T20:22:40.471Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Yangzhou Liu</td><td class="talktitle"><a title="The nontrivial kernel of Manturov-Nikonov map from classical braids to virtual braids" knowl="talk/Mos-Bei-top-seminar/160">The nontrivial kernel of Manturov-Nikonov map from classical braids to virtual braids</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aspects of Integrability in Billiards]]></title>
-        <id>https://researchseminars.org/seminar/AUTH-HEP-TH</id>
-        <link href="https://researchseminars.org/seminar/AUTH-HEP-TH"/>
-        <updated>2026-09-03T20:02:26.998Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 16</td><td class="time" title="UTC">09:00</td><td class="seriesname"><a href="/seminar/AUTH-HEP-TH">AUTH HEP-TH Seminars</a></td><td class="speaker">Christoforos Christoforidis</td><td class="talktitle"><a title="Aspects of Integrability in Billiards" knowl="talk/AUTH-HEP-TH/46">Aspects of Integrability in Billiards</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Statistics Reading Group: Residuals and diagnostics for multinomial regression models]]></title>
         <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
@@ -272,11 +230,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Ольга Витальевна Починка</td><td class="talktitle"><a title="Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова" knowl="talk/Knotsandtopology/181">Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Formal groups and (φ,Γ)(\varphi,\Gamma)(φ,Γ)-modules]]></title>
         <id>https://researchseminars.org/seminar/NTBU</id>
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Daishi Kiyohara</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/53">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Daishi Kiyohara</td><td class="talktitle"><a title="Formal groups and $(\varphi,\Gamma)$-modules" knowl="talk/NTBU/53">Formal groups and <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo stretchy="false">(</mo><mi>φ</mi><mo separator="true">,</mo><mi mathvariant="normal">Γ</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(\varphi,\Gamma)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault">φ</span><span class="mpunct">,</span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord">Γ</span><span class="mclose">)</span></span></span></span></span>-modules</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scott Topology and DCPOs]]></title>
@@ -391,6 +349,13 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/UNSW-NTSeminar">UNSW Number Theory Seminar</a></td><td class="speaker">Hong Ziwei</td><td class="talktitle"><a title="The first moment of primitive cubic L-functions with fixed genus" knowl="talk/UNSW-NTSeminar/27">The first moment of primitive cubic L-functions with fixed genus</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Modularity in genus 222]]></title>
+        <id>https://researchseminars.org/seminar/UNSW-NTSeminar</id>
+        <link href="https://researchseminars.org/seminar/UNSW-NTSeminar"/>
+        <updated>2026-07-26T05:01:56.413Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/UNSW-NTSeminar">UNSW Number Theory Seminar</a></td><td class="speaker">Jeroen Sijsling</td><td class="talktitle"><a title="Modularity in genus $2$" knowl="talk/UNSW-NTSeminar/36">Modularity in genus <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model]]></title>
         <id>https://researchseminars.org/seminar/ICCUB_Seminars</id>
         <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
@@ -426,11 +391,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://www.jacopo-bassi.com">Jacopo Bassi</a></td><td class="talktitle"><a title="Boundary amenability of certain discrete group actions" knowl="talk/NYC-NCG/225">Boundary amenability of certain discrete group actions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Finite locally free group schemes]]></title>
         <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
         <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
         <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Akhil Mathew</td><td class="talktitle"><a title="TBA" knowl="talk/AI-for-the-working-mathematician/5">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Akhil Mathew</td><td class="talktitle"><a title="Finite locally free group schemes" knowl="talk/AI-for-the-working-mathematician/5">Finite locally free group schemes</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission]]></title>
@@ -515,13 +480,6 @@
         <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
         <updated>2026-07-26T05:01:56.455Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://maldi2.github.io/">Marco Aldi</a></td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-09-06T19:25:00.159Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 26</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Ivan Dorofeev</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/169">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Realisations of posets and Koszul complexes]]></title>
@@ -704,5 +662,47 @@
         <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
         <updated>2026-07-26T05:01:56.393Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Sahar Raeiszadeh</td><td class="talktitle"><a title="Rare earth element mineralization in the Gascoyne region of Western Australia" knowl="talk/RSES_HDR_seminar/44">Rare earth element mineralization in the Gascoyne region of Western Australia</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeing quadratic lattices through their substructures]]></title>
+        <id>https://researchseminars.org/seminar/Postech-PMI-NT</id>
+        <link href="https://researchseminars.org/seminar/Postech-PMI-NT"/>
+        <updated>2026-08-19T06:01:01.809Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Daejun Kim</td><td class="talktitle"><a title="Seeing quadratic lattices through their substructures" knowl="talk/Postech-PMI-NT/20">Seeing quadratic lattices through their substructures</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The positive mass theorem in arbitrary dimensions]]></title>
+        <id>https://researchseminars.org/seminar/jomarec</id>
+        <link href="https://researchseminars.org/seminar/jomarec"/>
+        <updated>2026-09-16T10:11:08.840Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">13:30</td><td class="seriesname"><a href="/seminar/jomarec">JoMaReC - Joint Online Mathematical Relativity Colloquium</a></td><td class="speaker">Harry Yipeng Wang</td><td class="talktitle"><a title="The positive mass theorem in arbitrary dimensions" knowl="talk/jomarec/53">The positive mass theorem in arbitrary dimensions</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
+        <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
+        <updated>2026-07-26T05:01:56.482Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Jianhao Shen</td><td class="talktitle"><a title="TBA" knowl="talk/mathseminarsnuig/169">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/gbgphd</id>
+        <link href="https://researchseminars.org/seminar/gbgphd"/>
+        <updated>2026-08-15T05:51:23.188Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Edvin Martinson</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/59">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NTWebSeminar</id>
+        <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
+        <updated>2026-07-26T05:01:56.464Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NTWebSeminar">Number Theory Web Seminar</a></td><td class="speaker"><a href="https://www.ms.uky.edu/~xsh228/">Fernando Xuancheng Shao</a></td><td class="talktitle"><a title="TBA" knowl="talk/NTWebSeminar/313">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formulation and Analysis of Spatially-Periodic Evolution Anisotropic Navier-Stokes Equations]]></title>
+        <id>https://researchseminars.org/seminar/SeminaronAnalysis</id>
+        <link href="https://researchseminars.org/seminar/SeminaronAnalysis"/>
+        <updated>2026-09-12T19:34:05.099Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/SeminaronAnalysis">Seminar on Analysis, Differential Equations and Mathematical Physics</a></td><td class="speaker">Sergey E. Mikhailov</td><td class="talktitle"><a title="Formulation and Analysis of Spatially-Periodic Evolution Anisotropic Navier-Stokes Equations" knowl="talk/SeminaronAnalysis/136">Formulation and Analysis of Spatially-Periodic Evolution Anisotropic Navier-Stokes Equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
