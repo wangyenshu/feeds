@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-4---40-t--</id>
     <title>MathPrograms.Org — Prizes and Awards</title>
-    <updated>2026-09-16T10:11:31.781Z</updated>
+    <updated>2026-09-16T20:21:34.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -82,7 +82,9 @@
         <id>https://www.mathprograms.org/db/programs/1861</id>
         <link href="https://www.mathprograms.org/db/programs/1861"/>
         <updated>2026-07-26T05:23:28.564Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1861" id="k1861" aria-labelledby="k1861 j1861">JPBM27</a>] <span id="j1861" aria-hidden="true">JPBM Communications Award</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1861"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/Prizes/1861/apply">Nominate</a></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1861" id="k1861" aria-labelledby="k1861 j1861">JPBM27</a>] <span id="j1861" aria-hidden="true">JPBM Communications Award</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
+2026/09/15 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
+2026/09/15 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/09/15 11:59PM">2026/09/16 03:59 AM UTC</span>, Prize or award)</span><span id="jn1861"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/Prizes/1861/apply">Nominate</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[George Lusztig Thesis Prize in Lie Theory]]></title>
@@ -155,41 +157,6 @@
         <content type="html"><![CDATA[[<a href="/db/programs/1886" id="k1886" aria-labelledby="k1886 j1886">WHITEMAN27</a>] <span id="j1886" aria-hidden="true">Albert Leon Whiteman Memorial Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
 2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
 2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1886"></span> <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWM Dissertation Prize]]></title>
-        <id>https://www.mathprograms.org/db/programs/1944</id>
-        <link href="https://www.mathprograms.org/db/programs/1944"/>
-        <updated>2026-08-02T07:45:12.327Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1944" id="k1944" aria-labelledby="k1944 j1944">2027DISSERTATION</a>] <span id="j1944" aria-hidden="true">AWM Dissertation Prize</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1944"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1944/apply">Nominate</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2027 AWM-MAA FALCONER LECTURE]]></title>
-        <id>https://www.mathprograms.org/db/programs/1915</id>
-        <link href="https://www.mathprograms.org/db/programs/1915"/>
-        <updated>2026-08-02T07:45:12.328Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1915" id="k1915" aria-labelledby="k1915 j1915">2027FALCONER</a>] <span id="j1915" aria-hidden="true">2027 AWM-MAA FALCONER LECTURE</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1915"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1915/apply">Nominate</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2027 AWM-SIAM Sonia Kovalevsky Lecture]]></title>
-        <id>https://www.mathprograms.org/db/programs/1922</id>
-        <link href="https://www.mathprograms.org/db/programs/1922"/>
-        <updated>2026-08-02T07:45:12.329Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1922" id="k1922" aria-labelledby="k1922 j1922">2027KOVALEVSKY</a>] <span id="j1922" aria-hidden="true">2027 AWM-SIAM Sonia Kovalevsky Lecture</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1922"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1922/apply">Nominate</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWM ALICE T. SCHAFER MATHEMATICS PRIZE]]></title>
-        <id>https://www.mathprograms.org/db/programs/1939</id>
-        <link href="https://www.mathprograms.org/db/programs/1939"/>
-        <updated>2026-08-02T07:45:12.333Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1939" id="k1939" aria-labelledby="k1939 j1939">2027SCHAFER</a>] <span id="j1939" aria-hidden="true">AWM ALICE T. SCHAFER MATHEMATICS PRIZE</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1939"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1939/apply">Nominate</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2028 AWM-AMS NOETHER LECTURE]]></title>
-        <id>https://www.mathprograms.org/db/programs/1945</id>
-        <link href="https://www.mathprograms.org/db/programs/1945"/>
-        <updated>2026-08-02T07:45:12.334Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1945" id="k1945" aria-labelledby="k1945 j1945">2028NOETHER</a>] <span id="j1945" aria-hidden="true">2028 AWM-AMS NOETHER LECTURE</span>&nbsp;<span class="purplesml">(Prize or award)</span><span id="jn1945"></span> <span class="sml">&nbsp; <a href="https://www.mathprograms.org/db/AWM/1945/apply">Nominate</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Salem Prize 2026]]></title>
