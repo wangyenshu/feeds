@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-09-16T20:21:34.675Z</updated>
+    <updated>2026-09-18T09:59:33.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -214,43 +214,6 @@
 			<div class="event-info">ICERM - September 9, 2026 to December 11, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
-        <id>https://mathinstitutes.org/events/1401/view/</id>
-        <link href="https://mathinstitutes.org/events/1401/view/"/>
-        <updated>2026-08-21T05:57:37.747Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
-			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
-        <id>https://mathinstitutes.org/events/1401/view/</id>
-        <link href="https://mathinstitutes.org/events/1401/view/"/>
-        <updated>2026-08-21T05:57:37.747Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
-			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arithmetic, Geometry and Computations on K3 surfaces]]></title>
-        <id>https://mathinstitutes.org/events/1401/view/</id>
-        <link href="https://mathinstitutes.org/events/1401/view/"/>
-        <updated>2026-08-21T05:57:37.747Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1401/view/" target="_blank" rel="noopener">Arithmetic, Geometry and Computations on K3 surfaces</a></h5>
-			<div class="event-info">ICERM - September 14, 2026 to September 18, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Special Year on Conformally Symplectic Dynamics and Geometry]]></title>
         <id>https://mathinstitutes.org/events/1274/view/</id>
         <link href="https://mathinstitutes.org/events/1274/view/"/>
@@ -397,5 +360,42 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1384/view/" target="_blank" rel="noopener">Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics</a></h5>
 			<div class="event-info">ICERM - September 28, 2026 to October 2, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
+        <id>https://mathinstitutes.org/events/1488/view/</id>
+        <link href="https://mathinstitutes.org/events/1488/view/"/>
+        <updated>2026-09-18T09:58:32.195Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
+			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
+        <id>https://mathinstitutes.org/events/1488/view/</id>
+        <link href="https://mathinstitutes.org/events/1488/view/"/>
+        <updated>2026-09-18T09:58:32.196Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
+			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
+        <id>https://mathinstitutes.org/events/1488/view/</id>
+        <link href="https://mathinstitutes.org/events/1488/view/"/>
+        <updated>2026-09-18T09:58:32.197Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
+			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>]]></content>
     </entry>
 </feed>

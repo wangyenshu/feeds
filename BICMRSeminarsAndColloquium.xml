@@ -2,58 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-16T20:21:34.693Z</updated>
+    <updated>2026-09-18T09:59:33.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Gårding Polynomials and Applications in PDEs and Combinatorics]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-4009.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-4009.html"/>
-        <updated>2026-09-10T19:56:53.804Z</updated>
+        <title type="html"><![CDATA[Knowledge-Enhanced Causal Discovery Methods]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-4014.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-4014.html"/>
+        <updated>2026-09-18T09:58:48.879Z</updated>
         <content type="html"><![CDATA[<dt>
                         <span>2026</span>
-                        <p>Sep 16</p>
+                        <p>Sep 18</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
-                            <a href="/content/show/43-4009.html" title="Gårding Polynomials and Applications in PDEs and Combinatorics" target="_blank">Gårding Polynomials and Applications in PDEs and Combinatorics</a>
+                            <a href="/content/show/47-4014.html" title="Knowledge-Enhanced Causal Discovery Methods" target="_blank">Knowledge-Enhanced Causal Discovery Methods</a>
                         </p>
-                        <p class="speaker">Speaker(s): Biao Ma (East China Normal Uni...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minimal Nilpotent Orbits and Cluster Toric Varieties]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/34-4013.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/34-4013.html"/>
-        <updated>2026-09-16T10:10:45.695Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 16</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/34.html" title="Algebra" target="_blank">Algebra</a> </p>
-                        <p class="black">
-                            <a href="/content/show/34-4013.html" title="Minimal Nilpotent Orbits and Cluster Toric Varieties" target="_blank">Minimal Nilpotent Orbits and Cluster Toric Varieties</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Boming Jia (Tsinghua Universit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Existential NIP formulas in valued fields of positive characteristic]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-4011.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-4011.html"/>
-        <updated>2026-09-15T20:22:15.324Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 17</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/93-4011.html" title="Existential NIP formulas in valued fields of positive characteristic" target="_blank">Existential NIP formulas in valued fields of positive characteristic</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Paulo  Moreno (Université Pari...</p>
+                        <p class="speaker">Speaker(s): Danlei Gu (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -74,6 +40,23 @@
                     </dd>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Holomorphic Sectional Curvature and Volume]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-4016.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-4016.html"/>
+        <updated>2026-09-18T09:58:48.880Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 23</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-4016.html" title="Holomorphic Sectional Curvature and Volume" target="_blank">Holomorphic Sectional Curvature and Volume</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Harish Seshadri (Indian Instit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-4012.html</id>
         <link href="https://bicmr.pku.edu.cn/content/show/35-4012.html"/>
@@ -88,6 +71,23 @@
                             <a href="/content/show/35-4012.html" title="From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds" target="_blank">From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds</a>
                         </p>
                         <p class="speaker">Speaker(s): Song-Yan Xie (CAS)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ill-posedness for Compressible Elastic Waves and Ideal MHD Systems]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/46-4015.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/46-4015.html"/>
+        <updated>2026-09-18T09:58:48.883Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Sep 28</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/46-4015.html" title="Ill-posedness for Compressible Elastic Waves and Ideal MHD Systems" target="_blank">Ill-posedness for Compressible Elastic Waves and Ideal MHD Systems</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Silu Yin (Hangzhou Normal Univ...</p>
                     </dd>]]></content>
     </entry>
     <entry>
