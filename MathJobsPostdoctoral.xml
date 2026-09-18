@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-09-18T09:59:33.241Z</updated>
+    <updated>2026-09-18T19:53:02.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://www.mathjobs.org/jobs/list/28870"/>
         <updated>2026-09-09T19:58:01.140Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28870" id="k28870" aria-labelledby="k28870 j28870">PDF_CRMISM_2027</a>] <span id="j28870" aria-hidden="true">Mathematics, CRM-ISM Postdoctoral Fellowships 2027</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28870"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/CRM/28870/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Fellowship]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28954</id>
+        <link href="https://www.mathjobs.org/jobs/list/28954"/>
+        <updated>2026-09-18T19:52:59.241Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28954" id="k28954" aria-labelledby="k28954 j28954">POSTDOC2027</a>] <span id="j28954" aria-hidden="true">Postdoctoral Fellowship</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28954"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/CRM/28954/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Positions at Hua Loo-Keng Center for Mathematical Sciences]]></title>
@@ -289,12 +296,5 @@
         <link href="https://www.mathjobs.org/jobs/list/28805"/>
         <updated>2026-09-01T10:21:59.935Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28805" id="k28805" aria-labelledby="k28805 j28805">RF</a>] <span id="j28805" aria-hidden="true">Research fellow (m/f/d) in the field of algebraic geometry</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28805"></span>  <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapman Fellowships in Mathematics (Applied Mathematics Section)]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28910</id>
-        <link href="https://www.mathjobs.org/jobs/list/28910"/>
-        <updated>2026-09-16T20:21:31.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/28910" id="k28910" aria-labelledby="k28910 j28910">CF</a>] <span id="j28910" aria-hidden="true">Chapman Fellowships in Mathematics (Applied Mathematics Section)</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28910"></span>  <span class="sml">&nbsp; <a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingId=18178&amp;nPostingTargetId=29181&amp;id=PMMFK026203F3VBQB8NLOV4CQ&amp;LG=UK&amp;languageSelect=UK&amp;mask=ext">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
 </feed>

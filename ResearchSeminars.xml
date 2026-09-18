@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-18T09:59:33.244Z</updated>
+    <updated>2026-09-18T19:53:02.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Geometry-Aware Neural Networks for Geometric Analysis]]></title>
-        <id>https://researchseminars.org/seminar/GEOTOP-A</id>
-        <link href="https://researchseminars.org/seminar/GEOTOP-A"/>
-        <updated>2026-07-26T05:01:56.441Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/GEOTOP-A">GEOTOP-A seminar</a></td><td class="speaker">Tancredi Schettini Gherardini</td><td class="talktitle"><a title="Geometry-Aware Neural Networks for Geometric Analysis" knowl="talk/GEOTOP-A/133">Geometry-Aware Neural Networks for Geometric Analysis</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computational minimal surfaces and the algorithms that find them]]></title>
-        <id>https://researchseminars.org/seminar/AmSurAmSulGeometry</id>
-        <link href="https://researchseminars.org/seminar/AmSurAmSulGeometry"/>
-        <updated>2026-07-30T18:55:55.010Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 18</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/AmSurAmSulGeometry">Geometry Webinar AmSur /AmSul</a></td><td class="speaker">Marco Guaraco</td><td class="talktitle"><a title="Computational minimal surfaces and the algorithms that find them" knowl="talk/AmSurAmSulGeometry/115">Computational minimal surfaces and the algorithms that find them</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
@@ -107,14 +93,14 @@
         <title type="html"><![CDATA[Experimental petrology and geochemistry candidate seminar 5]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-18T09:59:11.665Z</updated>
+        <updated>2026-09-18T09:59:11.656Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">23:15</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Michael Anenburg (RSES)</td><td class="talktitle"><a title="Experimental petrology and geochemistry candidate seminar 5" knowl="talk/RSES_school_seminar/326">Experimental petrology and geochemistry candidate seminar 5</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Experimental petrology and geochemistry candidate seminar 6]]></title>
         <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
         <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-18T09:59:11.665Z</updated>
+        <updated>2026-09-18T09:59:11.656Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">00:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Sarah Lambart (University of Utah)</td><td class="talktitle"><a title="Experimental petrology and geochemistry candidate seminar 6" knowl="talk/RSES_school_seminar/327">Experimental petrology and geochemistry candidate seminar 6</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -265,6 +251,13 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker">Oleg Morozov</td><td class="talktitle"><a title="A Lax representation, symmetries, and conservation laws for the three-dimensional Euler-Helmholtz equations" knowl="talk/GDEq/159">A Lax representation, symmetries, and conservation laws for the three-dimensional Euler-Helmholtz equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Categorical structures for Gödel incompleteness and Löb’s theorem]]></title>
+        <id>https://researchseminars.org/seminar/Category_Theory</id>
+        <link href="https://researchseminars.org/seminar/Category_Theory"/>
+        <updated>2026-09-18T19:52:39.193Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/Category_Theory">New York City Category Theory Seminar</a></td><td class="speaker">Sridhar Ramesh</td><td class="talktitle"><a title="Categorical structures for Gödel incompleteness and Löb’s theorem" knowl="talk/Category_Theory/113">Categorical structures for Gödel incompleteness and Löb’s theorem</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A motivic secondary term for counting S3S_3S3​-cubic extensions]]></title>
         <id>https://researchseminars.org/seminar/HarvardNT</id>
         <link href="https://researchseminars.org/seminar/HarvardNT"/>
@@ -408,7 +401,7 @@
         <title type="html"><![CDATA[Many-generator free self-distributive algebras of embeddings]]></title>
         <id>https://researchseminars.org/seminar/UEAPS</id>
         <link href="https://researchseminars.org/seminar/UEAPS"/>
-        <updated>2026-09-18T09:59:11.711Z</updated>
+        <updated>2026-09-18T09:59:11.669Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/UEAPS">ANTLR seminar</a></td><td class="speaker">Andrew Brooke-Taylor</td><td class="talktitle"><a title="Many-generator free self-distributive algebras of embeddings" knowl="talk/UEAPS/80">Many-generator free self-distributive algebras of embeddings</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -461,6 +454,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Entropy, determinants and zeta values]]></title>
+        <id>https://researchseminars.org/seminar/Geolis</id>
+        <link href="https://researchseminars.org/seminar/Geolis"/>
+        <updated>2026-09-18T19:52:39.233Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker"><a href="https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=62">Christopher Deninger</a></td><td class="talktitle"><a title="Entropy, determinants and zeta values" knowl="talk/Geolis/184">Entropy, determinants and zeta values</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clusters in a Flow of Coalescing Walsh Brownian Motions on a Star Graph]]></title>
         <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
         <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
@@ -494,6 +494,13 @@
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/harvard-mit-ag-seminar</id>
+        <link href="https://researchseminars.org/seminar/harvard-mit-ag-seminar"/>
+        <updated>2026-08-03T19:06:37.638Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/harvard-mit-ag-seminar">Harvard MIT Algebraic Geometry Seminar</a></td><td class="speaker">Ben Church</td><td class="talktitle"><a title="TBA" knowl="talk/harvard-mit-ag-seminar/138">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>

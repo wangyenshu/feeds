@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-18T09:59:33.240Z</updated>
+    <updated>2026-09-18T19:53:02.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -452,22 +452,6 @@
 							</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Korea-France Joint Workshop on String Theory]]></title>
-        <id>https://indico.math.cnrs.fr/event/16694/</id>
-        <link href="https://indico.math.cnrs.fr/event/16694/"/>
-        <updated>2026-09-11T19:55:53.910Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								from Tuesday 15 to Friday 18 September 2026							</td>
-							<td class="Agenda-sujet">
-								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/16694/" target="_blank">Korea-France Joint Workshop on String Theory</a></h3>
-
-								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
-								
-								<div class="full">
-																	</div> -->
-							</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[French-Japanese Conference on Arithmetic Geometry in Honor of Takeshi Saito and Takeshi Tsuji]]></title>
         <id>https://indico.math.cnrs.fr/event/15993/</id>
         <link href="https://indico.math.cnrs.fr/event/15993/"/>
@@ -481,6 +465,23 @@
 								
 								<div class="full">
 																	</div> -->
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korea-France Joint Workshop on String Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/16694/</id>
+        <link href="https://indico.math.cnrs.fr/event/16694/"/>
+        <updated>2026-09-11T19:55:53.910Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+
+								from Tuesday 15 to Friday 18 September 2026							</td>
+							<td class="Agenda-sujet">
+								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/16694/" target="_blank">Korea-France Joint Workshop on String Theory</a></h3>
+
+								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
+																<div class="full">
+																	</div> -->
+
 							</td>]]></content>
     </entry>
     <entry>
@@ -629,23 +630,6 @@
 								from Wednesday 19 to Friday 21 November 2025							</td>
 							<td class="Agenda-sujet">
 								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/15307/" target="_blank">Combinatorics and Arithmetic for Physics</a></h3>
-
-								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
-																<div class="full">
-																	</div> -->
-
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Structures and Techniques in p-adic Geometry]]></title>
-        <id>https://indico.math.cnrs.fr/event/14073/</id>
-        <link href="https://indico.math.cnrs.fr/event/14073/"/>
-        <updated>2026-09-11T19:55:53.933Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-
-								from Monday 27 to Friday 31 October 2025							</td>
-							<td class="Agenda-sujet">
-								<h3 class="Title Title--h3"><a href="https://indico.math.cnrs.fr/event/14073/" target="_blank">New Structures and Techniques in p-adic Geometry</a></h3>
 
 								<!-- 									<a href="javascript:void(0);" class="toggle-full" data-status="hidden"><span class="plus">Voir plus &gt;</span><span class="moins">Voir moins &gt;</span></a>
 																<div class="full">

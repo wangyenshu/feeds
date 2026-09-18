@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-09-18T09:59:33.207Z</updated>
+    <updated>2026-09-18T19:53:02.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
         <id>https://mathinstitutes.org/events/1488/view/</id>
         <link href="https://mathinstitutes.org/events/1488/view/"/>
-        <updated>2026-09-18T09:58:32.196Z</updated>
+        <updated>2026-09-18T09:58:32.195Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
         <id>https://mathinstitutes.org/events/1488/view/</id>
         <link href="https://mathinstitutes.org/events/1488/view/"/>
-        <updated>2026-09-18T09:58:32.197Z</updated>
+        <updated>2026-09-18T09:58:32.195Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
 			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>]]></content>
