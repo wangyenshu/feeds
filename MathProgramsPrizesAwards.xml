@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-4---40-t--</id>
     <title>MathPrograms.Org — Prizes and Awards</title>
-    <updated>2026-09-18T19:53:02.639Z</updated>
+    <updated>2026-09-19T09:41:33.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -10,18 +10,14 @@
         <id>https://www.mathprograms.org/db/programs/1890</id>
         <link href="https://www.mathprograms.org/db/programs/1890"/>
         <updated>2026-07-26T05:23:28.551Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1890" id="k1890" aria-labelledby="k1890 j1890">BABUSKA27</a>] <span id="j1890" aria-hidden="true">The Ivo and Renata Babuška Thesis Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/06/30 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/06/30 11:59PM">2026/07/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1890"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1890" id="k1890" aria-labelledby="k1890 j1890">BABUSKA27</a>] <span id="j1890" aria-hidden="true">The Ivo and Renata Babuška Thesis Prize</span>&nbsp;<span class="purplesml">(deadline 2026/06/30 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1890"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bertrand Russell Prize]]></title>
         <id>https://www.mathprograms.org/db/programs/1885</id>
         <link href="https://www.mathprograms.org/db/programs/1885"/>
         <updated>2026-07-26T05:23:28.552Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1885" id="k1885" aria-labelledby="k1885 j1885">BERTRAND27</a>] <span id="j1885" aria-hidden="true">Bertrand Russell Prize</span>&nbsp;<span class="purplesml">(deadline <span class="ldt-converted" title="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" aria-label="Time in your local timezone UTC.
-2026/05/31 11:59PM In US Eastern Timezone" data-source-tz="America/New_York" data-raw="2026/05/31 11:59PM">2026/06/01 03:59 AM UTC</span><span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1885"></span> <span class="sml"></span>]]></content>
+        <content type="html"><![CDATA[[<a href="/db/programs/1885" id="k1885" aria-labelledby="k1885 j1885">BERTRAND27</a>] <span id="j1885" aria-hidden="true">Bertrand Russell Prize</span>&nbsp;<span class="purplesml">(deadline 2026/05/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1885"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cole Prize in Algebra]]></title>

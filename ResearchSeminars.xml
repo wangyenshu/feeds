@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-18T19:53:02.759Z</updated>
+    <updated>2026-09-19T09:41:33.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Counting Colourings with Trees: a spanning tree model for chromatic homology]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
         <updated>2026-09-06T19:25:00.159Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 19</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Aninda Banerjee</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/168">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 19</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Aninda Banerjee</td><td class="talktitle"><a title="Counting Colourings with Trees: a spanning tree model for chromatic homology" knowl="talk/knotgraphgroup/168">Counting Colourings with Trees: a spanning tree model for chromatic homology</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Experimental petrology and geochemistry candidate seminar 1]]></title>
@@ -685,11 +685,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://pbrunialti.github.io/">Pedro Brunialti Lima de Andrade</a></td><td class="talktitle"><a title="Involutions on (∞, n)-categories of bordisms and reflection TQFTs" knowl="talk/vcugeomandtop/163">Involutions on (∞, n)-categories of bordisms and reflection TQFTs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(Special time - DLS)]]></title>
+        <title type="html"><![CDATA[Smyth's conjecture and a non-deterministic Hasse principle (Special time and room)]]></title>
         <id>https://researchseminars.org/seminar/UtahRTNT</id>
         <link href="https://researchseminars.org/seminar/UtahRTNT"/>
         <updated>2026-09-08T09:57:19.947Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jordan Ellenberg</td><td class="talktitle"><a title="(Special time - DLS)" knowl="talk/UtahRTNT/23">(Special time - DLS)</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Jordan Ellenberg</td><td class="talktitle"><a title="Smyth's conjecture and a non-deterministic Hasse principle (Special time and room)" knowl="talk/UtahRTNT/23">Smyth's conjecture and a non-deterministic Hasse principle (Special time and room)</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
