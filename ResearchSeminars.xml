@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-20T10:00:50.668Z</updated>
+    <updated>2026-09-20T19:39:39.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -300,11 +300,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/mathseminarsnuig">Maths seminars at the  University of Galway</a></td><td class="speaker">Peter Mulligan</td><td class="talktitle"><a title="The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics" knowl="talk/mathseminarsnuig/171">The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[An Overview of Agentic Research: I Made an AI Write a Paper—Here’s How It Went!]]></title>
         <id>https://researchseminars.org/seminar/gbgphd</id>
         <link href="https://researchseminars.org/seminar/gbgphd"/>
         <updated>2026-08-15T05:51:23.188Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Mathis Rost</td><td class="talktitle"><a title="TBA" knowl="talk/gbgphd/64">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker">Mathis Rost</td><td class="talktitle"><a title="An Overview of Agentic Research: I Made an AI Write a Paper—Here’s How It Went!" knowl="talk/gbgphd/64">An Overview of Agentic Research: I Made an AI Write a Paper—Here’s How It Went!</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Algebraic exceptional sets on surfaces of log general type]]></title>
@@ -482,11 +482,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Special Edition</td><td class="talktitle"><a title="TBA" knowl="talk/IsogenyClub/49">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[On dissociated sets, and a lattice counterexample to a conjecture of Erdos]]></title>
         <id>https://researchseminars.org/seminar/vantage</id>
         <link href="https://researchseminars.org/seminar/vantage"/>
         <updated>2026-09-10T19:57:16.580Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="TBA" knowl="talk/vantage/129">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="On dissociated sets, and a lattice counterexample to a conjecture of Erdos" knowl="talk/vantage/129">On dissociated sets, and a lattice counterexample to a conjecture of Erdos</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
