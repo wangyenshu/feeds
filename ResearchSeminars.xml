@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-19T19:29:27.616Z</updated>
+    <updated>2026-09-20T10:00:50.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/UNSW-NTSeminar">UNSW Number Theory Seminar</a></td><td class="speaker">Jeroen Sijsling</td><td class="talktitle"><a title="Modularity in genus $2$" knowl="talk/UNSW-NTSeminar/36">Modularity in genus <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2-character theory of finite 2-groups]]></title>
+        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
+        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
+        <updated>2026-09-20T09:59:08.151Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Zhi-Hao Zhang</td><td class="talktitle"><a title="2-character theory of finite 2-groups" knowl="talk/Mos-Bei-top-seminar/161">2-character theory of finite 2-groups</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model]]></title>
         <id>https://researchseminars.org/seminar/ICCUB_Seminars</id>
         <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
@@ -277,6 +284,13 @@
         <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
         <updated>2026-07-26T05:01:56.393Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Lachlan Dodd</td><td class="talktitle"><a title="Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission" knowl="talk/RSES_HDR_seminar/41">Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral representation of the associated zeta-function and its applications]]></title>
+        <id>https://researchseminars.org/seminar/mmandim</id>
+        <link href="https://researchseminars.org/seminar/mmandim"/>
+        <updated>2026-09-20T09:59:08.168Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/mmandim">Mathematical models and integration methods</a></td><td class="speaker">V. I. Kuzovatov</td><td class="talktitle"><a title="Integral representation of the associated zeta-function and its applications" knowl="talk/mmandim/115">Integral representation of the associated zeta-function and its applications</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Impact of the Cost of Living, Commuting and Working on University Students’ Engagement and Performance in Mathematics]]></title>
@@ -690,19 +704,5 @@
         <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
         <updated>2026-09-18T09:59:11.760Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Siddharth Mulherkar</td><td class="talktitle"><a title="TBA" knowl="talk/UCLAAnalysisSeminar/262">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-09-06T19:25:00.159Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Ivan Dorofeev</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/169">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (1/3)]]></title>
-        <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
-        <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
-        <updated>2026-09-18T09:59:11.761Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/Geometric_Structures_SISSA">Geometric Structures Research Seminar</a></td><td class="speaker"><a href="https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html">Shouhei Honda</a></td><td class="talktitle"><a title="RCD geometry; recent developments, applications and open problems (1/3)" knowl="talk/Geometric_Structures_SISSA/117">RCD geometry; recent developments, applications and open problems (1/3)</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

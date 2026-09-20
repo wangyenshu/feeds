@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Seminars</title>
-    <updated>2026-09-19T19:29:27.604Z</updated>
+    <updated>2026-09-20T10:00:50.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ADS seminar]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3050.htm"/>
+        <updated>2026-09-20T09:58:54.688Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Sep 24</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1053/3050.htm" class="right text">
+        <div class="t-1">ADS seminar</div>
+        <div class="t-2">Title: Classifying Rank-2 Isotrivial 4d N=2 SCFTs through Orbifold Special Kähler GeometrySpeaker: Mitch Weaver (KAIST)Venue: Classroom B627, Shuangqing Complex Building ATime: 13:30-14:30, Sept. 24 (Thursday)Abstract:Within the realm of (interacting) 4d conformal ﬁeld theories, those with N =2 supersymmetry oﬀer an exciting theoretical arena within which there exists a rich interplay between...</div>
+        <div class="t-3">Speaker：Mitch Weaver (KAIST)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIMSA-YMSC Number Theory Lunch Seminar]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1053/2401.htm</id>
@@ -66,22 +82,6 @@
         <div class="t-1">Complex Analysis Seminar</div>
         <div class="t-2">The Complex Analysis Seminar is centered on complex analysis and its interactions with other areas of mathematics. Its principal interests include analysis on metric measure spaces, geometric function theory and complex dynamics. Geometric connections encompass Riemann surfaces, Kleinian groups, hyperbolic geometry, Teichmüller theory, and geometric group theory. At the interface with probabili...</div>
         <div class="t-3">Speaker：Wenbo Li</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Seminar]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1053/3262.htm"/>
-        <updated>2026-09-10T09:58:01.794Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Sep 18</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1053/3262.htm" class="right text">
-        <div class="t-1">Statistical Seminar</div>
-        <div class="t-2">Upcoming talks:  组织者：吴宇楠时间：2026年 9 月 18 日 16:00~17:00地点：双清综合楼C548报告人：张俊妮 副教授，北京大学光华管理学院报告题目：Estimating COVID-19 Excess Deaths During the Pandemic and After: A New Bayesian Model, With an Application to New Zealand摘要：Assessing the full impact of COVID-19 on mortality, including post-pandemic mortality, requires estimates of COVID-19 excess deaths...</div>
-        <div class="t-3">Speaker：张俊妮 副教授，北京大学光华管理学院</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
     </entry>
