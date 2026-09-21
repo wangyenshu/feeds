@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-21T10:58:49.874Z</updated>
+    <updated>2026-09-21T21:12:02.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Are neural networks a manifold? A work-in-progress answer for shallow tanh networks]]></title>
-        <id>https://researchseminars.org/seminar/AnJunSem</id>
-        <link href="https://researchseminars.org/seminar/AnJunSem"/>
-        <updated>2026-09-16T20:21:08.910Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/AnJunSem">Analysis Junior Seminars</a></td><td class="speaker">Ivan Bioli</td><td class="talktitle"><a title="Are neural networks a manifold? A work-in-progress answer for shallow tanh networks" knowl="talk/AnJunSem/29">Are neural networks a manifold? A work-in-progress answer for shallow tanh networks</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSI via OMT and curvature]]></title>
-        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
-        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
-        <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.math.unibe.ch/ueber_uns/personen/prof_dr_balogh_zoltn/index_ger.html">Zoltán Balogh</a></td><td class="talktitle"><a title="LSI via OMT and curvature" knowl="talk/GeomInequAndPDEs/206">LSI via OMT and curvature</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph complexes via Brauer categories and Koszul complexes]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://math.univ-angers.fr/~powell/">Geoffrey Powell</a></td><td class="talktitle"><a title="Graph complexes via Brauer categories and Koszul complexes" knowl="talk/ENAAS/176">Graph complexes via Brauer categories and Koszul complexes</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Ольга Витальевна Починка</td><td class="talktitle"><a title="Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова" knowl="talk/Knotsandtopology/181">Бесконечное множество граф многообразий, допускающих любое заданное число потоков Аносова</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formal groups and (φ,Γ)(\varphi,\Gamma)(φ,Γ)-modules]]></title>
-        <id>https://researchseminars.org/seminar/NTBU</id>
-        <link href="https://researchseminars.org/seminar/NTBU"/>
-        <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/dkiyohara/home">Daishi Kiyohara</a></td><td class="talktitle"><a title="Formal groups and $(\varphi,\Gamma)$-modules" knowl="talk/NTBU/53">Formal groups and <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo stretchy="false">(</mo><mi>φ</mi><mo separator="true">,</mo><mi mathvariant="normal">Γ</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(\varphi,\Gamma)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault">φ</span><span class="mpunct">,</span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord">Γ</span><span class="mclose">)</span></span></span></span></span>-modules</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Topology and DCPOs]]></title>
         <id>https://researchseminars.org/seminar/UFV-math-stats</id>
@@ -193,6 +158,13 @@
         <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
         <updated>2026-09-02T09:49:48.792Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Adil Imam</td><td class="talktitle"><a title="Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model" knowl="talk/ICCUB_Seminars/98">Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimal graph transformations and their classification]]></title>
+        <id>https://researchseminars.org/seminar/GPL</id>
+        <link href="https://researchseminars.org/seminar/GPL"/>
+        <updated>2026-09-21T21:11:37.080Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/GPL">Geometry and Physics @ Lisbon</a></td><td class="speaker">Sam K. Mathew</td><td class="talktitle"><a title="Minimal graph transformations and their classification" knowl="talk/GPL/53">Minimal graph transformations and their classification</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Correspondence between Coding Problems and Logic via Confusion Hypergraphs.]]></title>
@@ -419,11 +391,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Anna Frid</td><td class="talktitle"><a title="Palindromic length in free groups and Catalan expressions" knowl="talk/CombinatoricsOnWords/148">Palindromic length in free groups and Catalan expressions</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Heat kernel estimates for Dirichlet forms degenerate at the boundary]]></title>
         <id>https://researchseminars.org/seminar/NonLocalOperators</id>
         <link href="https://researchseminars.org/seminar/NonLocalOperators"/>
         <updated>2026-07-26T05:01:56.495Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="TBA" knowl="talk/NonLocalOperators/135">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NonLocalOperators">Non-local operators, probability and singularities</a></td><td class="speaker">Panki Kim</td><td class="talktitle"><a title="Heat kernel estimates for Dirichlet forms degenerate at the boundary" knowl="talk/NonLocalOperators/135">Heat kernel estimates for Dirichlet forms degenerate at the boundary</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Entropy, determinants and zeta values]]></title>
@@ -454,18 +426,18 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vantage">VaNTAGe</a></td><td class="speaker"><a href="http://thomasbloom.org/">Thomas Bloom</a></td><td class="talktitle"><a title="On dissociated sets, and a lattice counterexample to a conjecture of Erdos" knowl="talk/vantage/129">On dissociated sets, and a lattice counterexample to a conjecture of Erdos</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[The arithmetic of Boyd’s Mahler measure conjectures: from data analysis to machine learning]]></title>
         <id>https://researchseminars.org/seminar/AI-CoNT</id>
         <link href="https://researchseminars.org/seminar/AI-CoNT"/>
         <updated>2026-09-08T09:57:19.935Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker"><a href="https://dms.umontreal.ca/~mlalin/">Matilde Lalín</a></td><td class="talktitle"><a title="TBA" knowl="talk/AI-CoNT/2">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/AI-CoNT">AI, Combinatorics and Number Theory Seminar</a></td><td class="speaker"><a href="https://dms.umontreal.ca/~mlalin/">Matilde Lalín</a></td><td class="talktitle"><a title="The arithmetic of Boyd’s Mahler measure conjectures: from data analysis to machine learning" knowl="talk/AI-CoNT/2">The arithmetic of Boyd’s Mahler measure conjectures: from data analysis to machine learning</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Algorithmic Methods for Generating Primes for Cryptographic Systems]]></title>
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/78">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://wmi.amu.edu.pl/en/faculty/staff/maciej-grzeskowiak">Maciej Grześkowiak</a></td><td class="talktitle"><a title="Algorithmic Methods for Generating Primes for Cryptographic Systems" knowl="talk/gc-arithmetic-geometry/78">Algorithmic Methods for Generating Primes for Cryptographic Systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -597,7 +569,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/Quasiworld</id>
         <link href="https://researchseminars.org/seminar/Quasiworld"/>
-        <updated>2026-09-21T10:58:28.242Z</updated>
+        <updated>2026-09-21T10:58:28.240Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Quasiworld">Quasiworld Seminar</a></td><td class="speaker">André Guerra</td><td class="talktitle"><a title="TBA" knowl="talk/Quasiworld/129">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -704,5 +676,33 @@
         <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
         <updated>2026-09-08T20:06:05.943Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/site/homepageofmikhailgorsky/">Mikhail Gorsky</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/235">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NSCM</id>
+        <link href="https://researchseminars.org/seminar/NSCM"/>
+        <updated>2026-09-21T21:11:37.181Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">13:40</td><td class="seriesname"><a href="/seminar/NSCM">Nečas Seminar on Continuum Mechanics</a></td><td class="speaker">we do not meet</td><td class="talktitle"><a title="TBA" knowl="talk/NSCM/226">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.ntnu.edu/employees/kristian.seip">Kristian Seip</a></td><td class="talktitle"><a title="TBA" knowl="talk/GeomInequAndPDEs/205">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Skew Braces: a construction in the right nilpotent setting]]></title>
+        <id>https://researchseminars.org/seminar/ENAAS</id>
+        <link href="https://researchseminars.org/seminar/ENAAS"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://properzi.github.io/">Silvia Properzi</a></td><td class="talktitle"><a title="Free Skew Braces: a construction in the right nilpotent setting" knowl="talk/ENAAS/188">Free Skew Braces: a construction in the right nilpotent setting</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monodromy results in characteristic ppp]]></title>
+        <id>https://researchseminars.org/seminar/NTBU</id>
+        <link href="https://researchseminars.org/seminar/NTBU"/>
+        <updated>2026-08-05T19:01:40.170Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/tbhatnagar/home?authuser=0">Tejasi Bhatnagar</a></td><td class="talktitle"><a title="Monodromy results in characteristic $p$" knowl="talk/NTBU/55">Monodromy results in characteristic <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
