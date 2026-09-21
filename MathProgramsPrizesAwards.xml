@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathprograms.org/db?joblst-0-4---40-t--</id>
     <title>MathPrograms.Org — Prizes and Awards</title>
-    <updated>2026-09-20T19:39:39.639Z</updated>
+    <updated>2026-09-21T10:58:49.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathprograms.org/favicon.ico</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://www.mathprograms.org/db/programs/1929"/>
         <updated>2026-07-26T05:23:28.565Z</updated>
         <content type="html"><![CDATA[[<a href="/db/programs/1929" id="k1929" aria-labelledby="k1929 j1929">LIE27</a>] <span id="j1929" aria-hidden="true">George Lusztig Thesis Prize in Lie Theory</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1929"></span> <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milestone Prize for Foundational Work in Formal Verification]]></title>
-        <id>https://www.mathprograms.org/db/programs/1916</id>
-        <link href="https://www.mathprograms.org/db/programs/1916"/>
-        <updated>2026-07-26T05:23:28.566Z</updated>
-        <content type="html"><![CDATA[[<a href="/db/programs/1916" id="k1916" aria-labelledby="k1916 j1916">MILESTONE27</a>] <span id="j1916" aria-hidden="true">Milestone Prize for Foundational Work in Formal Verification</span>&nbsp;<span class="purplesml">(deadline 2026/07/31 11:59PM<span title="* = deadline enforced.">*</span>, Prize or award)</span><span id="jn1916"></span> <span class="sml"></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics]]></title>
