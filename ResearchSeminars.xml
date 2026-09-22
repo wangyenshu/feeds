@@ -2,51 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-21T21:12:02.144Z</updated>
+    <updated>2026-09-22T10:12:44.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Scott Topology and DCPOs]]></title>
-        <id>https://researchseminars.org/seminar/UFV-math-stats</id>
-        <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
-        <updated>2026-09-02T09:49:48.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.ufv.ca/math/contact-us/faculty/nuruddin-tariq.htm">Tariq Nuruddin</a></td><td class="talktitle"><a title="Scott Topology and DCPOs" knowl="talk/UFV-math-stats/30">Scott Topology and DCPOs</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental petrology and geochemistry candidate seminar 5]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-18T09:59:11.656Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 21</td><td class="time" title="UTC">23:15</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Michael Anenburg (RSES)</td><td class="talktitle"><a title="Experimental petrology and geochemistry candidate seminar 5" knowl="talk/RSES_school_seminar/326">Experimental petrology and geochemistry candidate seminar 5</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental petrology and geochemistry candidate seminar 6]]></title>
-        <id>https://researchseminars.org/seminar/RSES_school_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_school_seminar"/>
-        <updated>2026-09-18T09:59:11.656Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">00:05</td><td class="seriesname"><a href="/seminar/RSES_school_seminar">ANU Research School of Earth Sciences school seminar</a></td><td class="speaker">Sarah Lambart (University of Utah)</td><td class="talktitle"><a title="Experimental petrology and geochemistry candidate seminar 6" knowl="talk/RSES_school_seminar/327">Experimental petrology and geochemistry candidate seminar 6</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planar frequency, asymptotic normal forms, and local topology of area-minimizing currents.]]></title>
-        <id>https://researchseminars.org/seminar/NCTS-GMT</id>
-        <link href="https://researchseminars.org/seminar/NCTS-GMT"/>
-        <updated>2026-08-19T06:01:01.826Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/NCTS-GMT">NCTS international Geometric Measure Theory seminar</a></td><td class="speaker">Neshan Wickramasekera</td><td class="talktitle"><a title="Planar frequency, asymptotic normal forms, and local topology of area-minimizing currents." knowl="talk/NCTS-GMT/38">Planar frequency, asymptotic normal forms, and local topology of area-minimizing currents.</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Makuutu Regolith-Hosted Rare Earth Deposit: Genesis, Adsorption Controls and Resource Implications.]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Naiga Sembatya</td><td class="talktitle"><a title="Understanding the Makuutu Regolith-Hosted Rare Earth Deposit: Genesis, Adsorption Controls and Resource Implications." knowl="talk/RSES_HDR_seminar/43">Understanding the Makuutu Regolith-Hosted Rare Earth Deposit: Genesis, Adsorption Controls and Resource Implications.</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When (does) a singular integral operator maps atoms to molecules]]></title>
-        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
-        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
-        <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Chun Ho Lau</td><td class="talktitle"><a title="When (does) a singular integral operator maps atoms to molecules" knowl="talk/Nonlinear_Analysis_Seminar/93">When (does) a singular integral operator maps atoms to molecules</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hausdorff dimension of differences of badly approximable sets]]></title>
         <id>https://researchseminars.org/seminar/OWNS</id>
@@ -256,6 +214,13 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Pablo Cubides Kovacsics</td><td class="talktitle"><a title="On analytification over henselian valued fields" knowl="talk/OLS/222">On analytification over henselian valued fields</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From locality to homotopy theory: higher symmetries and anomalies in Quantum Field Theory and lattice systems]]></title>
+        <id>https://researchseminars.org/seminar/M-seminar</id>
+        <link href="https://researchseminars.org/seminar/M-seminar"/>
+        <updated>2026-09-22T10:12:24.357Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">18:30</td><td class="seriesname"><a href="/seminar/M-seminar">M-seminar</a></td><td class="speaker">Anton Kapustin</td><td class="talktitle"><a title="From locality to homotopy theory: higher symmetries and anomalies in Quantum Field Theory and lattice systems" knowl="talk/M-seminar/208">From locality to homotopy theory: higher symmetries and anomalies in Quantum Field Theory and lattice systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CM-algebras and CM-types]]></title>
@@ -566,11 +531,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/SeminaronAnalysis">Seminar on Analysis, Differential Equations and Mathematical Physics</a></td><td class="speaker">Sergey E. Mikhailov</td><td class="talktitle"><a title="Formulation and Analysis of Spatially-Periodic Evolution Anisotropic Navier-Stokes Equations" knowl="talk/SeminaronAnalysis/136">Formulation and Analysis of Spatially-Periodic Evolution Anisotropic Navier-Stokes Equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Sharp higher integrability theory and the Iwaniec conjecture]]></title>
         <id>https://researchseminars.org/seminar/Quasiworld</id>
         <link href="https://researchseminars.org/seminar/Quasiworld"/>
         <updated>2026-09-21T10:58:28.240Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Quasiworld">Quasiworld Seminar</a></td><td class="speaker">André Guerra</td><td class="talktitle"><a title="TBA" knowl="talk/Quasiworld/129">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Quasiworld">Quasiworld Seminar</a></td><td class="speaker">André Guerra</td><td class="talktitle"><a title="Sharp higher integrability theory and the Iwaniec conjecture" knowl="talk/Quasiworld/129">Sharp higher integrability theory and the Iwaniec conjecture</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Constructive Models of Univalence]]></title>
@@ -704,5 +669,40 @@
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/tbhatnagar/home?authuser=0">Tejasi Bhatnagar</a></td><td class="talktitle"><a title="Monodromy results in characteristic $p$" knowl="talk/NTBU/55">Monodromy results in characteristic <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UCLANTHRY</id>
+        <link href="https://researchseminars.org/seminar/UCLANTHRY"/>
+        <updated>2026-09-22T10:12:24.414Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLANTHRY">UCLA Number Theory Seminar</a></td><td class="speaker">Linli Shi</td><td class="talktitle"><a title="TBA" knowl="talk/UCLANTHRY/20">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Problems in Soccer Analytics]]></title>
+        <id>https://researchseminars.org/seminar/UFV-math-stats</id>
+        <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
+        <updated>2026-09-02T09:49:48.773Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cusick's conjecture to deletion rigidity in binary digit problems]]></title>
+        <id>https://researchseminars.org/seminar/OWNS</id>
+        <link href="https://researchseminars.org/seminar/OWNS"/>
+        <updated>2026-09-02T09:49:48.777Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/OWNS">One World Numeration seminar</a></td><td class="speaker">Kaimin Cheng</td><td class="talktitle"><a title="From Cusick's conjecture to deletion rigidity in binary digit problems" knowl="talk/OWNS/171">From Cusick's conjecture to deletion rigidity in binary digit problems</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A random walk approach to high-dimensional critical phenomena]]></title>
+        <id>https://researchseminars.org/seminar/IAMP_seminars</id>
+        <link href="https://researchseminars.org/seminar/IAMP_seminars"/>
+        <updated>2026-07-26T05:01:56.516Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IAMP_seminars">One world IAMP mathematical physics seminar</a></td><td class="speaker"><a href="https://www.unige.ch/~panisr/home.html">Romain Panis</a></td><td class="talktitle"><a title="A random walk approach to high-dimensional critical phenomena" knowl="talk/IAMP_seminars/199">A random walk approach to high-dimensional critical phenomena</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fair Tontine Insurance Funds and Their Asymptotics as the Number of Participants Grows]]></title>
+        <id>https://researchseminars.org/seminar/MalliavinCalculus</id>
+        <link href="https://researchseminars.org/seminar/MalliavinCalculus"/>
+        <updated>2026-09-01T10:21:31.835Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/MalliavinCalculus">Malliavin Calculus and its Applications</a></td><td class="speaker">Oleksandr Kukush</td><td class="talktitle"><a title="Fair Tontine Insurance Funds and Their Asymptotics as the Number of Participants Grows" knowl="talk/MalliavinCalculus/177">Fair Tontine Insurance Funds and Their Asymptotics as the Number of Participants Grows</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
