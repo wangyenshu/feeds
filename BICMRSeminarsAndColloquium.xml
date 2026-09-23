@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-22T20:23:05.553Z</updated>
+    <updated>2026-09-23T10:13:32.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
                         <p>Sep 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> </p>
                         <p class="black">
                             <a href="/content/show/45-4010.html" title="Mathematical Explanations of Neural  Networks and Transformers" target="_blank">Mathematical Explanations of Neural  Networks and Transformers</a>
                         </p>
@@ -32,7 +32,7 @@
                         <p>Sep 23</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/43-4016.html" title="Holomorphic Sectional Curvature and Volume" target="_blank">Holomorphic Sectional Curvature and Volume</a>
                         </p>

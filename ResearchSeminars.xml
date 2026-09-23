@@ -2,57 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-22T20:23:05.564Z</updated>
+    <updated>2026-09-23T10:13:32.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Two Arithmetic Applications of Additive Combinatorics]]></title>
-        <id>https://researchseminars.org/seminar/FCNTS</id>
-        <link href="https://researchseminars.org/seminar/FCNTS"/>
-        <updated>2026-08-05T19:01:40.150Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC"><b>20:00</b></td><td class="seriesname"><a href="/seminar/FCNTS">Five College Number Theory Seminar</a></td><td class="speaker"><a href="https://people.math.harvard.edu/~achenjang/">Niven Achenjang</a></td><td class="talktitle"><a title="Two Arithmetic Applications of Additive Combinatorics" knowl="talk/FCNTS/37">Two Arithmetic Applications of Additive Combinatorics</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drinfeld modular forms, Hecke operators, and class number congruences]]></title>
-        <id>https://researchseminars.org/seminar/MITNT</id>
-        <link href="https://researchseminars.org/seminar/MITNT"/>
-        <updated>2026-09-02T09:49:48.738Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker"><a href="https://sites.mit.edu/sdevries/">Sjoerd de Vries</a></td><td class="talktitle"><a title="Drinfeld modular forms, Hecke operators, and class number congruences" knowl="talk/MITNT/142">Drinfeld modular forms, Hecke operators, and class number congruences</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron Pairing and Fractionalization in the Age of AI and Quantum Computing]]></title>
-        <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
-        <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
-        <updated>2026-08-27T16:39:49.277Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 22</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Yang Zhang</td><td class="talktitle"><a title="Electron Pairing and Fractionalization in the Age of AI and Quantum Computing" knowl="talk/UMissPhysAstroColloq/5">Electron Pairing and Fractionalization in the Age of AI and Quantum Computing</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first moment of primitive cubic L-functions with fixed genus]]></title>
-        <id>https://researchseminars.org/seminar/UNSW-NTSeminar</id>
-        <link href="https://researchseminars.org/seminar/UNSW-NTSeminar"/>
-        <updated>2026-07-26T05:01:56.413Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/UNSW-NTSeminar">UNSW Number Theory Seminar</a></td><td class="speaker">Hong Ziwei</td><td class="talktitle"><a title="The first moment of primitive cubic L-functions with fixed genus" knowl="talk/UNSW-NTSeminar/27">The first moment of primitive cubic L-functions with fixed genus</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modularity in genus 222]]></title>
-        <id>https://researchseminars.org/seminar/UNSW-NTSeminar</id>
-        <link href="https://researchseminars.org/seminar/UNSW-NTSeminar"/>
-        <updated>2026-07-26T05:01:56.413Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/UNSW-NTSeminar">UNSW Number Theory Seminar</a></td><td class="speaker">Jeroen Sijsling</td><td class="talktitle"><a title="Modularity in genus $2$" knowl="talk/UNSW-NTSeminar/36">Modularity in genus <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2-character theory of finite 2-groups]]></title>
-        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
-        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
-        <updated>2026-09-20T09:59:08.151Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Zhi-Hao Zhang</td><td class="talktitle"><a title="2-character theory of finite 2-groups" knowl="talk/Mos-Bei-top-seminar/161">2-character theory of finite 2-groups</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model]]></title>
         <id>https://researchseminars.org/seminar/ICCUB_Seminars</id>
         <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
         <updated>2026-09-02T09:49:48.792Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Adil Imam</td><td class="talktitle"><a title="Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model" knowl="talk/ICCUB_Seminars/98">Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC"><b>10:00</b></td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Adil Imam</td><td class="talktitle"><a title="Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model" knowl="talk/ICCUB_Seminars/98">Massive cold hybrid stars in a modified Polyakov-Nambu-Jona-Lasinio model</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Minimal graph transformations and their classification]]></title>
@@ -160,6 +118,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">18:30</td><td class="seriesname"><a href="/seminar/M-seminar">M-seminar</a></td><td class="speaker">Anton Kapustin</td><td class="talktitle"><a title="From locality to homotopy theory: higher symmetries and anomalies in Quantum Field Theory and lattice systems" knowl="talk/M-seminar/208">From locality to homotopy theory: higher symmetries and anomalies in Quantum Field Theory and lattice systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Positivity and negativity for additive h-bases for n]]></title>
+        <id>https://researchseminars.org/seminar/NYNTS</id>
+        <link href="https://researchseminars.org/seminar/NYNTS"/>
+        <updated>2026-09-23T10:13:08.719Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Mel Nathanson</td><td class="talktitle"><a title="Positivity and negativity for additive h-bases for n" knowl="talk/NYNTS/4">Positivity and negativity for additive h-bases for n</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CM-algebras and CM-types]]></title>
         <id>https://researchseminars.org/seminar/STAGE</id>
         <link href="https://researchseminars.org/seminar/STAGE"/>
@@ -214,6 +179,13 @@
         <link href="https://researchseminars.org/seminar/LondonLearningLean"/>
         <updated>2026-09-22T20:22:33.091Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LondonLearningLean">London Learning Lean</a></td><td class="speaker">Various</td><td class="talktitle"><a title="London Learning Lean" knowl="talk/LondonLearningLean/37">London Learning Lean</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1st Relatorium Dialogue on Mathematics and AI]]></title>
+        <id>https://researchseminars.org/seminar/CompMath</id>
+        <link href="https://researchseminars.org/seminar/CompMath"/>
+        <updated>2026-09-23T10:13:08.720Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Renato (Rem) Faraone, Nestor Guillen, Max Lieblich, Gireeja Ranade, and David Spivak</td><td class="talktitle"><a title="1st Relatorium Dialogue on Mathematics and AI" knowl="talk/CompMath/38">1st Relatorium Dialogue on Mathematics and AI</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Calabi-Yau Orbifolds over Finite Fields]]></title>
@@ -496,6 +468,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Elena Di Lavore</td><td class="talktitle"><a title="Deriving Program Logics from Distributive Monoidal Categories" knowl="talk/OLS/221">Deriving Program Logics from Distributive Monoidal Categories</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On the thickness of infinite generalized Sidon sets]]></title>
+        <id>https://researchseminars.org/seminar/NYNTS</id>
+        <link href="https://researchseminars.org/seminar/NYNTS"/>
+        <updated>2026-09-23T10:13:08.749Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Kevin O'Bryant</td><td class="talktitle"><a title="On the thickness of infinite generalized Sidon sets" knowl="talk/NYNTS/5">On the thickness of infinite generalized Sidon sets</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/SFUQNTAG</id>
         <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
@@ -580,6 +559,13 @@
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Ivan Dorofeev</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/169">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026 West Coast Optimization Meeting]]></title>
+        <id>https://researchseminars.org/seminar/SFUOR</id>
+        <link href="https://researchseminars.org/seminar/SFUOR"/>
+        <updated>2026-09-23T10:13:08.770Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">(11 talks)</td><td class="talktitle"><a title="2026 West Coast Optimization Meeting" knowl="talk/SFUOR/75">2026 West Coast Optimization Meeting</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (1/3)]]></title>
         <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
         <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
@@ -636,11 +622,25 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On linear and bilinear Bochner-Riesz means on M\'etivier groups]]></title>
+        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
+        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
+        <updated>2026-08-27T16:39:49.309Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://sites.google.com/view/joydwipsingh/">Joydwip Singh</a></td><td class="talktitle"><a title="On linear and bilinear Bochner-Riesz means on M\'etivier groups" knowl="talk/Nonlinear_Analysis_Seminar/95">On linear and bilinear Bochner-Riesz means on M\'etivier groups</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Cusick's conjecture to deletion rigidity in binary digit problems]]></title>
         <id>https://researchseminars.org/seminar/OWNS</id>
         <link href="https://researchseminars.org/seminar/OWNS"/>
         <updated>2026-09-02T09:49:48.777Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/OWNS">One World Numeration seminar</a></td><td class="speaker">Kaimin Cheng</td><td class="talktitle"><a title="From Cusick's conjecture to deletion rigidity in binary digit problems" knowl="talk/OWNS/171">From Cusick's conjecture to deletion rigidity in binary digit problems</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UEAPS</id>
+        <link href="https://researchseminars.org/seminar/UEAPS"/>
+        <updated>2026-09-18T09:59:11.669Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/UEAPS">ANTLR seminar</a></td><td class="speaker">Ananya Satoskar</td><td class="talktitle"><a title="TBA" knowl="talk/UEAPS/82">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A random walk approach to high-dimensional critical phenomena]]></title>
@@ -695,7 +695,7 @@
         <title type="html"><![CDATA[Arithmetic of complex local systems]]></title>
         <id>https://researchseminars.org/seminar/BC-MIT</id>
         <link href="https://researchseminars.org/seminar/BC-MIT"/>
-        <updated>2026-09-22T20:22:33.209Z</updated>
+        <updated>2026-09-22T20:22:33.206Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/BC-MIT">BC-MIT number theory seminar</a></td><td class="speaker"><a href="https://page.mi.fu-berlin.de/esnault/">Hélène Esnault</a></td><td class="talktitle"><a title="Arithmetic of complex local systems" knowl="talk/BC-MIT/36">Arithmetic of complex local systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
