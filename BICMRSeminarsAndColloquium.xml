@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-23T10:13:32.210Z</updated>
+    <updated>2026-09-23T20:37:39.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Mathematical Explanations of Neural  Networks and Transformers]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/45-4010.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/45-4010.html"/>
-        <updated>2026-09-15T20:22:15.326Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/45.html" title="Operations Research" target="_blank">Operations Research</a> </p>
-                        <p class="black">
-                            <a href="/content/show/45-4010.html" title="Mathematical Explanations of Neural  Networks and Transformers" target="_blank">Mathematical Explanations of Neural  Networks and Transformers</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Xuecheng Tai (NORCE Norwegian ...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Holomorphic Sectional Curvature and Volume]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/43-4016.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/43-4018.html" title="Function Theory on Several Classes of Noncompact Complex Manifolds" target="_blank">Function Theory on Several Classes of Noncompact Complex Manifolds</a>
                         </p>
                         <p class="speaker">Speaker(s): Bo Yang (Xiamen University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/35-4012.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/35-4012.html"/>
+        <updated>2026-09-23T20:36:52.511Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 08</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/35-4012.html" title="From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds" target="_blank">From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Song-Yan Xie (CAS)</p>
                     </dd>]]></content>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-23T10:13:32.127Z</updated>
+    <updated>2026-09-23T20:37:39.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -39,6 +39,42 @@
 									<a href="https://indico.math.cnrs.fr/event/17256/" target="_blank">Proliferation Transitions for Non-Abelian Anyons</a>
 								</h3>
 								<p><strong> Andrea Antinucci</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes]]></title>
+        <id>https://indico.math.cnrs.fr/event/17400/</id>
+        <link href="https://indico.math.cnrs.fr/event/17400/"/>
+        <updated>2026-09-23T20:36:44.592Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 30 September 2026<br>
+								from 14:45 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17400/" target="_blank">Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes</a>
+								</h3>
+								<p><strong> Muddu Venkata Sai Saketh Venkata Sai Saketh</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeta Values as Moments: A Random Matrix Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/17408/</id>
+        <link href="https://indico.math.cnrs.fr/event/17408/"/>
+        <updated>2026-09-23T20:36:44.595Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Thursday 01 October 2026<br>
+								from 14:30 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17408/" target="_blank">Zeta Values as Moments: A Random Matrix Theory</a>
+								</h3>
+								<p><strong> Hartmut Monien</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -216,7 +252,7 @@
 																		Séminaire de Physique Théorique									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
+									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview" style="color: inherit;"></span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
 								</h3>
 								<p><strong> Jutho Haegeman</strong></p>
 							</td>]]></content>
