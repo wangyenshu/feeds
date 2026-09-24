@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-23T20:37:39.964Z</updated>
+    <updated>2026-09-24T10:22:28.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Finite locally free group schemes]]></title>
-        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
-        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
-        <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 23</td><td class="time" title="UTC"><b>20:30</b></td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Akhil Mathew</td><td class="talktitle"><a title="Finite locally free group schemes" knowl="talk/AI-for-the-working-mathematician/5">Finite locally free group schemes</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Sep 24</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Lachlan Dodd</td><td class="talktitle"><a title="Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission" knowl="talk/RSES_HDR_seminar/41">Validation, Assessment, and Utilisation of data from the Surface Water and Ocean Topography Mission</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Integral representation of the associated zeta-function and its applications]]></title>
         <id>https://researchseminars.org/seminar/mmandim</id>
@@ -139,11 +125,25 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Sep 25</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://maldi2.github.io/">Marco Aldi</a></td><td class="talktitle"><a title="Calabi-Yau Orbifolds over Finite Fields" knowl="talk/vcugeomandtop/162">Calabi-Yau Orbifolds over Finite Fields</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[On a lattice of perfect colorings of a graph]]></title>
+        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
+        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
+        <updated>2026-09-21T10:58:28.253Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 26</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">А. А. Тараненко</td><td class="talktitle"><a title="On a lattice of perfect colorings of a graph" knowl="talk/knotgraphgroup/171">On a lattice of perfect colorings of a graph</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Realisations of posets and Koszul complexes]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-07-26T05:01:56.442Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Francesca Tombari</td><td class="talktitle"><a title="Realisations of posets and Koszul complexes" knowl="talk/TropicalmathandML/46">Realisations of posets and Koszul complexes</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum walks on graphs]]></title>
+        <id>https://researchseminars.org/seminar/M4CSA</id>
+        <link href="https://researchseminars.org/seminar/M4CSA"/>
+        <updated>2026-09-24T10:22:02.996Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Sep 28</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/M4CSA">Mathematics for Computer Science and Applications Seminar</a></td><td class="speaker"><a href="https://research.universityofgalway.ie/en/persons/michael-mc-gettrick/">Michael Mc Gettrick</a></td><td class="talktitle"><a title="Quantum walks on graphs" knowl="talk/M4CSA/12">Quantum walks on graphs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skein and Hall algebras of decorated marked surfaces]]></title>
@@ -426,11 +426,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Kevin O'Bryant</td><td class="talktitle"><a title="On the thickness of infinite generalized Sidon sets" knowl="talk/NYNTS/5">On the thickness of infinite generalized Sidon sets</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Singularities in mixed characteristic]]></title>
         <id>https://researchseminars.org/seminar/SFUQNTAG</id>
         <link href="https://researchseminars.org/seminar/SFUQNTAG"/>
         <updated>2026-08-12T18:26:30.889Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/SFUQNTAG">SFU NT-AG seminar</a></td><td class="speaker">Karl Schwede</td><td class="talktitle"><a title="TBA" knowl="talk/SFUQNTAG/171">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/SFUQNTAG">SFU NT-AG seminar</a></td><td class="speaker">Karl Schwede</td><td class="talktitle"><a title="Singularities in mixed characteristic" knowl="talk/SFUQNTAG/171">Singularities in mixed characteristic</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Abelian varieties with complex multiplication]]></title>
