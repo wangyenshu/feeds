@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-26T10:05:49.712Z</updated>
+    <updated>2026-09-26T20:04:34.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[On a lattice of perfect colorings of a graph]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-09-21T10:58:28.253Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Sep 26</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">А. А. Тараненко</td><td class="talktitle"><a title="On a lattice of perfect colorings of a graph" knowl="talk/knotgraphgroup/171">On a lattice of perfect colorings of a graph</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Realisations of posets and Koszul complexes]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
@@ -202,6 +195,13 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Ananya Trivedi</td><td class="talktitle"><a title="Targeted Acceleration Strategies for Real-Time Uncertainty-Aware Motion Planning" knowl="talk/IEEECSS_TCSP/14">Targeted Acceleration Strategies for Real-Time Uncertainty-Aware Motion Planning</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Specifics of the frequency-statistical approach in the study of quantum objects]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-09-26T20:04:12.911Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dmytro Koroliuk</td><td class="talktitle"><a title="Specifics of the frequency-statistical approach in the study of quantum objects" knowl="talk/AMIS/14">Specifics of the frequency-statistical approach in the study of quantum objects</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Popvox (Civic Tech for Public Servants)]]></title>
         <id>https://researchseminars.org/seminar/Metagov</id>
         <link href="https://researchseminars.org/seminar/Metagov"/>
@@ -263,6 +263,13 @@
         <link href="https://researchseminars.org/seminar/fran"/>
         <updated>2026-09-25T20:38:46.814Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">12:30</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.imath.kiev.ua/people/profile.php?pid=555&amp;lang=en">Oleh Vynnyshyn</a></td><td class="talktitle"><a title="A series with a Cantorval achievement set and convergent ratios of consecutive terms (the second Jones problem solved)" knowl="talk/fran/87">A series with a Cantorval achievement set and convergent ratios of consecutive terms (the second Jones problem solved)</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where does the energy live on a manifold? Some recent results on conserved quantities in spacetime]]></title>
+        <id>https://researchseminars.org/seminar/METU_Math</id>
+        <link href="https://researchseminars.org/seminar/METU_Math"/>
+        <updated>2026-09-26T20:04:12.923Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/METU_Math">METU Mathematics General Seminar</a></td><td class="speaker"><a href="https://scholar.google.com.tr/citations?user=ph9RiZcAAAAJ&amp;hl=tr">Bayram Tekin</a></td><td class="talktitle"><a title="Where does the energy live on a manifold? Some recent results on conserved quantities in spacetime" knowl="talk/METU_Math/18">Where does the energy live on a manifold? Some recent results on conserved quantities in spacetime</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The positive mass theorem in arbitrary dimensions]]></title>
@@ -657,6 +664,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Wanqiang Liu</td><td class="talktitle"><a title="A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing" knowl="talk/ICCUB_Seminars/101">A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/METU_Math</id>
+        <link href="https://researchseminars.org/seminar/METU_Math"/>
+        <updated>2026-09-26T20:04:13.005Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">12:40</td><td class="seriesname"><a href="/seminar/METU_Math">METU Mathematics General Seminar</a></td><td class="speaker"><a href="https://blog.metu.edu.tr/benli/">Gökhan Benli</a></td><td class="talktitle"><a title="TBA" knowl="talk/METU_Math/19">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Contact: EMIL]]></title>
         <id>https://researchseminars.org/seminar/mathseminarsnuig</id>
         <link href="https://researchseminars.org/seminar/mathseminarsnuig"/>
@@ -690,19 +704,5 @@
         <link href="https://researchseminars.org/seminar/OLS"/>
         <updated>2026-07-26T05:01:56.439Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Christine Eagles</td><td class="talktitle"><a title="Multiplicity of minimal types in a semiminimal analysis" knowl="talk/OLS/213">Multiplicity of minimal types in a semiminimal analysis</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good reduction of CM abelian varieties]]></title>
-        <id>https://researchseminars.org/seminar/STAGE</id>
-        <link href="https://researchseminars.org/seminar/STAGE"/>
-        <updated>2026-09-07T10:38:26.173Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Cedric Xiao</td><td class="talktitle"><a title="Good reduction of CM abelian varieties" knowl="talk/STAGE/164">Good reduction of CM abelian varieties</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Pair Correlation and a Hilbert Space Inner Product to prove unconditionally there are at least 67.25% simple zeros of the Riemann zeta function on the critical line]]></title>
-        <id>https://researchseminars.org/seminar/KyuDaiSem</id>
-        <link href="https://researchseminars.org/seminar/KyuDaiSem"/>
-        <updated>2026-09-25T20:38:46.889Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/KyuDaiSem">Kyushu University Algebra Seminar</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Using Pair Correlation and a Hilbert Space Inner Product to prove unconditionally there are at least 67.25% simple zeros of the Riemann zeta function on the critical line" knowl="talk/KyuDaiSem/24">Using Pair Correlation and a Hilbert Space Inner Product to prove unconditionally there are at least 67.25% simple zeros of the Riemann zeta function on the critical line</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
