@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-25T20:39:06.603Z</updated>
+    <updated>2026-09-26T10:05:49.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -130,6 +130,13 @@
         <link href="https://researchseminars.org/seminar/IsogenyClub"/>
         <updated>2026-09-10T19:57:16.578Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Special Edition</td><td class="talktitle"><a title="TBA" knowl="talk/IsogenyClub/49">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispersive decay for the Modified Benjamin-Ono equation with small data]]></title>
+        <id>https://researchseminars.org/seminar/PotomacPDE</id>
+        <link href="https://researchseminars.org/seminar/PotomacPDE"/>
+        <updated>2026-09-26T10:04:56.692Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Sep 29</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://sites.google.com/wisc.edu/allisonbyars">Allison Byars</a></td><td class="talktitle"><a title="Dispersive decay for the Modified Benjamin-Ono equation with small data" knowl="talk/PotomacPDE/28">Dispersive decay for the Modified Benjamin-Ono equation with small data</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On dissociated sets, and a lattice counterexample to a conjecture of Erdos]]></title>
@@ -475,11 +482,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On linear and bilinear Bochner-Riesz means on M\'etivier groups]]></title>
+        <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
         <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
         <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://sites.google.com/view/joydwipsingh/">Joydwip Singh</a></td><td class="talktitle"><a title="On linear and bilinear Bochner-Riesz means on M\'etivier groups" knowl="talk/Nonlinear_Analysis_Seminar/95">On linear and bilinear Bochner-Riesz means on M\'etivier groups</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://sites.google.com/view/joydwipsingh/">Joydwip Singh</a></td><td class="talktitle"><a title="TBA" knowl="talk/Nonlinear_Analysis_Seminar/95">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From Cusick's conjecture to deletion rigidity in binary digit problems]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/KyuDaiSem"/>
         <updated>2026-09-25T20:38:46.889Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/KyuDaiSem">Kyushu University Algebra Seminar</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Using Pair Correlation and a Hilbert Space Inner Product to prove unconditionally there are at least 67.25% simple zeros of the Riemann zeta function on the critical line" knowl="talk/KyuDaiSem/24">Using Pair Correlation and a Hilbert Space Inner Product to prove unconditionally there are at least 67.25% simple zeros of the Riemann zeta function on the critical line</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix-product states and tensor networks: a gentle introduction]]></title>
-        <id>https://researchseminars.org/seminar/courses_ipht</id>
-        <link href="https://researchseminars.org/seminar/courses_ipht"/>
-        <updated>2026-09-04T19:47:58.539Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Grégoire Misguich</td><td class="talktitle"><a title="Matrix-product states and tensor networks: a gentle introduction" knowl="talk/courses_ipht/45">Matrix-product states and tensor networks: a gentle introduction</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
