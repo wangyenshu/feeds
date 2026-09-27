@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-27T10:41:17.458Z</updated>
+    <updated>2026-09-27T20:18:23.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -454,11 +454,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/Geometric_Structures_SISSA">Geometric Structures Research Seminar</a></td><td class="speaker"><a href="https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html">Shouhei Honda</a></td><td class="talktitle"><a title="RCD geometry; recent developments, applications and open problems (1/3)" knowl="talk/Geometric_Structures_SISSA/117">RCD geometry; recent developments, applications and open problems (1/3)</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Torus actions on compactified braid varieties and polytopality of subword complexes]]></title>
         <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
         <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
         <updated>2026-09-08T20:06:05.943Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/site/homepageofmikhailgorsky/">Mikhail Gorsky</a></td><td class="talktitle"><a title="TBA" knowl="talk/paris-algebra-seminar/235">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/site/homepageofmikhailgorsky/">Mikhail Gorsky</a></td><td class="talktitle"><a title="Torus actions on compactified braid varieties and polytopality of subword complexes" knowl="talk/paris-algebra-seminar/235">Torus actions on compactified braid varieties and polytopality of subword complexes</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -485,7 +485,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-09-27T10:40:55.439Z</updated>
+        <updated>2026-09-27T10:40:55.351Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/183">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -513,7 +513,7 @@
         <title type="html"><![CDATA[Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures]]></title>
         <id>https://researchseminars.org/seminar/GoldstonKyushu2026</id>
         <link href="https://researchseminars.org/seminar/GoldstonKyushu2026"/>
-        <updated>2026-09-27T10:40:55.444Z</updated>
+        <updated>2026-09-27T10:40:55.360Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/GoldstonKyushu2026">Lecture Series of Daniel Goldston at Kyushu University</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures" knowl="talk/GoldstonKyushu2026/3">Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -563,7 +563,7 @@
         <id>https://researchseminars.org/seminar/gc-arithmetic-geometry</id>
         <link href="https://researchseminars.org/seminar/gc-arithmetic-geometry"/>
         <updated>2026-07-26T05:01:56.458Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker">TBD</td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/79">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/gc-arithmetic-geometry">The Graduate Center Arithmetic Geometry Seminar</a></td><td class="speaker"><a href="https://arxiv.org/abs/2604.06775">Ryuto Mitoma</a></td><td class="talktitle"><a title="TBA" knowl="talk/gc-arithmetic-geometry/79">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -688,7 +688,7 @@
         <title type="html"><![CDATA[Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line]]></title>
         <id>https://researchseminars.org/seminar/GoldstonKyushu2026</id>
         <link href="https://researchseminars.org/seminar/GoldstonKyushu2026"/>
-        <updated>2026-09-27T10:40:55.477Z</updated>
+        <updated>2026-09-27T10:40:55.360Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/GoldstonKyushu2026">Lecture Series of Daniel Goldston at Kyushu University</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line" knowl="talk/GoldstonKyushu2026/4">Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>

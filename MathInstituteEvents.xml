@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-09-27T10:41:17.467Z</updated>
+    <updated>2026-09-27T20:18:23.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -380,7 +380,7 @@
         <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
         <id>https://mathinstitutes.org/events/1498/view/</id>
         <link href="https://mathinstitutes.org/events/1498/view/"/>
-        <updated>2026-09-27T10:40:13.860Z</updated>
+        <updated>2026-09-27T10:40:13.859Z</updated>
         <content type="html"><![CDATA[<div class="card-body">
 			
 							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
@@ -393,7 +393,7 @@
         <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
         <id>https://mathinstitutes.org/events/1498/view/</id>
         <link href="https://mathinstitutes.org/events/1498/view/"/>
-        <updated>2026-09-27T10:40:13.861Z</updated>
+        <updated>2026-09-27T10:40:13.859Z</updated>
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1498/view/" target="_blank" rel="noopener">Statistical Foundations of Generative Modeling</a></h5>
 			<div class="event-info">IMSI - October 5, 2026 to October 9, 2026</div>]]></content>
