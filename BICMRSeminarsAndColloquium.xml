@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-09-27T20:18:23.069Z</updated>
+    <updated>2026-09-28T22:37:54.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Holomorphic Sectional Curvature and Volume]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-4016.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-4016.html"/>
-        <updated>2026-09-18T09:58:48.880Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 23</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> </p>
-                        <p class="black">
-                            <a href="/content/show/43-4016.html" title="Holomorphic Sectional Curvature and Volume" target="_blank">Holomorphic Sectional Curvature and Volume</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Harish Seshadri (Indian Instit...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[There need not be an explicit saturated model of PA]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-4019.html</id>
@@ -49,7 +32,7 @@
                         <p>Sep 28</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/46.html" title="PDE/Analysis" target="_blank">PDE/Analysis</a> </p>
                         <p class="black">
                             <a href="/content/show/46-4015.html" title="Ill-posedness for Compressible Elastic Waves and Ideal MHD Systems" target="_blank">Ill-posedness for Compressible Elastic Waves and Ideal MHD Systems</a>
                         </p>
@@ -88,6 +71,23 @@
                             <a href="/content/show/35-4012.html" title="From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds" target="_blank">From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds</a>
                         </p>
                         <p class="speaker">Speaker(s): Song-Yan Xie (CAS)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat equation from a deterministic microscopic dynamics]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/18-4020.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/18-4020.html"/>
+        <updated>2026-09-28T22:37:03.430Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 15</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/18-4020.html" title="Heat equation from a deterministic microscopic dynamics" target="_blank">Heat equation from a deterministic microscopic dynamics</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Carlangelo Liverani (Universit...</p>
                     </dd>]]></content>
     </entry>
     <entry>
