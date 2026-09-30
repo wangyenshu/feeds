@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-09-28T22:37:54.161Z</updated>
+    <updated>2026-09-30T11:18:49.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Universality for Monotone Cellular Automata]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4097.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/4097.htm"/>
+        <updated>2026-09-30T11:18:17.974Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 15</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1056/4097.htm" class="right text">
+        <div class="t-1">Universality for Monotone Cellular Automata</div>
+        <div class="t-2">Abstract:In this talk I will discuss a monotone version of the Ising model on Z^d, in which sites update from 0 to 1 (but not in the other direction) according to an arbitrary monotone, homogeneous, finite-range update rule. It turns out that these models can be partitioned into d+1 universality classes, which are characterised by their behaviour on sparse random sets. More precisely, if sites ...</div>
+        <div class="t-3">Speaker：Rob Morris (IMPA)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The mathematical Paleocene]]></title>
+        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4098.htm</id>
+        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/4098.htm"/>
+        <updated>2026-09-30T11:18:17.977Z</updated>
+        <content type="html"><![CDATA[<div class="left time">
+         <p class="t-1"><span>Oct 09</span></p>
+        <p class="t-2"><span>2026</span></p>
+    </div>
+    <a href="info/1056/4098.htm" class="right text">
+        <div class="t-1">The mathematical Paleocene</div>
+        <div class="t-2">Abstract:The current AI pandemonium is forcing mathematicians to revise assumptions about our profession which were taken for granted, from the meaning of doing mathematics, to how the assessment system should work, to the role of mathematicians in society. I will share some thoughts on those topics and leave room for discussions.Bio:After finishing PhD in Princeton, I did a postdoc in UC Berke...</div>
+        <div class="t-3">Speaker：Antoine Song (Caltech)</div>
+        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathematical Explanations of Neural  Networks and Transformers]]></title>
         <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4083.htm</id>
@@ -50,38 +82,6 @@
         <div class="t-1">The asymptotic Plateau problem: past, current progress and future problems</div>
         <div class="t-2">Abstract: The asymptotic Plateau problem is a set of problems in hyperbolic 3-space concerning the existence, multiplicity and applications of minimal surfaces asymptotic to a given Jordan curve on the sphere at infinity. I will address some past results, new progress, and open problems. This is based on joint work with Lowe and Seppi.Bio: Zeno Huang is currently a professor of mathematics at t...</div>
         <div class="t-3">Speaker：Zeno Huang （ City University of New York）</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantification of ergodicity for Hamilton–Jacobi equations in a dynamic random environment]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4010.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/4010.htm"/>
-        <updated>2026-06-15T11:29:59.372Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 15</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1056/4010.htm" class="right text">
-        <div class="t-1">Quantification of ergodicity for Hamilton–Jacobi equations in a dynamic random environment</div>
-        <div class="t-2">Abstract:Motivated by the tensionless KPZ equation (a model of stochastic growth), we consider quantitative large-time averages for Hamilton–Jacobi equations in a dynamic random environment that is stationary ergodic and has finite-range dependence in time. In this talk, we establish, up to slowly varying factors, convergence rates with exponent 1/2 for the large-time averages of both the solu...</div>
-        <div class="t-3">Speaker：Prof. GUO Xiaoqin (郭小钦), University of Cincinnati</div>
-        
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward Convergent Adam-Type Methods]]></title>
-        <id>https://ymsc.tsinghua.edu.cn/en/info/1056/4005.htm</id>
-        <link href="https://ymsc.tsinghua.edu.cn/en/info/1056/4005.htm"/>
-        <updated>2026-06-05T08:56:35.612Z</updated>
-        <content type="html"><![CDATA[<div class="left time">
-         <p class="t-1"><span>Jun 15</span></p>
-        <p class="t-2"><span>2026</span></p>
-    </div>
-    <a href="info/1056/4005.htm" class="right text">
-        <div class="t-1">Toward Convergent Adam-Type Methods</div>
-        <div class="t-2">Abstract:Adam is one of the most widely used optimizers in modern machine learning, but its convergence theory remains incomplete, even in relatively simple convex settings. A central difficulty is that Adam tightly couples momentum and adaptive preconditioning, which hides the dissipative structure needed for a Lyapunov analysis.In this talk, I will describe a Lyapunov-guided approach to Adam-...</div>
-        <div class="t-3">Speaker：Long Chen (University of California, Irvine)</div>
         
     </a>]]></content>
     </entry>

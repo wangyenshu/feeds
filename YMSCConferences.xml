@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Conferences</title>
-    <updated>2026-09-28T22:37:54.168Z</updated>
+    <updated>2026-09-30T11:18:49.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -32,7 +32,7 @@
     </div>
     <a href="info/1060/3051.htm" class="right text">
         <div class="t-1">Zhongguancun Number Theory Colloquium</div>
-        <div class="t-2">Upcoming：  Speaker: Prof. Xuhua He (The University of Hong Kong)Title: TBATime: 15:15 - 16:15, October 9, 2026 (Friday)Place: Room C654, Shuangqing Complex Building A, Tsinghua UniversityAbstract: TBASpeaker: Prof. Yifeng Liu (Zhejiang University)Title: TBATime: 16:45 - 17:45, October 9, 2026 (Friday)Place: Room C654, Shuangqing Complex Building A, Tsinghua UniversityAbstract: TBASpeaker: Prof...</div>
+        <div class="t-2">Upcoming：  Speaker: Prof. Xuhua He (The University of Hong Kong)Title: Cohen-Macaulayness of Local ModelsTime: 15:15 - 16:15, October 9, 2026 (Friday)Place: Room C654, Shuangqing Complex Building A, Tsinghua UniversityAbstract: Local models describe the singularities of integral models of Shimura varieties. A longstanding question is whether these local models are Cohen–Macaulay. In this talk...</div>
         <div class="t-3">Organizer：Koji Shimizu (YMSC), Yihang Zhu (YMSC)</div>
         <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
     </a>]]></content>
