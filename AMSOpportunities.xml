@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ams.org/opportunities</id>
     <title>AMS Mathematical Opportunities</title>
-    <updated>2026-09-30T11:18:49.788Z</updated>
+    <updated>2026-10-01T11:45:47.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ams.org/images/Logo-Favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Become a Radcliffe Fellow]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494467</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494467"/>
-        <updated>2026-09-22T20:22:50.425Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494467" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Become a Radcliffe Fellow</a></h2>
-<p><span class="category"><span class="category category-1">Fellowships</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span>, <span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
-<span class="description">Applications for the 2027-2028 Fellowship | Harvard Radcliffe Institute  
-<br>
-<br>A fellowship year at Harvard Radcliffe Institute is an opportunity for scientists to step away from usual routines and dive deeply into a project in a uniquely interdisciplinary and creative community. Radcliffe supports engaged scholarship, through which fellows develop new tools and methods, communicate their research to new audiences, and shed light on our past and present.  
-<br>
-<br>Fellowship Program Details:
-<br>- … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494467" rel="1">[Read More]</a></span><br>
-<span class="sponsor_name"><a href="https://www.radcliffe.harvard.edu/radcliffe-fellowship/the-fellowship-experience">Harvard Radcliffe Institute</a></span><br>
-<span class="open_date">Date Posted: Jul 14, 2026</span><br>
-<span class="deadline_date">Deadline: Oct 01, 2026</span><br>
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494487</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494487"/>
-        <updated>2026-09-22T20:22:50.425Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494487" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028</a></h2>
-<p><span class="category"><span class="category category-4">Calls for Proposals</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
-<span class="description">Call for Proposals: Joint BIRS – PIMS – SLMath Graduate Summer School, Summer 2028
-<br>
-<br>The Banff International Research Station (BIRS), the Pacific Institute for the Mathematical Sciences (PIMS), and the Simons Laufer Mathematical Sciences Institute (SLMath, formerly MSRI) invite proposals to organize a joint graduate summer school to be held in Summer 2028 at University of British Columbia, Okanagan Campus (UBC-O).
-<br>
-<br>This is the first joint summer school of its kind among the three institutes, … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494487" rel="1">[Read More]</a></span><br>
-<span class="sponsor_name"><a href="https://proposals.birs.ca/">Simons Laufer Mathematical Sciences Institute (SLMath) / MSRI</a></span><br>
-<span class="open_date">Date Posted: Aug 06, 2026</span><br>
-<span class="deadline_date">Deadline: Oct 01, 2026</span><br>
-</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Apply for the Centennial Fellowship]]></title>
         <id>https://www.ams.org/opportunities/view/listing?listing_id=494462</id>
@@ -138,26 +103,52 @@
 </p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HiMCM® and MidMCM Contest Registration]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494514</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494514"/>
+        <updated>2026-10-01T11:45:33.673Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494514" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>HiMCM® and MidMCM Contest Registration</a></h2>
+<p><span class="category"><span class="category category-7">Contests and Competitions</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-1">Pre-college students and teachers</span></span><br>
+<span class="description">COMAP'S High School Mathematical Contest in Modeling (HiMCM) is an international contest designed to provide high school students with the opportunity to work as team members to engage in and improve their modeling, problem solving, and writing skills. Teams apply mathematics to model, develop, and communicate a solution to a real-world problem.
+<br>
+<br>COMAP'S Middle Mathematical Contest in Modeling (MidMCM) is an extension of the High School Mathematical Contest in Modeling (HiMCM). It is … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494514" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://www.contest.comap.com/highschool/contests/himcm/index.html">COMAP</a></span><br>
+<span class="open_date">Date Posted: Sep 02, 2026</span><br>
+<span class="deadline_date">Deadline: Nov 04, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SCUDEM XI 2026 — Student Challenge Using Differential Equations Modeling]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494506</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494506"/>
-        <updated>2026-09-30T11:18:36.622Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494506" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>SCUDEM XI 2026 — Student Challenge Using Differential Equations Modeling</a></h2>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494513</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494513"/>
+        <updated>2026-10-01T11:45:33.680Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494513" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>SCUDEM XI 2026 — Student Challenge Using Differential Equations Modeling</a></h2>
 <p><span class="category"><span class="category category-7">Contests and Competitions</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-1">Pre-college students and teachers</span>, <span class="target-audience target-audience-2">Undergraduate students</span></span><br>
 <span class="description">SCUDEM (Student Challenge Using Differential Equations Modeling) invites teams of up to three students to select one of three real-world problems and build a differential or difference equation model to solve it and then present their work in a 10-minute video team presentation. 
 <br>
-<br>SCUDEM XI 2026 runs October 16 – November 10, 2026.
+<br>SCUDEM XI 2026 runs October 16 – November 10, 2026. Registration is now open at https://www.contest.comap.com/scudem/registration.html
 <br>
 <br>Challenge problems are drawn from:
 <br>•	Physics and Engineering
-<br>•	Chemistry and Life Sciences
-<br>•	Social Sciences
-<br>
-<br>Why participate?
-<br>•	Focused scope: unlike … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494506" rel="1">[Read More]</a></span><br>
+<br>•	Chemistry … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494513" rel="1">[Read More]</a></span><br>
 <span class="sponsor_name"><a href="https://www.contest.comap.com/scudem/index.html">COMAP</a></span><br>
 <span class="open_date">Date Posted: Sep 02, 2026</span><br>
 <span class="deadline_date">Deadline: Nov 10, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIDAS Postdoctoral Research Fellowships]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494507</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494507"/>
+        <updated>2026-10-01T11:45:33.682Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494507" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>MIDAS Postdoctoral Research Fellowships</a></h2>
+<p><span class="category"><span class="category category-6">Calls for Applications</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-4">Postdocs/early career</span></span><br>
+<span class="description">The Michigan Institute for Data and AI in Society (MIDAS) at the University of Michigan is seeking applications for our postdoctoral and faculty fellowship programs. These programs provide outstanding early-career researchers and early-to-mid-career African faculty researchers with intensive AI and data science experience to enable breakthroughs across research fields.
+<br>
+<br>MIDAS promotes advancements in data science and AI, and enables their transformative use in a wide range of research … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494507" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="https://midas.umich.edu/training/postdocs/">University of Michigan</a></span><br>
+<span class="open_date">Date Posted: Sep 02, 2026</span><br>
+<span class="deadline_date">Deadline: Nov 23, 2026</span><br>
 </p>]]></content>
     </entry>
 </feed>

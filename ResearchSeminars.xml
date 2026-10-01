@@ -2,100 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-09-30T11:18:49.837Z</updated>
+    <updated>2026-10-01T11:45:47.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Counting number fields and predicting asymptotics]]></title>
-        <id>https://researchseminars.org/seminar/IpmMathColloquium</id>
-        <link href="https://researchseminars.org/seminar/IpmMathColloquium"/>
-        <updated>2026-09-30T11:18:27.139Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">12:30</td><td class="seriesname"><a href="/seminar/IpmMathColloquium">IPM Mathematics Colloquium</a></td><td class="speaker">Ila Varma</td><td class="talktitle"><a title="Counting number fields and predicting asymptotics" knowl="talk/IpmMathColloquium/1">Counting number fields and predicting asymptotics</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warped Flux Compactifications: Effective Potentials and Numerical Geometry]]></title>
-        <id>https://researchseminars.org/seminar/AnLy</id>
-        <link href="https://researchseminars.org/seminar/AnLy"/>
-        <updated>2026-09-25T20:38:46.795Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/AnLy">AnLy Strings and Fields online seminars</a></td><td class="speaker">Severin Lüst</td><td class="talktitle"><a title="Warped Flux Compactifications: Effective Potentials and Numerical Geometry" knowl="talk/AnLy/70">Warped Flux Compactifications: Effective Potentials and Numerical Geometry</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Targeted Acceleration Strategies for Real-Time Uncertainty-Aware Motion Planning]]></title>
-        <id>https://researchseminars.org/seminar/IEEECSS_TCSP</id>
-        <link href="https://researchseminars.org/seminar/IEEECSS_TCSP"/>
-        <updated>2026-08-28T17:37:44.835Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Ananya Trivedi</td><td class="talktitle"><a title="Targeted Acceleration Strategies for Real-Time Uncertainty-Aware Motion Planning" knowl="talk/IEEECSS_TCSP/14">Targeted Acceleration Strategies for Real-Time Uncertainty-Aware Motion Planning</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Correspondence between Coding Problems and Logic via Confusion Hypergraphs (Part II).]]></title>
-        <id>https://researchseminars.org/seminar/AAIT</id>
-        <link href="https://researchseminars.org/seminar/AAIT"/>
-        <updated>2026-09-30T11:18:27.147Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/AAIT">Seminar on Algorithmic Aspects of Information Theory</a></td><td class="speaker">Cheuk Ting LI</td><td class="talktitle"><a title="A Correspondence between Coding Problems and Logic via Confusion Hypergraphs (Part II)." knowl="talk/AAIT/55">A Correspondence between Coding Problems and Logic via Confusion Hypergraphs (Part II).</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specifics of the frequency-statistical approach in the study of quantum objects]]></title>
-        <id>https://researchseminars.org/seminar/AMIS</id>
-        <link href="https://researchseminars.org/seminar/AMIS"/>
-        <updated>2026-09-26T20:04:12.911Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dmytro Koroliuk</td><td class="talktitle"><a title="Specifics of the frequency-statistical approach in the study of quantum objects" knowl="talk/AMIS/14">Specifics of the frequency-statistical approach in the study of quantum objects</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popvox (Civic Tech for Public Servants)]]></title>
-        <id>https://researchseminars.org/seminar/Metagov</id>
-        <link href="https://researchseminars.org/seminar/Metagov"/>
-        <updated>2026-07-30T18:55:55.007Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/Metagov">Metagovernance Seminar</a></td><td class="speaker">Marci Harris</td><td class="talktitle"><a title="Popvox (Civic Tech for Public Servants)" knowl="talk/Metagov/299">Popvox (Civic Tech for Public Servants)</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Lagrangian densities and 3D integrable systems]]></title>
-        <id>https://researchseminars.org/seminar/GDEq</id>
-        <link href="https://researchseminars.org/seminar/GDEq"/>
-        <updated>2026-08-27T16:39:49.314Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker">Maxim Pavlov</td><td class="talktitle"><a title="Local Lagrangian densities and 3D integrable systems" knowl="talk/GDEq/158">Local Lagrangian densities and 3D integrable systems</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig-zag holds for Galois representations]]></title>
-        <id>https://researchseminars.org/seminar/HarvardNT</id>
-        <link href="https://researchseminars.org/seminar/HarvardNT"/>
-        <updated>2026-08-20T05:57:20.222Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://mathweb.tifr.res.in/~eghate/">Eknath Ghate</a></td><td class="talktitle"><a title="Zig-zag holds for Galois representations" knowl="talk/HarvardNT/162">Zig-zag holds for Galois representations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contractive Representations and Toeplitz-Type Realizations of the Odometer Semigroup]]></title>
-        <id>https://researchseminars.org/seminar/NYC-NCG</id>
-        <link href="https://researchseminars.org/seminar/NYC-NCG"/>
-        <updated>2026-07-26T05:01:56.522Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://scholar.google.com/citations?user=9a5AxZMAAAAJ&amp;hl=en">Mansi Suryawanshi</a></td><td class="talktitle"><a title="Contractive Representations and Toeplitz-Type Realizations of the Odometer Semigroup" knowl="talk/NYC-NCG/226">Contractive Representations and Toeplitz-Type Realizations of the Odometer Semigroup</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Informal Introduction to Formal Proofs]]></title>
-        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
-        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
-        <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Harold Williams</td><td class="talktitle"><a title="An Informal Introduction to Formal Proofs" knowl="talk/AI-for-the-working-mathematician/6">An Informal Introduction to Formal Proofs</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Enigmatic Neoproterozoic carbon isotope Excursion]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Sep 30</td><td class="time" title="UTC">23:30</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Pratyush Raj</td><td class="talktitle"><a title="The Enigmatic Neoproterozoic carbon isotope Excursion" knowl="talk/RSES_HDR_seminar/46">The Enigmatic Neoproterozoic carbon isotope Excursion</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare earth element mineralization in the Gascoyne region of Western Australia]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">03:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Sahar Raeiszadeh</td><td class="talktitle"><a title="Rare earth element mineralization in the Gascoyne region of Western Australia" knowl="talk/RSES_HDR_seminar/44">Rare earth element mineralization in the Gascoyne region of Western Australia</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing quadratic lattices through their substructures]]></title>
-        <id>https://researchseminars.org/seminar/Postech-PMI-NT</id>
-        <link href="https://researchseminars.org/seminar/Postech-PMI-NT"/>
-        <updated>2026-08-19T06:01:01.809Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 01</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">Daejun Kim</td><td class="talktitle"><a title="Seeing quadratic lattices through their substructures" knowl="talk/Postech-PMI-NT/20">Seeing quadratic lattices through their substructures</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A series with a Cantorval achievement set and convergent ratios of consecutive terms (the second Jones problem solved)]]></title>
         <id>https://researchseminars.org/seminar/fran</id>
@@ -279,11 +188,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Siddharth Mulherkar</td><td class="talktitle"><a title="Random Weights and the Mizohata-Takeuchi Conjecture" knowl="talk/UCLAAnalysisSeminar/262">Random Weights and the Mizohata-Takeuchi Conjecture</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Алгебраическая интегрируемость выпуклых тел в нечётных размерностях]]></title>
         <id>https://researchseminars.org/seminar/knotgraphgroup</id>
         <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
         <updated>2026-09-21T10:58:28.253Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Ivan Dorofeev</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/169">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Иван Дорофеев</td><td class="talktitle"><a title="Алгебраическая интегрируемость выпуклых тел в нечётных размерностях" knowl="talk/knotgraphgroup/169">Алгебраическая интегрируемость выпуклых тел в нечётных размерностях</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2026 West Coast Optimization Meeting]]></title>
@@ -454,11 +363,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Cynthia Keeler</td><td class="talktitle"><a title="Three Ways To Build A Spacetime" knowl="talk/UMissPhysAstroColloq/7">Three Ways To Build A Spacetime</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[A Non-Cyclic Solution of the Pentagon Relation and Its Braid Invariant]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
         <updated>2026-09-30T11:18:27.245Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Hayk Sedrakyan</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/166">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Hayk Sedrakyan</td><td class="talktitle"><a title="A Non-Cyclic Solution of the Pentagon Relation and Its Braid Invariant" knowl="talk/Mos-Bei-top-seminar/166">A Non-Cyclic Solution of the Pentagon Relation and Its Braid Invariant</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electroweak precision physics via angular distributions in hadronic τ decays]]></title>
@@ -496,11 +405,25 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://liyuezhao.github.io/">Yuezhao Li</a></td><td class="talktitle"><a title="Symmetry-breaking colimit of topological phases" knowl="talk/NYC-NCG/224">Symmetry-breaking colimit of topological phases</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bridging Mathematical Modeling and Experimental Data to Optimize Cancer Therapy]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-09-26T20:04:12.911Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Prof. Dr. Nick Cogan</td><td class="talktitle"><a title="Bridging Mathematical Modeling and Experimental Data to Optimize Cancer Therapy" knowl="talk/AMIS/15">Bridging Mathematical Modeling and Experimental Data to Optimize Cancer Therapy</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dynamic Games – A Control Engineering Perspective and Some Connections to PCH Systems]]></title>
         <id>https://researchseminars.org/seminar/PHSeminar</id>
         <link href="https://researchseminars.org/seminar/PHSeminar"/>
         <updated>2026-09-23T20:37:13.332Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/PHSeminar">Port-Hamiltonian Seminar (pH Seminar)</a></td><td class="speaker">Thulasi Mylvaganam</td><td class="talktitle"><a title="Dynamic Games – A Control Engineering Perspective and Some Connections to PCH Systems" knowl="talk/PHSeminar/41">Dynamic Games – A Control Engineering Perspective and Some Connections to PCH Systems</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deformation theory of mixed-characteristic shtukas]]></title>
+        <id>https://researchseminars.org/seminar/LNTS</id>
+        <link href="https://researchseminars.org/seminar/LNTS"/>
+        <updated>2026-10-01T11:45:23.846Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LNTS">London number theory seminar</a></td><td class="speaker"><a href="https://dongryul-kim.github.io/">Dongryul Kim</a></td><td class="talktitle"><a title="Deformation theory of mixed-characteristic shtukas" knowl="talk/LNTS/206">Deformation theory of mixed-characteristic shtukas</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thermodynamics, jets geometry and phase transitions]]></title>
@@ -704,5 +627,89 @@
         <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
         <updated>2026-09-18T09:59:11.760Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Sung-Jin Oh</td><td class="talktitle"><a title="An h-principle for general relativistic initial data sets" knowl="talk/UCLAAnalysisSeminar/268">An h-principle for general relativistic initial data sets</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
+        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
+        <updated>2026-09-21T10:58:28.253Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 10</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Святослав Вадимович Дженжер</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/170">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Paths for Efficient Ordering with Large Language Models]]></title>
+        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
+        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
+        <updated>2026-10-01T11:45:23.894Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker"><a href="https://zhaofuheng.github.io/">Fuheng Zhao</a></td><td class="talktitle"><a title="Access Paths for Efficient Ordering with Large Language Models" knowl="talk/TropicalmathandML/48">Access Paths for Efficient Ordering with Large Language Models</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Quantum'' rational numbers, q-deformed Coxeter friezes, and the cross-ratio]]></title>
+        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
+        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
+        <updated>2026-09-08T20:06:05.943Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://ovsienko.perso.math.cnrs.fr/">Valentin Ovsienko</a></td><td class="talktitle"><a title="" quantum''="" rational="" numbers,="" q-deformed="" coxeter="" friezes,="" and="" the="" cross-ratio"="" knowl="talk/paris-algebra-seminar/237">"Quantum'' rational numbers, q-deformed Coxeter friezes, and the cross-ratio</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractal Hasimoto Surfaces]]></title>
+        <id>https://researchseminars.org/seminar/NSCM</id>
+        <link href="https://researchseminars.org/seminar/NSCM"/>
+        <updated>2026-09-21T21:11:37.181Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">13:40</td><td class="seriesname"><a href="/seminar/NSCM">Nečas Seminar on Continuum Mechanics</a></td><td class="speaker"><a href="https://minarcik.com/">Jiří Minarčík</a></td><td class="talktitle"><a title="Fractal Hasimoto Surfaces" knowl="talk/NSCM/225">Fractal Hasimoto Surfaces</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weighted Hardy-Rellich inequalities via the Emden-Fowler transform]]></title>
+        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
+        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
+        <updated>2026-07-26T05:01:56.491Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://sites.google.com/site/berchioelvise/elvise-berchio?authuser=0">Elvise Berchio</a></td><td class="talktitle"><a title="Weighted Hardy-Rellich inequalities via the Emden-Fowler transform" knowl="talk/GeomInequAndPDEs/208">Weighted Hardy-Rellich inequalities via the Emden-Fowler transform</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pointed Hopf algebras of odd dimension]]></title>
+        <id>https://researchseminars.org/seminar/ENAAS</id>
+        <link href="https://researchseminars.org/seminar/ENAAS"/>
+        <updated>2026-07-26T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl">István Heckenberger</a></td><td class="talktitle"><a title="Pointed Hopf algebras of odd dimension" knowl="talk/ENAAS/166">Pointed Hopf algebras of odd dimension</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/NTBU</id>
+        <link href="https://researchseminars.org/seminar/NTBU"/>
+        <updated>2026-08-05T19:01:40.170Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Holiday</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/65">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From gullies to curves: dimension reduction in a wildfire model]]></title>
+        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
+        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
+        <updated>2026-08-27T16:39:49.309Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Lorenzo De Gaspari</td><td class="talktitle"><a title="From gullies to curves: dimension reduction in a wildfire model" knowl="talk/Nonlinear_Analysis_Seminar/96">From gullies to curves: dimension reduction in a wildfire model</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/TuesdayPDE</id>
+        <link href="https://researchseminars.org/seminar/TuesdayPDE"/>
+        <updated>2026-10-01T11:45:23.904Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/TuesdayPDE">Necas PDE seminar</a></td><td class="speaker">Jiten Kumbhakar</td><td class="talktitle"><a title="TBA" knowl="talk/TuesdayPDE/119">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stringological sequence prediction]]></title>
+        <id>https://researchseminars.org/seminar/CombinatoricsOnWords</id>
+        <link href="https://researchseminars.org/seminar/CombinatoricsOnWords"/>
+        <updated>2026-10-01T11:45:23.905Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Vanessa Kosoy</td><td class="talktitle"><a title="Stringological sequence prediction" knowl="talk/CombinatoricsOnWords/142">Stringological sequence prediction</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UEAPS</id>
+        <link href="https://researchseminars.org/seminar/UEAPS"/>
+        <updated>2026-09-18T09:59:11.669Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/UEAPS">ANTLR seminar</a></td><td class="speaker">Tamanna Chatterjee</td><td class="talktitle"><a title="TBA" knowl="talk/UEAPS/83">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gröbner Basis and Relinearization Algorithm for Ring-LWE]]></title>
+        <id>https://researchseminars.org/seminar/CryptoCafe</id>
+        <link href="https://researchseminars.org/seminar/CryptoCafe"/>
+        <updated>2026-10-01T11:45:23.908Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/CryptoCafe">Florida Atlantic University Crypto Café</a></td><td class="speaker">Yuhao Liu</td><td class="talktitle"><a title="Gröbner Basis and Relinearization Algorithm for Ring-LWE" knowl="talk/CryptoCafe/54">Gröbner Basis and Relinearization Algorithm for Ring-LWE</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

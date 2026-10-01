@@ -2,27 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-09-30T11:18:49.790Z</updated>
+    <updated>2026-10-01T11:45:47.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes]]></title>
-        <id>https://indico.math.cnrs.fr/event/17400/</id>
-        <link href="https://indico.math.cnrs.fr/event/17400/"/>
-        <updated>2026-09-23T20:36:39.475Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Wednesday 30 September 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17400/" target="_blank">Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes</a>
-								</h3>
-								<p><strong> Muddu Venkata Sai Saketh</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Zeta Values as Moments: A Random Matrix Theory]]></title>
         <id>https://indico.math.cnrs.fr/event/17408/</id>
@@ -132,6 +114,24 @@
 							</td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Doubly Conformal Dispersion Relation]]></title>
+        <id>https://indico.math.cnrs.fr/event/17474/</id>
+        <link href="https://indico.math.cnrs.fr/event/17474/"/>
+        <updated>2026-10-01T11:44:47.460Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 14 October 2026<br>
+								from 11:00 to 12:30							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17474/" target="_blank">The Doubly Conformal Dispersion Relation</a>
+								</h3>
+								<p><strong> Balt van Rees</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces]]></title>
         <id>https://indico.math.cnrs.fr/event/17461/</id>
         <link href="https://indico.math.cnrs.fr/event/17461/"/>
@@ -147,6 +147,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes]]></title>
+        <id>https://indico.math.cnrs.fr/event/17400/</id>
+        <link href="https://indico.math.cnrs.fr/event/17400/"/>
+        <updated>2026-09-23T20:36:39.475Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 30 September 2026<br>
+								from 14:45 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17400/" target="_blank">Dynamical Tidal Response of Neutron Stars  from Scattering Amplitudes</a>
+								</h3>
+								<p><strong> Muddu Venkata Sai Saketh</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -288,7 +306,7 @@
 																		Séminaire de Physique Théorique									</small>
 								</p>
 								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
+									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview" style="color: inherit;"></span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
 								</h3>
 								<p><strong> Jutho Haegeman</strong></p>
 							</td>]]></content>
@@ -309,24 +327,6 @@
 									<a href="https://indico.math.cnrs.fr/event/16953/" target="_blank">CayleyPy-Holography: Mathematical and String Theory Methods for AI</a>
 								</h3>
 								<p><strong> Alexander Chervov</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Logarithm Matrix in Terms of the Tree of 2-Adic Numbers]]></title>
-        <id>https://indico.math.cnrs.fr/event/16930/</id>
-        <link href="https://indico.math.cnrs.fr/event/16930/"/>
-        <updated>2026-09-11T19:55:53.882Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Wednesday 08 July 2026<br>
-								from 11:00 to 12:30							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16930/" target="_blank">The Logarithm Matrix in Terms of the Tree of 2-Adic Numbers</a>
-								</h3>
-								<p><strong> Florian Sprung</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
