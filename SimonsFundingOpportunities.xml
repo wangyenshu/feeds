@@ -2,67 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-10-01T11:45:47.283Z</updated>
+    <updated>2026-10-01T21:56:30.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
-    <entry>
-        <title type="html"><![CDATA[Simons Symposia]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-symposia-program/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-symposia-program/"/>
-        <updated>2026-07-26T05:10:17.760Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-symposia-program/" class="m-post__block-link">
-                    Simons Symposia                </a>
-            </h4>
-            <div class="m-post__main">
-                Each Simons Symposia series brings together mathematicians, theoretical physicists and/or theoretical computer scientists to interact and collaborate in a series of up to three symposia, held every second year and focusing on one topic or a tightly connected group of topics.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Targeted Grants to Institutes]]></title>
-        <id>https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/</id>
-        <link href="https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/"/>
-        <updated>2026-07-26T05:10:17.764Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/" class="m-post__block-link">
-                    Targeted Grants to Institutes                </a>
-            </h4>
-            <div class="m-post__main">
-                The program is intended to support established institutes or centers in the mathematics and physical sciences through funding to help strengthen contacts within the international scientific community.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Other            </div>
-            <span class="head">Status - </span>
-            Open Application Deadline:<br><span style="color:#666">12 p.m. (noon) Eastern time,</span> <span class="m-post__muted">September 30, 2026</span>
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Simons Fellows in Mathematics]]></title>
         <id>https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/</id>
@@ -86,7 +28,7 @@
                 <span class="head">Career Stage - </span>
                 Investigators            </div>
             <span class="head">Status - </span>
-            Open Application Deadline (Noon Eastern Time): <span class="m-post__muted">October 1, 2026</span>
+            Closed
                     </aside>
 
 
@@ -151,6 +93,35 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Simons Centers of Excellence at Historically Black Colleges and Universities]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/"/>
+        <updated>2026-07-26T05:10:17.765Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/" class="m-post__block-link">
+                    Simons Centers of Excellence at Historically Black Colleges and Universities                </a>
+            </h4>
+            <div class="m-post__main">
+                The Simons HBCU Centers of Excellence program will support up to two Centers of Excellence (“CoEs”) at HBCU institutions in mathematics, physics and ecology &amp; evolutionary biology. The program aims to foster research excellence and collaboration, and to provide pathways for students to successfully enroll in graduate STEM programs.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Science, Society &amp; Culture</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Open LOI Open Date <span class="m-post__muted">October 1, 2026</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Utilizing the Full Power of Empire AI Request for Applications]]></title>
         <id>https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/</id>
         <link href="https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/"/>
@@ -180,6 +151,64 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Travel Support for Mathematicians]]></title>
+        <id>https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/</id>
+        <link href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/"/>
+        <updated>2026-07-26T05:10:17.784Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/" class="m-post__block-link">
+                    Travel Support for Mathematicians                </a>
+            </h4>
+            <div class="m-post__main">
+                The MPS division invites applications for its Travel Support for Mathematicians program, which is intended to stimulate collaboration in the field primarily through the funding of travel and related expenditures.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Open Application Opens <span class="m-post__muted">October 1, 2026</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Historically Black Colleges and Universities Faculty Fellowship]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/"/>
+        <updated>2026-07-26T05:10:17.766Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/" class="m-post__block-link">
+                    Simons Historically Black Colleges and Universities Faculty Fellowship                </a>
+            </h4>
+            <div class="m-post__main">
+                The Simons Historically Black Colleges and Universities (HBCU) Faculty Fellowship program, funded by Simons Foundation International (SFI) and administered by the Simons Foundation (SF), will support junior tenure-track faculty in mathematics, physics, and ecology and evolutionary biology at up to five (5) HBCU institutions by buying out a minimum of 50% of their teaching responsibilities.…            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Science, Society &amp; Culture</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Open LOI Open Date <span class="m-post__muted">October 1, 2026</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Ideas — Request for Applications]]></title>
         <id>https://www.sfari.org/grant/new-ideas-request-for-applications/</id>
         <link href="https://www.sfari.org/grant/new-ideas-request-for-applications/"/>
@@ -192,6 +221,35 @@
             </h4>
             <div class="m-post__main">
                 The goal of the New Ideas Award is to provide early stage support for bold, exploratory research that tests novel hypotheses and opens new conceptual or experimental directions in the study of autism and related neurodevelopmental disorders (NDD). Proposed research may draw on any scientific discipline, methodology or experimental system (including humans) and may operate…            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Autism Research (SFARI)</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
+            <span class="head">Status - </span>
+            Rolling
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPARK Research Match Expansion — Request for Applications]]></title>
+        <id>https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/</id>
+        <link href="https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/"/>
+        <updated>2026-09-22T20:22:43.120Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/" class="m-post__block-link" target="_blank">
+                    SPARK Research Match Expansion — Request for Applications                </a>
+            </h4>
+            <div class="m-post__main">
+                The SPARK Research Match Expansion RFA is an effort to engage with and increase research participation by individuals whose genetic ancestries have been undersampled in clinical research. Funding will provide per-person participant incentives (e.g., gift cards) for participation in projects that utilize SPARK Research Match to recruit participants into new research studies or to broaden…            </div>
             <div class="program-area">
                 <span>Program Area: </span><span>Autism Research (SFARI)</span>
             </div>
@@ -238,93 +296,6 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simons Centers of Excellence at Historically Black Colleges and Universities]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/"/>
-        <updated>2026-07-26T05:10:17.765Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-centers-of-excellence-at-historically-black-colleges-and-universities/" class="m-post__block-link">
-                    Simons Centers of Excellence at Historically Black Colleges and Universities                </a>
-            </h4>
-            <div class="m-post__main">
-                The Simons HBCU Centers of Excellence program will support up to two Centers of Excellence (“CoEs”) at HBCU institutions in mathematics, physics and ecology &amp; evolutionary biology. The program aims to foster research excellence and collaboration, and to provide pathways for students to successfully enroll in graduate STEM programs.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Science, Society &amp; Culture</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Applications Open October 1, 2026
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simons Historically Black Colleges and Universities Faculty Fellowship]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/"/>
-        <updated>2026-07-26T05:10:17.766Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-historically-black-colleges-and-universities-faculty-fellowship/" class="m-post__block-link">
-                    Simons Historically Black Colleges and Universities Faculty Fellowship                </a>
-            </h4>
-            <div class="m-post__main">
-                The Simons Historically Black Colleges and Universities (HBCU) Faculty Fellowship program, funded by Simons Foundation International (SFI) and administered by the Simons Foundation (SF), will support junior tenure-track faculty in mathematics, physics, and ecology and evolutionary biology at up to five (5) HBCU institutions by buying out a minimum of 50% of their teaching responsibilities.…            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Science, Society &amp; Culture</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Applications Open October 1, 2026
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Travel Support for Mathematicians]]></title>
-        <id>https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/</id>
-        <link href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/"/>
-        <updated>2026-07-26T05:10:17.784Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/travel-support-for-mathematicians/" class="m-post__block-link">
-                    Travel Support for Mathematicians                </a>
-            </h4>
-            <div class="m-post__main">
-                The MPS division invites applications for its Travel Support for Mathematicians program, which is intended to stimulate collaboration in the field primarily through the funding of travel and related expenditures.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fellows-to-Faculty Award]]></title>
         <id>https://www.simonsfoundation.org/grant/fellows-to-faculty-award/</id>
         <link href="https://www.simonsfoundation.org/grant/fellows-to-faculty-award/"/>
@@ -346,6 +317,93 @@
             <div>
                 <span class="head">Career Stage - </span>
                 Postdoc/Early Career, Investigators            </div>
+            <span class="head">Status - </span>
+            Closed
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Postdoctoral Fellowships in Plant Biology]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/"/>
+        <updated>2026-07-26T05:10:17.808Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/" class="m-post__block-link">
+                    Simons Postdoctoral Fellowships in Plant Biology                </a>
+            </h4>
+            <div class="m-post__main">
+                The Simons Foundation’s Life Sciences division invites applications for postdoctoral fellowships to support candidates who intend to pursue a career in basic research on fundamental problems in plant biology. We are interested in applicants with training in disciplines that could be brought to bear on plant biology, including but not limited to engineering, computational modeling,…            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Life Sciences | Plant Biology</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Other            </div>
+            <span class="head">Status - </span>
+            Closed
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted Grants to Institutes]]></title>
+        <id>https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/</id>
+        <link href="https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/"/>
+        <updated>2026-07-26T05:10:17.764Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/targeted-grants-to-institutes/" class="m-post__block-link">
+                    Targeted Grants to Institutes                </a>
+            </h4>
+            <div class="m-post__main">
+                The program is intended to support established institutes or centers in the mathematics and physical sciences through funding to help strengthen contacts within the international scientific community.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Other            </div>
+            <span class="head">Status - </span>
+            Closed
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Symposia]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-symposia-program/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-symposia-program/"/>
+        <updated>2026-07-26T05:10:17.760Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-symposia-program/" class="m-post__block-link">
+                    Simons Symposia                </a>
+            </h4>
+            <div class="m-post__main">
+                Each Simons Symposia series brings together mathematicians, theoretical physicists and/or theoretical computer scientists to interact and collaborate in a series of up to three symposia, held every second year and focusing on one topic or a tightly connected group of topics.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Investigators            </div>
             <span class="head">Status - </span>
             Closed
                     </aside>
@@ -665,64 +723,6 @@
             <div>
                 <span class="head">Career Stage - </span>
                 Investigators            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPARK Research Match Expansion — Request for Applications]]></title>
-        <id>https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/</id>
-        <link href="https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/"/>
-        <updated>2026-09-22T20:22:43.120Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.sfari.org/grant/spark-research-match-expansion-request-for-applications/" class="m-post__block-link" target="_blank">
-                    SPARK Research Match Expansion — Request for Applications                </a>
-            </h4>
-            <div class="m-post__main">
-                The SPARK Research Match Expansion RFA is an effort to engage with and increase research participation by individuals whose genetic ancestries have been undersampled in clinical research. Funding will provide per-person participant incentives (e.g., gift cards) for participation in projects that utilize SPARK Research Match to recruit participants into new research studies or to broaden…            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Autism Research (SFARI)</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Investigators            </div>
-            <span class="head">Status - </span>
-            Rolling
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simons Postdoctoral Fellowships in Plant Biology]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/"/>
-        <updated>2026-07-26T05:10:17.808Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-plant-biology/" class="m-post__block-link">
-                    Simons Postdoctoral Fellowships in Plant Biology                </a>
-            </h4>
-            <div class="m-post__main">
-                The Simons Foundation’s Life Sciences division invites applications for postdoctoral fellowships to support candidates who intend to pursue a career in basic research on fundamental problems in plant biology. We are interested in applicants with training in disciplines that could be brought to bear on plant biology, including but not limited to engineering, computational modeling,…            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Life Sciences | Plant Biology</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Other            </div>
             <span class="head">Status - </span>
             Closed
                     </aside>

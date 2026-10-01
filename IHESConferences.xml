@@ -2,27 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-01T11:45:47.272Z</updated>
+    <updated>2026-10-01T21:56:30.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[Zeta Values as Moments: A Random Matrix Theory]]></title>
-        <id>https://indico.math.cnrs.fr/event/17408/</id>
-        <link href="https://indico.math.cnrs.fr/event/17408/"/>
-        <updated>2026-09-23T20:36:44.595Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Thursday 01 October 2026<br>
-								from 14:30 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17408/" target="_blank">Zeta Values as Moments: A Random Matrix Theory</a>
-								</h3>
-								<p><strong> Hartmut Monien</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Origami Tori]]></title>
         <id>https://indico.math.cnrs.fr/event/17062/</id>
@@ -147,6 +129,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeta Values as Moments: A Random Matrix Theory]]></title>
+        <id>https://indico.math.cnrs.fr/event/17408/</id>
+        <link href="https://indico.math.cnrs.fr/event/17408/"/>
+        <updated>2026-09-23T20:36:44.595Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Thursday 01 October 2026<br>
+								from 14:30 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17408/" target="_blank">Zeta Values as Moments: A Random Matrix Theory</a>
+								</h3>
+								<p><strong> Hartmut Monien</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -309,24 +309,6 @@
 									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
 								</h3>
 								<p><strong> Jutho Haegeman</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CayleyPy-Holography: Mathematical and String Theory Methods for AI]]></title>
-        <id>https://indico.math.cnrs.fr/event/16953/</id>
-        <link href="https://indico.math.cnrs.fr/event/16953/"/>
-        <updated>2026-07-08T18:54:54.149Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Thursday 16 July 2026<br>
-								from 14:00 to 15:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16953/" target="_blank">CayleyPy-Holography: Mathematical and String Theory Methods for AI</a>
-								</h3>
-								<p><strong> Alexander Chervov</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
