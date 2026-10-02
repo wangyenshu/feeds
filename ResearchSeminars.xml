@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-01T21:56:30.104Z</updated>
+    <updated>2026-10-02T11:15:42.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Matrix-product states and tensor networks: a gentle introduction]]></title>
-        <id>https://researchseminars.org/seminar/courses_ipht</id>
-        <link href="https://researchseminars.org/seminar/courses_ipht"/>
-        <updated>2026-09-04T19:47:58.539Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 02</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Grégoire Misguich</td><td class="talktitle"><a title="Matrix-product states and tensor networks: a gentle introduction" knowl="talk/courses_ipht/44">Matrix-product states and tensor networks: a gentle introduction</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Active subspaces for parametric PDEs: Approximation, sampling, and multilevel computation]]></title>
         <id>https://researchseminars.org/seminar/AnJunSem</id>
@@ -408,7 +401,7 @@
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/PSMQFT</id>
         <link href="https://researchseminars.org/seminar/PSMQFT"/>
-        <updated>2026-10-01T21:56:04.347Z</updated>
+        <updated>2026-10-01T21:56:04.275Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Alix Deleporte</td><td class="talktitle"><a title="TBA" knowl="talk/PSMQFT/12">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -615,13 +608,6 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/CombinatoricsOnWords">One World Combinatorics on Words Seminar</a></td><td class="speaker">Vanessa Kosoy</td><td class="talktitle"><a title="Stringological sequence prediction" knowl="talk/CombinatoricsOnWords/142">Stringological sequence prediction</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/UEAPS</id>
-        <link href="https://researchseminars.org/seminar/UEAPS"/>
-        <updated>2026-09-18T09:59:11.669Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/UEAPS">ANTLR seminar</a></td><td class="speaker">Tamanna Chatterjee</td><td class="talktitle"><a title="TBA" knowl="talk/UEAPS/83">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gröbner Basis and Relinearization Algorithm for Ring-LWE]]></title>
         <id>https://researchseminars.org/seminar/CryptoCafe</id>
         <link href="https://researchseminars.org/seminar/CryptoCafe"/>
@@ -704,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/MITNT"/>
         <updated>2026-10-01T21:56:04.408Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/MITNT">MIT number theory seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/nicole-looper">Nicole Looper</a></td><td class="talktitle"><a title="TBA" knowl="talk/MITNT/144">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observing Jet/Accretion Flow/Black Hole (JAB) Systems – Towards EHT’s First Black Hole Movies]]></title>
+        <id>https://researchseminars.org/seminar/UMissPhysAstroColloq</id>
+        <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
+        <updated>2026-08-27T16:39:49.277Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Richard Anantua</td><td class="talktitle"><a title="Observing Jet/Accretion Flow/Black Hole (JAB) Systems – Towards EHT’s First Black Hole Movies" knowl="talk/UMissPhysAstroColloq/8">Observing Jet/Accretion Flow/Black Hole (JAB) Systems – Towards EHT’s First Black Hole Movies</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies]]></title>
+        <id>https://researchseminars.org/seminar/SFUOR</id>
+        <link href="https://researchseminars.org/seminar/SFUOR"/>
+        <updated>2026-09-23T10:13:08.770Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">Serhii Myroshnychenko</td><td class="talktitle"><a title="Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies" knowl="talk/SFUOR/76">Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

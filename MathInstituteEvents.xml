@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-10-01T21:56:30.084Z</updated>
+    <updated>2026-10-02T11:15:42.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -288,80 +288,6 @@
 			<div class="event-info">IPAM - September 23, 2026 to December 18, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
-        <id>https://mathinstitutes.org/events/1488/view/</id>
-        <link href="https://mathinstitutes.org/events/1488/view/"/>
-        <updated>2026-09-18T09:58:32.195Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
-			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
-        <id>https://mathinstitutes.org/events/1488/view/</id>
-        <link href="https://mathinstitutes.org/events/1488/view/"/>
-        <updated>2026-09-18T09:58:32.195Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
-			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical foundations for AI agents in complex environments]]></title>
-        <id>https://mathinstitutes.org/events/1488/view/</id>
-        <link href="https://mathinstitutes.org/events/1488/view/"/>
-        <updated>2026-09-18T09:58:32.195Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1488/view/" target="_blank" rel="noopener">Mathematical foundations for AI agents in complex environments</a></h5>
-			<div class="event-info">AIM - September 28, 2026 to October 2, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics]]></title>
-        <id>https://mathinstitutes.org/events/1384/view/</id>
-        <link href="https://mathinstitutes.org/events/1384/view/"/>
-        <updated>2026-09-04T19:47:12.450Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1384/view/" target="_blank" rel="noopener">Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics</a></h5>
-			<div class="event-info">ICERM - September 28, 2026 to October 2, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics]]></title>
-        <id>https://mathinstitutes.org/events/1384/view/</id>
-        <link href="https://mathinstitutes.org/events/1384/view/"/>
-        <updated>2026-09-04T19:47:12.450Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1384/view/" target="_blank" rel="noopener">Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics</a></h5>
-			<div class="event-info">ICERM - September 28, 2026 to October 2, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics]]></title>
-        <id>https://mathinstitutes.org/events/1384/view/</id>
-        <link href="https://mathinstitutes.org/events/1384/view/"/>
-        <updated>2026-09-04T19:47:12.450Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12434_icerm.png" alt="ICERM" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1384/view/" target="_blank" rel="noopener">Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics</a></h5>
-			<div class="event-info">ICERM - September 28, 2026 to October 2, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
         <id>https://mathinstitutes.org/events/1498/view/</id>
         <link href="https://mathinstitutes.org/events/1498/view/"/>
@@ -397,5 +323,79 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1498/view/" target="_blank" rel="noopener">Statistical Foundations of Generative Modeling</a></h5>
 			<div class="event-info">IMSI - October 5, 2026 to October 9, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
+        <id>https://mathinstitutes.org/events/1352/view/</id>
+        <link href="https://mathinstitutes.org/events/1352/view/"/>
+        <updated>2026-10-02T11:14:37.864Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
+			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
+        <id>https://mathinstitutes.org/events/1352/view/</id>
+        <link href="https://mathinstitutes.org/events/1352/view/"/>
+        <updated>2026-10-02T11:14:37.866Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
+			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
+        <id>https://mathinstitutes.org/events/1352/view/</id>
+        <link href="https://mathinstitutes.org/events/1352/view/"/>
+        <updated>2026-10-02T11:14:37.867Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
+			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modularity and quantum topology]]></title>
+        <id>https://mathinstitutes.org/events/1343/view/</id>
+        <link href="https://mathinstitutes.org/events/1343/view/"/>
+        <updated>2026-10-02T11:14:37.868Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1343/view/" target="_blank" rel="noopener">Modularity and quantum topology</a></h5>
+			<div class="event-info">AIM - October 12, 2026 to October 16, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modularity and quantum topology]]></title>
+        <id>https://mathinstitutes.org/events/1343/view/</id>
+        <link href="https://mathinstitutes.org/events/1343/view/"/>
+        <updated>2026-10-02T11:14:37.870Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1343/view/" target="_blank" rel="noopener">Modularity and quantum topology</a></h5>
+			<div class="event-info">AIM - October 12, 2026 to October 16, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modularity and quantum topology]]></title>
+        <id>https://mathinstitutes.org/events/1343/view/</id>
+        <link href="https://mathinstitutes.org/events/1343/view/"/>
+        <updated>2026-10-02T11:14:37.872Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1343/view/" target="_blank" rel="noopener">Modularity and quantum topology</a></h5>
+			<div class="event-info">AIM - October 12, 2026 to October 16, 2026</div>]]></content>
     </entry>
 </feed>
