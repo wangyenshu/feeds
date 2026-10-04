@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-03T20:04:52.366Z</updated>
+    <updated>2026-10-04T20:22:21.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[2026 West Coast Optimization Meeting]]></title>
-        <id>https://researchseminars.org/seminar/SFUOR</id>
-        <link href="https://researchseminars.org/seminar/SFUOR"/>
-        <updated>2026-09-23T10:13:08.770Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 03</td><td class="time" title="UTC"><b>16:00</b></td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">(11 talks)</td><td class="talktitle"><a title="2026 West Coast Optimization Meeting" knowl="talk/SFUOR/75">2026 West Coast Optimization Meeting</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (1/3)]]></title>
         <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://properzi.github.io/">Silvia Properzi</a></td><td class="talktitle"><a title="Free Skew Braces: a construction in the right nilpotent setting" knowl="talk/ENAAS/188">Free Skew Braces: a construction in the right nilpotent setting</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Idempotents in the Temperley-Lieb Monoid and Other Categories]]></title>
         <id>https://researchseminars.org/seminar/Knotsandtopology</id>
         <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
         <updated>2026-09-27T10:40:55.351Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="TBA" knowl="talk/Knotsandtopology/183">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Idempotents in the Temperley-Lieb Monoid and Other Categories" knowl="talk/Knotsandtopology/183">Idempotents in the Temperley-Lieb Monoid and Other Categories</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Monodromy results in characteristic ppp]]></title>
@@ -335,11 +328,18 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Wanqiang Liu</td><td class="talktitle"><a title="A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing" knowl="talk/ICCUB_Seminars/101">A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Wave Interaction of a Fluid with Submerged Bodies]]></title>
+        <id>https://researchseminars.org/seminar/mmandim</id>
+        <link href="https://researchseminars.org/seminar/mmandim"/>
+        <updated>2026-10-04T20:21:59.396Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/mmandim">Mathematical models and integration methods</a></td><td class="speaker">A.E. Golikov</td><td class="talktitle"><a title="Wave Interaction of a Fluid with Submerged Bodies" knowl="talk/mmandim/116">Wave Interaction of a Fluid with Submerged Bodies</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators]]></title>
         <id>https://researchseminars.org/seminar/PSMQFT</id>
         <link href="https://researchseminars.org/seminar/PSMQFT"/>
         <updated>2026-10-01T21:56:04.275Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Alix Deleporte</td><td class="talktitle"><a title="TBA" knowl="talk/PSMQFT/12">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Alix Deleporte</td><td class="talktitle"><a title="Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators" knowl="talk/PSMQFT/12">Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Top-dimensional ℓ2\ell^2ℓ2-homology of hyperbolic groups]]></title>
@@ -452,6 +452,13 @@
         <link href="https://researchseminars.org/seminar/CIRGET"/>
         <updated>2026-09-02T09:49:48.758Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Mariel Saez</td><td class="talktitle"><a title="Special Solutions to Mean Curvature Flow on Three-Manifolds with Lie Group Structure" knowl="talk/CIRGET/172">Special Solutions to Mean Curvature Flow on Three-Manifolds with Lie Group Structure</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathdramatics: Math on Stage]]></title>
+        <id>https://researchseminars.org/seminar/CompMath</id>
+        <link href="https://researchseminars.org/seminar/CompMath"/>
+        <updated>2026-10-04T20:21:59.414Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Emma LaPlace</td><td class="talktitle"><a title="Mathdramatics: Math on Stage" knowl="talk/CompMath/39">Mathdramatics: Math on Stage</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Khovanov monodromy groups via motions]]></title>
@@ -697,12 +704,5 @@
         <link href="https://researchseminars.org/seminar/th21"/>
         <updated>2026-10-02T21:25:07.334Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/th21">Theorems of the 21st Century Seminar</a></td><td class="speaker"><a href="https://people.maths.ox.ac.uk/keevash/">Peter Keevash</a></td><td class="talktitle"><a title="Combinatorial designs" knowl="talk/th21/10">Combinatorial designs</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/FGC-IPM</id>
-        <link href="https://researchseminars.org/seminar/FGC-IPM"/>
-        <updated>2026-10-03T20:04:31.813Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/FGC-IPM">FGC-HRI-IPM Number Theory Webinars</a></td><td class="speaker">Ananth Shankar</td><td class="talktitle"><a title="TBA" knowl="talk/FGC-IPM/69">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
