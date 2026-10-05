@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ymsc.tsinghua.edu.cn/en/</id>
     <title>YMSC Lectures</title>
-    <updated>2026-10-04T20:22:21.976Z</updated>
+    <updated>2026-10-05T12:31:03.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ymsc.tsinghua.edu.cn/en/resources/logo.ico</icon>
     <entry>
@@ -50,7 +50,7 @@
         <div class="t-1">Mathematical Explanations of Neural  Networks and Transformers</div>
         <div class="t-2">Astract:Neural networks such as encoder-decoder architectures, UNet, and Transformers have achieved remarkable success in image processing and sequence modeling, yet a comprehensive mathematical understanding of their structure remains limited. In this talk, we present a unified, operator-theoretic framework that interprets these architectures through the lens of control theory, multigrid metho...</div>
         <div class="t-3">Speaker：Xue-Cheng Tai (NORCE Norwegian Research Centre)</div>
-        <img src="images/20210728174100_21425.png" alt="" style="position:absolute;right:0;top: 0;width: 30px;">
+        
     </a>]]></content>
     </entry>
     <entry>
