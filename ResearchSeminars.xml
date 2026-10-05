@@ -2,78 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-05T12:31:03.702Z</updated>
+    <updated>2026-10-05T23:17:37.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (1/3)]]></title>
-        <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
-        <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
-        <updated>2026-09-21T10:58:28.254Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/Geometric_Structures_SISSA">Geometric Structures Research Seminar</a></td><td class="speaker"><a href="https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html">Shouhei Honda</a></td><td class="talktitle"><a title="RCD geometry; recent developments, applications and open problems (1/3)" knowl="talk/Geometric_Structures_SISSA/117">RCD geometry; recent developments, applications and open problems (1/3)</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invitation to Random Tensor Models: from random geometry to enumeration of tensor invariants]]></title>
-        <id>https://researchseminars.org/seminar/PSMQFT</id>
-        <link href="https://researchseminars.org/seminar/PSMQFT"/>
-        <updated>2026-10-01T21:56:04.275Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Reiko Toriumi</td><td class="talktitle"><a title="Invitation to Random Tensor Models: from random geometry to enumeration of tensor invariants" knowl="talk/PSMQFT/11">Invitation to Random Tensor Models: from random geometry to enumeration of tensor invariants</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torus actions on compactified braid varieties and polytopality of subword complexes]]></title>
-        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
-        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
-        <updated>2026-09-08T20:06:05.943Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://sites.google.com/site/homepageofmikhailgorsky/">Mikhail Gorsky</a></td><td class="talktitle"><a title="Torus actions on compactified braid varieties and polytopality of subword complexes" knowl="talk/paris-algebra-seminar/235">Torus actions on compactified braid varieties and polytopality of subword complexes</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/NSCM</id>
-        <link href="https://researchseminars.org/seminar/NSCM"/>
-        <updated>2026-09-21T21:11:37.181Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">13:40</td><td class="seriesname"><a href="/seminar/NSCM">Nečas Seminar on Continuum Mechanics</a></td><td class="speaker">we do not meet</td><td class="talktitle"><a title="TBA" knowl="talk/NSCM/226">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extremizers for point evaluation in Paley--Wiener spaces]]></title>
-        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
-        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
-        <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://www.ntnu.edu/employees/kristian.seip">Kristian Seip</a></td><td class="talktitle"><a title="Extremizers for point evaluation in Paley--Wiener spaces" knowl="talk/GeomInequAndPDEs/205">Extremizers for point evaluation in Paley--Wiener spaces</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Skew Braces: a construction in the right nilpotent setting]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://properzi.github.io/">Silvia Properzi</a></td><td class="talktitle"><a title="Free Skew Braces: a construction in the right nilpotent setting" knowl="talk/ENAAS/188">Free Skew Braces: a construction in the right nilpotent setting</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idempotents in the Temperley-Lieb Monoid and Other Categories]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-09-27T10:40:55.351Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Louis Kauffman</td><td class="talktitle"><a title="Idempotents in the Temperley-Lieb Monoid and Other Categories" knowl="talk/Knotsandtopology/183">Idempotents in the Temperley-Lieb Monoid and Other Categories</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monodromy results in characteristic ppp]]></title>
-        <id>https://researchseminars.org/seminar/NTBU</id>
-        <link href="https://researchseminars.org/seminar/NTBU"/>
-        <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/tbhatnagar/home?authuser=0">Tejasi Bhatnagar</a></td><td class="talktitle"><a title="Monodromy results in characteristic $p$" knowl="talk/NTBU/55">Monodromy results in characteristic <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span></a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motivic Theta Lifting and Beilinson’s Conjectures]]></title>
-        <id>https://researchseminars.org/seminar/UCLANTHRY</id>
-        <link href="https://researchseminars.org/seminar/UCLANTHRY"/>
-        <updated>2026-09-22T10:12:24.414Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLANTHRY">UCLA Number Theory Seminar</a></td><td class="speaker">Linli Shi</td><td class="talktitle"><a title="Motivic Theta Lifting and Beilinson’s Conjectures" knowl="talk/UCLANTHRY/20">Motivic Theta Lifting and Beilinson’s Conjectures</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Two Problems in Soccer Analytics]]></title>
         <id>https://researchseminars.org/seminar/UFV-math-stats</id>
         <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
         <updated>2026-09-02T09:49:48.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC"><b>23:00</b></td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures]]></title>
@@ -240,7 +177,7 @@
         <title type="html"><![CDATA[Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems]]></title>
         <id>https://researchseminars.org/seminar/MathEngSeminars</id>
         <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
-        <updated>2026-10-05T12:30:38.690Z</updated>
+        <updated>2026-10-05T12:30:38.689Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="http://www.deroglu.com">Deniz Eroğlu</a></td><td class="talktitle"><a title="Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems" knowl="talk/MathEngSeminars/2">Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
@@ -699,17 +636,80 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">Serhii Myroshnychenko</td><td class="talktitle"><a title="Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies" knowl="talk/SFUOR/76">Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Optimization in the probability space: computational gradient flows for sampling and inference]]></title>
         <id>https://researchseminars.org/seminar/gbgstats</id>
         <link href="https://researchseminars.org/seminar/gbgstats"/>
         <updated>2026-09-23T20:37:13.328Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker"><a href="https://jj-zhu.github.io/">JJ Zhu</a></td><td class="talktitle"><a title="TBA" knowl="talk/gbgstats/127">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker"><a href="https://jj-zhu.github.io/">JJ Zhu</a></td><td class="talktitle"><a title="Optimization in the probability space: computational gradient flows for sampling and inference" knowl="talk/gbgstats/127">Optimization in the probability space: computational gradient flows for sampling and inference</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Toeplitz Operators: From Hardy and Bergman Spaces to Köthe Spaces]]></title>
         <id>https://researchseminars.org/seminar/MathEngSeminars</id>
         <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
-        <updated>2026-10-05T12:30:38.747Z</updated>
+        <updated>2026-10-05T12:30:38.689Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://apedia.fsm.edu.tr/cv/ndogan">Nazlı Doğan</a></td><td class="talktitle"><a title="Toeplitz Operators: From Hardy and Bergman Spaces to Köthe Spaces" knowl="talk/MathEngSeminars/3">Toeplitz Operators: From Hardy and Bergman Spaces to Köthe Spaces</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometry of conic connections]]></title>
+        <id>https://researchseminars.org/seminar/PHK-cohomology-seminar</id>
+        <link href="https://researchseminars.org/seminar/PHK-cohomology-seminar"/>
+        <updated>2026-10-05T23:17:15.011Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/PHK-cohomology-seminar">Prague-Hradec Kralove seminar Cohomology in algebra, geometry, physics and statistics</a></td><td class="speaker">Katharina Neusser</td><td class="talktitle"><a title="Geometry of conic connections" knowl="talk/PHK-cohomology-seminar/162">Geometry of conic connections</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Certifiable Metric State Estimation for Autonomous Robots]]></title>
+        <id>https://researchseminars.org/seminar/IEEECSS_TCSP</id>
+        <link href="https://researchseminars.org/seminar/IEEECSS_TCSP"/>
+        <updated>2026-10-05T23:17:15.013Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/IEEECSS_TCSP">Rising Star Symposium on Cyber-Physical Systems Security, Resilience, and Privacy</a></td><td class="speaker">Baoshan Song</td><td class="talktitle"><a title="Towards Certifiable Metric State Estimation for Autonomous Robots" knowl="talk/IEEECSS_TCSP/15">Towards Certifiable Metric State Estimation for Autonomous Robots</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Fargues--Scholze local Langlands correspondence for Yu's supercuspidals]]></title>
+        <id>https://researchseminars.org/seminar/LNTS</id>
+        <link href="https://researchseminars.org/seminar/LNTS"/>
+        <updated>2026-10-01T11:45:23.846Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LNTS">London number theory seminar</a></td><td class="speaker"><a href="https://www.math.uni-bonn.de/people/scotner/">Sean Cotner</a></td><td class="talktitle"><a title="On the Fargues--Scholze local Langlands correspondence for Yu's supercuspidals" knowl="talk/LNTS/202">On the Fargues--Scholze local Langlands correspondence for Yu's supercuspidals</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The semigroup crossed product C∗C^*C∗-algebra corresponding to the action induced by the multiplication on ppp-adic integers and its ideal structure]]></title>
+        <id>https://researchseminars.org/seminar/NYC-NCG</id>
+        <link href="https://researchseminars.org/seminar/NYC-NCG"/>
+        <updated>2026-07-26T05:01:56.522Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://math.kmutt.ac.th/dr-saeid-zahmatkesh-komeleh/">Saeid Zahmatkesh</a></td><td class="talktitle"><a title="The semigroup crossed product $C^*$-algebra corresponding to the action induced by the multiplication on $p$-adic integers and its ideal structure" knowl="talk/NYC-NCG/227">The semigroup crossed product <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>C</mi><mo>∗</mo></msup></mrow><annotation encoding="application/x-tex">C^*</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.688696em; vertical-align: 0em;"></span><span class="mord"><span style="margin-right: 0.07153em;" class="mord mathdefault">C</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.688696em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∗</span></span></span></span></span></span></span></span></span></span></span></span>-algebra corresponding to the action induced by the multiplication on <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span>-adic integers and its ideal structure</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combinatorial designs]]></title>
+        <id>https://researchseminars.org/seminar/th21</id>
+        <link href="https://researchseminars.org/seminar/th21"/>
+        <updated>2026-10-05T23:17:15.018Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/th21">Theorems of the 21st Century Seminar</a></td><td class="speaker"><a href="https://people.maths.ox.ac.uk/keevash/">Peter Keevash</a></td><td class="talktitle"><a title="Combinatorial designs" knowl="talk/th21/10">Combinatorial designs</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/FGC-IPM</id>
+        <link href="https://researchseminars.org/seminar/FGC-IPM"/>
+        <updated>2026-10-05T23:17:15.019Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/FGC-IPM">FGC-HRI-IPM Number Theory Webinars</a></td><td class="speaker">Ananth Shankar</td><td class="talktitle"><a title="TBA" knowl="talk/FGC-IPM/69">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computational algorithms for invariant reduction of variational forms]]></title>
+        <id>https://researchseminars.org/seminar/GDEq</id>
+        <link href="https://researchseminars.org/seminar/GDEq"/>
+        <updated>2026-08-27T16:39:49.314Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker">Konstantin Druzhkov</td><td class="talktitle"><a title="Computational algorithms for invariant reduction of variational forms" knowl="talk/GDEq/162">Computational algorithms for invariant reduction of variational forms</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ppp-curvature conjecture for privileged local systems (Joint with Michael Groechenig)]]></title>
+        <id>https://researchseminars.org/seminar/HarvardNT</id>
+        <link href="https://researchseminars.org/seminar/HarvardNT"/>
+        <updated>2026-08-20T05:57:20.222Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/HarvardNT">Harvard number theory seminar</a></td><td class="speaker"><a href="https://page.mi.fu-berlin.de/esnault/">Hélène Esnault</a></td><td class="talktitle"><a title="The $p$-curvature conjecture for privileged local systems (Joint with Michael Groechenig)" knowl="talk/HarvardNT/164">The <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span>-curvature conjecture for privileged local systems (Joint with Michael Groechenig)</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borel subgroups of automorphism groups of affine varieties]]></title>
+        <id>https://researchseminars.org/seminar/CarletonOttawaNT</id>
+        <link href="https://researchseminars.org/seminar/CarletonOttawaNT"/>
+        <updated>2026-09-28T22:37:28.949Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/CarletonOttawaNT">Carleton-Ottawa Number Theory seminar</a></td><td class="speaker">Michael Chitayat</td><td class="talktitle"><a title="Borel subgroups of automorphism groups of affine varieties" knowl="talk/CarletonOttawaNT/79">Borel subgroups of automorphism groups of affine varieties</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

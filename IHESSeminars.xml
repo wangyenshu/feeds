@@ -2,45 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-05T12:31:03.564Z</updated>
+    <updated>2026-10-05T23:17:37.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[Origami Tori]]></title>
-        <id>https://indico.math.cnrs.fr/event/17062/</id>
-        <link href="https://indico.math.cnrs.fr/event/17062/"/>
-        <updated>2026-09-11T19:55:53.864Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Monday 05 October 2026<br>
-								from 14:00 to 15:15							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire Géométrie et groupes discrets									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17062/" target="_blank">Origami Tori</a>
-								</h3>
-								<p><strong> Richard Schwartz</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Families of Discrete Representations from Incidence Theorems]]></title>
-        <id>https://indico.math.cnrs.fr/event/17063/</id>
-        <link href="https://indico.math.cnrs.fr/event/17063/"/>
-        <updated>2026-09-11T19:55:53.864Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Monday 05 October 2026<br>
-								from 16:00 to 17:15							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire Géométrie et groupes discrets									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17063/" target="_blank">Families of Discrete Representations from Incidence Theorems</a>
-								</h3>
-								<p><strong> Jean-Philippe Burelle</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions]]></title>
         <id>https://indico.math.cnrs.fr/event/17103/</id>
@@ -96,6 +60,24 @@
 							</td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Horizon flux-balance laws in the multiscale perturbation]]></title>
+        <id>https://indico.math.cnrs.fr/event/17505/</id>
+        <link href="https://indico.math.cnrs.fr/event/17505/"/>
+        <updated>2026-10-05T23:16:38.335Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 14 October 2026<br>
+								from 11:00 to 12:15							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17505/" target="_blank">Horizon flux-balance laws in the multiscale perturbation</a>
+								</h3>
+								<p><strong> Ali M. Seraj</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Doubly Conformal Dispersion Relation]]></title>
         <id>https://indico.math.cnrs.fr/event/17474/</id>
         <link href="https://indico.math.cnrs.fr/event/17474/"/>
@@ -129,6 +111,42 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Families of Discrete Representations from Incidence Theorems]]></title>
+        <id>https://indico.math.cnrs.fr/event/17063/</id>
+        <link href="https://indico.math.cnrs.fr/event/17063/"/>
+        <updated>2026-09-11T19:55:53.864Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 05 October 2026<br>
+								from 16:00 to 17:15							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire Géométrie et groupes discrets									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17063/" target="_blank">Families of Discrete Representations from Incidence Theorems</a>
+								</h3>
+								<p><strong> Jean-Philippe Burelle</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origami Tori]]></title>
+        <id>https://indico.math.cnrs.fr/event/17062/</id>
+        <link href="https://indico.math.cnrs.fr/event/17062/"/>
+        <updated>2026-09-11T19:55:53.864Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Monday 05 October 2026<br>
+								from 14:00 to 15:15							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire Géométrie et groupes discrets									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17062/" target="_blank">Origami Tori</a>
+								</h3>
+								<p><strong> Richard Schwartz</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -273,42 +291,6 @@
 									<a href="https://indico.math.cnrs.fr/event/17000/" target="_blank">Machine Learning and the Combinatorics of Cayley Graphs</a>
 								</h3>
 								<p><strong> Alex Soibelman</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rigorous Lower Bounds on Spectral Gaps of Frustration-Free Quantum Spin Chains]]></title>
-        <id>https://indico.math.cnrs.fr/event/16937/</id>
-        <link href="https://indico.math.cnrs.fr/event/16937/"/>
-        <updated>2026-09-11T19:55:53.877Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Friday 17 July 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16937/" target="_blank">Rigorous Lower Bounds on Spectral Gaps of Frustration-Free Quantum Spin Chains</a>
-								</h3>
-								<p><strong> Norbert Schuch</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional {mathbb Z}_N{mathbb Z}_N lattice gauge theory]]></title>
-        <id>https://indico.math.cnrs.fr/event/16932/</id>
-        <link href="https://indico.math.cnrs.fr/event/16932/"/>
-        <updated>2026-09-11T19:55:53.879Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Thursday 16 July 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/16932/" target="_blank">Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional <span class="MathJax_Preview">{mathbb Z}_N</span><script type="math/tex">{mathbb Z}_N</script> lattice gauge theory</a>
-								</h3>
-								<p><strong> Jutho Haegeman</strong></p>
 							</td>]]></content>
     </entry>
     <entry>

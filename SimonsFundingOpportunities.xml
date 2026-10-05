@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.simonsfoundation.org/funding-opportunities/</id>
     <title>Simons Foundation — Funding Opportunities</title>
-    <updated>2026-10-05T12:31:03.622Z</updated>
+    <updated>2026-10-05T23:17:37.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.simonsfoundation.org/app/themes/simonsfoundation/favicon.svg</icon>
     <entry>
@@ -261,6 +261,35 @@
                 Investigators            </div>
             <span class="head">Status - </span>
             Rolling, <span class="m-post__muted"> LOI Submission Required.</span>
+                    </aside>
+
+
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simons Dissertation Fellowship in Mathematics]]></title>
+        <id>https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/</id>
+        <link href="https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/"/>
+        <updated>2026-07-26T05:10:17.783Z</updated>
+        <content type="html"><![CDATA[<div class="m-post__inner">
+        <header class="m-post__header">
+            <h4 class="m-post__title">
+                <a href="https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/" class="m-post__block-link">
+                    Simons Dissertation Fellowship in Mathematics                </a>
+            </h4>
+            <div class="m-post__main">
+                The MPS division invites applications for the Simons Dissertation Fellowship in Mathematics to provide research support to excellent graduate students in the final years of their Ph.D. studies. This program was created to honor the work of our late founder, Jim Simons, and his commitment to supporting the field of mathematics.            </div>
+            <div class="program-area">
+                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
+            </div>
+        </header>
+
+        <aside class="m-post__aside">
+            <div>
+                <span class="head">Career Stage - </span>
+                Graduate Students            </div>
+            <span class="head">Status - </span>
+            Closed
                     </aside>
 
 
@@ -665,35 +694,6 @@
             <div>
                 <span class="head">Career Stage - </span>
                 Investigators            </div>
-            <span class="head">Status - </span>
-            Closed
-                    </aside>
-
-
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simons Dissertation Fellowship in Mathematics]]></title>
-        <id>https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/</id>
-        <link href="https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/"/>
-        <updated>2026-07-26T05:10:17.783Z</updated>
-        <content type="html"><![CDATA[<div class="m-post__inner">
-        <header class="m-post__header">
-            <h4 class="m-post__title">
-                <a href="https://www.simonsfoundation.org/grant/simons-dissertation-fellowship-in-mathematics/" class="m-post__block-link">
-                    Simons Dissertation Fellowship in Mathematics                </a>
-            </h4>
-            <div class="m-post__main">
-                The MPS division invites applications for the Simons Dissertation Fellowship in Mathematics to provide research support to excellent graduate students in the final years of their Ph.D. studies. This program was created to honor the work of our late founder, Jim Simons, and his commitment to supporting the field of mathematics.            </div>
-            <div class="program-area">
-                <span>Program Area: </span><span>Mathematics &amp; Physical Sciences</span>
-            </div>
-        </header>
-
-        <aside class="m-post__aside">
-            <div>
-                <span class="head">Career Stage - </span>
-                Graduate Students            </div>
             <span class="head">Status - </span>
             Closed
                     </aside>
