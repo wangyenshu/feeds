@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-05T23:17:37.432Z</updated>
+    <updated>2026-10-06T12:10:51.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
     <entry>
@@ -60,6 +60,24 @@
 							</td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maximal functions, Nikodym sets and local smoothing estimates]]></title>
+        <id>https://indico.math.cnrs.fr/event/17508/</id>
+        <link href="https://indico.math.cnrs.fr/event/17508/"/>
+        <updated>2026-10-06T12:09:54.450Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Friday 09 October 2026<br>
+								from 14:00 to 15:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17508/" target="_blank">Maximal functions, Nikodym sets and local smoothing estimates</a>
+								</h3>
+								<p><strong> Chen Mingfeng</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Horizon flux-balance laws in the multiscale perturbation]]></title>
         <id>https://indico.math.cnrs.fr/event/17505/</id>
         <link href="https://indico.math.cnrs.fr/event/17505/"/>
@@ -83,8 +101,8 @@
         <link href="https://indico.math.cnrs.fr/event/17474/"/>
         <updated>2026-10-01T11:44:47.460Z</updated>
         <content type="html"><![CDATA[<td class="Agenda-date">
-								Wednesday 14 October 2026<br>
-								from 11:00 to 12:30							</td>
+								Friday 16 October 2026<br>
+								from 14:45 to 16:15							</td>
 							<td class="Agenda-sujet">
 								<p><small>
 																		Séminaire de Physique Théorique									</small>

@@ -2,36 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-05T23:17:37.442Z</updated>
+    <updated>2026-10-06T12:10:51.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Two Problems in Soccer Analytics]]></title>
-        <id>https://researchseminars.org/seminar/UFV-math-stats</id>
-        <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
-        <updated>2026-09-02T09:49:48.773Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 05</td><td class="time" title="UTC"><b>23:00</b></td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.sfu.ca/~tswartz/">Tim Swartz</a></td><td class="talktitle"><a title="Two Problems in Soccer Analytics" knowl="talk/UFV-math-stats/33">Two Problems in Soccer Analytics</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures]]></title>
-        <id>https://researchseminars.org/seminar/GoldstonKyushu2026</id>
-        <link href="https://researchseminars.org/seminar/GoldstonKyushu2026"/>
-        <updated>2026-09-27T10:40:55.360Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/GoldstonKyushu2026">Lecture Series of Daniel Goldston at Kyushu University</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures" knowl="talk/GoldstonKyushu2026/3">Prime Jumping Champions and Prime k-jump Champions using Hardy-Littlewood conjectures</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear and bilinear Bochner-Riesz means on M\'etivier groups]]></title>
-        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
-        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
-        <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker"><a href="https://sites.google.com/view/joydwipsingh/">Joydwip Singh</a></td><td class="talktitle"><a title="Linear and bilinear Bochner-Riesz means on M\'etivier groups" knowl="talk/Nonlinear_Analysis_Seminar/95">Linear and bilinear Bochner-Riesz means on M\'etivier groups</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[From Cusick's conjecture to deletion rigidity in binary digit problems]]></title>
         <id>https://researchseminars.org/seminar/OWNS</id>
         <link href="https://researchseminars.org/seminar/OWNS"/>
         <updated>2026-09-02T09:49:48.777Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/OWNS">One World Numeration seminar</a></td><td class="speaker">Kaimin Cheng</td><td class="talktitle"><a title="From Cusick's conjecture to deletion rigidity in binary digit problems" knowl="talk/OWNS/171">From Cusick's conjecture to deletion rigidity in binary digit problems</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 06</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/OWNS">One World Numeration seminar</a></td><td class="speaker">Kaimin Cheng</td><td class="talktitle"><a title="From Cusick's conjecture to deletion rigidity in binary digit problems" knowl="talk/OWNS/171">From Cusick's conjecture to deletion rigidity in binary digit problems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lattice Free Energy of Molecular Crystals using Normalising Flows]]></title>
@@ -160,11 +139,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker"><a href="https://orlandomarigliano.com">Orlando Marigliano</a></td><td class="talktitle"><a title="Algebraic statistical models" knowl="talk/gbgstats/128">Algebraic statistical models</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geometric Theory of Random Dynamical Systems]]></title>
+        <title type="html"><![CDATA[Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems]]></title>
         <id>https://researchseminars.org/seminar/MathEngSeminars</id>
         <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
         <updated>2026-10-05T12:30:38.689Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://scholar.google.com/citations?user=v97hqOMAAAAJ">Konstantinos Kourliouros</a></td><td class="talktitle"><a title="Geometric Theory of Random Dynamical Systems" knowl="talk/MathEngSeminars/1">Geometric Theory of Random Dynamical Systems</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="http://www.deroglu.com">Deniz Eroğlu</a></td><td class="talktitle"><a title="Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems" knowl="talk/MathEngSeminars/2">Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (2/3)]]></title>
@@ -172,13 +151,6 @@
         <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
         <updated>2026-09-21T10:58:28.254Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/Geometric_Structures_SISSA">Geometric Structures Research Seminar</a></td><td class="speaker"><a href="https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html">Shouhei Honda</a></td><td class="talktitle"><a title="RCD geometry; recent developments, applications and open problems (2/3)" knowl="talk/Geometric_Structures_SISSA/118">RCD geometry; recent developments, applications and open problems (2/3)</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems]]></title>
-        <id>https://researchseminars.org/seminar/MathEngSeminars</id>
-        <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
-        <updated>2026-10-05T12:30:38.689Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 07</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="http://www.deroglu.com">Deniz Eroğlu</a></td><td class="talktitle"><a title="Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems" knowl="talk/MathEngSeminars/2">Network-Oriented Dynamics and Data Science: A Mathematical View of Interacting Systems</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Symmetry-breaking colimit of topological phases]]></title>
@@ -251,11 +223,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">02:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Shivika</td><td class="talktitle"><a title="Exploring upper mantle anisotropic structure through Love-to-Rayleigh scattering" knowl="talk/RSES_HDR_seminar/42">Exploring upper mantle anisotropic structure through Love-to-Rayleigh scattering</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Lifting ethereal Bianchi modular forms]]></title>
         <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
         <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
         <updated>2026-09-25T20:38:46.879Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Lewis Combes</td><td class="talktitle"><a title="TBA" knowl="talk/CompAlgSemMagma/31">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Lewis Combes</td><td class="talktitle"><a title="Lifting ethereal Bianchi modular forms" knowl="talk/CompAlgSemMagma/31">Lifting ethereal Bianchi modular forms</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chapter 6: Quantum versions of classical computations]]></title>
@@ -517,6 +489,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Kit Leong</td><td class="talktitle"><a title="Antarctic Mass Balance estimates with GRACE/GRACE-FO and ICESat-2" knowl="talk/RSES_HDR_seminar/47">Antarctic Mass Balance estimates with GRACE/GRACE-FO and ICESat-2</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nichols algebras and Kazhdan Lusztig correspondences]]></title>
+        <id>https://researchseminars.org/seminar/OISTRTS</id>
+        <link href="https://researchseminars.org/seminar/OISTRTS"/>
+        <updated>2026-10-06T12:10:29.520Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://www.oist.jp/research/research-units/chiral/simon-lentner">Simon Lentner</a></td><td class="talktitle"><a title="Nichols algebras and Kazhdan Lusztig correspondences" knowl="talk/OISTRTS/86">Nichols algebras and Kazhdan Lusztig correspondences</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/TuesdayPDE</id>
         <link href="https://researchseminars.org/seminar/TuesdayPDE"/>
@@ -711,5 +690,19 @@
         <link href="https://researchseminars.org/seminar/CarletonOttawaNT"/>
         <updated>2026-09-28T22:37:28.949Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/CarletonOttawaNT">Carleton-Ottawa Number Theory seminar</a></td><td class="speaker">Michael Chitayat</td><td class="talktitle"><a title="Borel subgroups of automorphism groups of affine varieties" knowl="talk/CarletonOttawaNT/79">Borel subgroups of automorphism groups of affine varieties</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/UtahRTNT</id>
+        <link href="https://researchseminars.org/seminar/UtahRTNT"/>
+        <updated>2026-09-08T09:57:19.947Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">No meeting (fall break)</td><td class="talktitle"><a title="TBA" knowl="talk/UtahRTNT/20">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Proof Batch 3: Mathematicians putting AI to the test]]></title>
+        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
+        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
+        <updated>2026-07-26T05:01:56.481Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Lauren Williams</td><td class="talktitle"><a title="First Proof Batch 3: Mathematicians putting AI to the test" knowl="talk/AI-for-the-working-mathematician/7">First Proof Batch 3: Mathematicians putting AI to the test</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>

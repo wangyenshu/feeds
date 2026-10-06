@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-10-05T23:17:37.452Z</updated>
+    <updated>2026-10-06T12:10:51.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral positions in Mathematics and Stochastics]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28771</id>
-        <link href="https://www.mathjobs.org/jobs/list/28771"/>
-        <updated>2026-08-25T17:56:30.244Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28771" id="k28771" aria-labelledby="k28771 j28771">POSTDOC</a>] <span id="j28771" aria-hidden="true">Postdoctoral positions in Mathematics and Stochastics</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28771"></span>  <span class="sml">&nbsp; <a href="https://www.au.dk/om/stillinger/job/postdoctoral-positions-in-mathematics-and-stochastics-1">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[5-year Institute Research Scholar Positions]]></title>
         <id>https://www.mathjobs.org/jobs/list/28822</id>
@@ -294,5 +287,12 @@
         <link href="https://www.mathjobs.org/jobs/list/28757"/>
         <updated>2026-08-22T17:46:36.269Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28757" id="k28757" aria-labelledby="k28757 j28757">POSTDOC</a>] <span id="j28757" aria-hidden="true">HITS Independent Postdoc Program</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28757"></span>  <span class="sml">&nbsp; <a href="https://short.sg/j/65926654">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heilbronn Research Fellowship]]></title>
+        <id>https://www.mathjobs.org/jobs/list/28955</id>
+        <link href="https://www.mathjobs.org/jobs/list/28955"/>
+        <updated>2026-10-06T12:10:48.593Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/28955" id="k28955" aria-labelledby="k28955 j28955">HRF</a>] <span id="j28955" aria-hidden="true">Heilbronn Research Fellowship</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28955"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/2533/28955/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

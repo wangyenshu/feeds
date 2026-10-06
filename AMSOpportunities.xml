@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ams.org/opportunities</id>
     <title>AMS Mathematical Opportunities</title>
-    <updated>2026-10-05T23:17:37.438Z</updated>
+    <updated>2026-10-06T12:10:51.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ams.org/images/Logo-Favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Apply for the Centennial Fellowship]]></title>
-        <id>https://www.ams.org/opportunities/view/listing?listing_id=494462</id>
-        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494462"/>
-        <updated>2026-09-22T20:22:50.427Z</updated>
-        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494462" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Apply for the Centennial Fellowship</a></h2>
-<p><span class="category"><span class="category category-1">Fellowships</span>, <span class="category category-6">Calls for Applications</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
-<span class="description">The AMS Centennial Research Fellowship Program makes awards annually to outstanding mathematicians to help further their careers in research.
-<br>
-<br>The primary selection criterion for the Centennial Fellowship is the excellence of the candidate's research. Preference will be given to candidates who have not had extensive fellowship support in the past. Recipients may not hold the Centennial Fellowship concurrently with another research fellowship such as a Sloan or NSF Post-doctoral fellowship. A … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494462" rel="1">[Read More]</a></span><br>
-<span class="sponsor_name"><a href="http://www.ams.org/programs/ams-fellowships/centennial-fellow/emp-centflyer">Apply at American Mathematical Society</a></span><br>
-<span class="open_date">Date Posted: Jul 16, 2026</span><br>
-<span class="deadline_date">Deadline: Oct 06, 2026</span><br>
-</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Call for Nominations for Clay Research Fellowships]]></title>
         <id>https://www.ams.org/opportunities/view/listing?listing_id=494453</id>
@@ -149,6 +134,27 @@
 <span class="sponsor_name"><a href="https://midas.umich.edu/training/postdocs/">University of Michigan</a></span><br>
 <span class="open_date">Date Posted: Sep 02, 2026</span><br>
 <span class="deadline_date">Deadline: Nov 23, 2026</span><br>
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for the Ferran Sunyer i Balaguer Prize 2025]]></title>
+        <id>https://www.ams.org/opportunities/view/listing?listing_id=494416</id>
+        <link href="https://www.ams.org/opportunities/view/listing?listing_id=494416"/>
+        <updated>2026-10-06T12:10:38.429Z</updated>
+        <content type="html"><![CDATA[<h2><a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494416" rel="1"><i class="fa fa-share-alt-square" aria-hidden="true">&nbsp;</i>Call for the Ferran Sunyer i Balaguer Prize 2025</a></h2>
+<p><span class="category"><span class="category category-3">Prizes or Awards</span></span> / <span class="target-audience-list"><span class="target-audience target-audience-5">Mathematical scientists/faculty</span></span><br>
+<span class="description">Call for the 
+<br>Ferran Sunyer i Balaguer Prize 2027
+<br>
+<br>The prize will be awarded for a mathematical monograph of an expository nature presenting the latest developments in an active area of research in Mathematics. The monograph must be original, unpublished and not subject  to any previous commitment edition.
+<br>
+<br>The prize consists of 15.000 euros and the winning monograph will be published in Birkhäuser series “Progress in Mathematics”.
+<br>
+<br>DEADLINE FOR SUBMISSION: 
+<br>November 27, 2026, at 1:00 … <a class="newWindow" href="https://www.ams.org/opportunities/view/listing?listing_id=494416" rel="1">[Read More]</a></span><br>
+<span class="sponsor_name"><a href="http://ffsb.iec.cat">Fundació Ferran Sunyer i Balaguer / Ferran Sunyer i Balaguer Foundation</a></span><br>
+<span class="open_date">Date Posted: Apr 30, 2026</span><br>
+<span class="deadline_date">Deadline: Nov 27, 2026</span><br>
 </p>]]></content>
     </entry>
 </feed>
