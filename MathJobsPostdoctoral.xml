@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-10-06T12:10:51.992Z</updated>
+    <updated>2026-10-07T22:12:08.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -60,6 +60,20 @@
         <link href="https://www.mathjobs.org/jobs/list/28895"/>
         <updated>2026-09-15T20:22:59.426Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28895" id="k28895" aria-labelledby="k28895 j28895">PDQC</a>] <span id="j28895" aria-hidden="true">Postdoc</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28895"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/1347/28895/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visiting Research Fellow]]></title>
+        <id>https://www.mathjobs.org/jobs/list/29114</id>
+        <link href="https://www.mathjobs.org/jobs/list/29114"/>
+        <updated>2026-10-07T22:12:05.157Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/29114" id="k29114" aria-labelledby="k29114 j29114">FALL27</a>] <span id="j29114" aria-hidden="true">Visiting Research Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn29114"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/ICERM/29114/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visiting Research Fellow]]></title>
+        <id>https://www.mathjobs.org/jobs/list/29116</id>
+        <link href="https://www.mathjobs.org/jobs/list/29116"/>
+        <updated>2026-10-07T22:12:05.159Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/29116" id="k29116" aria-labelledby="k29116 j29116">SPRING28</a>] <span id="j29116" aria-hidden="true">Visiting Research Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn29116"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/ICERM/29116/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caltech Prize Teaching Fellowships in Mathematics]]></title>
@@ -280,19 +294,5 @@
         <link href="https://www.mathjobs.org/jobs/list/27861"/>
         <updated>2026-07-26T05:37:15.590Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/27861" id="k27861" aria-labelledby="k27861 j27861">PD9</a>] <span id="j27861" aria-hidden="true">Postdoctoral Researcher</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn27861"></span>  <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HITS Independent Postdoc Program]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28757</id>
-        <link href="https://www.mathjobs.org/jobs/list/28757"/>
-        <updated>2026-08-22T17:46:36.269Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28757" id="k28757" aria-labelledby="k28757 j28757">POSTDOC</a>] <span id="j28757" aria-hidden="true">HITS Independent Postdoc Program</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28757"></span>  <span class="sml">&nbsp; <a href="https://short.sg/j/65926654">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heilbronn Research Fellowship]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28955</id>
-        <link href="https://www.mathjobs.org/jobs/list/28955"/>
-        <updated>2026-10-06T12:10:48.593Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28955" id="k28955" aria-labelledby="k28955 j28955">HRF</a>] <span id="j28955" aria-hidden="true">Heilbronn Research Fellowship</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28955"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/2533/28955/apply">Apply</a></span>]]></content>
     </entry>
 </feed>

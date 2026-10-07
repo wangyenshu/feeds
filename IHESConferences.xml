@@ -2,45 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-06T12:10:51.986Z</updated>
+    <updated>2026-10-07T22:12:08.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions]]></title>
-        <id>https://indico.math.cnrs.fr/event/17103/</id>
-        <link href="https://indico.math.cnrs.fr/event/17103/"/>
-        <updated>2026-09-01T10:21:03.625Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Tuesday 06 October 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17103/" target="_blank">On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions</a>
-								</h3>
-								<p><strong> Bernardo Zan</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gravitational Sommerfeld Effects: Framework and Applications]]></title>
-        <id>https://indico.math.cnrs.fr/event/17466/</id>
-        <link href="https://indico.math.cnrs.fr/event/17466/"/>
-        <updated>2026-09-30T11:17:56.983Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Wednesday 07 October 2026<br>
-								from 15:15 to 16:30							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17466/" target="_blank">Gravitational Sommerfeld Effects: Framework and Applications</a>
-								</h3>
-								<p><strong> Chia-Hsien Shen</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[On “Siegel Domains” in p-adic Period Spaces]]></title>
         <id>https://indico.math.cnrs.fr/event/17331/</id>
@@ -129,6 +93,42 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gravitational Sommerfeld Effects: Framework and Applications]]></title>
+        <id>https://indico.math.cnrs.fr/event/17466/</id>
+        <link href="https://indico.math.cnrs.fr/event/17466/"/>
+        <updated>2026-09-30T11:17:56.983Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 07 October 2026<br>
+								from 15:15 to 16:30							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17466/" target="_blank">Gravitational Sommerfeld Effects: Framework and Applications</a>
+								</h3>
+								<p><strong> Chia-Hsien Shen</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions]]></title>
+        <id>https://indico.math.cnrs.fr/event/17103/</id>
+        <link href="https://indico.math.cnrs.fr/event/17103/"/>
+        <updated>2026-09-01T10:21:03.625Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Tuesday 06 October 2026<br>
+								from 14:45 to 16:00							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17103/" target="_blank">On the Wilson-Fisher Fixed Point in the Limit of  Integer Spacetime Dimensions</a>
+								</h3>
+								<p><strong> Bernardo Zan</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -273,42 +273,6 @@
 									<a href="https://indico.math.cnrs.fr/event/17253/" target="_blank">The Messy Story of Crossing Dispersion Relations</a>
 								</h3>
 								<p><strong> Andrea Guerrieri</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonrelativistic Conformal Collider Physics of  Multiparticle Point Production]]></title>
-        <id>https://indico.math.cnrs.fr/event/17071/</id>
-        <link href="https://indico.math.cnrs.fr/event/17071/"/>
-        <updated>2026-08-24T17:57:31.714Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Tuesday 08 September 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17071/" target="_blank">Nonrelativistic Conformal Collider Physics of  Multiparticle Point Production</a>
-								</h3>
-								<p><strong> Dam Thanh Son</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning and the Combinatorics of Cayley Graphs]]></title>
-        <id>https://indico.math.cnrs.fr/event/17000/</id>
-        <link href="https://indico.math.cnrs.fr/event/17000/"/>
-        <updated>2026-07-15T18:38:05.561Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Monday 20 July 2026<br>
-								from 14:00 to 15:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17000/" target="_blank">Machine Learning and the Combinatorics of Cayley Graphs</a>
-								</h3>
-								<p><strong> Alex Soibelman</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
