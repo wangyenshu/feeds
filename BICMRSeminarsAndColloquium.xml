@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-10-07T22:12:08.730Z</updated>
+    <updated>2026-10-08T12:11:43.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[The stable forking conjecture, part II: Understanding the AI counterexample]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/93-4021.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/93-4021.html"/>
-        <updated>2026-09-30T11:18:04.980Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Sep 30</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/93.html" title="Logic" target="_blank">Logic</a> </p>
-                        <p class="black">
-                            <a href="/content/show/93-4021.html" title="The stable forking conjecture, part II: Understanding the AI counterexample" target="_blank">The stable forking conjecture, part II: Understanding the AI counterexample</a>
-                        </p>
-                        <p class="speaker">Speaker(s):  Scott Mutchnik (University of...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/35-4012.html</id>
@@ -32,7 +15,7 @@
                         <p>Oct 08</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
                         <p class="black">
                             <a href="/content/show/35-4012.html" title="From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds" target="_blank">From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds</a>
                         </p>
@@ -54,6 +37,23 @@
                             <a href="/content/show/47-4023.html" title="Convergence Rate of Birkhoff Spectrum for Non-integrable Observables" target="_blank">Convergence Rate of Birkhoff Spectrum for Non-integrable Observables</a>
                         </p>
                         <p class="speaker">Speaker(s): Boyuan Zhao (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contracting Transport Maps on Curved Spaces]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/43-4024.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/43-4024.html"/>
+        <updated>2026-10-08T12:10:55.688Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 14</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/43-4024.html" title="Contracting Transport Maps on Curved Spaces" target="_blank">Contracting Transport Maps on Curved Spaces</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shrey Aryan (Massachusetts Ins...</p>
                     </dd>]]></content>
     </entry>
     <entry>

@@ -2,64 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-07T22:12:08.736Z</updated>
+    <updated>2026-10-08T12:11:43.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Exploring upper mantle anisotropic structure through Love-to-Rayleigh scattering]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">02:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Shivika</td><td class="talktitle"><a title="Exploring upper mantle anisotropic structure through Love-to-Rayleigh scattering" knowl="talk/RSES_HDR_seminar/42">Exploring upper mantle anisotropic structure through Love-to-Rayleigh scattering</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifting ethereal Bianchi modular forms]]></title>
-        <id>https://researchseminars.org/seminar/CompAlgSemMagma</id>
-        <link href="https://researchseminars.org/seminar/CompAlgSemMagma"/>
-        <updated>2026-09-25T20:38:46.879Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">04:00</td><td class="seriesname"><a href="/seminar/CompAlgSemMagma">Computational algebra seminar</a></td><td class="speaker">Lewis Combes</td><td class="talktitle"><a title="Lifting ethereal Bianchi modular forms" knowl="talk/CompAlgSemMagma/31">Lifting ethereal Bianchi modular forms</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 6: Quantum versions of classical computations]]></title>
-        <id>https://researchseminars.org/seminar/QRB</id>
-        <link href="https://researchseminars.org/seminar/QRB"/>
-        <updated>2026-09-25T20:38:46.880Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Eric Dolores</td><td class="talktitle"><a title="Chapter 6: Quantum versions of classical computations" knowl="talk/QRB/10">Chapter 6: Quantum versions of classical computations</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line]]></title>
-        <id>https://researchseminars.org/seminar/GoldstonKyushu2026</id>
-        <link href="https://researchseminars.org/seminar/GoldstonKyushu2026"/>
-        <updated>2026-09-27T10:40:55.360Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">06:00</td><td class="seriesname"><a href="/seminar/GoldstonKyushu2026">Lecture Series of Daniel Goldston at Kyushu University</a></td><td class="speaker">Daniel A. Goldston</td><td class="talktitle"><a title="Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line" knowl="talk/GoldstonKyushu2026/4">Youness Lamzouri’s new unconditional proof that 67.25% of the zeta zeros are simple and on the critical line</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fourier restriction problem for biradial functions]]></title>
-        <id>https://researchseminars.org/seminar/FunctionSpaces</id>
-        <link href="https://researchseminars.org/seminar/FunctionSpaces"/>
-        <updated>2026-09-30T11:18:27.268Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">08:40</td><td class="seriesname"><a href="/seminar/FunctionSpaces">Function spaces</a></td><td class="speaker">Shobu Shiraki</td><td class="talktitle"><a title="The Fourier restriction problem for biradial functions" knowl="talk/FunctionSpaces/126">The Fourier restriction problem for biradial functions</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing]]></title>
-        <id>https://researchseminars.org/seminar/ICCUB_Seminars</id>
-        <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
-        <updated>2026-09-02T09:49:48.792Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Wanqiang Liu</td><td class="talktitle"><a title="A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing" knowl="talk/ICCUB_Seminars/101">A song of spins and phonons: towards quantum simulation of lattice gauge theories with trapped ions by signal processing</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave Interaction of a Fluid with Submerged Bodies]]></title>
-        <id>https://researchseminars.org/seminar/mmandim</id>
-        <link href="https://researchseminars.org/seminar/mmandim"/>
-        <updated>2026-10-04T20:21:59.396Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/mmandim">Mathematical models and integration methods</a></td><td class="speaker">A.E. Golikov</td><td class="talktitle"><a title="Wave Interaction of a Fluid with Submerged Bodies" knowl="talk/mmandim/116">Wave Interaction of a Fluid with Submerged Bodies</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators]]></title>
         <id>https://researchseminars.org/seminar/PSMQFT</id>
         <link href="https://researchseminars.org/seminar/PSMQFT"/>
         <updated>2026-10-01T21:56:04.275Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Alix Deleporte</td><td class="talktitle"><a title="Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators" knowl="talk/PSMQFT/12">Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 08</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Alix Deleporte</td><td class="talktitle"><a title="Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators" knowl="talk/PSMQFT/12">Dynamics and spectrum in the semiclassical limit for non-self-adjoint operators</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Top-dimensional ℓ2\ell^2ℓ2-homology of hyperbolic groups]]></title>
@@ -160,6 +111,13 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Grégoire Misguich</td><td class="talktitle"><a title="Matrix-product states and tensor networks: a gentle introduction" knowl="talk/courses_ipht/45">Matrix-product states and tensor networks: a gentle introduction</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Generalized minimizers for the capillarity energy outside convex obstacles]]></title>
+        <id>https://researchseminars.org/seminar/AnJunSem</id>
+        <link href="https://researchseminars.org/seminar/AnJunSem"/>
+        <updated>2026-10-08T12:11:17.909Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/AnJunSem">Analysis Junior Seminars</a></td><td class="speaker">Gabriele Nani</td><td class="talktitle"><a title="Generalized minimizers for the capillarity energy outside convex obstacles" knowl="talk/AnJunSem/31">Generalized minimizers for the capillarity energy outside convex obstacles</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (3/3)]]></title>
         <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
         <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
@@ -256,6 +214,13 @@
         <link href="https://researchseminars.org/seminar/ENAAS"/>
         <updated>2026-07-26T05:01:56.391Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl">István Heckenberger</a></td><td class="talktitle"><a title="Pointed Hopf algebras of odd dimension" knowl="talk/ENAAS/166">Pointed Hopf algebras of odd dimension</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics]]></title>
+        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
+        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
+        <updated>2026-10-07T22:11:43.585Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Olga Pochinka</td><td class="talktitle"><a title="On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics" knowl="talk/Knotsandtopology/185">On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -405,6 +370,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">Serhii Myroshnychenko</td><td class="talktitle"><a title="Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies" knowl="talk/SFUOR/76">Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Positively curved 6-manifolds with non-Abelian symmetry group]]></title>
+        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
+        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
+        <updated>2026-10-08T12:11:17.982Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Yuhang Liu</td><td class="talktitle"><a title="Positively curved 6-manifolds with non-Abelian symmetry group" knowl="talk/Mos-Bei-top-seminar/170">Positively curved 6-manifolds with non-Abelian symmetry group</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Optimization in the probability space: computational gradient flows for sampling and inference]]></title>
         <id>https://researchseminars.org/seminar/gbgstats</id>
         <link href="https://researchseminars.org/seminar/gbgstats"/>
@@ -514,7 +486,7 @@
         <id>https://researchseminars.org/seminar/QRB</id>
         <link href="https://researchseminars.org/seminar/QRB"/>
         <updated>2026-09-25T20:38:46.880Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Duy Ai Nhan Nguyen</td><td class="talktitle"><a title="Chapter 7: Introduction to Quantum Algorithms" knowl="talk/QRB/11">Chapter 7: Introduction to Quantum Algorithms</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/QRB">Quantum reading book</a></td><td class="speaker">Ai Nhan Nguyen Duy</td><td class="talktitle"><a title="Chapter 7: Introduction to Quantum Algorithms" knowl="talk/QRB/11">Chapter 7: Introduction to Quantum Algorithms</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generic additive character varieties and tensor product multiplicities of generic Deligne–Lusztig characters]]></title>
@@ -622,11 +594,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">12:40</td><td class="seriesname"><a href="/seminar/OBAGS">ODTU-Bilkent Algebraic Geometry Seminars</a></td><td class="speaker"><a href="https://websites.umich.edu/%7Eeken/">Demir Eken</a></td><td class="talktitle"><a title="TBA" knowl="talk/OBAGS/87">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Floer-theoretic entropy of exact symplectomorphisms]]></title>
         <id>https://researchseminars.org/seminar/SympZoominar</id>
         <link href="https://researchseminars.org/seminar/SympZoominar"/>
         <updated>2026-10-07T22:11:43.566Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">13:15</td><td class="seriesname"><a href="/seminar/SympZoominar">Symplectic zoominar</a></td><td class="speaker">Joontae Kim (Sogang University)</td><td class="talktitle"><a title="TBA" knowl="talk/SympZoominar/189">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">13:15</td><td class="seriesname"><a href="/seminar/SympZoominar">Symplectic zoominar</a></td><td class="speaker">Joontae Kim (Sogang University)</td><td class="talktitle"><a title="Floer-theoretic entropy of exact symplectomorphisms" knowl="talk/SympZoominar/189">Floer-theoretic entropy of exact symplectomorphisms</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -704,5 +676,33 @@
         <link href="https://researchseminars.org/seminar/NTBU"/>
         <updated>2026-08-05T19:01:40.170Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker"><a href="https://ayan7744.github.io/">Ayan Nath</a></td><td class="talktitle"><a title="Perfectoid Shimura Varieties of Exceptional Type" knowl="talk/NTBU/56">Perfectoid Shimura Varieties of Exceptional Type</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory Formation in Particle Packings]]></title>
+        <id>https://researchseminars.org/seminar/Modeling_and_Computation</id>
+        <link href="https://researchseminars.org/seminar/Modeling_and_Computation"/>
+        <updated>2026-09-30T11:18:27.235Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/Modeling_and_Computation">Northwestern Applied Mathematics Seminar</a></td><td class="speaker"><a href="https://physics.uchicago.edu/people/profile/professor/">Sidney Nagel</a></td><td class="talktitle"><a title="Memory Formation in Particle Packings" knowl="talk/Modeling_and_Computation/93">Memory Formation in Particle Packings</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A geometric comparison between representations of real and p-adic groups]]></title>
+        <id>https://researchseminars.org/seminar/UtahRTNT</id>
+        <link href="https://researchseminars.org/seminar/UtahRTNT"/>
+        <updated>2026-09-08T09:57:19.947Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">21:30</td><td class="seriesname"><a href="/seminar/UtahRTNT">University of Utah Representation Theory / Number Theory Seminar</a></td><td class="speaker">Qixian Zhao</td><td class="talktitle"><a title="A geometric comparison between representations of real and p-adic groups" knowl="talk/UtahRTNT/25">A geometric comparison between representations of real and p-adic groups</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Action of derived local-at-p Hecke algebra on cohomology of modular curve]]></title>
+        <id>https://researchseminars.org/seminar/UCLANTHRY</id>
+        <link href="https://researchseminars.org/seminar/UCLANTHRY"/>
+        <updated>2026-10-08T12:11:18.057Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLANTHRY">UCLA Number Theory Seminar</a></td><td class="speaker">Samanda Zhang</td><td class="talktitle"><a title="Action of derived local-at-p Hecke algebra on cohomology of modular curve" knowl="talk/UCLANTHRY/21">Action of derived local-at-p Hecke algebra on cohomology of modular curve</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Glaciers to the Ocean Surface: The Mathematics Behind Climate Simulation]]></title>
+        <id>https://researchseminars.org/seminar/UFV-math-stats</id>
+        <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
+        <updated>2026-10-08T12:11:18.059Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.twu.ca/profile/sam-pimentel">Sam Pimentel</a></td><td class="talktitle"><a title="From Glaciers to the Ocean Surface: The Mathematics Behind Climate Simulation" knowl="talk/UFV-math-stats/34">From Glaciers to the Ocean Surface: The Mathematics Behind Climate Simulation</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
