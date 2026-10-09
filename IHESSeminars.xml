@@ -2,27 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#seminars</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-08T12:11:43.247Z</updated>
+    <updated>2026-10-09T12:02:24.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[On “Siegel Domains” in p-adic Period Spaces]]></title>
-        <id>https://indico.math.cnrs.fr/event/17331/</id>
-        <link href="https://indico.math.cnrs.fr/event/17331/"/>
-        <updated>2026-09-15T20:22:02.414Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Thursday 08 October 2026<br>
-								from 11:00 to 12:30							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17331/" target="_blank">On “Siegel Domains” in p-adic Period Spaces</a>
-								</h3>
-								<p><strong> Yoichi Mieda</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Maximal functions, Nikodym sets and local smoothing estimates]]></title>
         <id>https://indico.math.cnrs.fr/event/17508/</id>
@@ -93,6 +75,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On “Siegel Domains” in p-adic Period Spaces]]></title>
+        <id>https://indico.math.cnrs.fr/event/17331/</id>
+        <link href="https://indico.math.cnrs.fr/event/17331/"/>
+        <updated>2026-09-15T20:22:02.414Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Thursday 08 October 2026<br>
+								from 11:00 to 12:30							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Mathématique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17331/" target="_blank">On “Siegel Domains” in p-adic Period Spaces</a>
+								</h3>
+								<p><strong> Yoichi Mieda</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -255,24 +255,6 @@
 									<a href="https://indico.math.cnrs.fr/event/17291/" target="_blank">AI for Math: From Group Theory to Discrete Holography</a>
 								</h3>
 								<p><strong> Fedor Levkovich-Maslyuk</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Messy Story of Crossing Dispersion Relations]]></title>
-        <id>https://indico.math.cnrs.fr/event/17253/</id>
-        <link href="https://indico.math.cnrs.fr/event/17253/"/>
-        <updated>2026-09-11T19:55:53.870Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Friday 11 September 2026<br>
-								from 14:45 to 16:00							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17253/" target="_blank">The Messy Story of Crossing Dispersion Relations</a>
-								</h3>
-								<p><strong> Andrea Guerrieri</strong></p>
 							</td>]]></content>
     </entry>
     <entry>

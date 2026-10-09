@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mathinstitutes.org/events</id>
     <title>Mathematical Sciences Institutes Events</title>
-    <updated>2026-10-08T12:11:43.254Z</updated>
+    <updated>2026-10-09T12:02:24.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://mathinstitutes.org/favicon.ico</icon>
     <entry>
@@ -288,80 +288,6 @@
 			<div class="event-info">IPAM - September 23, 2026 to December 18, 2026</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
-        <id>https://mathinstitutes.org/events/1498/view/</id>
-        <link href="https://mathinstitutes.org/events/1498/view/"/>
-        <updated>2026-09-27T10:40:13.859Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1498/view/" target="_blank" rel="noopener">Statistical Foundations of Generative Modeling</a></h5>
-			<div class="event-info">IMSI - October 5, 2026 to October 9, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
-        <id>https://mathinstitutes.org/events/1498/view/</id>
-        <link href="https://mathinstitutes.org/events/1498/view/"/>
-        <updated>2026-09-27T10:40:13.859Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1498/view/" target="_blank" rel="noopener">Statistical Foundations of Generative Modeling</a></h5>
-			<div class="event-info">IMSI - October 5, 2026 to October 9, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statistical Foundations of Generative Modeling]]></title>
-        <id>https://mathinstitutes.org/events/1498/view/</id>
-        <link href="https://mathinstitutes.org/events/1498/view/"/>
-        <updated>2026-09-27T10:40:13.859Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/12440_imsi.png" alt="IMSI" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1498/view/" target="_blank" rel="noopener">Statistical Foundations of Generative Modeling</a></h5>
-			<div class="event-info">IMSI - October 5, 2026 to October 9, 2026</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
-        <id>https://mathinstitutes.org/events/1352/view/</id>
-        <link href="https://mathinstitutes.org/events/1352/view/"/>
-        <updated>2026-10-02T11:14:37.864Z</updated>
-        <content type="html"><![CDATA[<div class="card mb-4">
-		<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
-			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>
-
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
-        <id>https://mathinstitutes.org/events/1352/view/</id>
-        <link href="https://mathinstitutes.org/events/1352/view/"/>
-        <updated>2026-10-02T11:14:37.864Z</updated>
-        <content type="html"><![CDATA[<div class="card-body">
-			
-							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
-			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>
-
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometric Representation Theory and 3d Mirror Symmetry]]></title>
-        <id>https://mathinstitutes.org/events/1352/view/</id>
-        <link href="https://mathinstitutes.org/events/1352/view/"/>
-        <updated>2026-10-02T11:14:37.864Z</updated>
-        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
-						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1352/view/" target="_blank" rel="noopener">Geometric Representation Theory and 3d Mirror Symmetry</a></h5>
-			<div class="event-info">SLMath - October 5, 2026 to October 9, 2026</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modularity and quantum topology]]></title>
         <id>https://mathinstitutes.org/events/1343/view/</id>
         <link href="https://mathinstitutes.org/events/1343/view/"/>
@@ -397,5 +323,79 @@
         <content type="html"><![CDATA[<img src="/uploads/logos/12432_aim.png" alt="AIM" class="img-fluid event-institute-logo">
 						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1343/view/" target="_blank" rel="noopener">Modularity and quantum topology</a></h5>
 			<div class="event-info">AIM - October 12, 2026 to October 16, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)]]></title>
+        <id>https://mathinstitutes.org/events/1413/view/</id>
+        <link href="https://mathinstitutes.org/events/1413/view/"/>
+        <updated>2026-10-09T12:01:25.066Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1413/view/" target="_blank" rel="noopener">Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)</a></h5>
+			<div class="event-info">IPAM - October 12, 2026 to October 15, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)]]></title>
+        <id>https://mathinstitutes.org/events/1413/view/</id>
+        <link href="https://mathinstitutes.org/events/1413/view/"/>
+        <updated>2026-10-09T12:01:25.067Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1413/view/" target="_blank" rel="noopener">Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)</a></h5>
+			<div class="event-info">IPAM - October 12, 2026 to October 15, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)]]></title>
+        <id>https://mathinstitutes.org/events/1413/view/</id>
+        <link href="https://mathinstitutes.org/events/1413/view/"/>
+        <updated>2026-10-09T12:01:25.068Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/12436_ipam.png" alt="IPAM" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1413/view/" target="_blank" rel="noopener">Workshop I: Hyperbolic Structures and Quantum Invariants (Part of the Long Program Quantum topology, character varieties and low-dimensional geometry)</a></h5>
+			<div class="event-info">IPAM - October 12, 2026 to October 15, 2026</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic homotopy theory: connections and applications]]></title>
+        <id>https://mathinstitutes.org/events/1353/view/</id>
+        <link href="https://mathinstitutes.org/events/1353/view/"/>
+        <updated>2026-10-09T12:01:25.069Z</updated>
+        <content type="html"><![CDATA[<div class="card mb-4">
+		<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1353/view/" target="_blank" rel="noopener">Motivic homotopy theory: connections and applications</a></h5>
+			<div class="event-info">SLMath - October 19, 2026 to October 23, 2026</div>
+
+					</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic homotopy theory: connections and applications]]></title>
+        <id>https://mathinstitutes.org/events/1353/view/</id>
+        <link href="https://mathinstitutes.org/events/1353/view/"/>
+        <updated>2026-10-09T12:01:25.070Z</updated>
+        <content type="html"><![CDATA[<div class="card-body">
+			
+							<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1353/view/" target="_blank" rel="noopener">Motivic homotopy theory: connections and applications</a></h5>
+			<div class="event-info">SLMath - October 19, 2026 to October 23, 2026</div>
+
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motivic homotopy theory: connections and applications]]></title>
+        <id>https://mathinstitutes.org/events/1353/view/</id>
+        <link href="https://mathinstitutes.org/events/1353/view/"/>
+        <updated>2026-10-09T12:01:25.071Z</updated>
+        <content type="html"><![CDATA[<img src="/uploads/logos/13918_slmath.png" alt="SLMath" class="img-fluid event-institute-logo">
+						<h5 class="event-title"><a href="https://mathinstitutes.org/events/1353/view/" target="_blank" rel="noopener">Motivic homotopy theory: connections and applications</a></h5>
+			<div class="event-info">SLMath - October 19, 2026 to October 23, 2026</div>]]></content>
     </entry>
 </feed>

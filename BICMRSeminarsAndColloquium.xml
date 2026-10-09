@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-10-08T12:11:43.224Z</updated>
+    <updated>2026-10-09T12:02:24.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/35-4012.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/35-4012.html"/>
-        <updated>2026-09-23T20:36:52.511Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Oct 08</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/35.html" title="Algebraic Geometry" target="_blank">Algebraic Geometry</a> </p>
-                        <p class="black">
-                            <a href="/content/show/35-4012.html" title="From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds" target="_blank">From Complex Hyperbolicity and Oka Geometry to Rational Curves on Fano Manifolds</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Song-Yan Xie (CAS)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Convergence Rate of Birkhoff Spectrum for Non-integrable Observables]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/47-4023.html</id>
@@ -32,11 +15,45 @@
                         <p>Oct 09</p>
                     </dt>
                                         <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
                         <p class="black">
                             <a href="/content/show/47-4023.html" title="Convergence Rate of Birkhoff Spectrum for Non-integrable Observables" target="_blank">Convergence Rate of Birkhoff Spectrum for Non-integrable Observables</a>
                         </p>
                         <p class="speaker">Speaker(s): Boyuan Zhao (BICMR)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conifold Gap for the Quintic Threefold]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-4026.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-4026.html"/>
+        <updated>2026-10-09T12:01:43.196Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-4026.html" title="Conifold Gap for the Quintic Threefold" target="_blank">Conifold Gap for the Quintic Threefold</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Shuai Guo (Peking University)</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The McKay correspondence and geometric engineering]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/49-4025.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/49-4025.html"/>
+        <updated>2026-10-09T12:01:43.198Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 13</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/49.html" title="Symplectic Geometry and Mathematical Physics" target="_blank">Symplectic Geometry and Mathematical Physics</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/49-4025.html" title="The McKay correspondence and geometric engineering" target="_blank">The McKay correspondence and geometric engineering</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Yinan Wang (Peking University)</p>
                     </dd>]]></content>
     </entry>
     <entry>
@@ -71,23 +88,6 @@
                             <a href="/content/show/18-4020.html" title="Heat equation from a deterministic microscopic dynamics" target="_blank">Heat equation from a deterministic microscopic dynamics</a>
                         </p>
                         <p class="speaker">Speaker(s): Carlangelo Liverani (Universit...</p>
-                    </dd>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effective energy-enstrophy diffusion process and inviscid condensation]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/18-4022.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/18-4022.html"/>
-        <updated>2026-09-30T11:18:04.988Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Nov 04</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/18.html" title="Colloquium" target="_blank">Colloquium</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
-                        <p class="black">
-                            <a href="/content/show/18-4022.html" title="Effective energy-enstrophy diffusion process and inviscid condensation" target="_blank">Effective energy-enstrophy diffusion process and inviscid condensation</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Alain-Sol Sznitman(ETH Zurich)</p>
                     </dd>]]></content>
     </entry>
     <entry>
