@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-10-09T12:02:24.960Z</updated>
+    <updated>2026-10-09T21:50:21.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.mathjobs.org/jobs/list/27692"/>
         <updated>2026-07-26T05:37:15.561Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/27692" id="k27692" aria-labelledby="k27692 j27692">PD</a>] <span id="j27692" aria-hidden="true">Postdoc in algebraic topology</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn27692"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/3659/27692/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AARMS Postdoctoral Fellowship]]></title>
+        <id>https://www.mathjobs.org/jobs/list/29113</id>
+        <link href="https://www.mathjobs.org/jobs/list/29113"/>
+        <updated>2026-10-09T21:50:18.280Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/29113" id="k29113" aria-labelledby="k29113 j29113">PDF2026</a>] <span id="j29113" aria-hidden="true">AARMS Postdoctoral Fellowship</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn29113"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/AARMS/29113/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Researcher]]></title>
@@ -285,12 +292,5 @@
         <link href="https://www.mathjobs.org/jobs/list/27861"/>
         <updated>2026-07-26T05:37:15.590Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/27861" id="k27861" aria-labelledby="k27861 j27861">PD9</a>] <span id="j27861" aria-hidden="true">Postdoctoral Researcher</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn27861"></span>  <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HITS Independent Postdoc Program]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28757</id>
-        <link href="https://www.mathjobs.org/jobs/list/28757"/>
-        <updated>2026-10-08T12:11:39.418Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28757" id="k28757" aria-labelledby="k28757 j28757">POSTDOC</a>] <span id="j28757" aria-hidden="true">HITS Independent Postdoc Program</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28757"></span>  <span class="sml">&nbsp; <a href="https://short.sg/j/65926654">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
 </feed>

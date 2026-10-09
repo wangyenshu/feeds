@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-10-09T12:02:24.929Z</updated>
+    <updated>2026-10-09T21:50:21.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Convergence Rate of Birkhoff Spectrum for Non-integrable Observables]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/47-4023.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/47-4023.html"/>
-        <updated>2026-10-07T22:11:18.589Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Oct 09</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> </p>
-                        <p class="black">
-                            <a href="/content/show/47-4023.html" title="Convergence Rate of Birkhoff Spectrum for Non-integrable Observables" target="_blank">Convergence Rate of Birkhoff Spectrum for Non-integrable Observables</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Boyuan Zhao (BICMR)</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Conifold Gap for the Quintic Threefold]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/49-4026.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/18-4020.html" title="Heat equation from a deterministic microscopic dynamics" target="_blank">Heat equation from a deterministic microscopic dynamics</a>
                         </p>
                         <p class="speaker">Speaker(s): Carlangelo Liverani (Universit...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sampling Acceleration of Diffusion Language Models]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/40-4027.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/40-4027.html"/>
+        <updated>2026-10-09T21:49:36.438Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 19</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/40.html" title="Applied &amp; Computational Math" target="_blank">Applied &amp; Computational Math</a> &nbsp;|&nbsp; <span class="yellow">Upcoming</span></p>
+                        <p class="black">
+                            <a href="/content/show/40-4027.html" title="Sampling Acceleration of Diffusion Language Models" target="_blank">Sampling Acceleration of Diffusion Language Models</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Gen Li( The Chinese University...</p>
                     </dd>]]></content>
     </entry>
     <entry>

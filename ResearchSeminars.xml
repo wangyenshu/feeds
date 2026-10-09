@@ -2,71 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-09T12:02:24.963Z</updated>
+    <updated>2026-10-09T21:50:21.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
-        <title type="html"><![CDATA[Generalized minimizers for the capillarity energy outside convex obstacles]]></title>
-        <id>https://researchseminars.org/seminar/AnJunSem</id>
-        <link href="https://researchseminars.org/seminar/AnJunSem"/>
-        <updated>2026-10-08T12:11:17.909Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/AnJunSem">Analysis Junior Seminars</a></td><td class="speaker">Gabriele Nani</td><td class="talktitle"><a title="Generalized minimizers for the capillarity energy outside convex obstacles" knowl="talk/AnJunSem/31">Generalized minimizers for the capillarity energy outside convex obstacles</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RCD geometry; recent developments, applications and open problems (3/3)]]></title>
-        <id>https://researchseminars.org/seminar/Geometric_Structures_SISSA</id>
-        <link href="https://researchseminars.org/seminar/Geometric_Structures_SISSA"/>
-        <updated>2026-09-21T10:58:28.254Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC"><b>12:00</b></td><td class="seriesname"><a href="/seminar/Geometric_Structures_SISSA">Geometric Structures Research Seminar</a></td><td class="speaker"><a href="https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html">Shouhei Honda</a></td><td class="talktitle"><a title="RCD geometry; recent developments, applications and open problems (3/3)" knowl="talk/Geometric_Structures_SISSA/119">RCD geometry; recent developments, applications and open problems (3/3)</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Olevskii-Ulanovskii problem on universal Fourier uniqueness]]></title>
-        <id>https://researchseminars.org/seminar/OARS</id>
-        <link href="https://researchseminars.org/seminar/OARS"/>
-        <updated>2026-09-30T11:18:27.291Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/OARS">OARS Online Analysis Research Seminar</a></td><td class="speaker"><a href="https://www.liehr.xyz/">Lukas Liehr</a></td><td class="talktitle"><a title="The Olevskii-Ulanovskii problem on universal Fourier uniqueness" knowl="talk/OARS/81">The Olevskii-Ulanovskii problem on universal Fourier uniqueness</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Special Solutions to Mean Curvature Flow on Three-Manifolds with Lie Group Structure]]></title>
-        <id>https://researchseminars.org/seminar/CIRGET</id>
-        <link href="https://researchseminars.org/seminar/CIRGET"/>
-        <updated>2026-09-02T09:49:48.758Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/CIRGET">CRM - Séminaire du CIRGET / Géométrie et Topologie</a></td><td class="speaker">Mariel Saez</td><td class="talktitle"><a title="Special Solutions to Mean Curvature Flow on Three-Manifolds with Lie Group Structure" knowl="talk/CIRGET/172">Special Solutions to Mean Curvature Flow on Three-Manifolds with Lie Group Structure</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathdramatics: Math on Stage]]></title>
-        <id>https://researchseminars.org/seminar/CompMath</id>
-        <link href="https://researchseminars.org/seminar/CompMath"/>
-        <updated>2026-10-04T20:21:59.414Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/CompMath">Relatorium seminar</a></td><td class="speaker">Emma LaPlace</td><td class="talktitle"><a title="Mathdramatics: Math on Stage" knowl="talk/CompMath/39">Mathdramatics: Math on Stage</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khovanov monodromy groups via motions]]></title>
-        <id>https://researchseminars.org/seminar/vcugeomandtop</id>
-        <link href="https://researchseminars.org/seminar/vcugeomandtop"/>
-        <updated>2026-07-26T05:01:56.455Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">17:00</td><td class="seriesname"><a href="/seminar/vcugeomandtop">VCU Geometry and Topology Seminar</a></td><td class="speaker"><a href="https://sites.google.com/view/susannaterron/home-page">Susanna Terron</a></td><td class="talktitle"><a title="Khovanov monodromy groups via motions" knowl="talk/vcugeomandtop/164">Khovanov monodromy groups via motions</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Hypercubes]]></title>
-        <id>https://researchseminars.org/seminar/AI-for-the-working-mathematician</id>
-        <link href="https://researchseminars.org/seminar/AI-for-the-working-mathematician"/>
-        <updated>2026-07-26T05:01:56.481Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">20:30</td><td class="seriesname"><a href="/seminar/AI-for-the-working-mathematician">AI for the working mathematician</a></td><td class="speaker">Jordan Ellenberg</td><td class="talktitle"><a title="Large Hypercubes" knowl="talk/AI-for-the-working-mathematician/2">Large Hypercubes</a></td><td class="subscribe"></td>]]></content>
+        <title type="html"><![CDATA[An h-principle for general relativistic initial data sets]]></title>
+        <id>https://researchseminars.org/seminar/UCLAAnalysisSeminar</id>
+        <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
+        <updated>2026-09-18T09:59:11.760Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC"><b>21:00</b></td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Sung-Jin Oh</td><td class="talktitle"><a title="An h-principle for general relativistic initial data sets" knowl="talk/UCLAAnalysisSeminar/266">An h-principle for general relativistic initial data sets</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bounding the Euclidean Distortion of Negative-Type Metric Spaces, revisited]]></title>
         <id>https://researchseminars.org/seminar/UCLAAnalysisSeminar</id>
         <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
         <updated>2026-09-18T09:59:11.760Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Kevin Ren</td><td class="talktitle"><a title="Bounding the Euclidean Distortion of Negative-Type Metric Spaces, revisited" knowl="talk/UCLAAnalysisSeminar/266">Bounding the Euclidean Distortion of Negative-Type Metric Spaces, revisited</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An h-principle for general relativistic initial data sets]]></title>
-        <id>https://researchseminars.org/seminar/UCLAAnalysisSeminar</id>
-        <link href="https://researchseminars.org/seminar/UCLAAnalysisSeminar"/>
-        <updated>2026-09-18T09:59:11.760Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Sung-Jin Oh</td><td class="talktitle"><a title="An h-principle for general relativistic initial data sets" knowl="talk/UCLAAnalysisSeminar/268">An h-principle for general relativistic initial data sets</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 09</td><td class="time" title="UTC">22:00</td><td class="seriesname"><a href="/seminar/UCLAAnalysisSeminar">UCLA analysis and PDE seminar</a></td><td class="speaker">Kevin Ren</td><td class="talktitle"><a title="Bounding the Euclidean Distortion of Negative-Type Metric Spaces, revisited" knowl="talk/UCLAAnalysisSeminar/268">Bounding the Euclidean Distortion of Negative-Type Metric Spaces, revisited</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Сингуляризующие свойства квантовых каналов]]></title>
@@ -335,11 +286,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/th21">Theorems of the 21st Century Seminar</a></td><td class="speaker"><a href="https://people.maths.ox.ac.uk/keevash/">Peter Keevash</a></td><td class="talktitle"><a title="Combinatorial designs" knowl="talk/th21/10">Combinatorial designs</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[p-adic hyberbolicity for Shimura varieties.]]></title>
         <id>https://researchseminars.org/seminar/FGC-IPM</id>
         <link href="https://researchseminars.org/seminar/FGC-IPM"/>
         <updated>2026-10-05T23:17:15.019Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/FGC-IPM">FGC-HRI-IPM Number Theory Webinars</a></td><td class="speaker">Ananth Shankar</td><td class="talktitle"><a title="TBA" knowl="talk/FGC-IPM/69">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/FGC-IPM">FGC-HRI-IPM Number Theory Webinars</a></td><td class="speaker">Ananth Shankar</td><td class="talktitle"><a title="p-adic hyberbolicity for Shimura varieties." knowl="talk/FGC-IPM/69">p-adic hyberbolicity for Shimura varieties.</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computational algorithms for invariant reduction of variational forms]]></title>
@@ -704,5 +655,61 @@
         <link href="https://researchseminars.org/seminar/UMissPhysAstroColloq"/>
         <updated>2026-08-27T16:39:49.277Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">21:00</td><td class="seriesname"><a href="/seminar/UMissPhysAstroColloq">University of Mississippi Physics and Astronomy Colloquium</a></td><td class="speaker">Kurt Hinterbichler</td><td class="talktitle"><a title="Quantum mechanics, special relativity, and constraints on fundamental physics" knowl="talk/UMissPhysAstroColloq/9">Quantum mechanics, special relativity, and constraints on fundamental physics</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairness and Foundations in Machine Learning]]></title>
+        <id>https://researchseminars.org/seminar/UFV-math-stats</id>
+        <link href="https://researchseminars.org/seminar/UFV-math-stats"/>
+        <updated>2026-10-08T12:11:18.059Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">23:00</td><td class="seriesname"><a href="/seminar/UFV-math-stats">Fraser Valley Math &amp; Stats Seminar</a></td><td class="speaker"><a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a></td><td class="talktitle"><a title="Fairness and Foundations in Machine Learning" knowl="talk/UFV-math-stats/32">Fairness and Foundations in Machine Learning</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
+        <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
+        <updated>2026-10-08T12:11:17.982Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">07:30</td><td class="seriesname"><a href="/seminar/Mos-Bei-top-seminar">Moscow-Beijing topology seminar</a></td><td class="speaker">Weiwei Wang</td><td class="talktitle"><a title="TBA" knowl="talk/Mos-Bei-top-seminar/168">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An introduction to enriched categories I]]></title>
+        <id>https://researchseminars.org/seminar/HKUST-AG</id>
+        <link href="https://researchseminars.org/seminar/HKUST-AG"/>
+        <updated>2026-10-09T21:49:59.957Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/HKUST-AG">Algebra and Geometry Seminar @ HKUST</a></td><td class="speaker">Rune Haugseng</td><td class="talktitle"><a title="An introduction to enriched categories I" knowl="talk/HKUST-AG/95">An introduction to enriched categories I</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the subregular and submaximal p-cells of classical Weyl groups]]></title>
+        <id>https://researchseminars.org/seminar/EQuAL</id>
+        <link href="https://researchseminars.org/seminar/EQuAL"/>
+        <updated>2026-10-09T21:49:59.958Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/EQuAL">European Quantum Algebra Lectures (EQuAL)</a></td><td class="speaker">Marie Roth</td><td class="talktitle"><a title="On the subregular and submaximal p-cells of classical Weyl groups" knowl="talk/EQuAL/61">On the subregular and submaximal p-cells of classical Weyl groups</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The unintuitive SU(3) flavor and chiral limits of hadron resonances]]></title>
+        <id>https://researchseminars.org/seminar/ICCUB_Seminars</id>
+        <link href="https://researchseminars.org/seminar/ICCUB_Seminars"/>
+        <updated>2026-10-09T21:49:59.960Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">10:00</td><td class="seriesname"><a href="/seminar/ICCUB_Seminars">ICCUB Seminars</a></td><td class="speaker">Pablo Rabán</td><td class="talktitle"><a title="The unintuitive SU(3) flavor and chiral limits of hadron resonances" knowl="talk/ICCUB_Seminars/100">The unintuitive SU(3) flavor and chiral limits of hadron resonances</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and the future of mathematics and physics]]></title>
+        <id>https://researchseminars.org/seminar/SeedSeminar</id>
+        <link href="https://researchseminars.org/seminar/SeedSeminar"/>
+        <updated>2026-10-09T21:49:59.961Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/SeedSeminar">Seed Seminar of Mathematics and Physics</a></td><td class="speaker">SEED Kickoff</td><td class="talktitle"><a title="AI and the future of mathematics and physics" knowl="talk/SeedSeminar/127">AI and the future of mathematics and physics</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overview of Agentic Research: How to Write a Math Paper with AI]]></title>
+        <id>https://researchseminars.org/seminar/gbgstats</id>
+        <link href="https://researchseminars.org/seminar/gbgstats"/>
+        <updated>2026-09-23T20:37:13.328Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker">Mathis Rost</td><td class="talktitle"><a title="An Overview of Agentic Research: How to Write a Math Paper with AI" knowl="talk/gbgstats/129">An Overview of Agentic Research: How to Write a Math Paper with AI</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules]]></title>
+        <id>https://researchseminars.org/seminar/MathEngSeminars</id>
+        <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
+        <updated>2026-10-05T12:30:38.689Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://akademi.itu.edu.tr/goncuahm">Ahmet Göncü</a></td><td class="talktitle"><a title="Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules" knowl="talk/MathEngSeminars/4">Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
