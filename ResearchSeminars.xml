@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-10T11:19:20.022Z</updated>
+    <updated>2026-10-10T20:39:50.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Сингуляризующие свойства квантовых каналов]]></title>
-        <id>https://researchseminars.org/seminar/knotgraphgroup</id>
-        <link href="https://researchseminars.org/seminar/knotgraphgroup"/>
-        <updated>2026-09-21T10:58:28.253Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 10</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Святослав Вадимович Дженжер</td><td class="talktitle"><a title="Сингуляризующие свойства квантовых каналов" knowl="talk/knotgraphgroup/170">Сингуляризующие свойства квантовых каналов</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Access Paths for Efficient Ordering with Large Language Models]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
@@ -237,6 +230,13 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://apedia.fsm.edu.tr/cv/ndogan">Nazlı Doğan</a></td><td class="talktitle"><a title="Toeplitz Operators: From Hardy and Bergman Spaces to Köthe Spaces" knowl="talk/MathEngSeminars/3">Toeplitz Operators: From Hardy and Bergman Spaces to Köthe Spaces</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Second-Order Least Squares and the Polynomial Maximization Method: An Estimating-Equation Identity and a Higher-Degree Efficiency Reserve]]></title>
+        <id>https://researchseminars.org/seminar/AMIS</id>
+        <link href="https://researchseminars.org/seminar/AMIS"/>
+        <updated>2026-10-10T20:39:23.391Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/AMIS">Asymptotic Methods in Statistics</a></td><td class="speaker">Dr. Sc. (Technics) Serhii Zabolotnii (ORCID 0000-0003-0242-2234)</td><td class="talktitle"><a title="Second-Order Least Squares and the Polynomial Maximization Method: An Estimating-Equation Identity and a Higher-Degree Efficiency Reserve" knowl="talk/AMIS/16">Second-Order Least Squares and the Polynomial Maximization Method: An Estimating-Equation Identity and a Higher-Degree Efficiency Reserve</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A domain wall bound on AdS flux vacua]]></title>
         <id>https://researchseminars.org/seminar/AnLy</id>
         <link href="https://researchseminars.org/seminar/AnLy"/>
@@ -347,6 +347,13 @@
         <link href="https://researchseminars.org/seminar/METU_Math"/>
         <updated>2026-09-26T20:04:12.923Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">12:40</td><td class="seriesname"><a href="/seminar/METU_Math">METU Mathematics General Seminar</a></td><td class="speaker"><a href="https://mat.hacettepe.edu.tr/people/academic/asli-pekcan-yildiz/">Aslı Pekcan Yıldız</a></td><td class="talktitle"><a title="Integrable PDEs with nonlocalities" knowl="talk/METU_Math/20">Integrable PDEs with nonlocalities</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On attractors of Fibonacci maps]]></title>
+        <id>https://researchseminars.org/seminar/fran</id>
+        <link href="https://researchseminars.org/seminar/fran"/>
+        <updated>2026-10-10T20:39:23.418Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/fran">Семінар з фрактального аналізу / Fractal analysis seminar</a></td><td class="speaker"><a href="https://www.impan.pl/pl/sites/adudko/home">Artem Dudko</a></td><td class="talktitle"><a title="On attractors of Fibonacci maps" knowl="talk/fran/88">On attractors of Fibonacci maps</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Colloquium talk: Patterns in Data and the Algebra That Finds It]]></title>
@@ -697,19 +704,5 @@
         <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
         <updated>2026-10-05T12:30:38.689Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://akademi.itu.edu.tr/goncuahm">Ahmet Göncü</a></td><td class="talktitle"><a title="Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules" knowl="talk/MathEngSeminars/4">Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The spherical extension of Milnor's classifying space]]></title>
-        <id>https://researchseminars.org/seminar/PHK-cohomology-seminar</id>
-        <link href="https://researchseminars.org/seminar/PHK-cohomology-seminar"/>
-        <updated>2026-10-05T23:17:15.011Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/PHK-cohomology-seminar">Prague-Hradec Kralove seminar Cohomology in algebra, geometry, physics and statistics</a></td><td class="speaker">Jean-Pierre Magnot</td><td class="talktitle"><a title="The spherical extension of Milnor's classifying space" knowl="talk/PHK-cohomology-seminar/163">The spherical extension of Milnor's classifying space</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/LNTS</id>
-        <link href="https://researchseminars.org/seminar/LNTS"/>
-        <updated>2026-10-01T11:45:23.846Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LNTS">London number theory seminar</a></td><td class="speaker"><a href="https://s-j-cooper.github.io/">Simon Cooper</a></td><td class="talktitle"><a title="TBA" knowl="talk/LNTS/204">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
