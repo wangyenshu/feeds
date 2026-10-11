@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-10-11T11:32:41.919Z</updated>
+    <updated>2026-10-11T21:03:18.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://www.mathjobs.org/jobs/list/28727"/>
         <updated>2026-09-01T10:21:59.901Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28727" id="k28727" aria-labelledby="k28727 j28727">MATHTPDSFSRJ</a>] <span id="j28727" aria-hidden="true">Sherman Fairchild/Scott Russell Johnson Teaching Fellowships in Mathematics</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28727"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/Caltech/28727/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Fellow]]></title>
+        <id>https://www.mathjobs.org/jobs/list/27988</id>
+        <link href="https://www.mathjobs.org/jobs/list/27988"/>
+        <updated>2026-10-11T21:03:15.156Z</updated>
+        <content type="html"><![CDATA[[<a href="/jobs/list/27988" id="k27988" aria-labelledby="k27988 j27988">PF</a>] <span id="j27988" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn27988"></span>  <span class="sml">&nbsp; <a href="https://apply.interfolio.com/194802">Apply <img src="/icons/external.png" alt="external link"></a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postdoctoral Research Fellow (AY27/28)]]></title>
@@ -287,12 +294,5 @@
         <link href="https://www.mathjobs.org/jobs/list/28300"/>
         <updated>2026-07-26T05:37:15.588Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28300" id="k28300" aria-labelledby="k28300 j28300">PR1</a>] <span id="j28300" aria-hidden="true">Postdoctoral Position</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28300"></span>  <span class="sml"></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral Researcher]]></title>
-        <id>https://www.mathjobs.org/jobs/list/27861</id>
-        <link href="https://www.mathjobs.org/jobs/list/27861"/>
-        <updated>2026-07-26T05:37:15.590Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/27861" id="k27861" aria-labelledby="k27861 j27861">PD9</a>] <span id="j27861" aria-hidden="true">Postdoctoral Researcher</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn27861"></span>  <span class="sml"></span>]]></content>
     </entry>
 </feed>

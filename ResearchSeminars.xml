@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-11T11:32:41.959Z</updated>
+    <updated>2026-10-11T21:03:18.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/IsogenyClub">The Isogeny Club</a></td><td class="speaker">Maher Mamah</td><td class="talktitle"><a title="Quantum sampling of Secure Supersingular Elliptic Curves" knowl="talk/IsogenyClub/50">Quantum sampling of Secure Supersingular Elliptic Curves</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Analysis of nonhomogeneous initial-boundary value problems for nonlinear dispersive equations]]></title>
         <id>https://researchseminars.org/seminar/PotomacPDE</id>
         <link href="https://researchseminars.org/seminar/PotomacPDE"/>
         <updated>2026-10-01T21:56:04.395Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://mantzavinos.ku.edu">Dionyssis Mantzavinos</a></td><td class="talktitle"><a title="TBA" knowl="talk/PotomacPDE/24">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/PotomacPDE">Potomac region PDE seminar</a></td><td class="speaker"><a href="https://mantzavinos.ku.edu">Dionyssis Mantzavinos</a></td><td class="talktitle"><a title="Analysis of nonhomogeneous initial-boundary value problems for nonlinear dispersive equations" knowl="talk/PotomacPDE/24">Analysis of nonhomogeneous initial-boundary value problems for nonlinear dispersive equations</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Algebraic Geometry vs Kahler geometry]]></title>
