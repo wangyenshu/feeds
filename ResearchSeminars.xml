@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-10T20:39:50.777Z</updated>
+    <updated>2026-10-11T11:32:41.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
     <entry>
@@ -370,6 +370,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">14:30</td><td class="seriesname"><a href="/seminar/gbgphd">Gothenburg PhD seminar</a></td><td class="speaker"><a href="https://www.67speed.app/">Mathis Rost &amp; Adrien Malacan</a></td><td class="talktitle"><a title="Schrödinger 67" knowl="talk/gbgphd/63">Schrödinger 67</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sheaf Theory for Non-Exact Lagrangians]]></title>
+        <id>https://researchseminars.org/seminar/M-seminar</id>
+        <link href="https://researchseminars.org/seminar/M-seminar"/>
+        <updated>2026-10-11T11:32:18.280Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/M-seminar">M-seminar</a></td><td class="speaker">Tatsuki Kuwagaki</td><td class="talktitle"><a title="Sheaf Theory for Non-Exact Lagrangians" knowl="talk/M-seminar/211">Sheaf Theory for Non-Exact Lagrangians</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bounded gaps between primes via APs with partly smooth moduli]]></title>
         <id>https://researchseminars.org/seminar/NTWebSeminar</id>
         <link href="https://researchseminars.org/seminar/NTWebSeminar"/>
@@ -405,11 +412,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/STAGE/165">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Infinity-harmonic functions in the plane]]></title>
         <id>https://researchseminars.org/seminar/CUNY_GeometricAnalysis</id>
         <link href="https://researchseminars.org/seminar/CUNY_GeometricAnalysis"/>
         <updated>2026-10-07T22:11:43.561Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">20:15</td><td class="seriesname"><a href="/seminar/CUNY_GeometricAnalysis">CUNY Geometric Analysis Seminar</a></td><td class="speaker"><a href="https://kaixu631.github.io/">Kai Xu</a></td><td class="talktitle"><a title="TBA" knowl="talk/CUNY_GeometricAnalysis/167">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">20:15</td><td class="seriesname"><a href="/seminar/CUNY_GeometricAnalysis">CUNY Geometric Analysis Seminar</a></td><td class="speaker"><a href="https://kaixu631.github.io/">Kai Xu</a></td><td class="talktitle"><a title="Infinity-harmonic functions in the plane" knowl="talk/CUNY_GeometricAnalysis/167">Infinity-harmonic functions in the plane</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Counting curves on Pr\mathbb{P}^rPr]]></title>
@@ -426,11 +433,11 @@
         <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/courses_ipht">IPhT  courses</a></td><td class="speaker">Grégoire Misguich</td><td class="talktitle"><a title="Matrix-product states and tensor networks: a gentle introduction" knowl="talk/courses_ipht/46">Matrix-product states and tensor networks: a gentle introduction</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Positivity, Adjoint Linear Systems, and Jet Separation]]></title>
         <id>https://researchseminars.org/seminar/OBAGS</id>
         <link href="https://researchseminars.org/seminar/OBAGS"/>
         <updated>2026-10-07T22:11:43.565Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">12:40</td><td class="seriesname"><a href="/seminar/OBAGS">ODTU-Bilkent Algebraic Geometry Seminars</a></td><td class="speaker"><a href="https://websites.umich.edu/%7Eeken/">Demir Eken</a></td><td class="talktitle"><a title="TBA" knowl="talk/OBAGS/87">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Fri</td><td class="monthdate">Oct 16</td><td class="time" title="UTC">12:40</td><td class="seriesname"><a href="/seminar/OBAGS">ODTU-Bilkent Algebraic Geometry Seminars</a></td><td class="speaker"><a href="https://websites.umich.edu/%7Eeken/">Demir Eken</a></td><td class="talktitle"><a title="Positivity, Adjoint Linear Systems, and Jet Separation" knowl="talk/OBAGS/87">Positivity, Adjoint Linear Systems, and Jet Separation</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Floer-theoretic entropy of exact symplectomorphisms]]></title>
