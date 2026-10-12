@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-11T21:03:18.478Z</updated>
+    <updated>2026-10-12T13:25:07.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Access Paths for Efficient Ordering with Large Language Models]]></title>
-        <id>https://researchseminars.org/seminar/TropicalmathandML</id>
-        <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
-        <updated>2026-10-01T11:45:23.894Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker"><a href="https://zhaofuheng.github.io/">Fuheng Zhao</a></td><td class="talktitle"><a title="Access Paths for Efficient Ordering with Large Language Models" knowl="talk/TropicalmathandML/48">Access Paths for Efficient Ordering with Large Language Models</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Quantum'' rational numbers, q-deformed Coxeter friezes, and the cross-ratio]]></title>
-        <id>https://researchseminars.org/seminar/paris-algebra-seminar</id>
-        <link href="https://researchseminars.org/seminar/paris-algebra-seminar"/>
-        <updated>2026-09-08T20:06:05.943Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/paris-algebra-seminar">Paris algebra seminar</a></td><td class="speaker"><a href="https://ovsienko.perso.math.cnrs.fr/">Valentin Ovsienko</a></td><td class="talktitle"><a title="" quantum''="" rational="" numbers,="" q-deformed="" coxeter="" friezes,="" and="" the="" cross-ratio"="" knowl="talk/paris-algebra-seminar/237">"Quantum'' rational numbers, q-deformed Coxeter friezes, and the cross-ratio</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Fractal Hasimoto Surfaces]]></title>
         <id>https://researchseminars.org/seminar/NSCM</id>
@@ -195,6 +181,13 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">22:30</td><td class="seriesname"><a href="/seminar/SFUOR">PIMS-CORDS SFU Operations Research Seminar</a></td><td class="speaker">Serhii Myroshnychenko</td><td class="talktitle"><a title="Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies" knowl="talk/SFUOR/76">Where Does the Centroid Go? Balancing Shadows and Slices of Convex Bodies</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exciting times: high-fidelity modeling of living tissues]]></title>
+        <id>https://researchseminars.org/seminar/MathMAC</id>
+        <link href="https://researchseminars.org/seminar/MathMAC"/>
+        <updated>2026-10-12T13:24:34.599Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/MathMAC">Modelling of materials - theory, model reduction and efficient numerical methods (UNCE MathMAC)</a></td><td class="speaker">Marie E. Rognes</td><td class="talktitle"><a title="Exciting times: high-fidelity modeling of living tissues" knowl="talk/MathMAC/65">Exciting times: high-fidelity modeling of living tissues</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Positively curved 6-manifolds with non-Abelian symmetry group]]></title>
         <id>https://researchseminars.org/seminar/Mos-Bei-top-seminar</id>
         <link href="https://researchseminars.org/seminar/Mos-Bei-top-seminar"/>
@@ -263,6 +256,13 @@
         <link href="https://researchseminars.org/seminar/NYC-NCG"/>
         <updated>2026-07-26T05:01:56.522Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://math.kmutt.ac.th/dr-saeid-zahmatkesh-komeleh/">Saeid Zahmatkesh</a></td><td class="talktitle"><a title="The semigroup crossed product $C^*$-algebra corresponding to the action induced by the multiplication on $p$-adic integers and its ideal structure" knowl="talk/NYC-NCG/227">The semigroup crossed product <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>C</mi><mo>∗</mo></msup></mrow><annotation encoding="application/x-tex">C^*</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.688696em; vertical-align: 0em;"></span><span class="mord"><span style="margin-right: 0.07153em;" class="mord mathdefault">C</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.688696em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∗</span></span></span></span></span></span></span></span></span></span></span></span>-algebra corresponding to the action induced by the multiplication on <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span>-adic integers and its ideal structure</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/ProbabilityAndAlgebra</id>
+        <link href="https://researchseminars.org/seminar/ProbabilityAndAlgebra"/>
+        <updated>2026-10-12T13:24:34.619Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ProbabilityAndAlgebra">Probability and Algebraic Structures</a></td><td class="speaker">Carlo Pagano</td><td class="talktitle"><a title="TBA" knowl="talk/ProbabilityAndAlgebra/1">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Combinatorial designs]]></title>
@@ -405,6 +405,13 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">18:00</td><td class="seriesname"><a href="/seminar/OLS">Online logic seminar</a></td><td class="speaker">Eike Neumann</td><td class="talktitle"><a title="Universal Envelopes and Applications" knowl="talk/OLS/220">Universal Envelopes and Applications</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inequalities among sums of dilates]]></title>
+        <id>https://researchseminars.org/seminar/NYNTS</id>
+        <link href="https://researchseminars.org/seminar/NYNTS"/>
+        <updated>2026-10-12T13:24:34.648Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Noah Kravitz</td><td class="talktitle"><a title="Inequalities among sums of dilates" knowl="talk/NYNTS/6">Inequalities among sums of dilates</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TBA]]></title>
         <id>https://researchseminars.org/seminar/STAGE</id>
         <link href="https://researchseminars.org/seminar/STAGE"/>
@@ -475,11 +482,11 @@
         <content type="html"><![CDATA[<td class="weekday">Sat</td><td class="monthdate">Oct 17</td><td class="time" title="UTC">14:05</td><td class="seriesname"><a href="/seminar/knotgraphgroup">Knots, graphs and groups</a></td><td class="speaker">Дмитрий Александрович Шабанов</td><td class="talktitle"><a title="TBA" knowl="talk/knotgraphgroup/172">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[AI Solvers of the Yang-Baxter Equation]]></title>
         <id>https://researchseminars.org/seminar/TropicalmathandML</id>
         <link href="https://researchseminars.org/seminar/TropicalmathandML"/>
         <updated>2026-10-01T11:45:23.894Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Shailesh Lal</td><td class="talktitle"><a title="TBA" knowl="talk/TropicalmathandML/49">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 19</td><td class="time" title="UTC">08:00</td><td class="seriesname"><a href="/seminar/TropicalmathandML">Tropical mathematics and machine learning</a></td><td class="speaker">Shailesh Lal</td><td class="talktitle"><a title="AI Solvers of the Yang-Baxter Equation" knowl="talk/TropicalmathandML/49">AI Solvers of the Yang-Baxter Equation</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Braid group invariance of quantum tori and applications]]></title>
@@ -697,19 +704,5 @@
         <link href="https://researchseminars.org/seminar/SeedSeminar"/>
         <updated>2026-10-09T21:49:59.961Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/SeedSeminar">Seed Seminar of Mathematics and Physics</a></td><td class="speaker">SEED Kickoff</td><td class="talktitle"><a title="AI and the future of mathematics and physics" knowl="talk/SeedSeminar/127">AI and the future of mathematics and physics</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Overview of Agentic Research: How to Write a Math Paper with AI]]></title>
-        <id>https://researchseminars.org/seminar/gbgstats</id>
-        <link href="https://researchseminars.org/seminar/gbgstats"/>
-        <updated>2026-09-23T20:37:13.328Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker">Mathis Rost</td><td class="talktitle"><a title="An Overview of Agentic Research: How to Write a Math Paper with AI" knowl="talk/gbgstats/129">An Overview of Agentic Research: How to Write a Math Paper with AI</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules]]></title>
-        <id>https://researchseminars.org/seminar/MathEngSeminars</id>
-        <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
-        <updated>2026-10-05T12:30:38.689Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://akademi.itu.edu.tr/goncuahm">Ahmet Göncü</a></td><td class="talktitle"><a title="Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules" knowl="talk/MathEngSeminars/4">Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
