@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-12T13:25:07.198Z</updated>
+    <updated>2026-10-12T23:44:48.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Fractal Hasimoto Surfaces]]></title>
-        <id>https://researchseminars.org/seminar/NSCM</id>
-        <link href="https://researchseminars.org/seminar/NSCM"/>
-        <updated>2026-09-21T21:11:37.181Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">13:40</td><td class="seriesname"><a href="/seminar/NSCM">Nečas Seminar on Continuum Mechanics</a></td><td class="speaker"><a href="https://minarcik.com/">Jiří Minarčík</a></td><td class="talktitle"><a title="Fractal Hasimoto Surfaces" knowl="talk/NSCM/225">Fractal Hasimoto Surfaces</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weighted Hardy-Rellich inequalities via the Emden-Fowler transform]]></title>
-        <id>https://researchseminars.org/seminar/GeomInequAndPDEs</id>
-        <link href="https://researchseminars.org/seminar/GeomInequAndPDEs"/>
-        <updated>2026-07-26T05:01:56.491Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/GeomInequAndPDEs">Geometric and functional inequalities and applications</a></td><td class="speaker"><a href="https://sites.google.com/site/berchioelvise/elvise-berchio?authuser=0">Elvise Berchio</a></td><td class="talktitle"><a title="Weighted Hardy-Rellich inequalities via the Emden-Fowler transform" knowl="talk/GeomInequAndPDEs/208">Weighted Hardy-Rellich inequalities via the Emden-Fowler transform</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pointed Hopf algebras of odd dimension]]></title>
-        <id>https://researchseminars.org/seminar/ENAAS</id>
-        <link href="https://researchseminars.org/seminar/ENAAS"/>
-        <updated>2026-07-26T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ENAAS">European Non-Associative Algebra Seminar</a></td><td class="speaker"><a href="https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl">István Heckenberger</a></td><td class="talktitle"><a title="Pointed Hopf algebras of odd dimension" knowl="talk/ENAAS/166">Pointed Hopf algebras of odd dimension</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics]]></title>
-        <id>https://researchseminars.org/seminar/Knotsandtopology</id>
-        <link href="https://researchseminars.org/seminar/Knotsandtopology"/>
-        <updated>2026-10-07T22:11:43.585Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">15:30</td><td class="seriesname"><a href="/seminar/Knotsandtopology">Knots and representation theory</a></td><td class="speaker">Olga Pochinka</td><td class="talktitle"><a title="On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics" knowl="talk/Knotsandtopology/185">On structural stability of 3-diffeomorphisms with the Smale solenoid attractor-repeller dynamics</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/NTBU</id>
-        <link href="https://researchseminars.org/seminar/NTBU"/>
-        <updated>2026-08-05T19:01:40.170Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Mon</td><td class="monthdate">Oct 12</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/NTBU">Boston University Number Theory Seminar</a></td><td class="speaker">Holiday</td><td class="talktitle"><a title="TBA" knowl="talk/NTBU/65">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[From gullies to curves: dimension reduction in a wildfire model]]></title>
         <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
@@ -412,11 +377,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">19:00</td><td class="seriesname"><a href="/seminar/NYNTS">New York Number Theory Seminar</a></td><td class="speaker">Noah Kravitz</td><td class="talktitle"><a title="Inequalities among sums of dilates" knowl="talk/NYNTS/6">Inequalities among sums of dilates</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[a\mathfrak{a}a-multiplication]]></title>
         <id>https://researchseminars.org/seminar/STAGE</id>
         <link href="https://researchseminars.org/seminar/STAGE"/>
         <updated>2026-09-07T10:38:26.173Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">TBA</td><td class="talktitle"><a title="TBA" knowl="talk/STAGE/165">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">20:00</td><td class="seriesname"><a href="/seminar/STAGE">STAGE</a></td><td class="speaker">Kaiyi Chen</td><td class="talktitle"><a title="$\mathfrak{a}$-multiplication" knowl="talk/STAGE/165"><span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="fraktur">a</mi></mrow><annotation encoding="application/x-tex">\mathfrak{a}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.47534em; vertical-align: 0em;"></span><span class="mord"><span class="mord mathfrak">a</span></span></span></span></span></span>-multiplication</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Infinity-harmonic functions in the plane]]></title>
@@ -573,11 +538,11 @@
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/TuesdayPDE">Necas PDE seminar</a></td><td class="speaker">Jiten Kumbhakar</td><td class="talktitle"><a title="TBA" knowl="talk/TuesdayPDE/120">TBA</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Amplitudes in N=4 SYM -- Simplicity and structure in symbols]]></title>
         <id>https://researchseminars.org/seminar/NKUA-HEP</id>
         <link href="https://researchseminars.org/seminar/NKUA-HEP"/>
         <updated>2026-10-09T12:02:05.635Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">09:00</td><td class="seriesname"><a href="/seminar/NKUA-HEP">NKUA HEP Seminars</a></td><td class="speaker">Athanasia-Konstantina Angelopoulou</td><td class="talktitle"><a title="TBA" knowl="talk/NKUA-HEP/60">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">09:00</td><td class="seriesname"><a href="/seminar/NKUA-HEP">NKUA HEP Seminars</a></td><td class="speaker">Athanasia-Konstantina Angelopoulou</td><td class="talktitle"><a title="Amplitudes in N=4 SYM -- Simplicity and structure in symbols" knowl="talk/NKUA-HEP/60">Amplitudes in N=4 SYM -- Simplicity and structure in symbols</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TBA]]></title>
@@ -599,6 +564,20 @@
         <link href="https://researchseminars.org/seminar/UEAPS"/>
         <updated>2026-09-18T09:59:11.669Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">13:00</td><td class="seriesname"><a href="/seminar/UEAPS">ANTLR seminar</a></td><td class="speaker">Charles Senécal</td><td class="talktitle"><a title="TBA" knowl="talk/UEAPS/84">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive Einstein metrics on infinitely many 4-manifolds]]></title>
+        <id>https://researchseminars.org/seminar/Geolis</id>
+        <link href="https://researchseminars.org/seminar/Geolis"/>
+        <updated>2026-10-12T23:44:24.899Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker">Tristan Ozuch</td><td class="talktitle"><a title="Positive Einstein metrics on infinitely many 4-manifolds" knowl="talk/Geolis/187">Positive Einstein metrics on infinitely many 4-manifolds</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positive Einstein metrics on infinitely many 4-manifolds]]></title>
+        <id>https://researchseminars.org/seminar/Geolis</id>
+        <link href="https://researchseminars.org/seminar/Geolis"/>
+        <updated>2026-10-12T23:44:24.901Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker">Tristan Ozuch</td><td class="talktitle"><a title="Positive Einstein metrics on infinitely many 4-manifolds" knowl="talk/Geolis/188">Positive Einstein metrics on infinitely many 4-manifolds</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yang-Mills measure in 2 dimensions and its semiclassical limit]]></title>
@@ -704,5 +683,26 @@
         <link href="https://researchseminars.org/seminar/SeedSeminar"/>
         <updated>2026-10-09T21:49:59.961Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:00</td><td class="seriesname"><a href="/seminar/SeedSeminar">Seed Seminar of Mathematics and Physics</a></td><td class="speaker">SEED Kickoff</td><td class="talktitle"><a title="AI and the future of mathematics and physics" knowl="talk/SeedSeminar/127">AI and the future of mathematics and physics</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overview of Agentic Research: How to Write a Math Paper with AI]]></title>
+        <id>https://researchseminars.org/seminar/gbgstats</id>
+        <link href="https://researchseminars.org/seminar/gbgstats"/>
+        <updated>2026-09-23T20:37:13.328Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:15</td><td class="seriesname"><a href="/seminar/gbgstats">Gothenburg statistics seminar</a></td><td class="speaker">Mathis Rost</td><td class="talktitle"><a title="An Overview of Agentic Research: How to Write a Math Paper with AI" knowl="talk/gbgstats/129">An Overview of Agentic Research: How to Write a Math Paper with AI</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules]]></title>
+        <id>https://researchseminars.org/seminar/MathEngSeminars</id>
+        <link href="https://researchseminars.org/seminar/MathEngSeminars"/>
+        <updated>2026-10-05T12:30:38.689Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/MathEngSeminars">Istanbul Technical University Mathematical Engineering Department Seminars</a></td><td class="speaker"><a href="https://akademi.itu.edu.tr/goncuahm">Ahmet Göncü</a></td><td class="talktitle"><a title="Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules" knowl="talk/MathEngSeminars/4">Real-Time Market Regime Identification in Borsa İstanbul: Machine Learning versus Simple Trend Rules</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The spherical extension of Milnor's classifying space]]></title>
+        <id>https://researchseminars.org/seminar/PHK-cohomology-seminar</id>
+        <link href="https://researchseminars.org/seminar/PHK-cohomology-seminar"/>
+        <updated>2026-10-05T23:17:15.011Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/PHK-cohomology-seminar">Prague-Hradec Kralove seminar Cohomology in algebra, geometry, physics and statistics</a></td><td class="speaker">Jean-Pierre Magnot</td><td class="talktitle"><a title="The spherical extension of Milnor's classifying space" knowl="talk/PHK-cohomology-seminar/163">The spherical extension of Milnor's classifying space</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
