@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://researchseminars.org/</id>
     <title>researchseminars.org</title>
-    <updated>2026-10-12T23:44:48.379Z</updated>
+    <updated>2026-10-13T12:53:50.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://researchseminars.org/favicon-196x196.png</icon>
-    <entry>
-        <title type="html"><![CDATA[From gullies to curves: dimension reduction in a wildfire model]]></title>
-        <id>https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar</id>
-        <link href="https://researchseminars.org/seminar/Nonlinear_Analysis_Seminar"/>
-        <updated>2026-08-27T16:39:49.309Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">01:00</td><td class="seriesname"><a href="/seminar/Nonlinear_Analysis_Seminar">Nonlinear Analysis Seminar Series</a></td><td class="speaker">Lorenzo De Gaspari</td><td class="talktitle"><a title="From gullies to curves: dimension reduction in a wildfire model" knowl="talk/Nonlinear_Analysis_Seminar/96">From gullies to curves: dimension reduction in a wildfire model</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antarctic Mass Balance estimates with GRACE/GRACE-FO and ICESat-2]]></title>
-        <id>https://researchseminars.org/seminar/RSES_HDR_seminar</id>
-        <link href="https://researchseminars.org/seminar/RSES_HDR_seminar"/>
-        <updated>2026-07-26T05:01:56.393Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">05:00</td><td class="seriesname"><a href="/seminar/RSES_HDR_seminar">ANU Research School of Earth Sciences HDR seminars</a></td><td class="speaker">Kit Leong</td><td class="talktitle"><a title="Antarctic Mass Balance estimates with GRACE/GRACE-FO and ICESat-2" knowl="talk/RSES_HDR_seminar/47">Antarctic Mass Balance estimates with GRACE/GRACE-FO and ICESat-2</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nichols algebras and Kazhdan Lusztig correspondences]]></title>
-        <id>https://researchseminars.org/seminar/OISTRTS</id>
-        <link href="https://researchseminars.org/seminar/OISTRTS"/>
-        <updated>2026-10-06T12:10:29.520Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/OISTRTS">OIST representation theory seminar</a></td><td class="speaker"><a href="https://www.oist.jp/research/research-units/chiral/simon-lentner">Simon Lentner</a></td><td class="talktitle"><a title="Nichols algebras and Kazhdan Lusztig correspondences" knowl="talk/OISTRTS/86">Nichols algebras and Kazhdan Lusztig correspondences</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TBA]]></title>
-        <id>https://researchseminars.org/seminar/TuesdayPDE</id>
-        <link href="https://researchseminars.org/seminar/TuesdayPDE"/>
-        <updated>2026-10-01T11:45:23.904Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 13</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/TuesdayPDE">Necas PDE seminar</a></td><td class="speaker">Jiten Kumbhakar</td><td class="talktitle"><a title="TBA" knowl="talk/TuesdayPDE/119">TBA</a></td><td class="subscribe"></td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Stringological sequence prediction]]></title>
         <id>https://researchseminars.org/seminar/CombinatoricsOnWords</id>
@@ -223,11 +195,11 @@
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/NYC-NCG">Noncommutative geometry in NYC</a></td><td class="speaker"><a href="https://math.kmutt.ac.th/dr-saeid-zahmatkesh-komeleh/">Saeid Zahmatkesh</a></td><td class="talktitle"><a title="The semigroup crossed product $C^*$-algebra corresponding to the action induced by the multiplication on $p$-adic integers and its ideal structure" knowl="talk/NYC-NCG/227">The semigroup crossed product <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>C</mi><mo>∗</mo></msup></mrow><annotation encoding="application/x-tex">C^*</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.688696em; vertical-align: 0em;"></span><span class="mord"><span style="margin-right: 0.07153em;" class="mord mathdefault">C</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.688696em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">∗</span></span></span></span></span></span></span></span></span></span></span></span>-algebra corresponding to the action induced by the multiplication on <span><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span></span>-adic integers and its ideal structure</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[Random profinite groups are finitely presented with probability 1]]></title>
         <id>https://researchseminars.org/seminar/ProbabilityAndAlgebra</id>
         <link href="https://researchseminars.org/seminar/ProbabilityAndAlgebra"/>
         <updated>2026-10-12T13:24:34.619Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ProbabilityAndAlgebra">Probability and Algebraic Structures</a></td><td class="speaker">Carlo Pagano</td><td class="talktitle"><a title="TBA" knowl="talk/ProbabilityAndAlgebra/1">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 14</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/ProbabilityAndAlgebra">Probability and Algebraic Structures</a></td><td class="speaker">Carlo Pagano</td><td class="talktitle"><a title="Random profinite groups are finitely presented with probability 1" knowl="talk/ProbabilityAndAlgebra/1">Random profinite groups are finitely presented with probability 1</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Combinatorial designs]]></title>
@@ -293,11 +265,11 @@
         <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">07:00</td><td class="seriesname"><a href="/seminar/Postech-PMI-NT">Postech-PMI Number Theory Seminar</a></td><td class="speaker">GyeongHyeon Nam</td><td class="talktitle"><a title="Generic additive character varieties and tensor product multiplicities of generic Deligne–Lusztig characters" knowl="talk/Postech-PMI-NT/19">Generic additive character varieties and tensor product multiplicities of generic Deligne–Lusztig characters</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBA]]></title>
+        <title type="html"><![CDATA[A new approach to the hard-core Bose gas]]></title>
         <id>https://researchseminars.org/seminar/PSMQFT</id>
         <link href="https://researchseminars.org/seminar/PSMQFT"/>
         <updated>2026-10-01T21:56:04.275Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Morris Brooks</td><td class="talktitle"><a title="TBA" knowl="talk/PSMQFT/13">TBA</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Thu</td><td class="monthdate">Oct 15</td><td class="time" title="UTC">12:00</td><td class="seriesname"><a href="/seminar/PSMQFT">Probability, Statistical Mechanics and Quantum Fields</a></td><td class="speaker">Morris Brooks</td><td class="talktitle"><a title="A new approach to the hard-core Bose gas" knowl="talk/PSMQFT/13">A new approach to the hard-core Bose gas</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mapping class groups of infinite graphs]]></title>
@@ -570,14 +542,7 @@
         <id>https://researchseminars.org/seminar/Geolis</id>
         <link href="https://researchseminars.org/seminar/Geolis"/>
         <updated>2026-10-12T23:44:24.899Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker">Tristan Ozuch</td><td class="talktitle"><a title="Positive Einstein metrics on infinitely many 4-manifolds" knowl="talk/Geolis/187">Positive Einstein metrics on infinitely many 4-manifolds</a></td><td class="subscribe"></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive Einstein metrics on infinitely many 4-manifolds]]></title>
-        <id>https://researchseminars.org/seminar/Geolis</id>
-        <link href="https://researchseminars.org/seminar/Geolis"/>
-        <updated>2026-10-12T23:44:24.901Z</updated>
-        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker">Tristan Ozuch</td><td class="talktitle"><a title="Positive Einstein metrics on infinitely many 4-manifolds" knowl="talk/Geolis/188">Positive Einstein metrics on infinitely many 4-manifolds</a></td><td class="subscribe"></td>]]></content>
+        <content type="html"><![CDATA[<td class="weekday">Tue</td><td class="monthdate">Oct 20</td><td class="time" title="UTC">14:00</td><td class="seriesname"><a href="/seminar/Geolis">Geometria em Lisboa (IST)</a></td><td class="speaker"><a href="https://tristanozuch.github.io/">Tristan Ozuch</a></td><td class="talktitle"><a title="Positive Einstein metrics on infinitely many 4-manifolds" knowl="talk/Geolis/188">Positive Einstein metrics on infinitely many 4-manifolds</a></td><td class="subscribe"></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yang-Mills measure in 2 dimensions and its semiclassical limit]]></title>
@@ -704,5 +669,40 @@
         <link href="https://researchseminars.org/seminar/PHK-cohomology-seminar"/>
         <updated>2026-10-05T23:17:15.011Z</updated>
         <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">11:30</td><td class="seriesname"><a href="/seminar/PHK-cohomology-seminar">Prague-Hradec Kralove seminar Cohomology in algebra, geometry, physics and statistics</a></td><td class="speaker">Jean-Pierre Magnot</td><td class="talktitle"><a title="The spherical extension of Milnor's classifying space" knowl="talk/PHK-cohomology-seminar/163">The spherical extension of Milnor's classifying space</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction and overview]]></title>
+        <id>https://researchseminars.org/seminar/nearbylagrangiansandtubes</id>
+        <link href="https://researchseminars.org/seminar/nearbylagrangiansandtubes"/>
+        <updated>2026-10-13T12:53:16.083Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">14:15</td><td class="seriesname"><a href="/seminar/nearbylagrangiansandtubes">Nearby Lagrangians and Tubes</a></td><td class="speaker">Dani AG / Thomas Kragh</td><td class="talktitle"><a title="Introduction and overview" knowl="talk/nearbylagrangiansandtubes/1">Introduction and overview</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G-Zips and Tautological Rings of Shimura Varieties]]></title>
+        <id>https://researchseminars.org/seminar/LNTS</id>
+        <link href="https://researchseminars.org/seminar/LNTS"/>
+        <updated>2026-10-01T11:45:23.846Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/LNTS">London number theory seminar</a></td><td class="speaker"><a href="https://s-j-cooper.github.io/">Simon Cooper</a></td><td class="talktitle"><a title="G-Zips and Tautological Rings of Shimura Varieties" knowl="talk/LNTS/204">G-Zips and Tautological Rings of Shimura Varieties</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homogeneous Einstein metrics on torus bundles]]></title>
+        <id>https://researchseminars.org/seminar/VSGS</id>
+        <link href="https://researchseminars.org/seminar/VSGS"/>
+        <updated>2026-10-13T12:53:16.086Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">15:00</td><td class="seriesname"><a href="/seminar/VSGS">Virtual seminar on geometry with symmetries</a></td><td class="speaker"><a href="https://www.math.iitb.ac.in/~anushamk/">Anusha Krishnan</a></td><td class="talktitle"><a title="Homogeneous Einstein metrics on torus bundles" knowl="talk/VSGS/142">Homogeneous Einstein metrics on torus bundles</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBA]]></title>
+        <id>https://researchseminars.org/seminar/FGC-IPM</id>
+        <link href="https://researchseminars.org/seminar/FGC-IPM"/>
+        <updated>2026-10-05T23:17:15.019Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">16:00</td><td class="seriesname"><a href="/seminar/FGC-IPM">FGC-HRI-IPM Number Theory Webinars</a></td><td class="speaker">Eray Karabiyik</td><td class="talktitle"><a title="TBA" knowl="talk/FGC-IPM/72">TBA</a></td><td class="subscribe"></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bi-Hamiltonian systems from homogeneous operators, part 2]]></title>
+        <id>https://researchseminars.org/seminar/GDEq</id>
+        <link href="https://researchseminars.org/seminar/GDEq"/>
+        <updated>2026-08-27T16:39:49.314Z</updated>
+        <content type="html"><![CDATA[<td class="weekday">Wed</td><td class="monthdate">Oct 21</td><td class="time" title="UTC">16:20</td><td class="seriesname"><a href="/seminar/GDEq">Geometry of differential equations seminar</a></td><td class="speaker"><a href="https://poincare.unisalento.it/vitolo/">Raffaele Vitolo</a></td><td class="talktitle"><a title="Bi-Hamiltonian systems from homogeneous operators, part 2" knowl="talk/GDEq/161">Bi-Hamiltonian systems from homogeneous operators, part 2</a></td><td class="subscribe"></td>]]></content>
     </entry>
 </feed>
