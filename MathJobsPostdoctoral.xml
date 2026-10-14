@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mathjobs.org/jobs?joblst-0-3---40-t--</id>
     <title>MathJobs.Org — Postdoctoral</title>
-    <updated>2026-10-13T21:56:53.178Z</updated>
+    <updated>2026-10-14T20:53:34.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mathjobs.org/favicon.ico</icon>
     <entry>
@@ -67,6 +67,20 @@
         <link href="https://www.mathjobs.org/jobs/list/28895"/>
         <updated>2026-09-15T20:22:59.426Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28895" id="k28895" aria-labelledby="k28895 j28895">PDQC</a>] <span id="j28895" aria-hidden="true">Postdoc</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28895"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/1347/28895/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Position]]></title>
+        <id>https://www.mathjobs.org/jobs/list/29239</id>
+        <link href="https://www.mathjobs.org/jobs/list/29239"/>
+        <updated>2026-10-14T20:53:30.491Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/29239" id="k29239" aria-labelledby="k29239 j29239">PD</a>] <span id="j29239" aria-hidden="true">Postdoctoral Position</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn29239"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/BC/29239/apply">Apply</a></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postdoctoral Position]]></title>
+        <id>https://www.mathjobs.org/jobs/list/29240</id>
+        <link href="https://www.mathjobs.org/jobs/list/29240"/>
+        <updated>2026-10-14T20:53:30.492Z</updated>
+        <content type="html"><![CDATA[<img src="https://www.mathjobs.org/icons/new.gif" class="middle" title="new posting" alt="new posting">[<a href="/jobs/list/29240" id="k29240" aria-labelledby="k29240 j29240">PD1</a>] <span id="j29240" aria-hidden="true">Postdoctoral Position</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn29240"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/BC/29240/apply">Apply</a></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Visiting Research Fellow]]></title>
@@ -280,19 +294,5 @@
         <link href="https://www.mathjobs.org/jobs/list/28786"/>
         <updated>2026-08-27T16:40:09.918Z</updated>
         <content type="html"><![CDATA[[<a href="/jobs/list/28786" id="k28786" aria-labelledby="k28786 j28786">POSTDOC</a>] <span id="j28786" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28786"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/Harvard/28786/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral Fellow]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28831</id>
-        <link href="https://www.mathjobs.org/jobs/list/28831"/>
-        <updated>2026-09-02T20:00:58.537Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28831" id="k28831" aria-labelledby="k28831 j28831">POSTDOC1</a>] <span id="j28831" aria-hidden="true">Postdoctoral Fellow</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28831"></span>  <span class="sml">&nbsp; <a href="https://www.mathjobs.org/jobs/Harvard/28831/apply">Apply</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postdoctoral Position]]></title>
-        <id>https://www.mathjobs.org/jobs/list/28300</id>
-        <link href="https://www.mathjobs.org/jobs/list/28300"/>
-        <updated>2026-07-26T05:37:15.588Z</updated>
-        <content type="html"><![CDATA[[<a href="/jobs/list/28300" id="k28300" aria-labelledby="k28300 j28300">PR1</a>] <span id="j28300" aria-hidden="true">Postdoctoral Position</span>&nbsp;<span class="purplesml">(Postdoctoral)</span><span id="jn28300"></span>  <span class="sml"></span>]]></content>
     </entry>
 </feed>

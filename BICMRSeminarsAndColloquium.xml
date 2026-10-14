@@ -2,26 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bicmr.pku.edu.cn/</id>
     <title>BICMR Seminars and Colloquium</title>
-    <updated>2026-10-13T21:56:53.135Z</updated>
+    <updated>2026-10-14T20:53:34.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bicmr.pku.edu.cn/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Contracting Transport Maps on Curved Spaces]]></title>
-        <id>https://bicmr.pku.edu.cn/content/show/43-4024.html</id>
-        <link href="https://bicmr.pku.edu.cn/content/show/43-4024.html"/>
-        <updated>2026-10-08T12:10:55.688Z</updated>
-        <content type="html"><![CDATA[<dt>
-                        <span>2026</span>
-                        <p>Oct 14</p>
-                    </dt>
-                                        <dd>
-                        <p><a href="/content/lists/43.html" title="Geometric Analysis" target="_blank">Geometric Analysis</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
-                        <p class="black">
-                            <a href="/content/show/43-4024.html" title="Contracting Transport Maps on Curved Spaces" target="_blank">Contracting Transport Maps on Curved Spaces</a>
-                        </p>
-                        <p class="speaker">Speaker(s): Shrey Aryan (Massachusetts Ins...</p>
-                    </dd>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Distinguished substructures of stable fields]]></title>
         <id>https://bicmr.pku.edu.cn/content/show/93-4030.html</id>
@@ -88,6 +71,23 @@
                             <a href="/content/show/52-4029.html" title="Singularity of Harmonic Measure On Poisson-Voronoi Tessellations in Hyperbolic Spaces" target="_blank">Singularity of Harmonic Measure On Poisson-Voronoi Tessellations in Hyperbolic Spaces</a>
                         </p>
                         <p class="speaker">Speaker(s): Kohki Sakamoto (University of ...</p>
+                    </dd>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasse Principle for the Lines on the Intersection of Two Quadrics over Global Function Fields]]></title>
+        <id>https://bicmr.pku.edu.cn/content/show/47-4032.html</id>
+        <link href="https://bicmr.pku.edu.cn/content/show/47-4032.html"/>
+        <updated>2026-10-14T20:52:47.322Z</updated>
+        <content type="html"><![CDATA[<dt>
+                        <span>2026</span>
+                        <p>Oct 16</p>
+                    </dt>
+                                        <dd>
+                        <p><a href="/content/lists/47.html" title="Postdoc Seminar" target="_blank">Postdoc Seminar</a> &nbsp;|&nbsp; <span class="recent">Recent</span></p>
+                        <p class="black">
+                            <a href="/content/show/47-4032.html" title="Hasse Principle for the Lines on the Intersection of Two Quadrics over Global Function Fields" target="_blank">Hasse Principle for the Lines on the Intersection of Two Quadrics over Global Function Fields</a>
+                        </p>
+                        <p class="speaker">Speaker(s): Jie Xu (BICMR)</p>
                     </dd>]]></content>
     </entry>
     <entry>

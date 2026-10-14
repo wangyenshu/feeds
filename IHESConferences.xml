@@ -2,27 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ihes.fr/en/events/#conferences</id>
     <title>IHES Seminars</title>
-    <updated>2026-10-13T21:56:53.135Z</updated>
+    <updated>2026-10-14T20:53:34.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ihes.fr/favicon-32x32.png?v=dLBOl3NO60</icon>
-    <entry>
-        <title type="html"><![CDATA[Horizon flux-balance laws in the multiscale perturbation]]></title>
-        <id>https://indico.math.cnrs.fr/event/17505/</id>
-        <link href="https://indico.math.cnrs.fr/event/17505/"/>
-        <updated>2026-10-05T23:16:43.156Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Wednesday 14 October 2026<br>
-								from 11:00 to 12:15							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Physique Théorique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17505/" target="_blank">Horizon flux-balance laws in the multiscale perturbation</a>
-								</h3>
-								<p><strong> Ali M. Seraj</strong></p>
-							</td>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Doubly Conformal Dispersion Relation]]></title>
         <id>https://indico.math.cnrs.fr/event/17474/</id>
@@ -57,6 +39,24 @@
 									<a href="https://indico.math.cnrs.fr/event/17461/" target="_blank">Finiteness and Density Problems for (Positive) Integral Points on Mordell–Schinzel Surfaces</a>
 								</h3>
 								<p><strong> Robin Zhang</strong></p>
+							</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon flux-balance laws in the multiscale perturbation]]></title>
+        <id>https://indico.math.cnrs.fr/event/17505/</id>
+        <link href="https://indico.math.cnrs.fr/event/17505/"/>
+        <updated>2026-10-05T23:16:43.156Z</updated>
+        <content type="html"><![CDATA[<td class="Agenda-date">
+								Wednesday 14 October 2026<br>
+								from 11:00 to 12:15							</td>
+							<td class="Agenda-sujet">
+								<p><small>
+																		Séminaire de Physique Théorique									</small>
+								</p>
+								<h3 class="Title Title--h3">
+									<a href="https://indico.math.cnrs.fr/event/17505/" target="_blank">Horizon flux-balance laws in the multiscale perturbation</a>
+								</h3>
+								<p><strong> Ali M. Seraj</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
@@ -219,24 +219,6 @@
 									<a href="https://indico.math.cnrs.fr/event/17256/" target="_blank">Proliferation Transitions for Non-Abelian Anyons</a>
 								</h3>
 								<p><strong> Andrea Antinucci</strong></p>
-							</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hodge-Riemann Relations for Vector Bundles]]></title>
-        <id>https://indico.math.cnrs.fr/event/17266/</id>
-        <link href="https://indico.math.cnrs.fr/event/17266/"/>
-        <updated>2026-09-07T10:36:50.147Z</updated>
-        <content type="html"><![CDATA[<td class="Agenda-date">
-								Thursday 24 September 2026<br>
-								from 11:00 to 12:30							</td>
-							<td class="Agenda-sujet">
-								<p><small>
-																		Séminaire de Mathématique									</small>
-								</p>
-								<h3 class="Title Title--h3">
-									<a href="https://indico.math.cnrs.fr/event/17266/" target="_blank">Hodge-Riemann Relations for Vector Bundles</a>
-								</h3>
-								<p><strong> Weizhe Zheng</strong></p>
 							</td>]]></content>
     </entry>
     <entry>
